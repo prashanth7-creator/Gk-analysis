@@ -1,0 +1,362 @@
+EURO 2024 GOALKEEPER ANALYSIS — POWER BI SETUP GUIDE
+=====================================================
+
+STEP 1: IMPORT DATA
+--------------------
+Open Power BI Desktop → Home → Get Data → Text/CSV
+
+Import these 9 files from powerbi/data/:
+  1. gk_performance.csv       — Main table (goalkeepers, rankings)
+  2. zscore_metrics.csv        — Unpivoted z-scores (for matrix heatmap)
+  3. shots_detail.csv          — Shot-level data (for shot maps)
+  4. scoring_weights.csv       — Composite score weights
+  5. gk_passes_detail.csv      — Every GK pass with long/short + coords
+  6. gk_actions_detail.csv     — Every GK action (save/punch/claim) + coords
+  7. long_short_kings.csv      — Long & short ball summary per GK
+  8. gk_pass_heatmap.csv       — Pass destination zones (binned)
+  9. gk_shot_heatmap.csv       — Shot origin zones (binned)
+
+
+STEP 2: DATA TYPES (Power Query Editor)
+-----------------------------------------
+Power BI auto-detects most types. Verify these:
+
+gk_performance:
+  rank                → Whole Number
+  matches_played      → Whole Number
+  shots_faced         → Whole Number
+  saves               → Whole Number
+  goals_conceded      → Whole Number
+  save_pct            → Decimal Number
+  xg_faced            → Decimal Number
+  goals_prevented     → Decimal Number
+  composite_score     → Decimal Number
+  All z_ columns      → Decimal Number
+
+shots_detail:
+  xg                  → Decimal Number
+  shot_x, shot_y      → Decimal Number
+  is_goal, is_save    → Whole Number
+  distance_to_goal    → Decimal Number
+
+gk_passes_detail:
+  pass_length         → Decimal Number
+  start_x/y, end_x/y → Decimal Number
+  is_long, is_short   → Whole Number
+  is_complete         → Whole Number
+
+gk_actions_detail:
+  action_x, action_y  → Decimal Number
+  minute              → Whole Number
+
+long_short_kings:
+  All _per_match cols  → Decimal Number
+  All _accuracy cols   → Decimal Number
+  All _rank cols       → Whole Number
+
+gk_pass_heatmap / gk_shot_heatmap:
+  zone_x, zone_y      → Whole Number
+  All count/avg cols   → Decimal Number
+
+
+STEP 3: RELATIONSHIPS (Model View)
+-------------------------------------
+Create these relationships:
+
+  gk_performance[gk_name]  →  shots_detail[goalkeeper]         (1:Many)
+  gk_performance[gk_name]  →  zscore_metrics[gk_name]          (1:Many)
+  gk_performance[gk_name]  →  gk_passes_detail[gk_name]        (1:Many)
+  gk_performance[gk_name]  →  gk_actions_detail[gk_name]       (1:Many)
+  gk_performance[gk_name]  →  long_short_kings[gk_name]        (1:1)
+  gk_performance[gk_name]  →  gk_pass_heatmap[gk_name]         (1:Many)
+  gk_performance[gk_name]  →  gk_shot_heatmap[gk_name]         (1:Many)
+
+
+STEP 4: CREATE MEASURES
+-------------------------
+Go to each table → New Measure → paste DAX from dax_measures.dax
+Key measures to create first:
+  - Total Goalkeepers, Overall Save %, Total Goals Prevented
+  - Median Save %, Performance Tier
+  - Shot Count, Shot Save %
+  - Long Balls Per Match, Short Balls Per Match
+  - Save Actions, Punch Actions, Claim Actions
+  - Pass Zone Count, Shot Zone Count
+
+
+STEP 5: BUILD REPORT PAGES
+=============================
+
+PAGE 1: OVERVIEW DASHBOARD
+-----------------------------
+  Layout: KPI cards across top, main charts below
+
+  KPI Cards (Card visual):
+    - Total Goalkeepers
+    - Overall Save %
+    - Total Goals Prevented
+    - Total Shots Faced
+
+  Chart 1 — Ranking Bar Chart (Clustered Bar):
+    Y-axis: gk_name (sorted by composite_score desc)
+    X-axis: composite_score
+    Data labels: ON → use "Rank Bar Label" measure
+    Filter: Top N by composite_score (e.g., Top 15)
+
+  Chart 2 — Save % Bar Chart (Clustered Bar):
+    Y-axis: gk_name (sorted by save_pct desc)
+    X-axis: save_pct
+    Conditional formatting: green if >= Median, red if < Median
+    Reference line: Median Save %
+
+  Chart 3 — xG Scatter Plot (Scatter):
+    X-axis: xg_faced
+    Y-axis: goals_conceded
+    Size: matches_played
+    Color: goals_prevented (diverging green-red)
+    Labels: gk_name
+    Add trend line (y=x reference)
+
+
+PAGE 2: Z-SCORE ANALYSIS
+---------------------------
+  Chart 1 — Z-Score Heatmap (Matrix visual):
+    Rows: gk_name
+    Columns: metric (from zscore_metrics)
+    Values: z_score
+    Conditional formatting:
+      Background color → Rules:
+        >= 1.5  → Dark Green (#2e7d32)
+        >= 0.5  → Light Green (#66bb6a)
+        >= -0.5 → Yellow (#ffd600)
+        >= -1.5 → Orange (#ff9800)
+        < -1.5  → Red (#d32f2f)
+      Font color → White for extreme values, Black for middle
+
+  Chart 2 — Overall Z-Score Bar (Clustered Bar):
+    Y-axis: gk_name
+    X-axis: Avg Z-Score (from zscore_metrics)
+    Conditional formatting: green if > 0, red if < 0
+    Sort: by Avg Z-Score descending
+
+
+PAGE 3: INDIVIDUAL GK DEEP DIVE
+----------------------------------
+  *** This is the main player performance page ***
+
+  Add a Slicer (Dropdown):
+    Field: gk_performance[gk_name]
+    Style: Dropdown or List — user picks one GK
+
+  KPI Cards row:
+    - save_pct
+    - goals_prevented
+    - matches_played
+    - composite_score
+    - Performance Tier
+    - Rank Label
+
+  Chart 1 — Shot Map (Scatter chart):
+    Source: shots_detail (filtered by GK slicer)
+    X-axis: shot_y
+    Y-axis: shot_x
+    Color/Legend: outcome
+    Size: xg
+    Tooltip: shooter, shooting_team, xg, danger_zone
+
+  Chart 2 — GK Actions Donut (Donut chart):
+    Source: gk_actions_detail
+    Legend: action_category
+    Values: Count of action_category
+    Colors: Save=Green, Punch=Yellow, Claim=Blue, Sweeper=Cyan
+
+  Chart 3 — GK Actions by Minute (Line or Area chart):
+    Source: gk_actions_detail
+    X-axis: minute
+    Y-axis: Count of rows
+    Legend: action_category
+    Shows when in matches the GK is busiest
+
+  Chart 4 — Actions Location Map (Scatter):
+    Source: gk_actions_detail
+    X-axis: action_y
+    Y-axis: action_x
+    Color: action_category
+    Size: fixed
+    Shows WHERE on the pitch each action happened
+
+  Chart 5 — Save Outcomes Breakdown (Stacked Bar):
+    Source: gk_actions_detail (filtered: action_category = "Save")
+    Y-axis: action_outcome
+    X-axis: Count
+    Shows: how saves were completed (caught, parried, tipped, etc.)
+
+
+PAGE 4: LONG BALL KING
+-------------------------
+  Chart 1 — Long Balls Per Match (Clustered Bar):
+    Source: long_short_kings
+    Y-axis: gk_name (sorted by long_per_match desc)
+    X-axis: long_per_match
+    Data labels: ON
+    Conditional formatting: highlight top 3 in gold
+    Reference line: median
+
+  Chart 2 — Accuracy vs Volume (Scatter):
+    Source: long_short_kings
+    X-axis: long_per_match
+    Y-axis: long_accuracy
+    Size: long_balls
+    Color: avg_long_length (coolwarm gradient)
+    Labels: gk_name
+
+  Chart 3 — Long Ball % of Total (100% Stacked Bar):
+    Source: long_short_kings
+    Y-axis: gk_name
+    Values: long_pct, short_pct
+    Shows style preference for each GK
+
+  KPI Cards:
+    - Long Ball King (top by long_per_match)
+    - Highest Long Accuracy
+    - Avg Long Pass Length
+
+
+PAGE 5: SHORT BALL KING
+--------------------------
+  Chart 1 — Short Passes Per Match (Clustered Bar):
+    Source: long_short_kings
+    Y-axis: gk_name (sorted by short_per_match desc)
+    X-axis: short_per_match
+    Data labels: ON
+    Conditional formatting: highlight top 3 in green
+    Reference line: median
+
+  Chart 2 — Accuracy vs Volume (Scatter):
+    Source: long_short_kings
+    X-axis: short_per_match
+    Y-axis: short_accuracy
+    Size: short_balls
+    Color: avg_short_length (YlGn gradient)
+    Labels: gk_name
+
+  Chart 3 — Pass Style Comparison (Grouped Bar):
+    Source: long_short_kings
+    Y-axis: gk_name
+    Values: long_per_match, short_per_match (side by side)
+    Shows direct long vs short comparison
+
+  KPI Cards:
+    - Short Ball King (top by short_per_match)
+    - Highest Short Accuracy
+    - Avg Short Pass Length
+
+
+PAGE 6: PASS DISTRIBUTION HEATMAP
+------------------------------------
+  Add a Slicer (Dropdown):
+    Field: gk_pass_heatmap[gk_name]
+
+  Chart 1 — Pass Destination Heatmap (Matrix visual):
+    Source: gk_pass_heatmap
+    Rows: zone_y (1-8, represents pitch width)
+    Columns: zone_x (1-12, represents pitch length)
+    Values: pass_count
+    Conditional formatting:
+      Background color → Color scale (white → red/orange → dark red)
+    Tooltip: zone_label, avg_length, accuracy
+
+  Chart 2 — Pass Destination Scatter (Scatter):
+    Source: gk_passes_detail
+    X-axis: end_x
+    Y-axis: end_y
+    Color: is_long (0=short green, 1=long blue)
+    Size: fixed small
+    Shows raw pass end locations on pitch
+
+  Chart 3 — Pass Length Distribution (Histogram/Column):
+    Source: gk_passes_detail
+    X-axis: pass_length (binned into 5m buckets)
+    Y-axis: Count
+    Color: is_complete
+    Shows the distribution shape of pass lengths
+
+  Chart 4 — Pass Accuracy by Zone (Clustered Bar):
+    Source: gk_pass_heatmap
+    Y-axis: zone_label
+    X-axis: accuracy
+    Color: conditional (green >80%, yellow 60-80%, red <60%)
+
+
+PAGE 7: SHOT ZONE HEATMAP
+----------------------------
+  Add a Slicer (Dropdown):
+    Field: gk_shot_heatmap[gk_name]
+
+  Chart 1 — Shot Origin Heatmap (Matrix visual):
+    Source: gk_shot_heatmap
+    Rows: zone_y (1-5, pitch width)
+    Columns: zone_x (1-6, pitch length from halfway)
+    Values: shot_count
+    Conditional formatting:
+      Background → Color scale (white → yellow → orange → red)
+    Tooltip: zone_label, total_xg, goals, saves
+
+  Chart 2 — Danger Zone Breakdown (Clustered Bar):
+    Source: shots_detail
+    Y-axis: danger_zone
+    X-axis: Count
+    Color: outcome (Saved=Green, Goal=Red, Blocked=Yellow)
+    Stacked bar showing outcomes per zone
+
+  Chart 3 — Save Rate by Zone (Gauge or Bar):
+    Source: gk_shot_heatmap
+    Category: zone_label
+    Value: Shot Zone Save Rate measure
+    Shows which zones the GK is strongest/weakest
+
+  Chart 4 — xG by Zone (Treemap):
+    Source: gk_shot_heatmap
+    Category: zone_label
+    Size: total_xg
+    Color: avg_xg (intensity of danger)
+
+
+STEP 6: FORMATTING (WHITE + GREEN THEME)
+------------------------------------------
+  Background: White (#FFFFFF)
+  Text: Dark (#1A1A1A)
+  Accent 1: Green (#2E7D32) — saves, positive metrics
+  Accent 2: Blue (#1A73E8) — long balls, neutral
+  Accent 3: Red (#D32F2F) — goals conceded, negative
+  Accent 4: Amber (#F9A825) — warnings, median lines
+  Accent 5: Cyan (#00ACC1) — sweeper actions
+
+  For pitch background images:
+    Use green (#2E7D32) or import a pitch image as background
+
+  Title font: Segoe UI Semibold, 14pt
+  Body font: Segoe UI, 10pt
+
+
+STEP 7: INTERACTIVITY & DRILL-THROUGH
+-----------------------------------------
+  - Add bookmarks for "Top 5", "Top 10", "All GKs" views
+  - Set drill-through: from any GK bar chart → Individual GK Deep Dive page
+    (right-click on a GK name → drill through to Page 3)
+  - Add cross-filtering between charts on same page
+  - Add tooltip pages:
+    * Mini shot map tooltip (shows when hovering over GK name)
+    * Action breakdown tooltip
+  - Connect the GK slicer across Pages 3, 6, 7 so selecting
+    a GK filters all individual pages at once (sync slicers)
+
+
+STEP 8: OPTIONAL ENHANCEMENTS
+-------------------------------
+  - Install "Radar Chart" custom visual from AppSource
+  - Install "Heatmap" custom visual for better zone rendering
+  - Use Python visual for mplsoccer pitch-based shot maps
+  - Add a "Compare 2 GKs" page with side-by-side slicers
+  - Add match-by-match timeline (filter by match_id)
+  - Export to Power BI Service for sharing

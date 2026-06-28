@@ -1,0 +1,295 @@
+// ============================================================
+// EURO 2024 GOALKEEPER ANALYSIS — DAX MEASURES
+// Import these measures into Power BI after loading the CSV tables
+// ============================================================
+
+
+// ── KPI CARDS ──────────────────────────────────────────────
+
+Total Goalkeepers = COUNTROWS(gk_performance)
+
+Total Shots Faced = SUM(gk_performance[shots_faced])
+
+Total Saves = SUM(gk_performance[saves])
+
+Total Goals Conceded = SUM(gk_performance[goals_conceded])
+
+Overall Save % =
+    DIVIDE(
+        SUM(gk_performance[saves]),
+        SUM(gk_performance[shots_on_target]),
+        0
+    ) * 100
+
+Total Goals Prevented = SUM(gk_performance[goals_prevented])
+
+Avg Composite Score = AVERAGE(gk_performance[composite_score])
+
+
+// ── SAVE PERCENTAGE ────────────────────────────────────────
+
+Median Save % = MEDIAN(gk_performance[save_pct])
+
+Save % Above Median =
+    IF(
+        SELECTEDVALUE(gk_performance[save_pct]) >= [Median Save %],
+        SELECTEDVALUE(gk_performance[save_pct]),
+        BLANK()
+    )
+
+Save % Below Median =
+    IF(
+        SELECTEDVALUE(gk_performance[save_pct]) < [Median Save %],
+        SELECTEDVALUE(gk_performance[save_pct]),
+        BLANK()
+    )
+
+
+// ── XG PREVENTION ──────────────────────────────────────────
+
+xG Prevention Rating =
+    SELECTEDVALUE(gk_performance[xg_faced]) - SELECTEDVALUE(gk_performance[goals_conceded])
+
+Overperformance =
+    IF(
+        [xG Prevention Rating] > 0,
+        "Overperforming",
+        "Underperforming"
+    )
+
+
+// ── SHOTS DETAIL MEASURES ──────────────────────────────────
+
+Shot Count = COUNTROWS(shots_detail)
+
+Goals from Shots = SUM(shots_detail[is_goal])
+
+Saves from Shots = SUM(shots_detail[is_save])
+
+Total xG = SUM(shots_detail[xg])
+
+Shot Save % =
+    DIVIDE(
+        SUM(shots_detail[is_save]),
+        SUM(shots_detail[is_on_target]),
+        0
+    ) * 100
+
+Goals Prevented (Shots) = SUM(shots_detail[xg]) - SUM(shots_detail[is_goal])
+
+
+// ── Z-SCORE MEASURES ───────────────────────────────────────
+
+Avg Z-Score = AVERAGE(zscore_metrics[z_score])
+
+Z-Score Color =
+    SWITCH(
+        TRUE(),
+        SELECTEDVALUE(zscore_metrics[z_score]) >= 1.5, "#2e7d32",
+        SELECTEDVALUE(zscore_metrics[z_score]) >= 0.5, "#66bb6a",
+        SELECTEDVALUE(zscore_metrics[z_score]) >= -0.5, "#ffd600",
+        SELECTEDVALUE(zscore_metrics[z_score]) >= -1.5, "#ff9800",
+        "#d32f2f"
+    )
+
+Weighted Z-Score =
+    SUMX(
+        zscore_metrics,
+        zscore_metrics[z_score] * zscore_metrics[weight]
+    )
+
+
+// ── RANKING MEASURES ───────────────────────────────────────
+
+Rank Label =
+    "#" & SELECTEDVALUE(gk_performance[rank]) & " " & SELECTEDVALUE(gk_performance[gk_name])
+
+Performance Tier =
+    SWITCH(
+        TRUE(),
+        SELECTEDVALUE(gk_performance[composite_score]) >= 0.8, "Elite",
+        SELECTEDVALUE(gk_performance[composite_score]) >= 0.4, "Above Average",
+        SELECTEDVALUE(gk_performance[composite_score]) >= 0, "Average",
+        "Below Average"
+    )
+
+Rank Bar Label =
+    FORMAT(SELECTEDVALUE(gk_performance[composite_score]), "0.000") &
+    "  |  Prev " & FORMAT(SELECTEDVALUE(gk_performance[goals_prevented]), "+0.0;-0.0") &
+    "  |  Sv% " & FORMAT(SELECTEDVALUE(gk_performance[save_pct]), "0") & "%"
+
+
+// ── PER MATCH MEASURES ─────────────────────────────────────
+
+Actions Per Match =
+    SELECTEDVALUE(gk_performance[sweeper_per_match]) +
+    SELECTEDVALUE(gk_performance[claims_per_match]) +
+    SELECTEDVALUE(gk_performance[punches_per_match])
+
+
+// ============================================================
+// INDIVIDUAL PLAYER PERFORMANCE MEASURES (NEW)
+// ============================================================
+
+
+// ── LONG BALL KING ─────────────────────────────────────────
+
+Long Balls Total = SUM(long_short_kings[long_balls])
+
+Long Balls Per Match = SELECTEDVALUE(long_short_kings[long_per_match])
+
+Long Ball Accuracy = SELECTEDVALUE(long_short_kings[long_accuracy])
+
+Long Ball Rank = SELECTEDVALUE(long_short_kings[long_ball_rank])
+
+Long Ball % of Total =
+    DIVIDE(
+        SUM(long_short_kings[long_balls]),
+        SUM(long_short_kings[total_passes]),
+        0
+    ) * 100
+
+Long Ball King Label =
+    SELECTEDVALUE(long_short_kings[gk_name]) & " — " &
+    FORMAT(SELECTEDVALUE(long_short_kings[long_per_match]), "0.0") & "/match  |  " &
+    FORMAT(SELECTEDVALUE(long_short_kings[long_accuracy]), "0") & "% accuracy"
+
+
+// ── SHORT BALL KING ────────────────────────────────────────
+
+Short Balls Total = SUM(long_short_kings[short_balls])
+
+Short Balls Per Match = SELECTEDVALUE(long_short_kings[short_per_match])
+
+Short Ball Accuracy = SELECTEDVALUE(long_short_kings[short_accuracy])
+
+Short Ball Rank = SELECTEDVALUE(long_short_kings[short_ball_rank])
+
+Short Ball % of Total =
+    DIVIDE(
+        SUM(long_short_kings[short_balls]),
+        SUM(long_short_kings[total_passes]),
+        0
+    ) * 100
+
+Short Ball King Label =
+    SELECTEDVALUE(long_short_kings[gk_name]) & " — " &
+    FORMAT(SELECTEDVALUE(long_short_kings[short_per_match]), "0.0") & "/match  |  " &
+    FORMAT(SELECTEDVALUE(long_short_kings[short_accuracy]), "0") & "% accuracy"
+
+
+// ── GK PASSES (for individual pass charts) ─────────────────
+
+Pass Count = COUNTROWS(gk_passes_detail)
+
+Long Pass Count =
+    CALCULATE(COUNTROWS(gk_passes_detail), gk_passes_detail[is_long] = 1)
+
+Short Pass Count =
+    CALCULATE(COUNTROWS(gk_passes_detail), gk_passes_detail[is_short] = 1)
+
+Pass Completion Rate =
+    DIVIDE(
+        CALCULATE(COUNTROWS(gk_passes_detail), gk_passes_detail[is_complete] = 1),
+        COUNTROWS(gk_passes_detail),
+        0
+    ) * 100
+
+Avg Pass Length = AVERAGE(gk_passes_detail[pass_length])
+
+Long Pass Completion % =
+    DIVIDE(
+        CALCULATE(COUNTROWS(gk_passes_detail), gk_passes_detail[is_long] = 1, gk_passes_detail[is_complete] = 1),
+        CALCULATE(COUNTROWS(gk_passes_detail), gk_passes_detail[is_long] = 1),
+        0
+    ) * 100
+
+Short Pass Completion % =
+    DIVIDE(
+        CALCULATE(COUNTROWS(gk_passes_detail), gk_passes_detail[is_short] = 1, gk_passes_detail[is_complete] = 1),
+        CALCULATE(COUNTROWS(gk_passes_detail), gk_passes_detail[is_short] = 1),
+        0
+    ) * 100
+
+
+// ── GK ACTIONS (saves, punches, claims — individual) ───────
+
+Action Count = COUNTROWS(gk_actions_detail)
+
+Save Actions =
+    CALCULATE(COUNTROWS(gk_actions_detail), gk_actions_detail[action_category] = "Save")
+
+Punch Actions =
+    CALCULATE(COUNTROWS(gk_actions_detail), gk_actions_detail[action_category] = "Punch")
+
+Claim Actions =
+    CALCULATE(COUNTROWS(gk_actions_detail), gk_actions_detail[action_category] = "Claim")
+
+Sweeper Actions =
+    CALCULATE(COUNTROWS(gk_actions_detail), gk_actions_detail[action_category] = "Sweeper")
+
+Smother Actions =
+    CALCULATE(COUNTROWS(gk_actions_detail), gk_actions_detail[action_category] = "Smother")
+
+Action Breakdown Label =
+    "Saves: " & [Save Actions] &
+    "  |  Punches: " & [Punch Actions] &
+    "  |  Claims: " & [Claim Actions] &
+    "  |  Sweeper: " & [Sweeper Actions]
+
+
+// ── HEATMAP MEASURES ───────────────────────────────────────
+
+Pass Zone Count = SUM(gk_pass_heatmap[pass_count])
+
+Pass Zone Accuracy =
+    DIVIDE(
+        SUM(gk_pass_heatmap[complete_count]),
+        SUM(gk_pass_heatmap[pass_count]),
+        0
+    ) * 100
+
+Shot Zone Count = SUM(gk_shot_heatmap[shot_count])
+
+Shot Zone xG = SUM(gk_shot_heatmap[total_xg])
+
+Shot Zone Save Rate =
+    DIVIDE(
+        SUM(gk_shot_heatmap[saves]),
+        SUM(gk_shot_heatmap[shot_count]),
+        0
+    ) * 100
+
+Shot Zone Goal Rate =
+    DIVIDE(
+        SUM(gk_shot_heatmap[goals]),
+        SUM(gk_shot_heatmap[shot_count]),
+        0
+    ) * 100
+
+
+// ── INDIVIDUAL PLAYER CARD (combined) ──────────────────────
+
+Player Summary =
+    VAR gk = SELECTEDVALUE(gk_performance[gk_name])
+    VAR sv = SELECTEDVALUE(gk_performance[save_pct])
+    VAR gp = SELECTEDVALUE(gk_performance[goals_prevented])
+    VAR sc = SELECTEDVALUE(gk_performance[composite_score])
+    RETURN
+    gk & "  |  Save%: " & FORMAT(sv, "0.0") &
+    "  |  Prevented: " & FORMAT(gp, "+0.0;-0.0") &
+    "  |  Score: " & FORMAT(sc, "0.000")
+
+Shots Faced Per Match =
+    DIVIDE(
+        SELECTEDVALUE(gk_performance[shots_faced]),
+        SELECTEDVALUE(gk_performance[matches_played]),
+        0
+    )
+
+Saves Per Match =
+    DIVIDE(
+        SELECTEDVALUE(gk_performance[saves]),
+        SELECTEDVALUE(gk_performance[matches_played]),
+        0
+    )

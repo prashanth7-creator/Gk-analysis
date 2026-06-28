@@ -1,0 +1,1341 @@
+match_id,shooter,shooting_team,goalkeeper,xg,outcome,shot_x,shot_y,minute,period,is_goal,is_save,is_on_target,distance_to_goal,danger_zone
+3930166,Pavel Šulc,Czech Republic,Diogo Meireles Costa,0.0605,Blocked,103.0,33.9,3,1,0,0,0,18.061284561182244,Penalty area edge
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jindřich Staněk,0.0544,Off T,108.6,40.1,7,1,0,0,0,11.400438588054413,Penalty area close
+3930166,Nuno Mendes,Portugal,Jindřich Staněk,0.0072,Off T,89.6,25.3,16,1,0,0,0,33.76758800980609,Outside box
+3930166,Rúben Santos Gato Alves Dias,Portugal,Jindřich Staněk,0.0317,Blocked,99.7,52.2,21,1,0,0,0,23.683960817397075,Penalty area edge
+3930166,João Pedro Cavaco Cancelo,Portugal,Jindřich Staněk,0.0283,Blocked,104.7,25.1,22,1,0,0,0,21.356497840235882,Penalty area edge
+3930166,Bruno Miguel Borges Fernandes,Portugal,Jindřich Staněk,0.0056,Blocked,92.6,20.6,23,1,0,0,0,33.57260788202192,Outside box
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jindřich Staněk,0.4917,Saved,109.8,36.7,31,1,0,1,1,10.720541031123386,Penalty area close
+3930166,Vitor Machado Ferreira,Portugal,Jindřich Staněk,0.0372,Saved,96.7,32.6,31,1,0,1,1,24.446881191677598,Penalty area edge
+3930166,Vitor Machado Ferreira,Portugal,Jindřich Staněk,0.1527,Blocked,106.6,35.4,32,1,0,0,0,14.167568598739877,Penalty area close
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jindřich Staněk,0.0786,Saved,107.9,51.7,45,1,0,1,1,16.831518053936787,Penalty area close
+3930166,José Diogo Dalot Teixeira,Portugal,Jindřich Staněk,0.0229,Off T,99.2,55.7,45,2,0,0,0,26.06012279326404,Outside box
+3930166,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Jindřich Staněk,0.0326,Off T,101.9,56.1,51,2,0,0,0,24.22436789681002,Penalty area edge
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jindřich Staněk,0.0914,Blocked,111.8,40.5,54,2,0,0,0,8.215229759416353,6-yard box
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jindřich Staněk,0.0524,Saved,92.3,38.0,57,2,0,1,1,27.77210831031739,Outside box
+3930166,Rafael Alexandre Conceição Leão,Portugal,Jindřich Staněk,0.0086,Blocked,107.9,20.4,59,2,0,0,0,23.034105148670307,Penalty area edge
+3930166,Mojmír Chytil,Czech Republic,Diogo Meireles Costa,0.0403,Wayward,107.6,41.8,61,2,0,0,0,12.529964086141673,Penalty area close
+3930166,Lukáš Provod,Czech Republic,Diogo Meireles Costa,0.0359,Goal,98.3,48.1,61,2,1,0,1,23.162469643800943,Penalty area edge
+3930166,Nuno Mendes,Portugal,Jindřich Staněk,0.0452,Saved,115.0,30.7,68,2,0,1,1,10.558882516630252,Penalty area close
+3930166,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Jindřich Staněk,0.0675,Saved,108.9,25.4,71,2,0,1,1,18.340392580312994,Penalty area edge
+3930166,Vitor Machado Ferreira,Portugal,Jindřich Staněk,0.032,Saved,91.3,35.1,77,2,0,1,1,29.115288080319594,Outside box
+3930166,Bruno Miguel Borges Fernandes,Portugal,Jindřich Staněk,0.0077,Blocked,107.1,16.8,80,2,0,0,0,26.545244395183104,Outside box
+3930166,Petr Ševčík,Czech Republic,Diogo Meireles Costa,0.1126,Blocked,106.1,44.5,80,2,0,0,0,14.610270360263705,Penalty area close
+3930166,Tomáš Souček,Czech Republic,Diogo Meireles Costa,0.0655,Off T,100.6,44.7,80,2,0,0,0,19.961212388028947,Penalty area edge
+3930166,Francisco Fernandes Conceição,Portugal,Jindřich Staněk,0.59,Goal,115.7,36.1,91,2,1,0,1,5.805170109479994,6-yard box
+3930159,Attila Szalai,Hungary,Yann Sommer,0.096,Wayward,110.6,27.7,1,1,0,0,0,15.48063306199072,Penalty area close
+3930159,Roland Sallai,Hungary,Yann Sommer,0.0448,Off T,98.1,48.0,9,1,0,0,0,23.315445524372898,Penalty area edge
+3930159,Kwadwo Duah,Switzerland,Péter Gulácsi,0.3886,Goal,108.4,41.6,11,1,1,0,1,11.709824934643551,Penalty area close
+3930159,Ruben Vargas,Switzerland,Péter Gulácsi,0.4467,Saved,107.1,47.2,19,1,0,1,1,14.773286702694163,Penalty area close
+3930159,Fabian Lukas Schär,Switzerland,Péter Gulácsi,0.0172,Blocked,93.4,51.8,21,1,0,0,0,29.099828178186886,Outside box
+3930159,Fabian Lukas Schär,Switzerland,Péter Gulácsi,0.0533,Blocked,103.4,50.1,28,1,0,0,0,19.431160541768982,Penalty area edge
+3930159,Willi Orban,Hungary,Yann Sommer,0.1436,Saved,111.3,39.9,39,1,0,1,1,8.700574693662485,6-yard box
+3930159,Michel Aebischer,Switzerland,Péter Gulácsi,0.0356,Goal,96.0,34.5,44,1,1,0,1,24.62214450449026,Penalty area edge
+3930159,Kwadwo Duah,Switzerland,Péter Gulácsi,0.0609,Blocked,110.1,51.0,46,2,0,0,0,14.798986451781085,Penalty area close
+3930159,Kwadwo Duah,Switzerland,Péter Gulácsi,0.1089,Saved,105.0,29.0,47,2,0,1,1,18.601075237738275,Penalty area edge
+3930159,Ruben Vargas,Switzerland,Péter Gulácsi,0.1247,Saved,108.6,30.2,53,2,0,1,1,15.033296378372913,Penalty area close
+3930159,Dan Ndoye,Switzerland,Péter Gulácsi,0.0316,Off T,96.4,50.9,57,2,0,0,0,25.995576546789643,Outside box
+3930159,Barnabás Varga,Hungary,Yann Sommer,0.1546,Off T,111.8,42.5,62,2,0,0,0,8.57263086805912,6-yard box
+3930159,Barnabás Varga,Hungary,Yann Sommer,0.5797,Goal,115.5,42.1,65,2,1,0,1,4.965883607174056,6-yard box
+3930159,Roland Sallai,Hungary,Yann Sommer,0.0841,Blocked,104.9,35.6,68,2,0,0,0,15.728000508646984,Penalty area close
+3930159,Dan Ndoye,Switzerland,Péter Gulácsi,0.0527,Blocked,108.7,25.6,70,2,0,0,0,18.30437106267243,Penalty area edge
+3930159,Fabian Lukas Schär,Switzerland,Péter Gulácsi,0.1198,Off T,113.3,42.4,71,2,0,0,0,7.116881339463236,6-yard box
+3930159,Dan Ndoye,Switzerland,Péter Gulácsi,0.1483,Off T,105.0,49.0,82,2,0,0,0,17.4928556845359,Penalty area close
+3930159,Vincent Sierro,Switzerland,Péter Gulácsi,0.0205,Blocked,91.4,28.3,88,2,0,0,0,30.900647242412248,Outside box
+3930159,Granit Xhaka,Switzerland,Péter Gulácsi,0.0442,Saved,116.5,49.9,89,2,0,1,1,10.500476179678708,Penalty area close
+3930159,Breel-Donald Embolo,Switzerland,Péter Gulácsi,0.4427,Goal,104.3,41.5,92,2,1,0,1,15.771493271088826,Penalty area close
+3930163,Jude Bellingham,England,Predrag Rajković,0.2891,Goal,113.4,39.5,12,1,1,0,1,6.618912297349159,6-yard box
+3930163,Trent Alexander-Arnold,England,Predrag Rajković,0.0258,Off T,95.8,51.0,18,1,0,0,0,26.58270114190806,Outside box
+3930163,Aleksandar Mitrović,Serbia,Jordan Pickford,0.0955,Off T,103.0,47.3,19,1,0,0,0,18.501081049495458,Penalty area edge
+3930163,Dušan Vlahović,Serbia,Jordan Pickford,0.0372,Blocked,98.9,46.6,22,1,0,0,0,22.108143296079835,Penalty area edge
+3930163,Trent Alexander-Arnold,England,Predrag Rajković,0.0535,Blocked,92.2,46.3,29,1,0,0,0,28.504911857432568,Outside box
+3930163,Trent Alexander-Arnold,England,Predrag Rajković,0.023,Saved,90.8,50.6,55,2,0,1,1,31.064449134018137,Outside box
+3930163,Harry Kane,England,Predrag Rajković,0.1673,Saved to Post,114.8,36.2,76,2,0,0,0,6.440496875241848,6-yard box
+3930163,Dušan Vlahović,Serbia,Jordan Pickford,0.0452,Saved,96.9,32.1,81,2,0,1,1,24.413520843991343,Penalty area edge
+3930163,Veljko Birmančević,Serbia,Jordan Pickford,0.0332,Blocked,98.1,35.4,82,2,0,0,0,22.37789087470042,Penalty area edge
+3930163,Sergej Milinković-Savić,Serbia,Jordan Pickford,0.0154,Off T,89.8,27.7,88,2,0,0,0,32.608741159388536,Outside box
+3930163,Ivan Ilić,Serbia,Jordan Pickford,0.0229,Blocked,90.5,30.5,92,2,0,0,0,30.99193443462347,Outside box
+3930181,Benjamin Šeško,Slovenia,Jordan Pickford,0.0689,Saved,108.3,38.4,4,1,0,1,1,11.808894952534724,Penalty area close
+3930181,Andraž Šporar,Slovenia,Jordan Pickford,0.0427,Saved Off Target,95.3,42.9,18,1,0,0,0,24.86966023089178,Penalty area edge
+3930181,Harry Kane,England,Jan Oblak,0.0428,Blocked,102.6,38.8,29,1,0,0,0,17.441330224498365,Penalty area close
+3930181,Harry Kane,England,Jan Oblak,0.028,Blocked,107.8,35.8,30,1,0,0,0,12.902712893031453,Penalty area close
+3930181,Harry Kane,England,Jan Oblak,0.02,Saved,98.9,22.2,30,1,0,1,1,27.60525312327347,Outside box
+3930181,Andraž Šporar,Slovenia,Jordan Pickford,0.0254,Blocked,92.8,35.5,31,1,0,0,0,27.569729777420747,Outside box
+3930181,Phil Foden,England,Jan Oblak,0.0212,Saved,89.4,52.7,34,1,0,1,1,33.13080137877742,Outside box
+3930181,Harry Kane,England,Jan Oblak,0.3953,Off T,115.7,43.3,39,1,0,0,0,5.420332093147057,6-yard box
+3930181,Harry Kane,England,Jan Oblak,0.0226,Blocked,89.8,50.8,42,1,0,0,0,32.073041639358124,Outside box
+3930181,Phil Foden,England,Jan Oblak,0.0115,Off T,88.6,43.7,50,2,0,0,0,31.617242131469983,Outside box
+3930181,John Stones,England,Jan Oblak,0.0716,Blocked,112.0,40.9,57,2,0,0,0,8.050465825031493,6-yard box
+3930181,Adam Gnezda Čerin,Slovenia,Jordan Pickford,0.0279,Off T,92.3,51.6,62,2,0,0,0,30.03081750469008,Outside box
+3930181,Declan Rice,England,Jan Oblak,0.0351,Off T,106.7,23.3,74,2,0,0,0,21.34900466063933,Penalty area edge
+3930181,Phil Foden,England,Jan Oblak,0.0383,Blocked,97.7,32.1,82,2,0,0,0,23.657979626333265,Penalty area edge
+3930181,Cole Palmer,England,Jan Oblak,0.0473,Saved,103.2,55.2,91,2,0,1,1,22.655683613610073,Penalty area edge
+3930181,Trent Alexander-Arnold,England,Jan Oblak,0.0224,Off T,90.1,44.8,93,2,0,0,0,30.28283342093339,Outside box
+3930178,Luka Sučić,Croatia,Gianluigi Donnarumma,0.0215,Saved,91.7,51.0,4,1,0,1,1,30.36264151881387,Outside box
+3930178,Lorenzo Pellegrini,Italy,Dominik Livaković,0.0406,Off T,103.9,30.6,10,1,0,0,0,18.64322933399683,Penalty area edge
+3930178,Mateo Retegui,Italy,Dominik Livaković,0.1148,Blocked,113.2,41.4,20,1,0,0,0,6.942621983083909,6-yard box
+3930178,Mateo Retegui,Italy,Dominik Livaković,0.0504,Blocked,106.2,36.1,21,1,0,0,0,14.34050208326054,Penalty area close
+3930178,Mateo Retegui,Italy,Dominik Livaković,0.0253,Blocked,111.3,25.7,25,1,0,0,0,16.738578195294846,Penalty area close
+3930178,Alessandro Bastoni,Italy,Dominik Livaković,0.1432,Saved,113.0,33.8,26,1,0,1,1,9.350935782048769,6-yard box
+3930178,Luka Modrić,Croatia,Gianluigi Donnarumma,0.0201,Blocked,99.8,54.3,30,1,0,0,0,24.74934342563455,Penalty area edge
+3930178,Lorenzo Pellegrini,Italy,Dominik Livaković,0.0276,Saved,103.4,27.1,35,1,0,1,1,21.023082552280478,Penalty area edge
+3930178,Andrej Kramarić,Croatia,Gianluigi Donnarumma,0.0243,Blocked,107.2,26.5,51,2,0,0,0,18.603494295427403,Penalty area edge
+3930178,Luka Modrić,Croatia,Gianluigi Donnarumma,0.7835,Saved,108.0,40.0,53,2,0,1,1,12.0,Penalty area close
+3930178,Ante Budimir,Croatia,Gianluigi Donnarumma,0.1486,Saved,111.3,40.9,54,2,0,1,1,8.746427842267954,6-yard box
+3930178,Luka Modrić,Croatia,Gianluigi Donnarumma,0.4853,Goal,114.9,35.5,54,2,1,0,1,6.801470429252776,6-yard box
+3930178,Davide Frattesi,Italy,Dominik Livaković,0.0535,Blocked,107.5,29.9,56,2,0,0,0,16.070469812671938,Penalty area close
+3930178,Alessandro Bastoni,Italy,Dominik Livaković,0.1692,Off T,114.2,42.9,60,2,0,0,0,6.484597134749387,6-yard box
+3930178,Matteo Darmian,Italy,Dominik Livaković,0.0552,Blocked,112.1,28.1,66,2,0,0,0,14.283556979968262,Penalty area close
+3930178,Giacomo Raspadori,Italy,Dominik Livaković,0.066,Blocked,94.2,44.2,71,2,0,0,0,26.139625092950354,Outside box
+3930178,Giovanni Di Lorenzo,Italy,Dominik Livaković,0.1153,Blocked,114.6,34.8,72,2,0,0,0,7.496665925596531,6-yard box
+3930178,Gianluca Scamacca,Italy,Dominik Livaković,0.0137,Blocked,87.8,29.5,91,2,0,0,0,33.86871712952825,Outside box
+3930178,Mattia Zaccagni,Italy,Dominik Livaković,0.1107,Goal,103.4,28.0,97,2,1,0,1,20.483163818121454,Penalty area edge
+3930160,Álvaro Borja Morata Martín,Spain,Dominik Livaković,0.0537,Saved,98.8,47.5,6,1,0,1,1,22.487552112224222,Penalty area edge
+3930160,Lamine Yamal Nasraoui Ebana,Spain,Dominik Livaković,0.0481,Saved Off Target,106.5,49.9,14,1,0,0,0,16.740967713964448,Penalty area close
+3930160,Ante Budimir,Croatia,Unai Simón Mendibil,0.0489,Off T,107.7,39.3,21,1,0,0,0,12.319902597017556,Penalty area close
+3930160,Álvaro Borja Morata Martín,Spain,Dominik Livaković,0.4253,Goal,104.1,39.9,28,1,1,0,1,15.900314462299171,Penalty area close
+3930160,Mateo Kovačić,Croatia,Unai Simón Mendibil,0.0638,Saved,102.8,38.7,29,1,0,1,1,17.24905794529081,Penalty area close
+3930160,Fabián Ruiz Peña,Spain,Dominik Livaković,0.0561,Goal,103.9,38.7,31,1,1,0,1,16.152399202595255,Penalty area close
+3930160,Marcelo Brozović,Croatia,Unai Simón Mendibil,0.0778,Saved,101.8,40.2,32,1,0,1,1,18.201098867925534,Penalty area edge
+3930160,Lovro Majer,Croatia,Unai Simón Mendibil,0.1065,Off T,116.5,50.1,32,1,0,0,0,10.689246933250258,Penalty area close
+3930160,Robin Aime Robert Le Normand,Spain,Dominik Livaković,0.1084,Blocked,114.2,35.6,35,1,0,0,0,7.280109889280515,6-yard box
+3930160,Joško Gvardiol,Croatia,Unai Simón Mendibil,0.0504,Off T,114.0,27.5,40,1,0,0,0,13.865424623862047,Penalty area close
+3930160,Andrej Kramarić,Croatia,Unai Simón Mendibil,0.0132,Off T,86.3,47.4,44,1,0,0,0,34.50289842897261,Outside box
+3930160,Mateo Kovačić,Croatia,Unai Simón Mendibil,0.0191,Off T,91.0,30.4,45,1,0,0,0,30.54766766874355,Outside box
+3930160,Daniel Carvajal Ramos,Spain,Dominik Livaković,0.301,Goal,112.7,42.4,46,1,1,0,1,7.684399781375247,6-yard box
+3930160,Joško Gvardiol,Croatia,Unai Simón Mendibil,0.0184,Blocked,101.2,24.0,50,2,0,0,0,24.686838598735154,Penalty area edge
+3930160,Lamine Yamal Nasraoui Ebana,Spain,Dominik Livaković,0.2817,Saved,108.6,48.3,51,2,0,1,1,14.101418368376994,Penalty area close
+3930160,Álvaro Borja Morata Martín,Spain,Dominik Livaković,0.2104,Wayward,117.4,34.5,53,2,0,0,0,6.08358446970205,6-yard box
+3930160,Josip Stanišić,Croatia,Unai Simón Mendibil,0.2229,Blocked,111.9,47.8,54,2,0,0,0,11.244998888394782,Penalty area close
+3930160,Ante Budimir,Croatia,Unai Simón Mendibil,0.206,Blocked,117.0,37.0,54,2,0,0,0,4.242640687119285,6-yard box
+3930160,Andrej Kramarić,Croatia,Unai Simón Mendibil,0.7104,Saved,118.4,40.0,54,2,0,1,1,1.5999999999999943,6-yard box
+3930160,Mateo Kovačić,Croatia,Unai Simón Mendibil,0.0999,Wayward,115.1,34.4,54,2,0,0,0,7.44110206891426,6-yard box
+3930160,Lamine Yamal Nasraoui Ebana,Spain,Dominik Livaković,0.0423,Blocked,91.3,45.4,57,2,0,0,0,29.203595669026786,Outside box
+3930160,Daniel Olmo Carvajal,Spain,Dominik Livaković,0.0274,Blocked,93.9,39.0,73,2,0,0,0,26.119150062741316,Outside box
+3930160,Bruno Petković,Croatia,Unai Simón Mendibil,0.7835,Saved,108.0,40.0,79,2,0,1,1,12.0,Penalty area close
+3930160,Ivan Perišić,Croatia,Unai Simón Mendibil,0.0353,Blocked,101.4,28.7,83,2,0,0,0,21.763501556505098,Penalty area edge
+3930160,Ivan Perišić,Croatia,Unai Simón Mendibil,0.0069,Saved,87.3,24.7,83,2,0,1,1,36.10235449385539,Outside box
+3930160,Ferrán Torres García,Spain,Dominik Livaković,0.0127,Blocked,109.6,57.8,87,2,0,0,0,20.615528128088304,Penalty area edge
+3930160,Ivan Perišić,Croatia,Unai Simón Mendibil,0.0191,Off T,107.8,27.5,91,2,0,0,0,17.46682569902156,Penalty area close
+3930170,Adam Gnezda Čerin,Slovenia,Predrag Rajković,0.0414,Saved,95.6,49.4,3,1,0,1,1,26.14804007951648,Outside box
+3930170,Jan Mlakar,Slovenia,Predrag Rajković,0.1448,Saved,109.1,51.7,7,1,0,1,1,15.990622251807471,Penalty area close
+3930170,Andraž Šporar,Slovenia,Predrag Rajković,0.0704,Blocked,108.8,42.9,19,1,0,0,0,11.569356075426153,Penalty area close
+3930170,Timi Elšnik,Slovenia,Predrag Rajković,0.023,Blocked,90.1,41.2,20,1,0,0,0,29.9240705787164,Outside box
+3930170,Dušan Vlahović,Serbia,Jan Oblak,0.0683,Saved,111.0,34.9,26,1,0,1,1,10.344563789740002,Penalty area close
+3930170,Jan Mlakar,Slovenia,Predrag Rajković,0.02,Wayward,102.6,25.2,36,1,0,0,0,22.842942017174586,Penalty area edge
+3930170,Timi Elšnik,Slovenia,Predrag Rajković,0.1616,Post,105.7,50.3,37,1,0,0,0,17.62328005792338,Penalty area close
+3930170,Andraž Šporar,Slovenia,Predrag Rajković,0.4592,Wayward,110.6,38.9,37,1,0,0,0,9.46414285606468,6-yard box
+3930170,Benjamin Šeško,Slovenia,Predrag Rajković,0.2385,Off T,109.6,35.3,37,1,0,0,0,11.412712210513334,Penalty area close
+3930170,Dušan Vlahović,Serbia,Jan Oblak,0.0424,Blocked,92.3,31.2,38,1,0,0,0,29.064239195272258,Outside box
+3930170,Dušan Vlahović,Serbia,Jan Oblak,0.0166,Blocked,95.6,30.9,38,1,0,0,0,26.041697333315284,Outside box
+3930170,Aleksandar Mitrović,Serbia,Jan Oblak,0.2972,Saved,116.5,33.3,41,1,0,1,1,7.559100475585705,6-yard box
+3930170,Saša Lukić,Serbia,Jan Oblak,0.0881,Blocked,103.2,33.6,42,1,0,0,0,17.977764043395382,Penalty area close
+3930170,Petar Stojanović,Slovenia,Predrag Rajković,0.0232,Blocked,94.5,52.5,43,1,0,0,0,28.398943642325854,Outside box
+3930170,Aleksandar Mitrović,Serbia,Jan Oblak,0.0519,Off T,113.6,32.8,45,1,0,0,0,9.633275663033842,6-yard box
+3930170,Aleksandar Mitrović,Serbia,Jan Oblak,0.2402,Saved,112.9,50.7,46,2,0,1,1,12.841339493993607,Penalty area close
+3930170,Aleksandar Mitrović,Serbia,Jan Oblak,0.068,Blocked,110.2,38.0,49,2,0,0,0,10.001999800039988,Penalty area close
+3930170,Benjamin Šeško,Slovenia,Predrag Rajković,0.0218,Saved,96.0,23.6,57,2,0,1,1,29.06819567843866,Outside box
+3930170,Aleksandar Mitrović,Serbia,Jan Oblak,0.0585,Off T,102.7,50.4,64,2,0,0,0,20.185390756683407,Penalty area edge
+3930170,Žan Karničnik,Slovenia,Predrag Rajković,0.3383,Goal,114.1,44.7,68,2,1,0,1,7.54320886625845,6-yard box
+3930170,Aleksandar Mitrović,Serbia,Jan Oblak,0.1834,Post,113.4,38.4,71,2,0,0,0,6.7911707385398525,6-yard box
+3930170,Sergej Milinković-Savić,Serbia,Jan Oblak,0.095,Blocked,112.9,36.9,74,2,0,0,0,7.747257579298621,6-yard box
+3930170,Žan Karničnik,Slovenia,Predrag Rajković,0.01,Off T,96.9,58.1,78,2,0,0,0,29.346550052774514,Outside box
+3930170,Lazar Samardžić,Serbia,Jan Oblak,0.0492,Off T,101.2,28.3,82,2,0,0,0,22.14339630679991,Penalty area edge
+3930170,Ivan Ilić,Serbia,Jan Oblak,0.0279,Blocked,99.1,30.7,85,2,0,0,0,22.875751353780714,Penalty area edge
+3930170,Mijat Gaćinović,Serbia,Jan Oblak,0.0329,Blocked,104.4,43.9,94,2,0,0,0,16.08011193990887,Penalty area close
+3930170,Luka Jović,Serbia,Jan Oblak,0.1417,Goal,114.6,40.3,94,2,1,0,1,5.40832691319599,6-yard box
+3938643,Piotr Zieliński,Poland,Mike Maignan,0.0218,Saved,93.9,38.9,5,1,0,1,1,26.123169792351,Outside box
+3938643,Theo Bernard François Hernández,France,Łukasz Skorupski,0.0828,Saved,112.6,27.2,10,1,0,1,1,14.78512766262098,Penalty area close
+3938643,Sebastian Szymański,Poland,Mike Maignan,0.0542,Blocked,104.2,25.1,13,1,0,0,0,21.717504460687923,Penalty area edge
+3938643,Kacper Urbanski,Poland,Mike Maignan,0.0696,Saved,106.1,38.3,14,1,0,1,1,14.003570973148248,Penalty area close
+3938643,Jakub Moder,Poland,Mike Maignan,0.0165,Off T,89.7,27.9,16,1,0,0,0,32.6266762021509,Outside box
+3938643,Ousmane Dembélé,France,Łukasz Skorupski,0.2453,Saved,111.9,50.0,18,1,0,1,1,12.868954891520907,Penalty area close
+3938643,Robert Lewandowski,Poland,Mike Maignan,0.0824,Off T,109.8,43.8,33,1,0,0,0,10.884851859350224,Penalty area close
+3938643,Aurélien Djani Tchouaméni,France,Łukasz Skorupski,0.0135,Blocked,87.3,30.0,35,1,0,0,0,34.194882658082044,Outside box
+3938643,Aurélien Djani Tchouaméni,France,Łukasz Skorupski,0.0507,Blocked,99.1,41.7,37,1,0,0,0,20.969024774652734,Penalty area edge
+3938643,William Saliba,France,Łukasz Skorupski,0.0463,Off T,107.3,39.0,37,1,0,0,0,12.739309243440166,Penalty area close
+3938643,Robert Lewandowski,Poland,Mike Maignan,0.0174,Wayward,87.5,38.4,38,1,0,0,0,32.53936078044558,Outside box
+3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,0.119,Saved,115.6,29.2,41,1,0,1,1,11.661903789690603,Penalty area close
+3938643,Dayotchanculle Upamecano,France,Łukasz Skorupski,0.092,Off T,112.3,37.3,41,1,0,0,0,8.159656855530143,6-yard box
+3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,0.0333,Saved,117.6,29.5,44,1,0,1,1,10.770793842609747,Penalty area close
+3938643,N'Golo Kanté,France,Łukasz Skorupski,0.0664,Blocked,100.2,42.3,47,2,0,0,0,19.933138237618277,Penalty area edge
+3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,0.0335,Saved,103.5,23.3,48,2,0,1,1,23.476371099469354,Penalty area edge
+3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,0.03,Off T,100.0,24.9,48,2,0,0,0,25.060127693210184,Outside box
+3938643,Ousmane Dembélé,France,Łukasz Skorupski,0.0069,Blocked,105.4,60.0,50,2,0,0,0,24.762067765031254,Penalty area edge
+3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,0.7835,Goal,108.1,40.1,55,2,1,0,1,11.900420160649796,Penalty area close
+3938643,Bradley Barcola,France,Łukasz Skorupski,0.0196,Saved,116.6,27.4,58,2,0,1,1,13.050670480860363,Penalty area close
+3938643,Antoine Griezmann,France,Łukasz Skorupski,0.0441,Blocked,95.3,45.7,65,2,0,0,0,25.349161721840037,Outside box
+3938643,Robert Lewandowski,Poland,Mike Maignan,0.0239,Off T,92.6,31.8,71,2,0,0,0,28.60069929215019,Outside box
+3938643,Robert Lewandowski,Poland,Mike Maignan,0.7835,Goal,108.0,40.0,78,2,1,0,1,12.0,Penalty area close
+3938643,Robert Lewandowski,Poland,Mike Maignan,0.082,Off T,108.7,26.8,81,2,0,0,0,17.376133056580798,Penalty area close
+3938643,Kacper Urbanski,Poland,Mike Maignan,0.0278,Blocked,95.5,32.7,83,2,0,0,0,25.564428411368795,Outside box
+3938643,Olivier Giroud,France,Łukasz Skorupski,0.102,Blocked,107.7,41.7,84,2,0,0,0,12.416923934694935,Penalty area close
+3938643,Olivier Giroud,France,Łukasz Skorupski,0.0549,Blocked,110.2,38.3,86,2,0,0,0,9.946356116689165,6-yard box
+3938643,Youssouf Fofana,France,Łukasz Skorupski,0.023,Blocked,94.4,28.8,86,2,0,0,0,27.942798714516762,Outside box
+3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,0.0444,Saved,100.9,29.8,91,2,0,1,1,21.652944372532797,Penalty area edge
+3938641,Stefan Posch,Austria,Wojciech Szczęsny,0.0058,Saved,81.5,42.0,1,1,0,1,1,38.55191305240247,Outside box
+3938641,Gernot Trauner,Austria,Wojciech Szczęsny,0.1261,Goal,115.0,33.0,8,1,1,0,1,8.602325267042627,6-yard box
+3938641,Marcel Sabitzer,Austria,Wojciech Szczęsny,0.113,Blocked,107.5,45.2,9,1,0,0,0,13.538463723776049,Penalty area close
+3938641,Marcel Sabitzer,Austria,Wojciech Szczęsny,0.0666,Saved,105.5,38.4,16,1,0,1,1,14.588008774332431,Penalty area close
+3938641,Piotr Zieliński,Poland,Patrick Pentz,0.113,Blocked,104.5,43.5,16,1,0,0,0,15.890248582070704,Penalty area close
+3938641,Nicola Zalewski,Poland,Patrick Pentz,0.0991,Off T,106.7,29.1,17,1,0,0,0,17.195929750961415,Penalty area close
+3938641,Piotr Zieliński,Poland,Patrick Pentz,0.0345,Blocked,97.3,46.3,23,1,0,0,0,23.558013498595336,Penalty area edge
+3938641,Piotr Zieliński,Poland,Patrick Pentz,0.074,Blocked,99.4,38.0,26,1,0,0,0,20.696859665176255,Penalty area edge
+3938641,Jan Bednarek,Poland,Patrick Pentz,0.2037,Blocked,108.9,40.0,29,1,0,0,0,11.099999999999994,Penalty area close
+3938641,Krzysztof Piątek,Poland,Patrick Pentz,0.4451,Goal,113.8,41.6,29,1,1,0,1,6.403124237432851,6-yard box
+3938641,Marcel Sabitzer,Austria,Wojciech Szczęsny,0.1358,Blocked,106.9,32.0,38,1,0,0,0,15.349592828475934,Penalty area close
+3938641,Marcel Sabitzer,Austria,Wojciech Szczęsny,0.0205,Off T,90.9,36.1,41,1,0,0,0,29.360177111182413,Outside box
+3938641,Piotr Zieliński,Poland,Patrick Pentz,0.0425,Saved,91.6,47.5,45,1,0,1,1,29.373627627516495,Outside box
+3938641,Jakub Piotrowski,Poland,Patrick Pentz,0.0478,Blocked,110.1,38.8,46,1,0,0,0,9.972462083156804,6-yard box
+3938641,Stefan Posch,Austria,Wojciech Szczęsny,0.0273,Blocked,94.0,47.8,48,2,0,0,0,27.14479692316743,Outside box
+3938641,Stefan Posch,Austria,Wojciech Szczęsny,0.0622,Saved,111.5,37.6,50,2,0,1,1,8.832326986700616,6-yard box
+3938641,Krzysztof Piątek,Poland,Patrick Pentz,0.0448,Off T,95.3,42.6,51,2,0,0,0,24.836465126905644,Penalty area edge
+3938641,Marcel Sabitzer,Austria,Wojciech Szczęsny,0.038,Blocked,103.6,26.7,54,2,0,0,0,21.11516043036378,Penalty area edge
+3938641,Adam Buksa,Poland,Patrick Pentz,0.0174,Blocked,103.9,42.4,56,2,0,0,0,16.27789912734441,Penalty area close
+3938641,Piotr Zieliński,Poland,Patrick Pentz,0.0401,Blocked,96.8,24.1,59,2,0,0,0,28.125611104472025,Outside box
+3938641,Paweł Dawidowicz,Poland,Patrick Pentz,0.0684,Off T,113.0,47.4,60,2,0,0,0,10.186265262597473,Penalty area close
+3938641,Christoph Baumgartner,Austria,Wojciech Szczęsny,0.1424,Goal,102.5,36.3,65,2,1,0,1,17.886866690396058,Penalty area close
+3938641,Karol Świderski,Poland,Patrick Pentz,0.0729,Saved,99.6,33.0,68,2,0,1,1,21.567568244936663,Penalty area edge
+3938641,Patrick Wimmer,Austria,Wojciech Szczęsny,0.0625,Saved,103.1,44.4,74,2,0,1,1,17.463390277950047,Penalty area close
+3938641,Nicolas Seiwald,Austria,Wojciech Szczęsny,0.0339,Saved,95.9,35.7,75,2,0,1,1,24.480604567698073,Penalty area edge
+3938641,Marko Arnautović,Austria,Wojciech Szczęsny,0.7835,Goal,108.0,40.0,77,2,1,0,1,12.0,Penalty area close
+3938641,Stefan Posch,Austria,Wojciech Szczęsny,0.0405,Saved,97.6,49.9,82,2,0,1,1,24.49020212248156,Penalty area edge
+3938641,Konrad Laimer,Austria,Wojciech Szczęsny,0.1634,Off T,115.2,28.3,84,2,0,0,0,12.646343345014794,Penalty area close
+3938641,Piotr Zieliński,Poland,Patrick Pentz,0.0144,Off T,91.4,48.8,86,2,0,0,0,29.92323511921797,Outside box
+3938641,Kamil Grosicki,Poland,Patrick Pentz,0.1203,Off T,112.7,32.9,92,2,0,0,0,10.183319694480772,Penalty area close
+3938642,Adam Hložek,Czech Republic,Giorgi Mamardashvili,0.1179,Saved,110.7,30.3,2,1,0,1,1,13.438005804433928,Penalty area close
+3938642,Ladislav Krejčí,Czech Republic,Giorgi Mamardashvili,0.0393,Blocked,108.9,32.4,2,1,0,0,0,13.452509059651286,Penalty area close
+3938642,Patrik Schick,Czech Republic,Giorgi Mamardashvili,0.155,Saved,112.8,46.4,2,1,0,1,1,9.633275663033837,6-yard box
+3938642,Patrik Schick,Czech Republic,Giorgi Mamardashvili,0.0259,Saved,105.6,41.2,3,1,0,1,1,14.44991349455076,Penalty area close
+3938642,Václav Černý,Czech Republic,Giorgi Mamardashvili,0.0302,Blocked,99.6,52.7,7,1,0,0,0,24.030189345904045,Penalty area edge
+3938642,Patrik Schick,Czech Republic,Giorgi Mamardashvili,0.0438,Blocked,102.2,37.3,7,1,0,0,0,18.00361074895811,Penalty area edge
+3938642,Lukáš Provod,Czech Republic,Giorgi Mamardashvili,0.0293,Blocked,93.5,44.0,12,1,0,0,0,26.800186566514792,Outside box
+3938642,Patrik Schick,Czech Republic,Giorgi Mamardashvili,0.0853,Wayward,112.2,42.3,14,1,0,0,0,8.132035415564786,6-yard box
+3938642,Ladislav Krejčí,Czech Republic,Giorgi Mamardashvili,0.0419,Wayward,108.5,42.3,22,1,0,0,0,11.727744881263405,Penalty area close
+3938642,Adam Hložek,Czech Republic,Giorgi Mamardashvili,0.2912,Saved,113.9,35.8,22,1,0,1,1,7.406078584514207,6-yard box
+3938642,Václav Černý,Czech Republic,Giorgi Mamardashvili,0.5315,Saved,113.6,43.0,26,1,0,1,1,7.068238818828922,6-yard box
+3938642,Adam Hložek,Czech Republic,Giorgi Mamardashvili,0.0479,Saved,101.1,27.1,28,1,0,1,1,22.88274459062986,Penalty area edge
+3938642,Otar Kakabadze,Georgia,Jindřich Staněk,0.013,Blocked,101.1,56.3,33,1,0,0,0,24.95796466060484,Penalty area edge
+3938642,Georges Mikautadze,Georgia,Jindřich Staněk,0.7835,Goal,108.1,40.1,48,1,1,0,1,11.900420160649796,Penalty area close
+3938642,Patrik Schick,Czech Republic,Giorgi Mamardashvili,0.117,Saved,104.6,39.9,49,1,0,1,1,15.400324671902219,Penalty area close
+3938642,Patrik Schick,Czech Republic,Giorgi Mamardashvili,0.0473,Wayward,109.3,41.0,50,2,0,0,0,10.746627377926531,Penalty area close
+3938642,Ondřej Lingr,Czech Republic,Giorgi Mamardashvili,0.0223,Blocked,115.5,52.2,56,2,0,0,0,13.0034610777285,Penalty area close
+3938642,David Jurásek,Czech Republic,Giorgi Mamardashvili,0.0385,Wayward,99.7,31.4,56,2,0,0,0,22.046541678911908,Penalty area edge
+3938642,Anzor Mekvabishvili,Georgia,Jindřich Staněk,0.0535,Off T,102.9,34.8,56,2,0,0,0,17.873164241398328,Penalty area close
+3938642,Ondřej Lingr,Czech Republic,Giorgi Mamardashvili,0.1681,Post,115.1,44.1,58,2,0,0,0,6.38905313798532,6-yard box
+3938642,Patrik Schick,Czech Republic,Giorgi Mamardashvili,0.719,Goal,117.7,36.5,58,2,1,0,1,4.188078318274383,6-yard box
+3938642,Ladislav Krejčí,Czech Republic,Giorgi Mamardashvili,0.0597,Off T,111.4,44.7,61,2,0,0,0,9.80051019080129,6-yard box
+3938642,Matěj Jurásek,Czech Republic,Giorgi Mamardashvili,0.0359,Saved,95.4,44.6,65,2,0,1,1,25.026386075500387,Outside box
+3938642,Khvicha Kvaratskhelia,Georgia,Jindřich Staněk,0.0235,Off T,91.7,36.6,70,2,0,0,0,28.503508555965524,Outside box
+3938642,Ladislav Krejčí,Czech Republic,Giorgi Mamardashvili,0.0057,Blocked,82.5,28.6,71,2,0,0,0,39.194514922371475,Outside box
+3938642,David Jurásek,Czech Republic,Giorgi Mamardashvili,0.0239,Off T,91.8,35.6,71,2,0,0,0,28.54119829299394,Outside box
+3938642,Mojmír Chytil,Czech Republic,Giorgi Mamardashvili,0.0663,Off T,112.8,32.5,76,2,0,0,0,10.396634070698076,Penalty area close
+3938642,Ondřej Lingr,Czech Republic,Giorgi Mamardashvili,0.0668,Saved,100.9,45.2,77,2,0,1,1,19.795201438732565,Penalty area edge
+3938642,Matěj Jurásek,Czech Republic,Giorgi Mamardashvili,0.0066,Off T,92.7,59.5,78,2,0,0,0,33.54906854146624,Outside box
+3938642,Matěj Jurásek,Czech Republic,Giorgi Mamardashvili,0.0297,Saved,101.0,23.0,93,2,0,1,1,25.495097567963924,Outside box
+3938642,Tomáš Holeš,Czech Republic,Giorgi Mamardashvili,0.0193,Blocked,88.9,41.4,94,2,0,0,0,31.131495306200758,Outside box
+3938642,Saba Lobzhanidze,Georgia,Jindřich Staněk,0.3065,Off T,108.1,49.2,94,2,0,0,0,15.041608956491329,Penalty area close
+3938639,Kaan Ayhan,Turkey,Giorgi Mamardashvili,0.1093,Off T,113.7,37.4,5,1,0,0,0,6.815423684555492,6-yard box
+3938639,Hakan Çalhanoğlu,Turkey,Giorgi Mamardashvili,0.0105,Blocked,99.0,59.3,6,1,0,0,0,28.521746089606783,Outside box
+3938639,Abdülkerim Bardakcı,Turkey,Giorgi Mamardashvili,0.1177,Off T,113.4,36.5,9,1,0,0,0,7.470609078247899,6-yard box
+3938639,Kaan Ayhan,Turkey,Giorgi Mamardashvili,0.0473,Post,98.2,32.6,9,1,0,0,0,23.021728866442675,Penalty area edge
+3938639,Anzor Mekvabishvili,Georgia,Fehmi Mert Günok,0.0275,Saved,92.7,40.9,10,1,0,1,1,27.314831136216085,Outside box
+3938639,Georges Mikautadze,Georgia,Fehmi Mert Günok,0.0309,Off T,101.3,25.7,11,1,0,0,0,23.541028014935968,Penalty area edge
+3938639,Kenan Yildiz,Turkey,Giorgi Mamardashvili,0.0101,Saved,111.6,20.7,13,1,0,1,1,21.048752932181046,Penalty area edge
+3938639,Hakan Çalhanoğlu,Turkey,Giorgi Mamardashvili,0.0404,Off T,103.3,31.0,20,1,0,0,0,18.970766985021985,Penalty area edge
+3938639,Orkun Kökçü,Turkey,Giorgi Mamardashvili,0.0214,Blocked,92.6,29.1,22,1,0,0,0,29.488472323943814,Outside box
+3938639,Mert Müldür,Turkey,Giorgi Mamardashvili,0.0487,Goal,102.6,48.7,24,1,1,0,1,19.45379140424818,Penalty area edge
+3938639,Orkun Kökçü,Turkey,Giorgi Mamardashvili,0.3229,Wayward,111.6,45.6,26,1,0,0,0,10.095543571299176,Penalty area close
+3938639,Heorhii Tsitaishvili,Georgia,Fehmi Mert Günok,0.0088,Saved,110.0,20.4,29,1,0,1,1,22.00363606316011,Penalty area edge
+3938639,Georges Mikautadze,Georgia,Fehmi Mert Günok,0.199,Goal,111.2,49.7,31,1,1,0,1,13.096946208945047,Penalty area close
+3938639,Georges Mikautadze,Georgia,Fehmi Mert Günok,0.1569,Off T,107.1,41.9,34,1,0,0,0,13.039171752837683,Penalty area close
+3938639,Giorgi Kochorashvili,Georgia,Fehmi Mert Günok,0.0446,Blocked,98.4,37.4,36,1,0,0,0,21.755918734909812,Penalty area edge
+3938639,Kaan Ayhan,Turkey,Giorgi Mamardashvili,0.0766,Blocked,107.1,34.6,39,1,0,0,0,13.984634424968002,Penalty area close
+3938639,Ferdi Erenay Kadıoğlu,Turkey,Giorgi Mamardashvili,0.0045,Off T,73.2,39.2,40,1,0,0,0,46.806837107414125,Outside box
+3938639,Mert Müldür,Turkey,Giorgi Mamardashvili,0.3919,Saved,111.7,46.2,45,2,0,1,1,10.360019305001318,Penalty area close
+3938639,Barış Alper Yılmaz,Turkey,Giorgi Mamardashvili,0.0891,Blocked,107.9,49.7,47,2,0,0,0,15.50806241927082,Penalty area close
+3938639,Heorhii Tsitaishvili,Georgia,Fehmi Mert Günok,0.0106,Saved,112.5,22.7,48,2,0,1,1,18.85576834817399,Penalty area edge
+3938639,Georges Mikautadze,Georgia,Fehmi Mert Günok,0.0712,Blocked,111.1,36.6,51,2,0,0,0,9.527329111561125,6-yard box
+3938639,Hakan Çalhanoğlu,Turkey,Giorgi Mamardashvili,0.0484,Saved,93.2,31.5,56,2,0,1,1,28.11565400270817,Outside box
+3938639,Kenan Yildiz,Turkey,Giorgi Mamardashvili,0.0128,Blocked,101.2,24.7,59,2,0,0,0,24.239018131929353,Penalty area edge
+3938639,Mert Müldür,Turkey,Giorgi Mamardashvili,0.0269,Blocked,96.6,51.5,59,2,0,0,0,26.073166282597906,Outside box
+3938639,Hakan Çalhanoğlu,Turkey,Giorgi Mamardashvili,0.0208,Off T,95.8,46.1,60,2,0,0,0,24.95696295625732,Penalty area edge
+3938639,Khvicha Kvaratskhelia,Georgia,Fehmi Mert Günok,0.1281,Off T,109.4,30.4,61,2,0,0,0,14.301048912579802,Penalty area close
+3938639,Arda Güler,Turkey,Giorgi Mamardashvili,0.0187,Goal,95.5,53.4,64,2,1,0,1,27.925078334715554,Outside box
+3938639,Orkun Kökçü,Turkey,Giorgi Mamardashvili,0.351,Wayward,108.9,36.5,68,2,0,0,0,11.638728452885214,Penalty area close
+3938639,Giorgi Kochorashvili,Georgia,Fehmi Mert Günok,0.3774,Post,107.6,41.5,69,2,0,0,0,12.49039631076613,Penalty area close
+3938639,Orkun Kökçü,Turkey,Giorgi Mamardashvili,0.003,Wayward,52.0,38.1,71,2,0,0,0,68.02653893885827,Outside box
+3938639,Luka Lochoshvili,Georgia,Fehmi Mert Günok,0.051,Wayward,111.2,32.3,74,2,0,0,0,11.693160394008114,Penalty area close
+3938639,Yusuf Yazıcı,Turkey,Giorgi Mamardashvili,0.1589,Saved,111.8,37.6,86,2,0,1,1,8.544003745317534,6-yard box
+3938639,Budu Zivzivadze,Georgia,Fehmi Mert Günok,0.0572,Blocked,114.8,32.5,92,2,0,0,0,9.126335518706291,6-yard box
+3938639,Giorgi Kochorashvili,Georgia,Fehmi Mert Günok,0.339,Off T,111.4,37.4,92,2,0,0,0,8.984430978086476,6-yard box
+3938639,Zuriko Davitashvili,Georgia,Fehmi Mert Günok,0.0764,Blocked,108.9,45.6,95,2,0,0,0,12.432618388738549,Penalty area close
+3938639,Muhammed Kerem Aktürkoğlu,Turkey,Giorgi Mamardashvili,0.4724,Goal,96.1,52.9,96,2,1,0,1,27.159160517217764,Outside box
+3938638,Viktor Tsygankov,Ukraine,Florin Constantin Niţă,0.0464,Blocked,97.1,35.4,6,1,0,0,0,23.357439928211317,Penalty area edge
+3938638,Florinel Teodor Coman,Romania,Andriy Lunin,0.025,Saved,89.9,33.0,7,1,0,1,1,30.903236076501756,Outside box
+3938638,Georgiy Sudakov,Ukraine,Florin Constantin Niţă,0.0281,Blocked,99.8,30.0,11,1,0,0,0,22.53974267821175,Penalty area edge
+3938638,Artem Dovbyk,Ukraine,Florin Constantin Niţă,0.0411,Off T,93.3,39.3,21,1,0,0,0,26.70917445373406,Outside box
+3938638,Nicolae Claudiu Stanciu,Romania,Andriy Lunin,0.0463,Goal,96.6,45.0,28,1,1,0,1,23.928226010300058,Penalty area edge
+3938638,Viktor Tsygankov,Ukraine,Florin Constantin Niţă,0.0638,Blocked,102.6,42.1,37,1,0,0,0,17.526266002774243,Penalty area close
+3938638,Dennis Man,Romania,Andriy Lunin,0.0218,Blocked,101.2,58.1,37,1,0,0,0,26.096934685897498,Outside box
+3938638,Nicolae Claudiu Stanciu,Romania,Andriy Lunin,0.0002,Post,120.1,0.8,38,1,0,0,0,39.200127550812894,Outside box
+3938638,Florinel Teodor Coman,Romania,Andriy Lunin,0.0331,Off T,104.0,26.5,45,2,0,0,0,20.93442141545832,Penalty area edge
+3938638,Georgiy Sudakov,Ukraine,Florin Constantin Niţă,0.008,Off T,93.6,22.0,49,2,0,0,0,31.95246469366644,Outside box
+3938638,Mykhailo Mudryk,Ukraine,Florin Constantin Niţă,0.0311,Blocked,108.4,27.6,51,2,0,0,0,16.979988221432894,Penalty area close
+3938638,Răzvan Gabriel Marin,Romania,Andriy Lunin,0.02,Goal,93.2,49.7,52,2,1,0,1,28.50140347421509,Outside box
+3938638,Nicolae Claudiu Stanciu,Romania,Andriy Lunin,0.0711,Blocked,98.3,43.3,55,2,0,0,0,21.949487465542337,Penalty area edge
+3938638,Andrei Florin Ratiu,Romania,Andriy Lunin,0.0134,Saved,110.4,56.7,56,2,0,1,1,19.262658175859322,Penalty area edge
+3938638,Denis Mihai Drăguş,Romania,Andriy Lunin,0.883,Goal,116.3,41.2,56,2,1,0,1,3.8897300677553486,6-yard box
+3938638,Andriy Yarmolenko,Ukraine,Florin Constantin Niţă,0.0529,Off T,103.5,46.3,64,2,0,0,0,17.66182323544203,Penalty area close
+3938638,Nicolae Claudiu Stanciu,Romania,Andriy Lunin,0.0072,Off T,111.2,5.6,67,2,0,0,0,35.50774563387544,Outside box
+3938638,Georgiy Sudakov,Ukraine,Florin Constantin Niţă,0.0388,Blocked,94.8,24.9,70,2,0,0,0,29.377712640707756,Outside box
+3938638,Georgiy Sudakov,Ukraine,Florin Constantin Niţă,0.0319,Saved,93.3,40.3,76,2,0,1,1,26.701685340067957,Outside box
+3938638,Roman Yaremchuk,Ukraine,Florin Constantin Niţă,0.0504,Blocked,98.6,43.1,77,2,0,0,0,21.62336699036485,Penalty area edge
+3938638,Mykhailo Mudryk,Ukraine,Florin Constantin Niţă,0.1152,Off T,110.4,27.6,83,2,0,0,0,15.681836627130123,Penalty area close
+3938638,Roman Yaremchuk,Ukraine,Florin Constantin Niţă,0.0277,Post,112.4,55.2,91,2,0,0,0,16.994116628998402,Penalty area close
+3938638,Mykhailo Mudryk,Ukraine,Florin Constantin Niţă,0.0079,Saved,82.6,30.8,93,2,0,1,1,38.51493216922497,Outside box
+3938640,Lukáš Haraslín,Slovakia,Anatolii Trubin,0.0546,Saved,108.9,26.0,9,1,0,1,1,17.866449003649265,Penalty area close
+3938640,Ivan Schranz,Slovakia,Anatolii Trubin,0.1295,Saved,116.4,47.1,10,1,0,1,1,7.9605276207045454,6-yard box
+3938640,Ondrej Duda,Slovakia,Anatolii Trubin,0.0253,Off T,99.9,24.0,11,1,0,0,0,25.690659781329085,Outside box
+3938640,Volodymyr Brazhko,Ukraine,Martin Dúbravka,0.0258,Saved,92.5,36.0,12,1,0,1,1,27.789386463180506,Outside box
+3938640,Dávid Hancko,Slovakia,Anatolii Trubin,0.0783,Saved,99.7,50.8,16,1,0,1,1,22.99412968563933,Penalty area edge
+3938640,Ivan Schranz,Slovakia,Anatolii Trubin,0.144,Goal,114.4,45.7,16,1,1,0,1,7.9906195003891884,6-yard box
+3938640,Mykhailo Mudryk,Ukraine,Martin Dúbravka,0.0322,Off T,93.2,41.7,22,1,0,0,0,26.853863781586437,Outside box
+3938640,Artem Dovbyk,Ukraine,Martin Dúbravka,0.056,Blocked,112.5,29.1,27,1,0,0,0,13.231024147812594,Penalty area close
+3938640,Mykhailo Mudryk,Ukraine,Martin Dúbravka,0.0285,Blocked,104.4,24.3,28,1,0,0,0,22.13255520720551,Penalty area edge
+3938640,Andriy Yarmolenko,Ukraine,Martin Dúbravka,0.3173,Off T,111.9,45.2,28,1,0,0,0,9.625487000666508,6-yard box
+3938640,Andriy Yarmolenko,Ukraine,Martin Dúbravka,0.1338,Blocked,109.1,45.7,33,1,0,0,0,12.30040649734797,Penalty area close
+3938640,Oleksandr Zinchenko,Ukraine,Martin Dúbravka,0.0077,Saved,106.5,65.2,42,1,0,1,1,28.588284313683467,Outside box
+3938640,Lukáš Haraslín,Slovakia,Anatolii Trubin,0.0618,Saved,100.3,31.4,43,1,0,1,1,21.49534833400008,Penalty area edge
+3938640,Juraj Kucka,Slovakia,Anatolii Trubin,0.032,Wayward,102.8,39.2,43,1,0,0,0,17.21859460002471,Penalty area close
+3938640,Artem Dovbyk,Ukraine,Martin Dúbravka,0.3195,Wayward,115.1,43.7,50,2,0,0,0,6.140032573203507,6-yard box
+3938640,Mykola Shaparenko,Ukraine,Martin Dúbravka,0.2398,Goal,108.8,37.3,53,2,1,0,1,11.520850663036999,Penalty area close
+3938640,Ivan Schranz,Slovakia,Anatolii Trubin,0.0087,Blocked,97.3,59.2,57,2,0,0,0,29.730960293942747,Outside box
+3938640,Roman Yaremchuk,Ukraine,Martin Dúbravka,0.0639,Blocked,113.6,32.9,68,2,0,0,0,9.558765610684263,6-yard box
+3938640,Peter Pekarík,Slovakia,Anatolii Trubin,0.025,Blocked,97.8,55.1,73,2,0,0,0,26.848649872945195,Outside box
+3938640,Mykhailo Mudryk,Ukraine,Martin Dúbravka,0.0828,Saved,113.7,27.7,73,2,0,1,1,13.819551367537224,Penalty area close
+3938640,Georgiy Sudakov,Ukraine,Martin Dúbravka,0.0382,Blocked,97.8,28.6,76,2,0,0,0,24.95596121170251,Penalty area edge
+3938640,Roman Yaremchuk,Ukraine,Martin Dúbravka,0.3864,Goal,114.8,49.2,79,2,1,0,1,10.56787585089833,Penalty area close
+3938640,László Bénes,Slovakia,Anatolii Trubin,0.0805,Blocked,104.1,45.7,80,2,0,0,0,16.8908259123111,Penalty area close
+3938640,Juraj Kucka,Slovakia,Anatolii Trubin,0.0377,Off T,107.8,43.4,81,2,0,0,0,12.664912159190054,Penalty area close
+3938640,Juraj Kucka,Slovakia,Anatolii Trubin,0.0088,Off T,92.1,21.7,84,2,0,0,0,33.366150512158285,Outside box
+3938640,Denis Vavro,Slovakia,Anatolii Trubin,0.0419,Off T,115.2,29.9,89,2,0,0,0,11.182575731914362,Penalty area close
+3938640,Milan Škriniar,Slovakia,Anatolii Trubin,0.018,Blocked,85.8,38.5,94,2,0,0,0,34.232878932394804,Outside box
+3938637,Cody Mathès Gakpo,Netherlands,Wojciech Szczęsny,0.0102,Saved,110.1,23.0,1,1,0,1,1,19.672569735548027,Penalty area edge
+3938637,Cody Mathès Gakpo,Netherlands,Wojciech Szczęsny,0.1139,Wayward,112.3,34.1,5,1,0,0,0,9.700515450222222,6-yard box
+3938637,Bartosz Salamon,Poland,Bart Verbruggen,0.0034,Wayward,54.2,44.2,7,1,0,0,0,65.93390630017305,Outside box
+3938637,Tijjani Reijnders,Netherlands,Wojciech Szczęsny,0.1143,Off T,106.1,42.8,8,1,0,0,0,14.179210133149171,Penalty area close
+3938637,Adam Buksa,Poland,Bart Verbruggen,0.0437,Blocked,107.9,55.5,9,1,0,0,0,19.663672088396915,Penalty area edge
+3938637,Xavi Simons,Netherlands,Wojciech Szczęsny,0.0154,Off T,98.4,58.0,13,1,0,0,0,28.11689883326395,Outside box
+3938637,Adam Buksa,Poland,Bart Verbruggen,0.0872,Goal,114.6,33.6,15,1,1,0,1,8.373768566183331,6-yard box
+3938637,Virgil van Dijk,Netherlands,Wojciech Szczęsny,0.0335,Saved,107.0,38.9,19,1,0,1,1,13.046455457326331,Penalty area close
+3938637,Memphis Depay,Netherlands,Wojciech Szczęsny,0.112,Off T,104.8,40.8,21,1,0,0,0,15.22103807235236,Penalty area close
+3938637,Memphis Depay,Netherlands,Wojciech Szczęsny,0.0816,Wayward,112.1,53.4,22,1,0,0,0,15.555384919699032,Penalty area close
+3938637,Denzel Dumfries,Netherlands,Wojciech Szczęsny,0.11,Wayward,110.1,43.1,26,1,0,0,0,10.374005976477946,Penalty area close
+3938637,Tijjani Reijnders,Netherlands,Wojciech Szczęsny,0.075,Blocked,118.5,33.7,26,1,0,0,0,6.476109943476868,6-yard box
+3938637,Cody Mathès Gakpo,Netherlands,Wojciech Szczęsny,0.01,Off T,101.1,19.6,27,1,0,0,0,27.809530740377483,Outside box
+3938637,Cody Mathès Gakpo,Netherlands,Wojciech Szczęsny,0.0483,Goal,97.7,34.5,28,1,1,0,1,22.968238939892625,Penalty area edge
+3938637,Jakub Piotr Kiwior,Poland,Bart Verbruggen,0.0186,Saved,109.5,23.2,31,1,0,1,1,19.81136037731887,Penalty area edge
+3938637,Cody Mathès Gakpo,Netherlands,Wojciech Szczęsny,0.1078,Off T,112.6,34.0,41,1,0,0,0,9.526804291051647,6-yard box
+3938637,Tijjani Reijnders,Netherlands,Wojciech Szczęsny,0.0155,Off T,92.3,29.7,44,1,0,0,0,29.553003231482247,Outside box
+3938637,Memphis Depay,Netherlands,Wojciech Szczęsny,0.1542,Off T,108.0,50.5,45,1,0,0,0,15.945218719101975,Penalty area close
+3938637,Xavi Simons,Netherlands,Wojciech Szczęsny,0.0218,Blocked,95.3,49.4,47,2,0,0,0,26.42820463065927,Outside box
+3938637,Tijjani Reijnders,Netherlands,Wojciech Szczęsny,0.0315,Blocked,98.4,53.0,47,2,0,0,0,25.210315349078833,Outside box
+3938637,Memphis Depay,Netherlands,Wojciech Szczęsny,0.0107,Off T,83.3,34.1,48,2,0,0,0,37.171225430432074,Outside box
+3938637,Xavi Simons,Netherlands,Wojciech Szczęsny,0.0467,Off T,106.5,50.7,53,2,0,0,0,17.22614292289484,Penalty area close
+3938637,Jakub Piotr Kiwior,Poland,Bart Verbruggen,0.0605,Saved,108.2,51.3,57,2,0,1,1,16.337992532744035,Penalty area close
+3938637,Piotr Zieliński,Poland,Bart Verbruggen,0.0362,Saved,95.9,46.5,58,2,0,1,1,24.961169844380287,Penalty area edge
+3938637,Jakub Moder,Poland,Bart Verbruggen,0.1731,Wayward,108.9,32.4,62,2,0,0,0,13.452509059651286,Penalty area close
+3938637,Denzel Dumfries,Netherlands,Wojciech Szczęsny,0.0368,Off T,110.0,56.3,64,2,0,0,0,19.123022773609822,Penalty area edge
+3938637,Stefan de Vrij,Netherlands,Wojciech Szczęsny,0.0688,Off T,110.9,41.9,72,2,0,0,0,9.296235797353674,6-yard box
+3938637,Jakub Moder,Poland,Bart Verbruggen,0.2949,Wayward,115.5,39.4,79,2,0,0,0,4.539823785126467,6-yard box
+3938637,Wout Weghorst,Netherlands,Wojciech Szczęsny,0.0946,Goal,110.6,36.7,82,2,1,0,1,9.962429422585643,6-yard box
+3938637,Karol Świderski,Poland,Bart Verbruggen,0.1314,Saved,112.0,36.4,88,2,0,1,1,8.772684879784524,6-yard box
+3938637,Jakub Piotrowski,Poland,Bart Verbruggen,0.0213,Off T,119.0,32.0,88,2,0,0,0,8.06225774829855,6-yard box
+3938637,Jakub Moder,Poland,Bart Verbruggen,0.0202,Saved,88.9,45.8,91,2,0,1,1,31.636213427020618,Outside box
+3938637,Nicola Zalewski,Poland,Bart Verbruggen,0.0187,Saved,90.3,29.2,94,2,0,1,1,31.60268975894299,Outside box
+3938644,Khvicha Kvaratskhelia,Georgia,Diogo Meireles Costa,0.1367,Goal,111.4,29.2,1,1,1,0,1,13.805795884337849,Penalty area close
+3938644,Giorgi Chakvetadze,Georgia,Diogo Meireles Costa,0.0084,Blocked,103.7,19.9,11,1,0,0,0,25.878562556679995,Outside box
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,Giorgi Mamardashvili,0.0227,Saved,87.1,41.7,16,1,0,1,1,32.94389169481955,Outside box
+3938644,Gonçalo Bernardo Inácio,Portugal,Giorgi Mamardashvili,0.0491,Blocked,109.9,37.3,16,1,0,0,0,10.454664030948097,Penalty area close
+3938644,José Diogo Dalot Teixeira,Portugal,Giorgi Mamardashvili,0.026,Off T,106.2,46.7,17,1,0,0,0,15.340469353966975,Penalty area close
+3938644,António João Pereira Albuquerque Tavares Silva,Portugal,Giorgi Mamardashvili,0.1873,Off T,118.7,34.9,20,1,0,0,0,5.263078946776308,6-yard box
+3938644,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Giorgi Mamardashvili,0.0193,Saved,92.0,26.5,22,1,0,1,1,31.084562084739105,Outside box
+3938644,João Neves,Portugal,Giorgi Mamardashvili,0.0442,Blocked,100.5,38.1,23,1,0,0,0,19.592345444075857,Penalty area edge
+3938644,Francisco Fernandes Conceição,Portugal,Giorgi Mamardashvili,0.0525,Off T,109.5,51.5,27,1,0,0,0,15.572411502397436,Penalty area close
+3938644,João Félix Sequeira,Portugal,Giorgi Mamardashvili,0.036,Off T,97.4,50.7,29,1,0,0,0,25.00499950009997,Outside box
+3938644,Khvicha Kvaratskhelia,Georgia,Diogo Meireles Costa,0.0138,Off T,111.1,57.2,32,1,0,0,0,19.366207682455546,Penalty area edge
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,Giorgi Mamardashvili,0.0587,Blocked,112.6,28.6,34,1,0,0,0,13.591173606425608,Penalty area close
+3938644,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Giorgi Mamardashvili,0.0357,Off T,95.6,42.0,42,1,0,0,0,24.481829996958975,Penalty area edge
+3938644,João Félix Sequeira,Portugal,Giorgi Mamardashvili,0.0426,Saved,96.9,45.9,45,1,0,1,1,23.84156035162128,Penalty area edge
+3938644,Francisco Fernandes Conceição,Portugal,Giorgi Mamardashvili,0.0461,Blocked,105.2,50.7,45,2,0,0,0,18.262803727796015,Penalty area edge
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,Giorgi Mamardashvili,0.1897,Blocked,113.7,42.7,46,2,0,0,0,6.854195795277516,6-yard box
+3938644,Danilo Luís Hélio Pereira,Portugal,Giorgi Mamardashvili,0.2295,Off T,116.6,36.2,46,2,0,0,0,5.099019513592786,6-yard box
+3938644,Khvicha Kvaratskhelia,Georgia,Diogo Meireles Costa,0.2445,Saved,106.4,42.1,49,2,0,1,1,13.761177275218856,Penalty area close
+3938644,Georges Mikautadze,Georgia,Diogo Meireles Costa,0.7835,Goal,108.1,40.1,56,2,1,0,1,11.900420160649796,Penalty area close
+3938644,Francisco Fernandes Conceição,Portugal,Giorgi Mamardashvili,0.0395,Off T,102.3,45.9,65,2,0,0,0,18.65743819499344,Penalty area edge
+3938644,Giorgi Chakvetadze,Georgia,Diogo Meireles Costa,0.0695,Off T,103.4,53.3,71,2,0,0,0,21.27087210247854,Penalty area edge
+3938644,Nélson Cabral Semedo,Portugal,Giorgi Mamardashvili,0.0202,Blocked,92.9,41.1,80,2,0,0,0,27.12231553536681,Outside box
+3938644,Matheus Luiz Nunes,Portugal,Giorgi Mamardashvili,0.1941,Wayward,112.4,39.4,81,2,0,0,0,7.623647421018362,6-yard box
+3938644,Zuriko Davitashvili,Georgia,Diogo Meireles Costa,0.0891,Off T,113.5,27.4,84,2,0,0,0,14.177799547179388,Penalty area close
+3938644,Nélson Cabral Semedo,Portugal,Giorgi Mamardashvili,0.2142,Saved,115.8,45.8,90,2,0,1,1,7.161005515987261,6-yard box
+3938644,João Félix Sequeira,Portugal,Giorgi Mamardashvili,0.0193,Blocked,100.1,51.9,91,2,0,0,0,23.186634080866504,Penalty area edge
+3938644,Diogo José Teixeira da Silva,Portugal,Giorgi Mamardashvili,0.7039,Off T,113.5,37.5,92,2,0,0,0,6.96419413859206,6-yard box
+3938644,José Diogo Dalot Teixeira,Portugal,Giorgi Mamardashvili,0.0231,Saved,93.5,52.2,93,2,0,1,1,29.17344683097971,Outside box
+3938644,Gonçalo Matias Ramos,Portugal,Giorgi Mamardashvili,0.1022,Blocked,116.2,47.1,93,2,0,0,0,8.052949770115296,6-yard box
+3941019,Adrien Rabiot,France,Koen Casteels,0.0493,Off T,105.3,39.5,1,1,0,0,0,14.70850094333206,Penalty area close
+3941019,Antoine Griezmann,France,Koen Casteels,0.027,Saved,95.5,36.4,9,1,0,1,1,24.763077353188557,Penalty area edge
+3941019,Kylian Mbappé Lottin,France,Koen Casteels,0.0671,Off T,106.8,26.1,13,1,0,0,0,19.168985366993216,Penalty area edge
+3941019,Marcus Thuram,France,Koen Casteels,0.0289,Off T,113.0,50.1,17,1,0,0,0,12.288612614937458,Penalty area close
+3941019,Adrien Rabiot,France,Koen Casteels,0.022,Off T,87.2,35.1,19,1,0,0,0,33.163986491373436,Outside box
+3941019,Yannick Ferreira Carrasco,Belgium,Mike Maignan,0.1059,Blocked,106.5,44.0,26,1,0,0,0,14.080127840328723,Penalty area close
+3941019,Marcus Thuram,France,Koen Casteels,0.0944,Off T,110.6,41.9,33,1,0,0,0,9.590099061010793,6-yard box
+3941019,Aurélien Djani Tchouaméni,France,Koen Casteels,0.0224,Off T,89.2,47.9,38,1,0,0,0,31.797012438277907,Outside box
+3941019,Marcus Thuram,France,Koen Casteels,0.1625,Wayward,114.2,32.2,40,1,0,0,0,9.72008230417829,6-yard box
+3941019,Aurélien Djani Tchouaméni,France,Koen Casteels,0.0552,Off T,103.3,32.5,45,1,0,0,0,18.306829326784037,Penalty area edge
+3941019,Aurélien Djani Tchouaméni,France,Koen Casteels,0.0275,Saved,93.9,33.9,48,2,0,1,1,26.8033579985792,Outside box
+3941019,Kylian Mbappé Lottin,France,Koen Casteels,0.0239,Blocked,111.5,24.5,49,2,0,0,0,17.67766952966369,Penalty area close
+3941019,Marcus Thuram,France,Koen Casteels,0.1451,Off T,113.4,37.7,49,2,0,0,0,6.989277502002615,6-yard box
+3941019,Kylian Mbappé Lottin,France,Koen Casteels,0.0372,Off T,102.3,26.3,53,2,0,0,0,22.38258251408894,Penalty area edge
+3941019,Kylian Mbappé Lottin,France,Koen Casteels,0.1881,Wayward,107.9,46.3,55,2,0,0,0,13.64184738222796,Penalty area close
+3941019,Yannick Ferreira Carrasco,Belgium,Mike Maignan,0.1307,Blocked,111.0,51.5,60,2,0,0,0,14.603081866510234,Penalty area close
+3941019,Antoine Griezmann,France,Koen Casteels,0.0548,Off T,97.3,43.1,64,2,0,0,0,22.91069619195366,Penalty area edge
+3941019,Aurélien Djani Tchouaméni,France,Koen Casteels,0.0309,Off T,94.6,47.3,68,2,0,0,0,26.428204630659273,Outside box
+3941019,Romelu Lukaku Menama,Belgium,Mike Maignan,0.0381,Saved,109.8,25.7,70,2,0,1,1,17.565022060902745,Penalty area close
+3941019,William Saliba,France,Koen Casteels,0.0678,Off T,106.1,53.7,73,2,0,0,0,19.516659550240668,Penalty area edge
+3941019,Kylian Mbappé Lottin,France,Koen Casteels,0.0947,Off T,103.1,48.2,77,2,0,0,0,18.784301956687138,Penalty area edge
+3941019,Kevin De Bruyne,Belgium,Mike Maignan,0.0827,Saved,100.8,31.1,82,2,0,1,1,21.16246677492962,Penalty area edge
+3941019,Randal Kolo Muani,France,Koen Casteels,0.0631,Wayward,108.7,52.4,84,2,0,0,0,16.776471619503308,Penalty area close
+3941019,Arthur Theate,Belgium,Mike Maignan,0.0057,Wayward,88.7,26.5,89,2,0,0,0,34.087241014784404,Outside box
+3942227,Breel-Donald Embolo,Switzerland,Jordan Pickford,0.0089,Off T,115.2,59.1,9,1,0,0,0,19.693907687404245,Penalty area edge
+3942227,Declan Rice,England,Yann Sommer,0.0398,Blocked,97.1,38.6,13,1,0,0,0,22.94275484766379,Penalty area edge
+3942227,Kobbie Mainoo,England,Yann Sommer,0.0412,Blocked,97.0,40.0,15,1,0,0,0,23.0,Penalty area edge
+3942227,Harry Kane,England,Yann Sommer,0.0248,Wayward,107.6,34.7,21,1,0,0,0,13.485177047410245,Penalty area close
+3942227,Breel-Donald Embolo,Switzerland,Jordan Pickford,0.0506,Blocked,103.5,35.4,24,1,0,0,0,17.12921480979207,Penalty area close
+3942227,Bukayo Saka,England,Yann Sommer,0.0227,Blocked,94.4,53.3,42,1,0,0,0,28.848743473503305,Outside box
+3942227,Kobbie Mainoo,England,Yann Sommer,0.1055,Blocked,113.2,49.6,44,1,0,0,0,11.764352935882194,Penalty area close
+3942227,Bukayo Saka,England,Yann Sommer,0.0437,Blocked,111.9,52.7,46,2,0,0,0,15.063200191194433,Penalty area close
+3942227,Breel-Donald Embolo,Switzerland,Jordan Pickford,0.0524,Saved,112.9,30.4,50,2,0,1,1,11.940268003692378,Penalty area close
+3942227,Breel-Donald Embolo,Switzerland,Jordan Pickford,0.1137,Blocked,113.4,43.5,56,2,0,0,0,7.470609078247899,6-yard box
+3942227,Michel Aebischer,Switzerland,Jordan Pickford,0.0549,Off T,103.5,36.6,65,2,0,0,0,16.846661390317074,Penalty area close
+3942227,Breel-Donald Embolo,Switzerland,Jordan Pickford,0.6736,Goal,116.9,38.5,74,2,1,0,1,3.4438350715445076,6-yard box
+3942227,Bukayo Saka,England,Yann Sommer,0.0271,Goal,100.3,56.6,79,2,1,0,1,25.76140524117425,Outside box
+3942227,Harry Kane,England,Yann Sommer,0.0437,Blocked,107.6,40.4,82,2,0,0,0,12.406449935416664,Penalty area close
+3942227,Eberechi Eze,England,Yann Sommer,0.0123,Off T,107.6,21.5,87,2,0,0,0,22.27128195681605,Penalty area edge
+3942227,Dan Ndoye,Switzerland,Jordan Pickford,0.0284,Off T,102.2,22.4,89,2,0,0,0,25.03197954617253,Outside box
+3942227,Steven Zuber,Switzerland,Jordan Pickford,0.0491,Off T,110.9,28.0,92,2,0,0,0,15.060212481900775,Penalty area close
+3942227,Declan Rice,England,Yann Sommer,0.0175,Saved,89.6,32.5,94,3,0,1,1,31.311499485013496,Outside box
+3942227,Phil Foden,England,Yann Sommer,0.0245,Blocked,90.5,44.9,100,3,0,0,0,29.904180309782777,Outside box
+3942227,Jude Bellingham,England,Yann Sommer,0.0652,Blocked,103.5,46.6,101,3,0,0,0,17.771043863543863,Penalty area close
+3942227,Jude Bellingham,England,Yann Sommer,0.069,Saved,103.8,44.8,101,3,0,1,1,16.896153408394472,Penalty area close
+3942227,Fabian Lukas Schär,Switzerland,Jordan Pickford,0.0123,Off T,106.2,58.7,112,4,0,0,0,23.24069706355642,Penalty area edge
+3942227,Xherdan Shaqiri,Switzerland,Jordan Pickford,0.0002,Post,119.3,79.1,116,4,0,0,0,39.10626548265635,Outside box
+3942227,Mohamed Zeki Amdouni,Switzerland,Jordan Pickford,0.0397,Saved,101.7,23.7,118,4,0,1,1,24.506733768497178,Penalty area edge
+3942227,Silvan Widmer,Switzerland,Jordan Pickford,0.1177,Off T,111.7,46.0,118,4,0,0,0,10.241581909060727,Penalty area close
+3942227,Cole Palmer,England,Yann Sommer,0.7835,Goal,108.1,40.1,120,5,1,0,1,11.900420160649796,Penalty area close
+3942227,Manuel Obafemi Akanji,Switzerland,Jordan Pickford,0.7835,Saved,108.1,40.1,121,5,0,1,1,11.900420160649796,Penalty area close
+3942227,Jude Bellingham,England,Yann Sommer,0.7835,Goal,108.1,40.1,121,5,1,0,1,11.900420160649796,Penalty area close
+3942227,Fabian Lukas Schär,Switzerland,Jordan Pickford,0.7835,Goal,108.1,40.1,122,5,1,0,1,11.900420160649796,Penalty area close
+3942227,Bukayo Saka,England,Yann Sommer,0.7835,Goal,108.1,40.1,123,5,1,0,1,11.900420160649796,Penalty area close
+3942227,Xherdan Shaqiri,Switzerland,Jordan Pickford,0.7835,Goal,108.1,40.1,124,5,1,0,1,11.900420160649796,Penalty area close
+3942227,Ivan Toney,England,Yann Sommer,0.7835,Goal,108.1,40.1,125,5,1,0,1,11.900420160649796,Penalty area close
+3942227,Mohamed Zeki Amdouni,Switzerland,Jordan Pickford,0.7835,Goal,108.1,40.1,126,5,1,0,1,11.900420160649796,Penalty area close
+3942227,Trent Alexander-Arnold,England,Yann Sommer,0.7835,Goal,108.1,40.1,127,5,1,0,1,11.900420160649796,Penalty area close
+3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Altay Bayındır,0.0308,Saved,104.7,54.5,1,1,0,1,1,21.07937380474097,Penalty area edge
+3930174,Bruno Miguel Borges Fernandes,Portugal,Altay Bayındır,0.0411,Blocked,92.6,41.8,3,1,0,0,0,27.459060435491967,Outside box
+3930174,Muhammed Kerem Aktürkoğlu,Turkey,Diogo Meireles Costa,0.0483,Off T,107.8,44.4,4,1,0,0,0,12.969194269498782,Penalty area close
+3930174,Muhammed Kerem Aktürkoğlu,Turkey,Diogo Meireles Costa,0.4502,Wayward,116.2,36.6,5,1,0,0,0,5.099019513592782,6-yard box
+3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Altay Bayındır,0.0634,Off T,113.1,34.1,7,1,0,0,0,9.078546139112808,6-yard box
+3930174,Rafael Alexandre Conceição Leão,Portugal,Altay Bayındır,0.0417,Wayward,108.6,34.2,14,1,0,0,0,12.790621564255588,Penalty area close
+3930174,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Altay Bayındır,0.3171,Goal,108.8,44.0,20,1,1,0,1,11.892854997854807,Penalty area close
+3930174,Bruno Miguel Borges Fernandes,Portugal,Altay Bayındır,0.037,Off T,103.2,29.7,23,1,0,0,0,19.706090429103384,Penalty area edge
+3930174,Muhammed Kerem Aktürkoğlu,Turkey,Diogo Meireles Costa,0.0997,Saved,110.9,27.4,30,1,0,1,1,15.54252231782216,Penalty area close
+3930174,Orkun Kökçü,Turkey,Diogo Meireles Costa,0.0621,Blocked,108.6,51.3,31,1,0,0,0,16.051479682571326,Penalty area close
+3930174,Hakan Çalhanoğlu,Turkey,Diogo Meireles Costa,0.008,Blocked,99.0,60.0,31,1,0,0,0,29.0,Outside box
+3930174,Bruno Miguel Borges Fernandes,Portugal,Altay Bayındır,0.0717,Off T,104.7,54.4,34,1,0,0,0,21.01071155387175,Penalty area edge
+3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Altay Bayındır,0.0568,Off T,101.7,30.6,36,1,0,0,0,20.57304061144098,Penalty area edge
+3930174,Orkun Kökçü,Turkey,Diogo Meireles Costa,0.0391,Saved,94.9,32.7,40,1,0,1,1,26.140007651108284,Outside box
+3930174,Yusuf Yazıcı,Turkey,Diogo Meireles Costa,0.0065,Saved,89.4,55.2,52,2,0,1,1,34.167235767618074,Outside box
+3930174,Bruno Miguel Borges Fernandes,Portugal,Altay Bayındır,0.8519,Goal,111.5,36.3,55,2,1,0,1,9.270382947861433,6-yard box
+3930174,Yusuf Yazıcı,Turkey,Diogo Meireles Costa,0.02,Blocked,99.9,27.2,59,2,0,0,0,23.829603437741046,Penalty area edge
+3930174,Kenan Yildiz,Turkey,Diogo Meireles Costa,0.026,Off T,97.1,24.9,62,2,0,0,0,27.430275244699974,Outside box
+3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Altay Bayındır,0.1973,Wayward,113.1,37.7,65,2,0,0,0,7.273238618387277,6-yard box
+3930174,Arda Güler,Turkey,Diogo Meireles Costa,0.0148,Blocked,91.0,51.3,80,2,0,0,0,31.12378511685235,Outside box
+3930174,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Altay Bayındır,0.1676,Blocked,107.0,35.5,89,2,0,0,0,13.756816492197604,Penalty area close
+3930174,Arda Güler,Turkey,Diogo Meireles Costa,0.0042,Wayward,60.9,25.6,90,2,0,0,0,60.82902267832355,Outside box
+3930174,Rúben Diogo Da Silva Neves,Portugal,Altay Bayındır,0.0247,Off T,93.8,50.2,94,2,0,0,0,28.115476165272398,Outside box
+3930162,Andreas Christensen,Denmark,Jan Oblak,0.0237,Off T,105.6,39.0,10,1,0,0,0,14.434680460612912,Penalty area close
+3930162,Victor Bernth Kristansen,Denmark,Jan Oblak,0.0502,Blocked,101.6,37.8,14,1,0,0,0,18.53105501583761,Penalty area edge
+3930162,Benjamin Šeško,Slovenia,Kasper Schmeichel,0.023,Off T,89.6,43.4,15,1,0,0,0,30.589540696126843,Outside box
+3930162,Christian Dannemann Eriksen,Denmark,Jan Oblak,0.2767,Goal,109.7,46.4,16,1,1,0,1,12.126417442921875,Penalty area close
+3930162,Erik Janža,Slovenia,Kasper Schmeichel,0.0228,Blocked,94.8,34.0,20,1,0,0,0,25.904439773907487,Outside box
+3930162,Erik Janža,Slovenia,Kasper Schmeichel,0.02,Wayward,92.1,32.2,20,1,0,0,0,28.969811873741953,Outside box
+3930162,Jannik Vestergaard,Denmark,Jan Oblak,0.1021,Off T,113.5,42.3,28,1,0,0,0,6.894925670375279,6-yard box
+3930162,Joachim Andersen,Denmark,Jan Oblak,0.0721,Wayward,111.2,42.9,34,1,0,0,0,9.265527507918799,6-yard box
+3930162,Christian Dannemann Eriksen,Denmark,Jan Oblak,0.0332,Blocked,110.8,54.5,39,1,0,0,0,17.172361514946047,Penalty area close
+3930162,Christian Dannemann Eriksen,Denmark,Jan Oblak,0.0301,Blocked,89.0,35.6,41,1,0,0,0,31.310701046127985,Outside box
+3930162,Christian Dannemann Eriksen,Denmark,Jan Oblak,0.1002,Off T,105.1,30.6,42,1,0,0,0,17.617321022221287,Penalty area close
+3930162,Andreas Christensen,Denmark,Jan Oblak,0.0289,Blocked,106.4,37.5,54,2,0,0,0,13.827870407260832,Penalty area close
+3930162,Pierre-Emile Højbjerg,Denmark,Jan Oblak,0.0681,Blocked,111.1,43.8,55,2,0,0,0,9.677293009927936,6-yard box
+3930162,Rasmus Winther Højlund,Denmark,Jan Oblak,0.4475,Saved,116.7,41.6,64,2,0,1,1,3.6674241641784477,6-yard box
+3930162,Alexander Hartmann Bah,Denmark,Jan Oblak,0.0569,Blocked,100.7,49.3,64,2,0,0,0,21.423818520515894,Penalty area edge
+3930162,Adam Gnezda Čerin,Slovenia,Kasper Schmeichel,0.1957,Off T,113.1,39.6,65,2,0,0,0,6.911584478250995,6-yard box
+3930162,Christian Dannemann Eriksen,Denmark,Jan Oblak,0.0304,Off T,114.6,27.9,67,2,0,0,0,13.250283015845362,Penalty area close
+3930162,Jonas Older Wind,Denmark,Jan Oblak,0.1302,Off T,114.5,43.6,70,2,0,0,0,6.573431371817919,6-yard box
+3930162,Andraž Šporar,Slovenia,Kasper Schmeichel,0.3346,Off T,114.0,39.1,73,2,0,0,0,6.067124524847005,6-yard box
+3930162,Benjamin Šeško,Slovenia,Kasper Schmeichel,0.0327,Post,94.7,44.0,75,2,0,0,0,25.614253844295362,Outside box
+3930162,Erik Janža,Slovenia,Kasper Schmeichel,0.0128,Goal,98.1,22.6,76,2,1,0,1,27.970877712363624,Outside box
+3930162,Andraž Šporar,Slovenia,Kasper Schmeichel,0.1818,Blocked,112.5,40.9,78,2,0,0,0,7.553806987208502,6-yard box
+3930162,Andraž Šporar,Slovenia,Kasper Schmeichel,0.1089,Off T,111.1,39.6,78,2,0,0,0,8.90898422941696,6-yard box
+3930162,Jannik Vestergaard,Denmark,Jan Oblak,0.0149,Saved,112.1,27.8,80,2,0,1,1,14.534441853748636,Penalty area close
+3930162,Andraž Šporar,Slovenia,Kasper Schmeichel,0.0262,Saved,114.6,54.5,80,2,0,1,1,15.472879499304584,Penalty area close
+3930162,Morten Hjulmand,Denmark,Jan Oblak,0.0461,Saved,95.3,39.1,85,2,0,1,1,24.71639132235934,Penalty area edge
+3930162,Žan Karničnik,Slovenia,Kasper Schmeichel,0.0078,Off T,90.2,57.0,90,2,0,0,0,34.30801655590133,Outside box
+3930176,Kai Havertz,Germany,Yann Sommer,0.0893,Saved,113.5,44.4,2,1,0,1,1,7.849203781276161,6-yard box
+3930176,İlkay Gündoğan,Germany,Yann Sommer,0.0374,Blocked,96.5,38.1,10,1,0,0,0,23.576683396949623,Penalty area edge
+3930176,Kai Havertz,Germany,Yann Sommer,0.0871,Blocked,108.1,35.2,11,1,0,0,0,12.831601614763455,Penalty area close
+3930176,Dan Ndoye,Switzerland,Manuel Neuer,0.1812,Goal,113.7,35.0,27,1,1,0,1,8.043009387039156,6-yard box
+3930176,Dan Ndoye,Switzerland,Manuel Neuer,0.0464,Off T,101.6,26.3,30,1,0,0,0,22.94013949390893,Penalty area edge
+3930176,Robert Andrich,Germany,Yann Sommer,0.0215,Blocked,89.8,32.6,32,1,0,0,0,31.093407661432032,Outside box
+3930176,Antonio Rüdiger,Germany,Yann Sommer,0.0758,Off T,114.5,47.4,40,1,0,0,0,9.220086767487603,6-yard box
+3930176,Kai Havertz,Germany,Yann Sommer,0.0743,Off T,107.1,49.6,41,1,0,0,0,16.080111939908882,Penalty area close
+3930176,Robert Andrich,Germany,Yann Sommer,0.0248,Off T,95.2,40.1,42,1,0,0,0,24.80020161208372,Penalty area edge
+3930176,Jamal Musiala,Germany,Yann Sommer,0.1049,Saved,101.0,49.4,49,2,0,1,1,21.198113123577766,Penalty area edge
+3930176,İlkay Gündoğan,Germany,Yann Sommer,0.1306,Off T,103.1,41.9,49,2,0,0,0,17.00646935727696,Penalty area close
+3930176,Toni Kroos,Germany,Yann Sommer,0.0421,Off T,95.3,38.1,54,2,0,0,0,24.77296913977007,Penalty area edge
+3930176,David Raum,Germany,Yann Sommer,0.0244,Off T,94.6,26.2,62,2,0,0,0,28.906746617355616,Outside box
+3930176,İlkay Gündoğan,Germany,Yann Sommer,0.0618,Blocked,110.0,40.4,63,2,0,0,0,10.007996802557443,Penalty area close
+3930176,Kai Havertz,Germany,Yann Sommer,0.062,Off T,110.4,38.4,63,2,0,0,0,9.732420048477147,6-yard box
+3930176,Kai Havertz,Germany,Yann Sommer,0.2299,Off T,115.1,42.0,67,2,0,0,0,5.2924474489597015,6-yard box
+3930176,Joshua Kimmich,Germany,Yann Sommer,0.0952,Blocked,114.2,47.9,69,2,0,0,0,9.80051019080129,6-yard box
+3930176,Kwadwo Duah,Switzerland,Manuel Neuer,0.0241,Saved,93.6,51.6,73,2,0,1,1,28.836088500349703,Outside box
+3930176,Leroy Sané,Germany,Yann Sommer,0.0373,Off T,104.6,53.2,81,2,0,0,0,20.282997806044357,Penalty area edge
+3930176,Kai Havertz,Germany,Yann Sommer,0.1803,Post,114.0,42.8,84,2,0,0,0,6.621178142898738,6-yard box
+3930176,Granit Xhaka,Switzerland,Manuel Neuer,0.0284,Saved,93.4,33.9,87,2,0,1,1,27.290474528670252,Outside box
+3930176,Niclas Füllkrug,Germany,Yann Sommer,0.1629,Goal,113.6,41.4,91,2,1,0,1,6.551335741663685,6-yard box
+3930169,Scott McTominay,Scotland,Yann Sommer,0.0625,Goal,103.8,32.8,12,1,1,0,1,17.72794404323299,Penalty area close
+3930169,Ricardo Iván Rodríguez Araya,Switzerland,Angus Gunn,0.0357,Off T,100.6,38.0,15,1,0,0,0,19.502820308868156,Penalty area edge
+3930169,Xherdan Shaqiri,Switzerland,Angus Gunn,0.0858,Goal,98.1,32.5,25,1,1,0,1,23.148650068632517,Penalty area edge
+3930169,Silvan Widmer,Switzerland,Angus Gunn,0.0422,Off T,104.0,52.2,27,1,0,0,0,20.120636172845032,Penalty area edge
+3930169,Dan Ndoye,Switzerland,Angus Gunn,0.0518,Blocked,110.8,33.1,29,1,0,0,0,11.500000000000002,Penalty area close
+3930169,Dan Ndoye,Switzerland,Angus Gunn,0.2223,Saved,111.7,31.1,31,1,0,1,1,12.169634341261036,Penalty area close
+3930169,Jack Hendry,Scotland,Yann Sommer,0.0662,Wayward,107.7,38.9,37,1,0,0,0,12.349089035228467,Penalty area close
+3930169,Che Adams,Scotland,Yann Sommer,0.1038,Saved,116.8,47.4,40,1,0,1,1,8.06225774829855,6-yard box
+3930169,Granit Xhaka,Switzerland,Angus Gunn,0.039,Saved,103.8,25.1,41,1,0,1,1,22.010224896624752,Penalty area edge
+3930169,Ruben Vargas,Switzerland,Angus Gunn,0.0269,Saved,104.0,23.4,55,2,0,1,1,23.055585006674633,Penalty area edge
+3930169,Dan Ndoye,Switzerland,Angus Gunn,0.2939,Saved,102.8,37.7,57,2,0,1,1,17.353097706173386,Penalty area close
+3930169,Ruben Vargas,Switzerland,Angus Gunn,0.0481,Off T,107.2,25.6,63,2,0,0,0,19.26655132606767,Penalty area edge
+3930169,Billy Gilmour,Scotland,Yann Sommer,0.0255,Blocked,89.4,44.5,64,2,0,0,0,30.929112499391245,Outside box
+3930169,Grant Campbell Hanley,Scotland,Yann Sommer,0.1987,Post,114.8,36.6,66,2,0,0,0,6.212889826803629,6-yard box
+3930169,Scott McKenna,Scotland,Yann Sommer,0.0259,Off T,106.4,38.2,73,2,0,0,0,13.718600511714007,Penalty area close
+3930169,Billy Gilmour,Scotland,Yann Sommer,0.0622,Blocked,112.3,34.2,75,2,0,0,0,9.640020746865641,6-yard box
+3930169,Dan Ndoye,Switzerland,Angus Gunn,0.0346,Off T,108.3,23.4,77,2,0,0,0,20.3088650593774,Penalty area edge
+3930169,Scott McTominay,Scotland,Yann Sommer,0.0498,Wayward,109.4,43.5,80,2,0,0,0,11.162884931772785,Penalty area close
+3930169,Scott McTominay,Scotland,Yann Sommer,0.0675,Blocked,107.3,44.8,80,2,0,0,0,13.576818478568535,Penalty area close
+3930169,Scott McTominay,Scotland,Yann Sommer,0.0658,Blocked,107.7,42.7,80,2,0,0,0,12.592855117089211,Penalty area close
+3930169,Kenneth McLean,Scotland,Yann Sommer,0.0114,Saved,98.5,60.6,86,2,0,1,1,29.77599704459953,Outside box
+3930169,Mohamed Zeki Amdouni,Switzerland,Angus Gunn,0.1097,Off T,112.3,34.8,89,2,0,0,0,9.291393867445297,6-yard box
+3930169,Callum McGregor,Scotland,Yann Sommer,0.0326,Off T,100.0,32.0,90,2,0,0,0,21.540659228538015,Penalty area edge
+3942819,Xavi Simons,Netherlands,Jordan Pickford,0.0489,Goal,99.6,51.2,6,1,1,0,1,23.27230113246218,Penalty area edge
+3942819,Harry Kane,England,Bart Verbruggen,0.0289,Saved,88.2,36.6,12,1,0,1,1,31.981244503614924,Outside box
+3942819,Bukayo Saka,England,Bart Verbruggen,0.0717,Blocked,104.5,41.6,13,1,0,0,0,15.582361823549085,Penalty area close
+3942819,Harry Kane,England,Bart Verbruggen,0.7835,Goal,108.1,40.0,17,1,1,0,1,11.900000000000006,Penalty area close
+3942819,Phil Foden,England,Bart Verbruggen,0.1723,Saved,117.0,47.6,22,1,0,1,1,8.1706792863262,6-yard box
+3942819,Donyell Malen,Netherlands,Jordan Pickford,0.0398,Blocked,102.9,45.1,28,1,0,0,0,17.844326829555655,Penalty area close
+3942819,Denzel Dumfries,Netherlands,Jordan Pickford,0.0632,Post,111.3,43.4,29,1,0,0,0,9.340770846134705,6-yard box
+3942819,Phil Foden,England,Bart Verbruggen,0.0287,Post,95.8,51.6,31,1,0,0,0,26.836542251191755,Outside box
+3942819,Phil Foden,England,Bart Verbruggen,0.0346,Saved,98.4,50.6,38,1,0,1,1,24.060756430336927,Penalty area edge
+3942819,Kobbie Mainoo,England,Bart Verbruggen,0.0298,Blocked,98.8,52.9,40,1,0,0,0,24.81632527188504,Penalty area edge
+3942819,Virgil van Dijk,Netherlands,Jordan Pickford,0.0816,Saved,109.5,33.3,64,2,0,1,1,12.455520864259352,Penalty area close
+3942819,Denzel Dumfries,Netherlands,Jordan Pickford,0.0585,Off T,111.1,44.6,64,2,0,0,0,10.01848291908511,Penalty area close
+3942819,Wout Weghorst,Netherlands,Jordan Pickford,0.0578,Blocked,110.4,38.9,76,2,0,0,0,9.662815324738434,6-yard box
+3942819,Xavi Simons,Netherlands,Jordan Pickford,0.0623,Saved,103.5,45.0,76,2,0,1,1,17.240939649566666,Penalty area close
+3942819,Cole Palmer,England,Bart Verbruggen,0.0514,Off T,104.8,50.4,87,2,0,0,0,18.417383093154143,Penalty area edge
+3942819,Ollie Watkins,England,Bart Verbruggen,0.0355,Goal,110.4,53.5,90,2,1,0,1,16.565325230734224,Penalty area close
+3943043,Nicholas Williams Arthuer,Spain,Jordan Pickford,0.068,Blocked,115.6,28.4,11,1,0,0,0,12.406449935416662,Penalty area close
+3943043,Robin Aime Robert Le Normand,Spain,Jordan Pickford,0.1175,Off T,112.9,36.2,12,1,0,0,0,8.052949770115289,6-yard box
+3943043,Declan Rice,England,Unai Simón Mendibil,0.049,Blocked,96.2,40.8,16,1,0,0,0,23.813441582434066,Penalty area edge
+3943043,Fabián Ruiz Peña,Spain,Jordan Pickford,0.0481,Saved,101.2,49.8,27,1,0,1,1,21.200943375236864,Penalty area edge
+3943043,Daniel Olmo Carvajal,Spain,Jordan Pickford,0.0265,Blocked,95.0,31.2,34,1,0,0,0,26.503584663211125,Outside box
+3943043,Álvaro Borja Morata Martín,Spain,Jordan Pickford,0.0784,Blocked,113.9,30.2,42,1,0,0,0,11.543396380615194,Penalty area close
+3943043,Harry Kane,England,Unai Simón Mendibil,0.0484,Blocked,102.6,36.7,44,1,0,0,0,17.710166571774536,Penalty area close
+3943043,Phil Foden,England,Unai Simón Mendibil,0.1797,Saved,114.4,29.9,45,1,0,1,1,11.548592987892507,Penalty area close
+3943043,Nicholas Williams Arthuer,Spain,Jordan Pickford,0.1125,Goal,109.9,28.0,46,2,1,0,1,15.684705926474997,Penalty area close
+3943043,Daniel Olmo Carvajal,Spain,Jordan Pickford,0.2456,Off T,108.8,32.1,48,2,0,0,0,13.705838172107537,Penalty area close
+3943043,Álvaro Borja Morata Martín,Spain,Jordan Pickford,0.0253,Blocked,95.8,46.1,54,2,0,0,0,24.95696295625732,Penalty area edge
+3943043,Álvaro Borja Morata Martín,Spain,Jordan Pickford,0.2431,Wayward,110.9,51.0,54,2,0,0,0,14.27620397724829,Penalty area close
+3943043,Nicholas Williams Arthuer,Spain,Jordan Pickford,0.0491,Off T,97.2,43.4,55,2,0,0,0,23.052114870440843,Penalty area edge
+3943043,Jude Bellingham,England,Unai Simón Mendibil,0.0563,Off T,99.0,37.2,63,2,0,0,0,21.18584433059018,Penalty area edge
+3943043,Lamine Yamal Nasraoui Ebana,Spain,Jordan Pickford,0.1621,Saved,103.5,49.7,65,2,0,1,1,19.14001044931794,Penalty area edge
+3943043,Aymeric Laporte,Spain,Jordan Pickford,0.0979,Blocked,111.9,43.8,66,2,0,0,0,8.947066558375427,6-yard box
+3943043,Fabián Ruiz Peña,Spain,Jordan Pickford,0.0326,Off T,93.3,35.9,69,2,0,0,0,27.012959852633703,Outside box
+3943043,Ollie Watkins,England,Unai Simón Mendibil,0.0747,Blocked,91.0,40.1,69,2,0,0,0,29.00017241328058,Outside box
+3943043,Mikel Oyarzabal Ugarte,Spain,Jordan Pickford,0.0377,Saved,112.0,24.9,71,2,0,1,1,17.088300090997937,Penalty area close
+3943043,Cole Palmer,England,Unai Simón Mendibil,0.0379,Goal,98.4,49.0,72,2,1,0,1,23.399999999999995,Penalty area edge
+3943043,Lamine Yamal Nasraoui Ebana,Spain,Jordan Pickford,0.1639,Saved,107.2,50.2,81,2,0,1,1,16.367040050051813,Penalty area close
+3943043,Mikel Oyarzabal Ugarte,Spain,Jordan Pickford,0.2833,Goal,111.2,36.3,85,2,1,0,1,9.546203433826454,6-yard box
+3943043,Declan Rice,England,Unai Simón Mendibil,0.0574,Saved,109.5,44.1,89,2,0,1,1,11.272089424769483,Penalty area close
+3943043,Marc Guehi,England,Unai Simón Mendibil,0.1172,Blocked,114.8,35.5,89,2,0,0,0,6.87677249878168,6-yard box
+3943043,Declan Rice,England,Unai Simón Mendibil,0.1058,Off T,113.1,41.4,89,2,0,0,0,7.040596565632778,6-yard box
+3942752,Fabián Ruiz Peña,Spain,Mike Maignan,0.1933,Off T,115.4,35.9,4,1,0,0,0,6.161980201201555,6-yard box
+3942752,Randal Kolo Muani,France,Unai Simón Mendibil,0.2713,Goal,114.9,43.7,8,1,1,0,1,6.300793600809342,6-yard box
+3942752,Kylian Mbappé Lottin,France,Unai Simón Mendibil,0.0303,Blocked,88.6,45.1,15,1,0,0,0,31.811475916719118,Outside box
+3942752,Kylian Mbappé Lottin,France,Unai Simón Mendibil,0.0812,Blocked,102.9,30.2,18,1,0,0,0,19.709134937891104,Penalty area edge
+3942752,Lamine Yamal Nasraoui Ebana,Spain,Mike Maignan,0.0268,Goal,93.2,47.1,20,1,1,0,1,27.724537868105212,Outside box
+3942752,Daniel Olmo Carvajal,Spain,Mike Maignan,0.0739,Goal,111.6,50.8,24,1,1,0,1,13.682105101189658,Penalty area close
+3942752,Fabián Ruiz Peña,Spain,Mike Maignan,0.0489,Blocked,99.7,39.5,35,1,0,0,0,20.306156701847836,Penalty area edge
+3942752,Lamine Yamal Nasraoui Ebana,Spain,Mike Maignan,0.0243,Blocked,97.7,49.9,39,1,0,0,0,24.39877046082445,Penalty area edge
+3942752,Aurélien Djani Tchouaméni,France,Unai Simón Mendibil,0.0811,Saved,111.9,37.4,52,2,0,1,1,8.507055894961542,6-yard box
+3942752,Kylian Mbappé Lottin,France,Unai Simón Mendibil,0.0371,Saved,111.3,24.4,55,2,0,1,1,17.861970775925037,Penalty area close
+3942752,Dayotchanculle Upamecano,France,Unai Simón Mendibil,0.0965,Off T,115.4,46.4,62,2,0,0,0,7.881624198095207,6-yard box
+3942752,Theo Bernard François Hernández,France,Unai Simón Mendibil,0.1217,Off T,103.1,34.5,75,2,0,0,0,17.77245059073172,Penalty area close
+3942752,Lamine Yamal Nasraoui Ebana,Spain,Mike Maignan,0.0544,Off T,100.4,51.7,80,2,0,0,0,22.82651966463569,Penalty area edge
+3942752,Kylian Mbappé Lottin,France,Unai Simón Mendibil,0.0996,Off T,104.1,29.6,85,2,0,0,0,18.999210509913304,Penalty area edge
+3942752,Antoine Griezmann,France,Unai Simón Mendibil,0.0318,Blocked,109.8,46.9,94,2,0,0,0,12.314625451064277,Penalty area close
+3942382,Memphis Depay,Netherlands,Fehmi Mert Günok,0.1305,Off T,103.7,33.2,0,1,0,0,0,17.66154013669249,Penalty area close
+3942382,Memphis Depay,Netherlands,Fehmi Mert Günok,0.064,Blocked,108.3,42.5,6,1,0,0,0,11.964113005150029,Penalty area close
+3942382,Salih Özcan,Turkey,Bart Verbruggen,0.0259,Off T,94.1,49.4,10,1,0,0,0,27.5530397597071,Outside box
+3942382,Xavi Simons,Netherlands,Fehmi Mert Günok,0.0392,Off T,95.1,32.8,11,1,0,0,0,25.920069444351423,Outside box
+3942382,Hakan Çalhanoğlu,Turkey,Bart Verbruggen,0.0188,Blocked,98.9,57.7,20,1,0,0,0,27.540878707840818,Outside box
+3942382,Abdülkerim Bardakcı,Turkey,Bart Verbruggen,0.1033,Off T,110.5,34.8,28,1,0,0,0,10.830050784737809,Penalty area close
+3942382,Arda Güler,Turkey,Bart Verbruggen,0.0063,Off T,99.3,66.6,31,1,0,0,0,33.70534082308025,Outside box
+3942382,Kenan Yildiz,Turkey,Bart Verbruggen,0.0199,Off T,105.0,22.8,33,1,0,0,0,22.8219192882632,Penalty area edge
+3942382,Samet Akaydin,Turkey,Bart Verbruggen,0.2457,Goal,117.9,35.1,34,1,1,0,1,5.331041174104732,6-yard box
+3942382,Steven Bergwijn,Netherlands,Fehmi Mert Günok,0.0255,Off T,93.2,50.5,41,1,0,0,0,28.783502219153245,Outside box
+3942382,Arda Güler,Turkey,Bart Verbruggen,0.0424,Saved to Post,90.2,45.9,55,2,0,0,0,30.378446306550963,Outside box
+3942382,Memphis Depay,Netherlands,Fehmi Mert Günok,0.0291,Saved,95.0,31.7,56,2,0,1,1,26.341791890454225,Outside box
+3942382,Memphis Depay,Netherlands,Fehmi Mert Günok,0.0387,Blocked,102.6,24.6,62,2,0,0,0,23.236178687555324,Penalty area edge
+3942382,Kenan Yildiz,Turkey,Bart Verbruggen,0.0384,Saved,97.4,42.2,64,2,0,1,1,22.706827167175952,Penalty area edge
+3942382,Cody Mathès Gakpo,Netherlands,Fehmi Mert Günok,0.0789,Blocked,110.5,37.0,69,2,0,0,0,9.962429422585638,6-yard box
+3942382,Wout Weghorst,Netherlands,Fehmi Mert Günok,0.1556,Saved,114.1,47.8,69,2,0,1,1,9.780081799248922,6-yard box
+3942382,Stefan de Vrij,Netherlands,Fehmi Mert Günok,0.0613,Goal,110.1,39.1,69,2,1,0,1,9.940824915468541,6-yard box
+3942382,Joey Veerman,Netherlands,Fehmi Mert Günok,0.0242,Blocked,95.1,28.0,74,2,0,0,0,27.64073081522991,Outside box
+3942382,Cenk Tosun,Turkey,Bart Verbruggen,0.0419,Off T,108.2,46.5,83,2,0,0,0,13.471822445385774,Penalty area close
+3942382,Mehmet Zeki Çelik,Turkey,Bart Verbruggen,0.2424,Blocked,110.5,50.7,84,2,0,0,0,14.308738588708652,Penalty area close
+3942382,Muhammed Kerem Aktürkoğlu,Turkey,Bart Verbruggen,0.0801,Blocked,110.2,29.0,84,2,0,0,0,14.732277488562316,Penalty area close
+3942382,Cenk Tosun,Turkey,Bart Verbruggen,0.078,Off T,111.3,34.1,87,2,0,0,0,10.511898020814321,Penalty area close
+3942382,Cody Mathès Gakpo,Netherlands,Fehmi Mert Günok,0.0719,Saved,106.9,25.8,88,2,0,1,1,19.319679086361653,Penalty area edge
+3942382,Muhammed Kerem Aktürkoğlu,Turkey,Bart Verbruggen,0.0954,Off T,115.1,30.4,89,2,0,0,0,10.778218776773835,Penalty area close
+3942382,Semih Kılıçsoy,Turkey,Bart Verbruggen,0.114,Saved,111.3,41.6,91,2,0,1,1,8.84590300647707,6-yard box
+3942382,Hakan Çalhanoğlu,Turkey,Bart Verbruggen,0.0301,Blocked,101.2,29.4,92,2,0,0,0,21.58240023723033,Penalty area edge
+3942349,Bruno Miguel Borges Fernandes,Portugal,Mike Maignan,0.0274,Blocked,92.5,32.9,15,1,0,0,0,28.401760508813535,Outside box
+3942349,Theo Bernard François Hernández,France,Diogo Meireles Costa,0.0177,Saved,91.4,26.7,19,1,0,1,1,31.541242841714396,Outside box
+3942349,Antoine Griezmann,France,Diogo Meireles Costa,0.01,Blocked,98.0,59.1,27,1,0,0,0,29.134343994674055,Outside box
+3942349,Eduardo Camavinga,France,Diogo Meireles Costa,0.0212,Off T,94.9,25.6,27,1,0,0,0,28.937346111901824,Outside box
+3942349,Bruno Miguel Borges Fernandes,Portugal,Mike Maignan,0.0395,Off T,93.9,26.0,41,1,0,0,0,29.617731175766988,Outside box
+3942349,Kylian Mbappé Lottin,France,Diogo Meireles Costa,0.0336,Saved,99.5,28.3,49,2,0,1,1,23.603813251252433,Penalty area edge
+3942349,Aurélien Djani Tchouaméni,France,Diogo Meireles Costa,0.0193,Blocked,89.5,30.2,50,2,0,0,0,32.03576126768334,Outside box
+3942349,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Mike Maignan,0.0477,Blocked,111.7,47.2,53,2,0,0,0,10.987720418721983,Penalty area close
+3942349,Bruno Miguel Borges Fernandes,Portugal,Mike Maignan,0.1345,Saved,109.3,52.1,60,2,0,1,1,16.152399202595262,Penalty area close
+3942349,João Pedro Cavaco Cancelo,Portugal,Mike Maignan,0.0526,Off T,105.7,52.8,60,2,0,0,0,19.191925385432278,Penalty area edge
+3942349,Aurélien Djani Tchouaméni,France,Diogo Meireles Costa,0.0062,Wayward,91.6,23.0,62,2,0,0,0,33.09924470437355,Outside box
+3942349,Vitor Machado Ferreira,Portugal,Mike Maignan,0.2649,Saved,110.4,32.9,62,2,0,1,1,11.940268003692376,Penalty area close
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Mike Maignan,0.1352,Saved,118.7,45.1,62,2,0,1,1,5.263078946776308,6-yard box
+3942349,Randal Kolo Muani,France,Diogo Meireles Costa,0.1166,Blocked,107.2,49.3,65,2,0,0,0,15.821820375671058,Penalty area close
+3942349,Kylian Mbappé Lottin,France,Diogo Meireles Costa,0.0222,Blocked,108.1,54.2,66,2,0,0,0,18.527007313648912,Penalty area edge
+3942349,Ousmane Dembélé,France,Diogo Meireles Costa,0.0107,Blocked,113.7,56.4,69,2,0,0,0,17.56843760839307,Penalty area close
+3942349,Eduardo Camavinga,France,Diogo Meireles Costa,0.2368,Post,114.8,50.0,69,2,0,0,0,11.271202242884298,Penalty area close
+3942349,Ousmane Dembélé,France,Diogo Meireles Costa,0.025,Post,99.1,57.0,73,2,0,0,0,26.94086115921316,Outside box
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Mike Maignan,0.0107,Blocked,99.5,61.1,84,2,0,0,0,29.418701534908028,Outside box
+3942349,Vitor Machado Ferreira,Portugal,Mike Maignan,0.0066,Blocked,88.0,22.7,85,2,0,0,0,36.37705320665763,Outside box
+3942349,N'Golo Kanté,France,Diogo Meireles Costa,0.0239,Saved,93.9,33.2,87,2,0,1,1,26.971281022598827,Outside box
+3942349,N'Golo Kanté,France,Diogo Meireles Costa,0.0524,Saved,96.4,33.1,88,2,0,1,1,24.588005205790886,Penalty area edge
+3942349,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Mike Maignan,0.051,Blocked,107.5,53.3,89,2,0,0,0,18.252123164169145,Penalty area edge
+3942349,Kylian Mbappé Lottin,France,Diogo Meireles Costa,0.0195,Off T,96.1,25.4,91,2,0,0,0,28.006606363499316,Outside box
+3942349,Kylian Mbappé Lottin,France,Diogo Meireles Costa,0.0481,Saved,99.9,39.0,92,2,0,1,1,20.124860247961966,Penalty area edge
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Mike Maignan,0.2695,Off T,111.4,42.7,92,3,0,0,0,9.01387818865997,6-yard box
+3942349,Kylian Mbappé Lottin,France,Diogo Meireles Costa,0.0661,Blocked,106.6,32.5,96,3,0,0,0,15.356106277308715,Penalty area close
+3942349,Marcus Thuram,France,Diogo Meireles Costa,0.1856,Off T,101.2,43.9,96,3,0,0,0,19.200260414900622,Penalty area edge
+3942349,Rafael Alexandre Conceição Leão,Portugal,Mike Maignan,0.1319,Blocked,109.9,35.7,101,3,0,0,0,10.97724920005007,Penalty area close
+3942349,Francisco Fernandes Conceição,Portugal,Mike Maignan,0.0216,Off T,103.0,56.4,104,3,0,0,0,23.621176939348302,Penalty area edge
+3942349,João Félix Sequeira,Portugal,Mike Maignan,0.0833,Off T,116.0,30.8,107,4,0,0,0,10.031948963187562,Penalty area close
+3942349,Ousmane Dembélé,France,Diogo Meireles Costa,0.0539,Off T,100.5,47.5,111,4,0,0,0,20.89258241577618,Penalty area edge
+3942349,Bradley Barcola,France,Diogo Meireles Costa,0.0595,Off T,114.4,28.4,113,4,0,0,0,12.880993750483693,Penalty area close
+3942349,Dayotchanculle Upamecano,France,Diogo Meireles Costa,0.039,Wayward,109.6,37.4,117,4,0,0,0,10.720074626605923,Penalty area close
+3942349,Nuno Mendes,Portugal,Mike Maignan,0.1324,Saved,103.1,38.3,119,4,0,1,1,16.985287751463034,Penalty area close
+3942349,Ousmane Dembélé,France,Diogo Meireles Costa,0.7835,Goal,108.1,40.1,120,5,1,0,1,11.900420160649796,Penalty area close
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Mike Maignan,0.7835,Goal,108.1,40.1,120,5,1,0,1,11.900420160649796,Penalty area close
+3942349,Youssouf Fofana,France,Diogo Meireles Costa,0.7835,Goal,108.1,40.1,121,5,1,0,1,11.900420160649796,Penalty area close
+3942349,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Mike Maignan,0.7835,Goal,108.1,40.1,122,5,1,0,1,11.900420160649796,Penalty area close
+3942349,Jules Koundé,France,Diogo Meireles Costa,0.7835,Goal,108.1,40.1,123,5,1,0,1,11.900420160649796,Penalty area close
+3942349,João Félix Sequeira,Portugal,Mike Maignan,0.7835,Post,108.1,40.1,124,5,0,0,0,11.900420160649796,Penalty area close
+3942349,Bradley Barcola,France,Diogo Meireles Costa,0.7835,Goal,108.1,40.1,125,5,1,0,1,11.900420160649796,Penalty area close
+3942349,Nuno Mendes,Portugal,Mike Maignan,0.7835,Goal,108.1,40.1,126,5,1,0,1,11.900420160649796,Penalty area close
+3942349,Theo Bernard François Hernández,France,Diogo Meireles Costa,0.7835,Goal,108.1,40.1,127,5,1,0,1,11.900420160649796,Penalty area close
+3930180,Tijjani Reijnders,Netherlands,Patrick Pentz,0.1426,Off T,106.5,38.9,13,1,0,0,0,13.544740676735012,Penalty area close
+3930180,Donyell Malen,Netherlands,Patrick Pentz,0.3508,Off T,105.6,32.9,22,1,0,0,0,16.05521722057974,Penalty area close
+3930180,Marcel Sabitzer,Austria,Bart Verbruggen,0.0553,Blocked,102.9,33.1,29,1,0,0,0,18.439631232755165,Penalty area edge
+3930180,Florian Grillitsch,Austria,Bart Verbruggen,0.0124,Saved,94.8,24.0,29,1,0,1,1,29.85029313088902,Outside box
+3930180,Tijjani Reijnders,Netherlands,Patrick Pentz,0.0446,Off T,95.2,44.7,33,1,0,0,0,25.241434190631875,Outside box
+3930180,Marcel Sabitzer,Austria,Bart Verbruggen,0.0235,Saved,97.9,25.3,36,1,0,1,1,26.54241887997399,Outside box
+3930180,Florian Grillitsch,Austria,Bart Verbruggen,0.0356,Blocked,101.1,31.8,37,1,0,0,0,20.602184350209086,Penalty area edge
+3930180,Marko Arnautović,Austria,Bart Verbruggen,0.4613,Saved,112.7,41.3,37,1,0,1,1,7.414849964766647,6-yard box
+3930180,Patrick Wimmer,Austria,Bart Verbruggen,0.058,Blocked,94.7,40.5,39,1,0,0,0,25.30494022913312,Outside box
+3930180,Jerdy Schouten,Netherlands,Patrick Pentz,0.072,Blocked,107.5,50.1,40,1,0,0,0,16.070469812671938,Penalty area close
+3930180,Memphis Depay,Netherlands,Patrick Pentz,0.3757,Post,114.9,35.9,40,1,0,0,0,6.543699259593151,6-yard box
+3930180,Florian Grillitsch,Austria,Bart Verbruggen,0.0996,Off T,111.8,41.6,46,1,0,0,0,8.354639429682173,6-yard box
+3930180,Cody Mathès Gakpo,Netherlands,Patrick Pentz,0.1261,Goal,107.4,30.2,46,2,1,0,1,15.962455951387927,Penalty area close
+3930180,Virgil van Dijk,Netherlands,Patrick Pentz,0.1408,Blocked,114.4,37.3,53,2,0,0,0,6.216912416947817,6-yard box
+3930180,Romano Schmid,Austria,Bart Verbruggen,0.1798,Goal,110.2,40.7,58,2,1,0,1,9.824968193332738,6-yard box
+3930180,Xavi Simons,Netherlands,Patrick Pentz,0.0204,Off T,74.0,47.8,72,2,0,0,0,46.65661796572915,Outside box
+3930180,Memphis Depay,Netherlands,Patrick Pentz,0.1218,Goal,109.7,37.5,74,2,1,0,1,10.599056561788881,Penalty area close
+3930180,Marcel Sabitzer,Austria,Bart Verbruggen,0.1324,Goal,114.9,29.1,79,2,1,0,1,12.034118164618457,Penalty area close
+3930180,Wout Weghorst,Netherlands,Patrick Pentz,0.0805,Off T,107.3,41.3,85,2,0,0,0,12.766362050325851,Penalty area close
+3930180,Memphis Depay,Netherlands,Patrick Pentz,0.0349,Blocked,111.2,25.1,94,2,0,0,0,17.304623659588785,Penalty area close
+3930171,Pierre-Emile Højbjerg,Denmark,Jordan Pickford,0.0258,Saved,97.1,27.4,0,1,0,1,1,26.13752092299498,Outside box
+3930171,Phil Foden,England,Kasper Schmeichel,0.1015,Off T,104.5,51.4,12,1,0,0,0,19.240841977418764,Penalty area edge
+3930171,Harry Kane,England,Kasper Schmeichel,0.0527,Blocked,97.3,38.5,16,1,0,0,0,22.749505489130968,Penalty area edge
+3930171,Harry Kane,England,Kasper Schmeichel,0.4549,Goal,112.9,40.4,17,1,1,0,1,7.111258679024404,6-yard box
+3930171,Christian Dannemann Eriksen,Denmark,Jordan Pickford,0.0189,Blocked,108.4,56.6,22,1,0,0,0,20.251419703319566,Penalty area edge
+3930171,Jonas Older Wind,Denmark,Jordan Pickford,0.061,Saved,112.3,34.5,24,1,0,1,1,9.462557793746893,6-yard box
+3930171,Christian Dannemann Eriksen,Denmark,Jordan Pickford,0.0397,Blocked,102.6,49.8,25,1,0,0,0,19.96997746618659,Penalty area edge
+3930171,Marc Guehi,England,Kasper Schmeichel,0.0217,Off T,115.3,53.4,27,1,0,0,0,14.200352108310554,Penalty area close
+3930171,Jonas Older Wind,Denmark,Jordan Pickford,0.038,Blocked,108.2,50.4,31,1,0,0,0,15.728954192825405,Penalty area close
+3930171,Morten Hjulmand,Denmark,Jordan Pickford,0.0194,Goal,88.6,40.7,33,1,1,0,1,31.407801578588725,Outside box
+3930171,Morten Hjulmand,Denmark,Jordan Pickford,0.0377,Blocked,97.2,49.3,37,1,0,0,0,24.62376900476448,Penalty area edge
+3930171,Joachim Andersen,Denmark,Jordan Pickford,0.0115,Off T,117.7,28.2,38,1,0,0,0,12.022063050907693,Penalty area close
+3930171,Phil Foden,England,Kasper Schmeichel,0.0252,Saved,94.2,31.4,40,1,0,1,1,27.19558787744806,Outside box
+3930171,Pierre-Emile Højbjerg,Denmark,Jordan Pickford,0.0211,Saved,93.1,54.1,43,1,0,1,1,30.37136809562586,Outside box
+3930171,Phil Foden,England,Kasper Schmeichel,0.0199,Off T,95.5,54.6,46,1,0,0,0,28.520343616443334,Outside box
+3930171,Jonas Older Wind,Denmark,Jordan Pickford,0.0451,Blocked,101.3,49.5,46,2,0,0,0,20.97474672075923,Penalty area edge
+3930171,Declan Rice,England,Kasper Schmeichel,0.0213,Saved,93.7,26.4,50,2,0,1,1,29.60827587010091,Outside box
+3930171,Bukayo Saka,England,Kasper Schmeichel,0.0616,Off T,115.1,49.3,52,2,0,0,0,10.51189802081432,Penalty area close
+3930171,Phil Foden,England,Kasper Schmeichel,0.0354,Post,96.8,51.3,55,2,0,0,0,25.805619543037523,Outside box
+3930171,Bukayo Saka,England,Kasper Schmeichel,0.2237,Off T,110.1,50.4,55,2,0,0,0,14.35862110371327,Penalty area close
+3930171,Bukayo Saka,England,Kasper Schmeichel,0.0404,Off T,103.9,55.8,58,2,0,0,0,22.557703783851753,Penalty area edge
+3930171,Christian Dannemann Eriksen,Denmark,Jordan Pickford,0.0269,Off T,93.3,45.6,63,2,0,0,0,27.28094573140748,Outside box
+3930171,Mikkel Damsgaard,Denmark,Jordan Pickford,0.0175,Saved,96.1,28.0,66,2,0,1,1,26.743410403312446,Outside box
+3930171,Ollie Watkins,England,Kasper Schmeichel,0.1143,Saved,115.0,51.1,70,2,0,1,1,12.174152947946729,Penalty area close
+3930171,Pierre-Emile Højbjerg,Denmark,Jordan Pickford,0.0226,Saved,89.7,32.2,72,2,0,1,1,31.287857069476647,Outside box
+3930171,Pierre-Emile Højbjerg,Denmark,Jordan Pickford,0.0109,Saved,85.4,47.2,76,2,0,1,1,35.34119409414458,Outside box
+3930171,Andreas Christensen,Denmark,Jordan Pickford,0.2926,Off T,113.5,39.7,83,2,0,0,0,6.506919393998976,6-yard box
+3930171,Pierre-Emile Højbjerg,Denmark,Jordan Pickford,0.0447,Off T,100.5,30.8,84,2,0,0,0,21.561307938063496,Penalty area edge
+3942226,Pedro González López,Spain,Manuel Neuer,0.1174,Saved,101.5,39.7,0,1,0,1,1,18.5024322725419,Penalty area edge
+3942226,Nicholas Williams Arthuer,Spain,Manuel Neuer,0.0219,Off T,91.9,28.7,11,1,0,0,0,30.286960890785984,Outside box
+3942226,Lamine Yamal Nasraoui Ebana,Spain,Manuel Neuer,0.0845,Off T,98.9,48.6,14,1,0,0,0,22.785302280198078,Penalty area edge
+3942226,Álvaro Borja Morata Martín,Spain,Manuel Neuer,0.0136,Blocked,100.2,21.9,15,1,0,0,0,26.82629307228265,Outside box
+3942226,Fabián Ruiz Peña,Spain,Manuel Neuer,0.0686,Off T,98.6,41.5,16,1,0,0,0,21.452505681155298,Penalty area edge
+3942226,Kai Havertz,Germany,Unai Simón Mendibil,0.0755,Saved,110.4,40.0,20,1,0,1,1,9.599999999999994,6-yard box
+3942226,Aymeric Laporte,Spain,Manuel Neuer,0.0209,Saved,95.6,23.8,22,1,0,1,1,29.288222889072667,Outside box
+3942226,Jonathan Tah,Germany,Unai Simón Mendibil,0.0215,Blocked,109.2,32.9,24,1,0,0,0,12.92478239662084,Penalty area close
+3942226,Kai Havertz,Germany,Unai Simón Mendibil,0.1543,Saved,102.7,39.0,34,1,0,1,1,17.32887763243771,Penalty area close
+3942226,Daniel Olmo Carvajal,Spain,Manuel Neuer,0.029,Saved,92.1,45.5,38,1,0,1,1,28.43694779683643,Outside box
+3942226,Lamine Yamal Nasraoui Ebana,Spain,Manuel Neuer,0.0271,Saved,89.1,49.3,44,1,0,1,1,32.26918034285966,Outside box
+3942226,Álvaro Borja Morata Martín,Spain,Manuel Neuer,0.1577,Off T,112.2,43.8,46,2,0,0,0,8.67640478539354,6-yard box
+3942226,Robert Andrich,Germany,Unai Simón Mendibil,0.0201,Off T,96.7,56.2,47,2,0,0,0,28.37833680820636,Outside box
+3942226,Daniel Olmo Carvajal,Spain,Manuel Neuer,0.1632,Goal,103.6,42.7,51,2,1,0,1,16.62077013859467,Penalty area close
+3942226,Jamal Musiala,Germany,Unai Simón Mendibil,0.0407,Blocked,98.6,44.9,54,2,0,0,0,21.953815158190622,Penalty area edge
+3942226,Nicholas Williams Arthuer,Spain,Manuel Neuer,0.1247,Wayward,107.4,52.1,54,2,0,0,0,17.4691156044031,Penalty area close
+3942226,Florian Wirtz,Germany,Unai Simón Mendibil,0.0281,Blocked,93.1,39.8,59,2,0,0,0,26.900743484149288,Outside box
+3942226,Niclas Füllkrug,Germany,Unai Simón Mendibil,0.0466,Off T,111.8,47.0,63,2,0,0,0,10.781465577554846,Penalty area close
+3942226,Robert Andrich,Germany,Unai Simón Mendibil,0.069,Saved,99.8,43.6,69,2,0,1,1,20.518284528683196,Penalty area edge
+3942226,Kai Havertz,Germany,Unai Simón Mendibil,0.0856,Blocked,108.8,33.1,71,2,0,0,0,13.154847015454038,Penalty area close
+3942226,Niclas Füllkrug,Germany,Unai Simón Mendibil,0.0784,Off T,110.7,39.3,71,2,0,0,0,9.326306878931229,6-yard box
+3942226,Niclas Füllkrug,Germany,Unai Simón Mendibil,0.1009,Post,109.2,42.6,76,2,0,0,0,11.10855526159905,Penalty area close
+3942226,Jamal Musiala,Germany,Unai Simón Mendibil,0.0606,Off T,111.0,25.7,80,2,0,0,0,16.89644933114647,Penalty area close
+3942226,Kai Havertz,Germany,Unai Simón Mendibil,0.0379,Off T,93.1,21.7,81,2,0,0,0,32.53459696999489,Outside box
+3942226,Fabián Ruiz Peña,Spain,Manuel Neuer,0.0498,Off T,96.6,34.4,83,2,0,0,0,24.060756430336937,Penalty area edge
+3942226,Maximilian Mittelstädt,Germany,Unai Simón Mendibil,0.0403,Blocked,97.2,39.1,87,2,0,0,0,22.8177562437677,Penalty area edge
+3942226,Florian Wirtz,Germany,Unai Simón Mendibil,0.1196,Goal,111.8,45.5,88,2,1,0,1,9.873702446397706,6-yard box
+3942226,Thomas Müller,Germany,Unai Simón Mendibil,0.2374,Off T,113.2,43.6,93,2,0,0,0,7.694153624668536,6-yard box
+3942226,Ferrán Torres García,Spain,Manuel Neuer,0.0519,Wayward,106.6,43.2,90,3,0,0,0,13.776792079435625,Penalty area close
+3942226,Mikel Oyarzabal Ugarte,Spain,Manuel Neuer,0.0267,Blocked,98.2,43.0,94,3,0,0,0,22.00545386943882,Penalty area edge
+3942226,Daniel Olmo Carvajal,Spain,Manuel Neuer,0.0189,Blocked,103.5,24.3,96,3,0,0,0,22.77586441828279,Penalty area edge
+3942226,Robert Andrich,Germany,Unai Simón Mendibil,0.0269,Off T,100.7,50.7,100,3,0,0,0,22.06762334280699,Penalty area edge
+3942226,Mikel Oyarzabal Ugarte,Spain,Manuel Neuer,0.0221,Off T,96.8,54.8,103,3,0,0,0,27.518720900506985,Outside box
+3942226,Florian Wirtz,Germany,Unai Simón Mendibil,0.1075,Off T,102.4,36.0,105,3,0,0,0,18.04882267628556,Penalty area edge
+3942226,Jamal Musiala,Germany,Unai Simón Mendibil,0.0491,Blocked,100.3,44.6,105,4,0,0,0,20.229928324143913,Penalty area edge
+3942226,Niclas Füllkrug,Germany,Unai Simón Mendibil,0.0458,Off T,104.6,29.1,108,4,0,0,0,18.86716724895394,Penalty area edge
+3942226,Mikel Oyarzabal Ugarte,Spain,Manuel Neuer,0.0423,Off T,97.5,44.3,111,4,0,0,0,22.90720410700529,Penalty area edge
+3942226,Niclas Füllkrug,Germany,Unai Simón Mendibil,0.0523,Saved,108.4,43.4,116,4,0,1,1,12.088010589009254,Penalty area close
+3942226,Mikel Merino Zazón,Spain,Manuel Neuer,0.2007,Goal,112.6,39.2,118,4,1,0,1,7.443117626371364,6-yard box
+3942226,Joshua Kimmich,Germany,Unai Simón Mendibil,0.045,Blocked,98.8,45.3,121,4,0,0,0,21.852459815773603,Penalty area edge
+3942226,Ferrán Torres García,Spain,Manuel Neuer,0.2932,Wayward,111.5,50.9,121,4,0,0,0,13.822445514452209,Penalty area close
+3942226,Niclas Füllkrug,Germany,Unai Simón Mendibil,0.0859,Off T,110.1,42.4,122,4,0,0,0,10.186756107809792,Penalty area close
+3938645,Romelu Lukaku Menama,Belgium,Anatolii Trubin,0.2745,Saved,110.8,30.7,6,1,0,1,1,13.08166656049603,Penalty area close
+3938645,Roman Yaremchuk,Ukraine,Koen Casteels,0.0309,Saved,91.1,43.1,19,1,0,1,1,29.065787448476264,Outside box
+3938645,Artem Dovbyk,Ukraine,Koen Casteels,0.0403,Off T,94.9,34.0,20,1,0,0,0,25.80716954646518,Outside box
+3938645,Arthur Theate,Belgium,Anatolii Trubin,0.0082,Off T,94.4,19.7,22,1,0,0,0,32.67185332973934,Outside box
+3938645,Volodymyr Brazhko,Ukraine,Koen Casteels,0.018,Blocked,91.9,51.3,25,1,0,0,0,30.28696089078598,Outside box
+3938645,Georgiy Sudakov,Ukraine,Koen Casteels,0.0463,Off T,95.9,37.0,26,1,0,0,0,24.28600419995022,Penalty area edge
+3938645,Roman Yaremchuk,Ukraine,Koen Casteels,0.1022,Off T,111.3,37.0,28,1,0,0,0,9.202716990106783,6-yard box
+3938645,Kevin De Bruyne,Belgium,Anatolii Trubin,0.0058,Off T,88.1,69.5,32,1,0,0,0,43.449510929353394,Outside box
+3938645,Georgiy Sudakov,Ukraine,Koen Casteels,0.05,Saved,104.2,29.9,33,1,0,1,1,18.75233318816621,Penalty area edge
+3938645,Georgiy Sudakov,Ukraine,Koen Casteels,0.0075,Saved,89.8,17.6,43,1,0,1,1,37.60053191113126,Outside box
+3938645,Kevin De Bruyne,Belgium,Anatolii Trubin,0.027,Saved,100.3,24.5,45,1,0,1,1,25.06671099286861,Outside box
+3938645,Youri Tielemans,Belgium,Anatolii Trubin,0.0209,Blocked,96.3,25.6,51,2,0,0,0,27.731750756127898,Outside box
+3938645,Youri Tielemans,Belgium,Anatolii Trubin,0.0338,Blocked,98.2,46.6,51,2,0,0,0,22.777181564012697,Penalty area edge
+3938645,Jeremy Doku,Belgium,Anatolii Trubin,0.0461,Blocked,100.3,45.7,54,2,0,0,0,20.50804720103794,Penalty area edge
+3938645,Romelu Lukaku Menama,Belgium,Anatolii Trubin,0.0328,Saved,105.3,54.2,64,2,0,1,1,20.438444167793207,Penalty area edge
+3938645,Yannick Ferreira Carrasco,Belgium,Anatolii Trubin,0.0651,Saved,102.0,34.5,72,2,0,1,1,18.82153022471871,Penalty area edge
+3938645,Jeremy Doku,Belgium,Anatolii Trubin,0.0495,Blocked,101.9,39.2,72,2,0,0,0,18.117670931993434,Penalty area edge
+3938645,Artem Dovbyk,Ukraine,Koen Casteels,0.0542,Blocked,116.1,30.6,74,2,0,0,0,10.176934705499491,Penalty area close
+3938645,Artem Dovbyk,Ukraine,Koen Casteels,0.0341,Off T,108.5,53.2,78,2,0,0,0,17.506855799943065,Penalty area close
+3938645,Ruslan Malinovskiy,Ukraine,Koen Casteels,0.0002,Saved,119.0,79.3,82,2,0,1,1,39.31272058761642,Outside box
+3938645,Taras Stepanenko,Ukraine,Koen Casteels,0.067,Off T,112.4,45.3,82,2,0,0,0,9.265527507918796,6-yard box
+3938645,Andriy Yarmolenko,Ukraine,Koen Casteels,0.0153,Blocked,94.1,50.8,84,2,0,0,0,28.061539515856936,Outside box
+3938645,Johan Bakayoko,Belgium,Anatolii Trubin,0.0633,Off T,103.2,48.4,86,2,0,0,0,18.782971010998228,Penalty area edge
+3938645,Ruslan Malinovskiy,Ukraine,Koen Casteels,0.0625,Blocked,97.8,42.7,87,2,0,0,0,22.363586474445466,Penalty area edge
+3938645,Georgiy Sudakov,Ukraine,Koen Casteels,0.1808,Saved,104.4,44.6,90,2,0,1,1,16.264070831129573,Penalty area close
+3938645,Yannick Ferreira Carrasco,Belgium,Anatolii Trubin,0.007,Blocked,108.7,18.4,92,2,0,0,0,24.37724348649781,Penalty area edge
+3930184,Lukáš Provod,Czech Republic,Fehmi Mert Günok,0.0318,Saved,99.4,27.2,1,1,0,1,1,24.252834885843754,Penalty area edge
+3930184,Kenan Yildiz,Turkey,Matěj Kovář,0.0087,Blocked,112.6,21.5,6,1,0,0,0,19.925109786397666,Penalty area edge
+3930184,Arda Güler,Turkey,Matěj Kovář,0.0266,Off T,90.5,37.1,12,1,0,0,0,29.642199648474133,Outside box
+3930184,David Jurásek,Czech Republic,Fehmi Mert Günok,0.0066,Saved,80.6,30.1,14,1,0,1,1,40.624746153053074,Outside box
+3930184,Robin Hranáč,Czech Republic,Fehmi Mert Günok,0.2579,Off T,113.5,37.1,16,1,0,0,0,7.117583859709697,6-yard box
+3930184,Robin Hranáč,Czech Republic,Fehmi Mert Günok,0.0792,Blocked,112.5,35.8,22,1,0,0,0,8.595929269136644,6-yard box
+3930184,Kenan Yildiz,Turkey,Matěj Kovář,0.034,Blocked,111.7,25.6,26,1,0,0,0,16.620770138594658,Penalty area close
+3930184,Arda Güler,Turkey,Matěj Kovář,0.1748,Blocked,112.9,36.9,26,1,0,0,0,7.747257579298621,6-yard box
+3930184,Samet Akaydin,Turkey,Matěj Kovář,0.0753,Off T,113.2,33.9,27,1,0,0,0,9.135097153287422,6-yard box
+3930184,Hakan Çalhanoğlu,Turkey,Matěj Kovář,0.0118,Blocked,114.8,55.0,41,1,0,0,0,15.875767697972908,Penalty area close
+3930184,Hakan Çalhanoğlu,Turkey,Matěj Kovář,0.0106,Off T,98.6,58.7,42,1,0,0,0,28.419183661745112,Outside box
+3930184,David Jurásek,Czech Republic,Fehmi Mert Günok,0.0731,Saved,110.3,23.8,44,1,0,1,1,18.88200201249857,Penalty area edge
+3930184,Arda Güler,Turkey,Matěj Kovář,0.0392,Off T,98.0,49.4,48,1,0,0,0,23.924046480476502,Penalty area edge
+3930184,Barış Alper Yılmaz,Turkey,Matěj Kovář,0.0486,Saved,115.1,50.8,45,2,0,1,1,11.859595271340417,Penalty area close
+3930184,Kenan Yildiz,Turkey,Matěj Kovář,0.0397,Off T,99.6,29.5,46,2,0,0,0,22.943626565998677,Penalty area edge
+3930184,Adam Hložek,Czech Republic,Fehmi Mert Günok,0.0327,Saved,99.0,48.6,49,2,0,1,1,22.69273011340857,Penalty area edge
+3930184,Kenan Yildiz,Turkey,Matěj Kovář,0.1032,Blocked,106.4,37.9,50,2,0,0,0,13.761177275218856,Penalty area close
+3930184,Kenan Yildiz,Turkey,Matěj Kovář,0.1287,Saved,109.4,42.3,50,2,0,1,1,10.846658471621566,Penalty area close
+3930184,İsmail Yüksek,Turkey,Matěj Kovář,0.0459,Blocked,98.8,38.1,50,2,0,0,0,21.284971223847123,Penalty area edge
+3930184,Hakan Çalhanoğlu,Turkey,Matěj Kovář,0.0712,Goal,109.2,26.0,50,2,1,0,1,17.681628884240272,Penalty area close
+3930184,Ladislav Krejčí,Czech Republic,Fehmi Mert Günok,0.0508,Saved,114.8,49.8,63,2,0,1,1,11.094142598686929,Penalty area close
+3930184,Tomáš Chorý,Czech Republic,Fehmi Mert Günok,0.5512,Blocked,116.0,44.0,65,2,0,0,0,5.656854249492381,6-yard box
+3930184,Tomáš Souček,Czech Republic,Fehmi Mert Günok,0.1198,Goal,113.6,46.4,65,2,1,0,1,9.05096679918781,6-yard box
+3930184,Kenan Yildiz,Turkey,Matěj Kovář,0.1691,Blocked,111.8,34.4,72,2,0,0,0,9.929753269845131,6-yard box
+3930184,Ondřej Lingr,Czech Republic,Fehmi Mert Günok,0.106,Wayward,111.9,32.5,79,2,0,0,0,11.039021695784456,Penalty area close
+3930184,Ondřej Lingr,Czech Republic,Fehmi Mert Günok,0.0745,Off T,112.7,34.1,79,2,0,0,0,9.386160024205848,6-yard box
+3930184,Okay Yokuşlu,Turkey,Matěj Kovář,0.0405,Off T,95.4,36.3,86,2,0,0,0,24.8766959220874,Penalty area edge
+3930184,Matěj Jurásek,Czech Republic,Fehmi Mert Günok,0.0266,Blocked,98.5,28.7,90,2,0,0,0,24.288680491125902,Penalty area edge
+3930184,Barış Alper Yılmaz,Turkey,Matěj Kovář,0.1038,Saved,99.1,45.5,91,2,0,1,1,21.611570974827355,Penalty area edge
+3930184,Cenk Tosun,Turkey,Matěj Kovář,0.086,Goal,105.3,34.5,93,2,1,0,1,15.695222202950811,Penalty area close
+3941022,Merih Demiral,Turkey,Patrick Pentz,0.4581,Goal,115.8,39.0,0,1,1,0,1,4.317406628984584,6-yard box
+3941022,Christoph Baumgartner,Austria,Fehmi Mert Günok,0.0433,Off T,101.4,51.9,2,1,0,0,0,22.08098729676732,Penalty area edge
+3941022,Philipp Lienhart,Austria,Fehmi Mert Günok,0.1209,Off T,115.8,47.4,6,1,0,0,0,8.508818954473059,6-yard box
+3941022,Marcel Sabitzer,Austria,Fehmi Mert Günok,0.0428,Blocked,89.9,35.2,11,1,0,0,0,30.480321520613913,Outside box
+3941022,Philipp Lienhart,Austria,Fehmi Mert Günok,0.0603,Blocked,103.8,36.1,11,1,0,0,0,16.662832892398583,Penalty area close
+3941022,Arda Güler,Turkey,Patrick Pentz,0.0071,Off T,59.0,42.3,18,1,0,0,0,61.04334525564601,Outside box
+3941022,Merih Demiral,Turkey,Patrick Pentz,0.104,Off T,115.8,45.8,24,1,0,0,0,7.161005515987261,6-yard box
+3941022,Marcel Sabitzer,Austria,Fehmi Mert Günok,0.0082,Blocked,93.9,22.4,32,1,0,0,0,31.479675983084704,Outside box
+3941022,Christoph Baumgartner,Austria,Fehmi Mert Günok,0.1687,Off T,111.4,45.6,45,1,0,0,0,10.262553288533995,Penalty area close
+3941022,Michael Gregoritsch,Austria,Fehmi Mert Günok,0.0427,Off T,107.7,35.0,49,2,0,0,0,13.27742444904131,Penalty area close
+3941022,Marko Arnautović,Austria,Fehmi Mert Günok,0.2986,Saved,110.1,44.6,50,2,0,1,1,10.916501271011704,Penalty area close
+3941022,Konrad Laimer,Austria,Fehmi Mert Günok,0.1059,Off T,103.9,38.4,52,2,0,0,0,16.179307772584085,Penalty area close
+3941022,Stefan Posch,Austria,Fehmi Mert Günok,0.0653,Blocked,108.2,50.3,53,2,0,0,0,15.663013758533186,Penalty area close
+3941022,Ferdi Erenay Kadıoğlu,Turkey,Patrick Pentz,0.0507,Blocked,109.5,25.2,56,2,0,0,0,18.1463494951464,Penalty area edge
+3941022,Merih Demiral,Turkey,Patrick Pentz,0.1548,Goal,116.9,44.8,58,2,1,0,1,5.714017850864655,6-yard box
+3941022,Stefan Posch,Austria,Fehmi Mert Günok,0.1162,Wayward,113.1,41.9,65,2,0,0,0,7.156814934033161,6-yard box
+3941022,Michael Gregoritsch,Austria,Fehmi Mert Günok,0.5777,Goal,116.2,36.5,65,2,1,0,1,5.166236541235794,6-yard box
+3941022,Michael Gregoritsch,Austria,Fehmi Mert Günok,0.0986,Saved,109.4,39.1,68,2,0,1,1,10.638138934982937,Penalty area close
+3941022,Florian Grillitsch,Austria,Fehmi Mert Günok,0.0241,Blocked,96.4,47.7,73,2,0,0,0,24.824383174612812,Penalty area edge
+3941022,Florian Grillitsch,Austria,Fehmi Mert Günok,0.0247,Saved,94.4,51.1,74,2,0,1,1,27.902867236182015,Outside box
+3941022,Marko Arnautović,Austria,Fehmi Mert Günok,0.0304,Blocked,96.7,38.5,74,2,0,0,0,23.348233337878046,Penalty area edge
+3941022,Marcel Sabitzer,Austria,Fehmi Mert Günok,0.0297,Wayward,99.8,52.9,83,2,0,0,0,23.967686580060246,Penalty area edge
+3941022,Christoph Baumgartner,Austria,Fehmi Mert Günok,0.2429,Off T,114.1,37.5,83,2,0,0,0,6.407807737440322,6-yard box
+3941022,Christoph Baumgartner,Austria,Fehmi Mert Günok,0.0522,Off T,110.5,43.6,85,2,0,0,0,10.159232254457027,Penalty area close
+3941022,Michael Gregoritsch,Austria,Fehmi Mert Günok,0.1014,Blocked,112.6,42.5,90,2,0,0,0,7.810889834071409,6-yard box
+3941022,Barış Alper Yılmaz,Turkey,Patrick Pentz,0.1079,Saved,102.8,35.9,93,2,0,1,1,17.68191166135608,Penalty area close
+3941022,Christoph Baumgartner,Austria,Fehmi Mert Günok,0.2324,Saved,113.9,42.7,94,2,0,1,1,6.670832032063163,6-yard box
+3941021,Xavi Simons,Netherlands,Florin Constantin Niţă,0.0083,Saved,95.3,18.1,5,1,0,1,1,33.01060435678208,Outside box
+3941021,Dennis Man,Romania,Bart Verbruggen,0.0392,Off T,99.0,48.2,13,1,0,0,0,22.544178849538966,Penalty area edge
+3941021,Stefan de Vrij,Netherlands,Florin Constantin Niţă,0.0797,Blocked,111.8,40.0,16,1,0,0,0,8.200000000000003,6-yard box
+3941021,Nathan Aké,Netherlands,Florin Constantin Niţă,0.0332,Wayward,108.7,35.3,17,1,0,0,0,12.238463955905576,Penalty area close
+3941021,Cody Mathès Gakpo,Netherlands,Florin Constantin Niţă,0.047,Goal,107.5,24.9,19,1,1,0,1,19.602550854416883,Penalty area edge
+3941021,Ianis Hagi,Romania,Bart Verbruggen,0.0072,Off T,96.2,17.6,20,1,0,0,0,32.6833290838005,Outside box
+3941021,Dennis Man,Romania,Bart Verbruggen,0.1089,Off T,107.9,38.5,23,1,0,0,0,12.192620719107104,Penalty area close
+3941021,Tijjani Reijnders,Netherlands,Florin Constantin Niţă,0.0529,Blocked,101.2,41.1,25,1,0,0,0,18.83215335536539,Penalty area edge
+3941021,Stefan de Vrij,Netherlands,Florin Constantin Niţă,0.0657,Off T,112.9,46.5,25,1,0,0,0,9.6260064408871,6-yard box
+3941021,Memphis Depay,Netherlands,Florin Constantin Niţă,0.0002,Off T,119.2,79.2,42,1,0,0,0,39.208162415497114,Outside box
+3941021,Xavi Simons,Netherlands,Florin Constantin Niţă,0.1424,Off T,110.1,39.2,43,1,0,0,0,9.932270636667132,6-yard box
+3941021,Denis Mihai Drăguş,Romania,Bart Verbruggen,0.0568,Saved,99.5,38.3,46,1,0,1,1,20.57036703610317,Penalty area edge
+3941021,Tijjani Reijnders,Netherlands,Florin Constantin Niţă,0.0958,Blocked,101.2,41.0,49,2,0,0,0,18.826576959181928,Penalty area edge
+3941021,Donyell Malen,Netherlands,Florin Constantin Niţă,0.1458,Off T,113.0,42.2,49,2,0,0,0,7.3375745311376575,6-yard box
+3941021,Donyell Malen,Netherlands,Florin Constantin Niţă,0.223,Wayward,110.6,49.7,53,2,0,0,0,13.50740537631118,Penalty area close
+3941021,Memphis Depay,Netherlands,Florin Constantin Niţă,0.308,Blocked,114.0,38.3,53,2,0,0,0,6.236184731067547,6-yard box
+3941021,Tijjani Reijnders,Netherlands,Florin Constantin Niţă,0.0363,Off T,96.4,38.6,56,2,0,0,0,23.641488954801467,Penalty area edge
+3941021,Virgil van Dijk,Netherlands,Florin Constantin Niţă,0.0659,Post,109.6,39.8,57,2,0,0,0,10.40192289915668,Penalty area close
+3941021,Cody Mathès Gakpo,Netherlands,Florin Constantin Niţă,0.1117,Saved,112.5,27.9,58,2,0,1,1,14.235870187663275,Penalty area close
+3941021,Denis Mihai Drăguş,Romania,Bart Verbruggen,0.0557,Blocked,104.2,47.5,59,2,0,0,0,17.48971126119582,Penalty area close
+3941021,Cody Mathès Gakpo,Netherlands,Florin Constantin Niţă,0.0472,Saved,97.1,47.3,61,2,0,1,1,24.03539057306954,Penalty area edge
+3941021,Nathan Aké,Netherlands,Florin Constantin Niţă,0.0737,Wayward,111.4,47.2,62,2,0,0,0,11.21605991424796,Penalty area close
+3941021,Memphis Depay,Netherlands,Florin Constantin Niţă,0.0616,Off T,94.3,33.1,67,2,0,0,0,26.610148440021902,Outside box
+3941021,Joey Veerman,Netherlands,Florin Constantin Niţă,0.1171,Off T,114.2,28.3,72,2,0,0,0,13.058713566044702,Penalty area close
+3941021,Memphis Depay,Netherlands,Florin Constantin Niţă,0.0285,Blocked,108.3,25.7,78,2,0,0,0,18.476471524617466,Penalty area edge
+3941021,Cody Mathès Gakpo,Netherlands,Florin Constantin Niţă,0.0623,Blocked,106.1,51.7,79,2,0,0,0,18.168654325513497,Penalty area edge
+3941021,Donyell Malen,Netherlands,Florin Constantin Niţă,0.3983,Goal,115.6,36.0,82,2,1,0,1,5.946427498927406,6-yard box
+3941021,Memphis Depay,Netherlands,Florin Constantin Niţă,0.0703,Off T,112.2,27.4,84,2,0,0,0,14.818906842274163,Penalty area close
+3941021,Donyell Malen,Netherlands,Florin Constantin Niţă,0.3514,Goal,104.2,33.2,92,2,1,0,1,17.201162751395614,Penalty area close
+3941020,Rúben Santos Gato Alves Dias,Portugal,Jan Oblak,0.0489,Off T,114.4,52.5,4,1,0,0,0,13.697079980784222,Penalty area close
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.071,Saved,111.7,41.6,30,1,0,1,1,8.452810183601661,6-yard box
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.0835,Off T,96.9,35.6,33,1,0,0,0,23.515314159075142,Penalty area edge
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.0067,Off T,105.0,10.5,38,1,0,0,0,33.094561486745825,Outside box
+3941020,Benjamin Šeško,Slovenia,Diogo Meireles Costa,0.0321,Saved,89.8,31.3,43,1,0,1,1,31.42817207538485,Outside box
+3941020,Jaka Bijol,Slovenia,Diogo Meireles Costa,0.036,Off T,116.0,29.4,44,1,0,0,0,11.329607230614839,Penalty area close
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Jan Oblak,0.0676,Off T,98.7,40.3,47,1,0,0,0,21.302112571292074,Penalty area edge
+3941020,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Jan Oblak,0.0615,Off T,105.5,48.4,46,2,0,0,0,16.757386431063765,Penalty area close
+3941020,Timi Elšnik,Slovenia,Diogo Meireles Costa,0.0308,Saved Off Target,111.7,25.4,48,2,0,0,0,16.794344286098223,Penalty area close
+3941020,Vitor Machado Ferreira,Portugal,Jan Oblak,0.0064,Blocked,91.9,22.4,51,2,0,0,0,33.15674893592554,Outside box
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.0759,Saved,95.8,44.3,54,2,0,1,1,24.579056125083405,Penalty area edge
+3941020,Vitor Machado Ferreira,Portugal,Jan Oblak,0.0892,Blocked,106.5,42.7,56,2,0,0,0,13.76735268670052,Penalty area close
+3941020,Vitor Machado Ferreira,Portugal,Jan Oblak,0.0521,Blocked,100.8,38.4,57,2,0,0,0,19.266551326067674,Penalty area edge
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Jan Oblak,0.0374,Wayward,107.5,45.5,58,2,0,0,0,13.656500283747663,Penalty area close
+3941020,Adam Gnezda Čerin,Slovenia,Diogo Meireles Costa,0.021,Off T,99.4,27.1,58,2,0,0,0,24.305760634055453,Penalty area edge
+3941020,Benjamin Šeško,Slovenia,Diogo Meireles Costa,0.2514,Off T,104.4,30.4,60,2,0,0,0,18.317205026968495,Penalty area edge
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.0294,Off T,88.9,37.9,71,2,0,0,0,31.170819687650173,Outside box
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.0934,Saved,108.9,27.4,88,2,0,1,1,16.79196236298783,Penalty area close
+3941020,Bruno Miguel Borges Fernandes,Portugal,Jan Oblak,0.0052,Blocked,86.6,24.3,91,3,0,0,0,36.90596157804319,Outside box
+3941020,Benjamin Verbič,Slovenia,Diogo Meireles Costa,0.045,Blocked,96.9,33.5,94,3,0,0,0,23.99708315608378,Penalty area edge
+3941020,Jon Gorenc Stankovič,Slovenia,Diogo Meireles Costa,0.0391,Off T,101.4,50.6,95,3,0,0,0,21.408409562599456,Penalty area edge
+3941020,Diogo José Teixeira da Silva,Portugal,Jan Oblak,0.0745,Saved,112.9,46.6,99,3,0,1,1,9.693812459502192,6-yard box
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.7835,Saved to Post,108.1,40.1,104,3,0,0,0,11.900420160649796,Penalty area close
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Jan Oblak,0.0504,Saved,107.5,47.3,107,4,0,1,1,14.475496537252184,Penalty area close
+3941020,Kléper Laveran Lima Ferreira,Portugal,Jan Oblak,0.0506,Blocked,111.3,45.2,107,4,0,0,0,10.135580891098451,Penalty area close
+3941020,Josip Iličić,Slovenia,Diogo Meireles Costa,0.0453,Blocked,95.3,28.0,111,4,0,0,0,27.46069918993324,Outside box
+3941020,Benjamin Šeško,Slovenia,Diogo Meireles Costa,0.1759,Saved,98.6,32.8,114,4,0,1,1,22.57875107263465,Penalty area edge
+3941020,Žan Celar,Slovenia,Diogo Meireles Costa,0.039,Wayward,93.7,32.8,114,4,0,0,0,27.267746514884575,Outside box
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.0226,Blocked,107.5,34.4,119,4,0,0,0,13.697079980784226,Penalty area close
+3941020,Rúben Diogo Da Silva Neves,Portugal,Jan Oblak,0.0115,Off T,86.6,41.9,119,4,0,0,0,33.45399826627604,Outside box
+3941020,Josip Iličić,Slovenia,Diogo Meireles Costa,0.7835,Saved,108.1,40.1,120,5,0,1,1,11.900420160649796,Penalty area close
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Jan Oblak,0.7835,Goal,108.1,40.1,120,5,1,0,1,11.900420160649796,Penalty area close
+3941020,Jure Balkovec,Slovenia,Diogo Meireles Costa,0.7835,Saved,108.1,40.1,121,5,0,1,1,11.900420160649796,Penalty area close
+3941020,Bruno Miguel Borges Fernandes,Portugal,Jan Oblak,0.7835,Goal,108.2,40.1,122,5,1,0,1,11.800423721205943,Penalty area close
+3941020,Benjamin Verbič,Slovenia,Diogo Meireles Costa,0.7835,Saved,108.1,40.1,123,5,0,1,1,11.900420160649796,Penalty area close
+3941020,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Jan Oblak,0.7835,Goal,108.1,40.1,124,5,1,0,1,11.900420160649796,Penalty area close
+3941018,Fabián Ruiz Peña,Spain,Giorgi Mamardashvili,0.034,Blocked,95.1,40.3,1,1,0,0,0,24.901807163336567,Penalty area edge
+3941018,Pedro González López,Spain,Giorgi Mamardashvili,0.2088,Saved,109.5,47.0,4,1,0,1,1,12.619429464123963,Penalty area close
+3941018,Fabián Ruiz Peña,Spain,Giorgi Mamardashvili,0.0355,Blocked,110.9,32.9,5,1,0,0,0,11.542096863222033,Penalty area close
+3941018,Daniel Carvajal Ramos,Spain,Giorgi Mamardashvili,0.0477,Saved,113.4,30.1,9,1,0,1,1,11.898319209031161,Penalty area close
+3941018,Nicholas Williams Arthuer,Spain,Giorgi Mamardashvili,0.0463,Blocked,100.2,33.1,10,1,0,0,0,20.96783250600786,Penalty area edge
+3941018,Fabián Ruiz Peña,Spain,Giorgi Mamardashvili,0.0682,Blocked,103.6,48.1,12,1,0,0,0,18.291254740995768,Penalty area edge
+3941018,Nicholas Williams Arthuer,Spain,Giorgi Mamardashvili,0.0286,Blocked,109.8,23.8,12,1,0,0,0,19.143667360252582,Penalty area edge
+3941018,Aymeric Laporte,Spain,Giorgi Mamardashvili,0.051,Blocked,111.8,34.6,15,1,0,0,0,9.818350166906864,6-yard box
+3941018,Fabián Ruiz Peña,Spain,Giorgi Mamardashvili,0.0306,Saved,103.7,54.8,21,1,0,1,1,22.01658465793457,Penalty area edge
+3941018,Rodrigo Hernández Cascante,Spain,Giorgi Mamardashvili,0.0168,Blocked,87.6,30.5,25,1,0,0,0,33.76403411916296,Outside box
+3941018,Pedro González López,Spain,Giorgi Mamardashvili,0.0623,Off T,102.1,31.3,26,1,0,0,0,19.902261178067185,Penalty area edge
+3941018,Aymeric Laporte,Spain,Giorgi Mamardashvili,0.0068,Off T,86.4,29.1,28,1,0,0,0,35.32378801884078,Outside box
+3941018,Giorgi Kochorashvili,Georgia,Unai Simón Mendibil,0.0507,Blocked,99.6,43.4,29,1,0,0,0,20.681392603013954,Penalty area edge
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Giorgi Mamardashvili,0.031,Blocked,94.3,48.5,30,1,0,0,0,27.069170655932556,Outside box
+3941018,Marc Cucurella Saseta,Spain,Giorgi Mamardashvili,0.0156,Saved,96.3,28.4,34,1,0,1,1,26.386549603917526,Outside box
+3941018,Nicholas Williams Arthuer,Spain,Giorgi Mamardashvili,0.0421,Saved,113.4,27.4,37,1,0,1,1,14.223923509355636,Penalty area close
+3941018,Rodrigo Hernández Cascante,Spain,Giorgi Mamardashvili,0.0665,Goal,102.1,36.2,38,1,1,0,1,18.29890707118871,Penalty area edge
+3941018,Giorgi Kochorashvili,Georgia,Unai Simón Mendibil,0.0041,Off T,53.8,38.5,40,1,0,0,0,66.2169917770356,Outside box
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Giorgi Mamardashvili,0.0157,Blocked,92.7,49.6,46,1,0,0,0,28.938728375656037,Outside box
+3941018,Fabián Ruiz Peña,Spain,Giorgi Mamardashvili,0.0597,Off T,96.2,46.3,45,2,0,0,0,24.61970755309656,Penalty area edge
+3941018,Khvicha Kvaratskhelia,Georgia,Unai Simón Mendibil,0.0056,Off T,57.4,28.1,47,2,0,0,0,63.72103263444497,Outside box
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Giorgi Mamardashvili,0.0836,Saved,99.6,43.0,50,2,0,1,1,20.619408332927506,Penalty area edge
+3941018,Fabián Ruiz Peña,Spain,Giorgi Mamardashvili,0.2991,Goal,115.6,35.6,50,2,1,0,1,6.222539674441622,6-yard box
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Giorgi Mamardashvili,0.0762,Off T,101.0,47.7,52,2,0,0,0,20.500975586542218,Penalty area edge
+3941018,Álvaro Borja Morata Martín,Spain,Giorgi Mamardashvili,0.0462,Off T,94.8,37.3,54,2,0,0,0,25.344230112591706,Outside box
+3941018,Daniel Olmo Carvajal,Spain,Giorgi Mamardashvili,0.0309,Blocked,95.6,45.7,59,2,0,0,0,25.056935167733506,Outside box
+3941018,Daniel Olmo Carvajal,Spain,Giorgi Mamardashvili,0.0715,Wayward,101.6,49.4,60,2,0,0,0,20.662042493422575,Penalty area edge
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Giorgi Mamardashvili,0.0757,Off T,104.9,41.5,62,2,0,0,0,15.174320413118995,Penalty area close
+3941018,Heorhii Tsitaishvili,Georgia,Unai Simón Mendibil,0.0527,Off T,108.4,23.4,67,2,0,0,0,20.251419703319566,Penalty area edge
+3941018,Fabián Ruiz Peña,Spain,Giorgi Mamardashvili,0.0245,Off T,93.3,30.5,69,2,0,0,0,28.339724769305718,Outside box
+3941018,Nicholas Williams Arthuer,Spain,Giorgi Mamardashvili,0.215,Goal,111.2,29.5,74,2,1,0,1,13.699999999999998,Penalty area close
+3941018,Daniel Olmo Carvajal,Spain,Giorgi Mamardashvili,0.2668,Saved,108.3,38.6,76,2,0,1,1,11.783462988442746,Penalty area close
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Giorgi Mamardashvili,0.286,Saved,114.8,47.3,79,2,0,1,1,8.96270048590267,6-yard box
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Giorgi Mamardashvili,0.0817,Off T,107.6,49.0,81,2,0,0,0,15.321879780235848,Penalty area close
+3941018,Daniel Olmo Carvajal,Spain,Giorgi Mamardashvili,0.1281,Goal,102.3,38.5,82,2,1,0,1,17.763445611704956,Penalty area close
+3941018,Nicholas Williams Arthuer,Spain,Giorgi Mamardashvili,0.0644,Blocked,104.8,29.5,89,2,0,0,0,18.474035834110534,Penalty area edge
+3941018,Daniel Olmo Carvajal,Spain,Giorgi Mamardashvili,0.053,Saved,99.5,41.3,89,2,0,1,1,20.54117815511077,Penalty area edge
+3941018,Daniel Olmo Carvajal,Spain,Giorgi Mamardashvili,0.0612,Blocked,114.6,50.7,91,2,0,0,0,11.985407794480759,Penalty area close
+3941018,Rodrigo Hernández Cascante,Spain,Giorgi Mamardashvili,0.0334,Off T,106.0,40.5,92,2,0,0,0,14.0089257261219,Penalty area close
+3941017,David Strelec,Slovakia,Jordan Pickford,0.0924,Wayward,107.3,35.8,3,1,0,0,0,13.376471881628582,Penalty area close
+3941017,Lukáš Haraslín,Slovakia,Jordan Pickford,0.0534,Blocked,101.0,34.2,7,1,0,0,0,19.865548066942427,Penalty area edge
+3941017,Kieran Trippier,England,Martin Dúbravka,0.089,Off T,102.8,29.9,8,1,0,0,0,19.946177578674067,Penalty area edge
+3941017,Lukáš Haraslín,Slovakia,Jordan Pickford,0.0794,Blocked,107.1,32.1,11,1,0,0,0,15.126797413861274,Penalty area close
+3941017,Harry Kane,England,Martin Dúbravka,0.0517,Blocked,111.7,46.4,22,1,0,0,0,10.480935072788112,Penalty area close
+3941017,Kobbie Mainoo,England,Martin Dúbravka,0.0304,Off T,97.3,46.8,23,1,0,0,0,23.69662423215594,Penalty area edge
+3941017,Ivan Schranz,Slovakia,Jordan Pickford,0.528,Goal,113.3,44.7,24,1,1,0,1,8.184130986244053,6-yard box
+3941017,Declan Rice,England,Martin Dúbravka,0.0407,Blocked,111.3,46.9,38,1,0,0,0,11.10405331399305,Penalty area close
+3941017,Kobbie Mainoo,England,Martin Dúbravka,0.0435,Blocked,97.4,34.3,47,1,0,0,0,23.307724041613323,Penalty area edge
+3941017,Bukayo Saka,England,Martin Dúbravka,0.026,Blocked,92.1,46.0,47,1,0,0,0,28.537869577107543,Outside box
+3941017,Harry Kane,England,Martin Dúbravka,0.1086,Blocked,104.9,32.5,51,2,0,0,0,16.860011862392025,Penalty area close
+3941017,David Strelec,Slovakia,Jordan Pickford,0.0285,Off T,62.7,30.6,53,2,0,0,0,58.06591082554376,Outside box
+3941017,Jude Bellingham,England,Martin Dúbravka,0.0813,Blocked,111.7,40.2,58,2,0,0,0,8.302409288875126,6-yard box
+3941017,Phil Foden,England,Martin Dúbravka,0.0542,Blocked,99.1,25.5,60,2,0,0,0,25.43737407831241,Outside box
+3941017,Harry Kane,England,Martin Dúbravka,0.1614,Off T,111.7,39.5,77,2,0,0,0,8.31504660239496,6-yard box
+3941017,Declan Rice,England,Martin Dúbravka,0.0261,Post,93.5,36.7,80,2,0,0,0,26.704681237565822,Outside box
+3941017,Harry Kane,England,Martin Dúbravka,0.1218,Off T,107.4,40.0,80,2,0,0,0,12.599999999999994,Penalty area close
+3941017,Stanislav Lobotka,Slovakia,Jordan Pickford,0.0219,Saved,89.4,45.1,86,2,0,1,1,31.022088904520913,Outside box
+3941017,Jude Bellingham,England,Martin Dúbravka,0.1032,Goal,110.1,40.9,94,2,1,0,1,9.940824915468541,6-yard box
+3941017,Eberechi Eze,England,Martin Dúbravka,0.0281,Wayward,96.5,37.6,90,3,0,0,0,23.622235287965445,Penalty area edge
+3941017,Harry Kane,England,Martin Dúbravka,0.4972,Goal,116.2,42.1,90,3,1,0,1,4.34165866921848,6-yard box
+3941017,Peter Pekarík,Slovakia,Jordan Pickford,0.5064,Off T,114.9,42.3,104,3,0,0,0,5.594640292279739,6-yard box
+3941017,Matúš Bero,Slovakia,Jordan Pickford,0.0142,Wayward,94.0,56.4,106,4,0,0,0,30.740201690945362,Outside box
+3941017,Ľubomír Tupta,Slovakia,Jordan Pickford,0.0286,Off T,88.8,47.2,110,4,0,0,0,32.0199937539032,Outside box
+3941017,Róbert Boženík,Slovakia,Jordan Pickford,0.0084,Off T,115.1,57.3,116,4,0,0,0,17.98054504179448,Penalty area close
+3941017,Dávid Hancko,Slovakia,Jordan Pickford,0.0679,Off T,112.1,35.7,118,4,0,0,0,8.994442728707547,6-yard box
+3941017,Milan Škriniar,Slovakia,Jordan Pickford,0.0729,Blocked,111.9,36.3,119,4,0,0,0,8.90505474435727,6-yard box
+3941017,Ivan Toney,England,Martin Dúbravka,0.1234,Off T,99.9,42.1,120,4,0,0,0,20.209403751719144,Penalty area edge
+3941017,Dávid Hancko,Slovakia,Jordan Pickford,0.0458,Saved,107.2,40.3,120,4,0,1,1,12.803515142334932,Penalty area close
+3930182,Alexander Hartmann Bah,Denmark,Predrag Rajković,0.1843,Off T,112.0,43.3,15,1,0,0,0,8.653900854527974,6-yard box
+3930182,Christian Dannemann Eriksen,Denmark,Predrag Rajković,0.0541,Saved,94.6,37.4,20,1,0,1,1,25.532724100651702,Outside box
+3930182,Christian Dannemann Eriksen,Denmark,Predrag Rajković,0.0126,Blocked,108.8,22.8,21,1,0,0,0,20.525106577067998,Penalty area edge
+3930182,Aleksandar Mitrović,Serbia,Kasper Schmeichel,0.0619,Blocked,110.4,40.1,28,1,0,0,0,9.600520819205586,6-yard box
+3930182,Rasmus Winther Højlund,Denmark,Predrag Rajković,0.0458,Saved,104.1,55.1,31,1,0,1,1,21.927608168699116,Penalty area edge
+3930182,Jonas Older Wind,Denmark,Predrag Rajković,0.1086,Off T,103.5,39.6,38,1,0,0,0,16.504847772699996,Penalty area close
+3930182,Andreas Skov Olsen,Denmark,Predrag Rajković,0.0397,Blocked,105.4,55.7,50,2,0,0,0,21.43944961980134,Penalty area edge
+3930182,Andreas Christensen,Denmark,Predrag Rajković,0.0207,Off T,91.2,33.8,59,2,0,0,0,29.45980312222062,Outside box
+3930182,Morten Hjulmand,Denmark,Predrag Rajković,0.0218,Off T,91.8,48.8,61,2,0,0,0,29.541157729513582,Outside box
+3930182,Jannik Vestergaard,Denmark,Predrag Rajković,0.045,Saved,110.1,37.1,64,2,0,1,1,10.316006979447044,Penalty area close
+3930182,Morten Hjulmand,Denmark,Predrag Rajković,0.0189,Off T,89.0,29.3,66,2,0,0,0,32.79466420014085,Outside box
+3930182,Aleksandar Mitrović,Serbia,Kasper Schmeichel,0.032,Off T,107.4,23.8,80,2,0,0,0,20.52315765178448,Penalty area edge
+3930182,Aleksandar Mitrović,Serbia,Kasper Schmeichel,0.0652,Wayward,110.9,34.6,82,2,0,0,0,10.581587782558906,Penalty area close
+3930182,Dušan Vlahović,Serbia,Kasper Schmeichel,0.0608,Off T,106.9,46.4,88,2,0,0,0,14.57978051961002,Penalty area close
+3930182,Sergej Milinković-Savić,Serbia,Kasper Schmeichel,0.1046,Saved,101.3,42.6,91,2,0,1,1,18.87988347421668,Penalty area edge
+3930179,Mikel Merino Zazón,Spain,Thomas Strakosha,0.025,Saved,107.3,33.1,11,1,0,1,1,14.453373308677808,Penalty area close
+3930179,José Luis Sanmartín Mato,Spain,Thomas Strakosha,0.0606,Off T,107.6,38.7,11,1,0,0,0,12.467958934805655,Penalty area close
+3930179,Ferrán Torres García,Spain,Thomas Strakosha,0.1036,Goal,107.5,53.5,12,1,1,0,1,18.398369492974098,Penalty area edge
+3930179,Daniel Olmo Carvajal,Spain,Thomas Strakosha,0.0104,Off T,96.3,57.9,20,1,0,0,0,29.70016834969122,Outside box
+3930179,Daniel Vivian Moreno,Spain,Thomas Strakosha,0.0466,Wayward,109.7,40.6,25,1,0,0,0,10.317460927960907,Penalty area close
+3930179,Daniel Olmo Carvajal,Spain,Thomas Strakosha,0.104,Blocked,113.0,47.4,35,1,0,0,0,10.186265262597473,Penalty area close
+3930179,Ferrán Torres García,Spain,Thomas Strakosha,0.0304,Off T,109.6,50.2,40,1,0,0,0,14.56708618770412,Penalty area close
+3930179,Mikel Merino Zazón,Spain,Thomas Strakosha,0.1003,Off T,107.1,33.1,43,1,0,0,0,14.629422408283935,Penalty area close
+3930179,Kristjan Asllani,Albania,David Raya Martin,0.0279,Saved,95.6,37.2,44,1,0,1,1,24.56013029281401,Penalty area edge
+3930179,José Luis Sanmartín Mato,Spain,Thomas Strakosha,0.015,Off T,104.0,24.3,45,1,0,0,0,22.41628872048181,Penalty area edge
+3930179,José Luis Sanmartín Mato,Spain,Thomas Strakosha,0.0672,Off T,110.4,36.2,46,2,0,0,0,10.32472759931224,Penalty area close
+3930179,Mikel Oyarzabal Ugarte,Spain,Thomas Strakosha,0.1872,Saved,108.6,44.8,47,2,0,1,1,12.369316876852984,Penalty area close
+3930179,Kristjan Asllani,Albania,David Raya Martin,0.045,Blocked,96.6,33.2,49,2,0,0,0,24.368011818775866,Penalty area edge
+3930179,Daniel Olmo Carvajal,Spain,Thomas Strakosha,0.0061,Off T,61.0,43.8,49,2,0,0,0,59.122246236082745,Outside box
+3930179,Armando Broja,Albania,David Raya Martin,0.1171,Saved,105.7,48.1,63,2,0,1,1,16.43471934655411,Penalty area close
+3930179,Kristjan Asllani,Albania,David Raya Martin,0.0309,Blocked,95.7,31.3,64,2,0,0,0,25.810462994684922,Outside box
+3930179,Jasir Asani,Albania,David Raya Martin,0.0086,Saved,96.6,62.0,68,2,0,1,1,32.117907777437814,Outside box
+3930179,Fermin Lopez Marin,Spain,Thomas Strakosha,0.0087,Wayward,95.9,60.5,75,2,0,0,0,31.6395322342161,Outside box
+3930179,Fermin Lopez Marin,Spain,Thomas Strakosha,0.0294,Blocked,97.4,48.1,76,2,0,0,0,24.007707095847362,Penalty area edge
+3930179,Kristjan Asllani,Albania,David Raya Martin,0.0258,Off T,98.4,23.9,76,2,0,0,0,26.940118782217716,Outside box
+3930179,Medon Berisha,Albania,David Raya Martin,0.0318,Blocked,94.4,46.8,77,2,0,0,0,26.48773300982928,Outside box
+3930179,Daniel Olmo Carvajal,Spain,Thomas Strakosha,0.0614,Blocked,107.7,27.1,78,2,0,0,0,17.824140933015535,Penalty area close
+3930179,Álvaro Borja Morata Martín,Spain,Thomas Strakosha,0.0959,Off T,113.8,35.1,79,2,0,0,0,7.902531240052141,6-yard box
+3930179,Arbër Hoxha,Albania,David Raya Martin,0.058,Off T,111.0,26.6,83,2,0,0,0,16.141871019184855,Penalty area close
+3930179,Berat Djimsiti,Albania,David Raya Martin,0.0463,Wayward,109.2,44.2,91,2,0,0,0,11.587924749496779,Penalty area close
+3930179,Armando Broja,Albania,David Raya Martin,0.1119,Saved,108.8,40.8,91,2,0,1,1,11.228535078094563,Penalty area close
+3940983,Joshua Kimmich,Germany,Kasper Schmeichel,0.0245,Saved,91.2,49.7,6,1,0,1,1,30.389636391375266,Outside box
+3940983,Nico Schlotterbeck,Germany,Kasper Schmeichel,0.0297,Saved,110.3,32.0,6,1,0,1,1,12.573384588089242,Penalty area close
+3940983,Kai Havertz,Germany,Kasper Schmeichel,0.0737,Saved,107.1,28.1,9,1,0,1,1,17.5504985684168,Penalty area close
+3940983,Robert Andrich,Germany,Kasper Schmeichel,0.0547,Saved,110.5,37.7,10,1,0,1,1,9.774456506629921,6-yard box
+3940983,Jamal Musiala,Germany,Kasper Schmeichel,0.0245,Off T,90.2,42.2,12,1,0,0,0,29.88109770406703,Outside box
+3940983,Toni Kroos,Germany,Kasper Schmeichel,0.0561,Blocked,92.3,36.2,15,1,0,0,0,27.95943490129942,Outside box
+3940983,Christian Dannemann Eriksen,Denmark,Manuel Neuer,0.1223,Blocked,101.0,40.2,20,1,0,0,0,19.001052602421794,Penalty area edge
+3940983,Joakim Mæhle,Denmark,Manuel Neuer,0.0925,Off T,112.5,27.4,23,1,0,0,0,14.663219291819926,Penalty area close
+3940983,Christian Dannemann Eriksen,Denmark,Manuel Neuer,0.0899,Blocked,100.8,38.0,30,1,0,0,0,19.303885619221848,Penalty area edge
+3940983,Rasmus Winther Højlund,Denmark,Manuel Neuer,0.0087,Blocked,105.9,20.0,32,1,0,0,0,24.47059459841546,Penalty area edge
+3940983,Kai Havertz,Germany,Kasper Schmeichel,0.1361,Saved,111.5,39.7,41,1,0,1,1,8.505292469985967,6-yard box
+3940983,Nico Schlotterbeck,Germany,Kasper Schmeichel,0.0399,Off T,112.3,31.4,41,1,0,0,0,11.543396380615198,Penalty area close
+3940983,Rasmus Winther Højlund,Denmark,Manuel Neuer,0.0614,Off T,115.0,51.7,46,1,0,0,0,12.723600119463047,Penalty area close
+3940983,Rasmus Winther Højlund,Denmark,Manuel Neuer,0.4812,Saved,108.2,37.4,49,1,0,1,1,12.08304597359457,Penalty area close
+3940983,Kai Havertz,Germany,Kasper Schmeichel,0.7835,Goal,108.0,40.0,52,2,1,0,1,12.0,Penalty area close
+3940983,Kai Havertz,Germany,Kasper Schmeichel,0.4252,Off T,108.9,31.0,58,2,0,0,0,14.29020643657746,Penalty area close
+3940983,Rasmus Winther Højlund,Denmark,Manuel Neuer,0.0594,Saved,105.6,30.8,65,2,0,1,1,17.088007490635064,Penalty area close
+3940983,Jamal Musiala,Germany,Kasper Schmeichel,0.2564,Goal,110.2,28.9,67,2,1,0,1,14.807092894960848,Penalty area close
+3940983,Joachim Andersen,Denmark,Manuel Neuer,0.0607,Wayward,114.2,33.2,76,2,0,0,0,8.937561188601727,6-yard box
+3940983,Joshua Kimmich,Germany,Kasper Schmeichel,0.0027,Wayward,48.1,47.9,78,2,0,0,0,72.33270353028428,Outside box
+3940983,Pierre-Emile Højbjerg,Denmark,Manuel Neuer,0.0358,Blocked,94.3,43.0,82,2,0,0,0,25.87450482617977,Outside box
+3940983,Benjamin Henrichs,Germany,Kasper Schmeichel,0.0186,Off T,97.7,22.4,88,2,0,0,0,28.408625450732387,Outside box
+3940983,Florian Wirtz,Germany,Kasper Schmeichel,0.1114,Saved,101.4,45.0,89,2,0,1,1,19.260321908005583,Penalty area edge
+3940983,Jannik Vestergaard,Denmark,Manuel Neuer,0.0616,Blocked,106.8,42.2,93,2,0,0,0,13.382077566656086,Penalty area close
+3940983,Kai Havertz,Germany,Kasper Schmeichel,0.1896,Saved,106.6,29.6,94,2,0,1,1,16.96231116328197,Penalty area close
+3940878,Dan Ndoye,Switzerland,Gianluigi Donnarumma,0.0496,Wayward,108.4,51.9,11,1,0,0,0,16.618363336983574,Penalty area close
+3940878,Breel-Donald Embolo,Switzerland,Gianluigi Donnarumma,0.1998,Saved,106.4,30.3,23,1,0,1,1,16.704789732289356,Penalty area close
+3940878,Dan Ndoye,Switzerland,Gianluigi Donnarumma,0.0379,Blocked,108.0,50.3,23,1,0,0,0,15.814234094637651,Penalty area close
+3940878,Remo Freuler,Switzerland,Gianluigi Donnarumma,0.0299,Blocked,94.4,42.5,23,1,0,0,0,25.72178065375723,Outside box
+3940878,Breel-Donald Embolo,Switzerland,Gianluigi Donnarumma,0.028,Blocked,93.7,36.4,25,1,0,0,0,26.5452443951831,Outside box
+3940878,Federico Chiesa,Italy,Yann Sommer,0.0601,Blocked,109.2,27.3,25,1,0,0,0,16.671232707871365,Penalty area close
+3940878,Dan Ndoye,Switzerland,Gianluigi Donnarumma,0.0351,Blocked,108.7,53.7,27,1,0,0,0,17.758941409892653,Penalty area close
+3940878,Fabian Lukas Schär,Switzerland,Gianluigi Donnarumma,0.0178,Blocked,108.1,55.0,30,1,0,0,0,19.147062437878038,Penalty area edge
+3940878,Ricardo Iván Rodríguez Araya,Switzerland,Gianluigi Donnarumma,0.0144,Off T,91.6,25.6,31,1,0,0,0,31.842110482818192,Outside box
+3940878,Remo Freuler,Switzerland,Gianluigi Donnarumma,0.1441,Goal,111.1,34.4,36,1,1,0,1,10.515227054134405,Penalty area close
+3940878,Fabian Rieder,Switzerland,Gianluigi Donnarumma,0.0081,Saved to Post,100.0,66.4,45,1,0,0,0,33.120386471175124,Outside box
+3940878,Ruben Vargas,Switzerland,Gianluigi Donnarumma,0.0448,Goal,103.5,25.6,45,2,1,0,1,21.9,Penalty area edge
+3940878,Federico Chiesa,Italy,Yann Sommer,0.0465,Wayward,116.2,51.2,51,2,0,0,0,11.827087553578018,Penalty area close
+3940878,Federico Chiesa,Italy,Yann Sommer,0.0267,Blocked,95.3,39.3,52,2,0,0,0,24.709917037497316,Penalty area edge
+3940878,Ricardo Iván Rodríguez Araya,Switzerland,Gianluigi Donnarumma,0.0233,Blocked,91.6,28.4,54,2,0,0,0,30.677679182102423,Outside box
+3940878,Bryan Cristante,Italy,Yann Sommer,0.0219,Blocked,90.0,45.3,55,2,0,0,0,30.464569585011372,Outside box
+3940878,Dan Ndoye,Switzerland,Gianluigi Donnarumma,0.0266,Off T,94.9,52.6,58,2,0,0,0,28.08504940355277,Outside box
+3940878,Granit Xhaka,Switzerland,Gianluigi Donnarumma,0.0407,Blocked,100.3,30.0,64,2,0,0,0,22.09275899474758,Penalty area edge
+3940878,Mateo Retegui,Italy,Yann Sommer,0.0671,Saved,99.1,44.7,72,2,0,1,1,21.421951358361362,Penalty area edge
+3940878,Mattia Zaccagni,Italy,Yann Sommer,0.1115,Wayward,109.4,41.6,73,2,0,0,0,10.720074626605912,Penalty area close
+3940878,Gianluca Scamacca,Italy,Yann Sommer,0.3101,Post,116.9,34.1,73,2,0,0,0,6.6648330811806495,6-yard box
+3940878,Nicolò Fagioli,Italy,Yann Sommer,0.0185,Off T,91.4,28.3,73,2,0,0,0,30.900647242412248,Outside box
+3940878,Gianluca Scamacca,Italy,Yann Sommer,0.0329,Off T,97.5,43.0,75,2,0,0,0,22.699118925632334,Penalty area edge
+3940878,Remo Freuler,Switzerland,Gianluigi Donnarumma,0.0374,Off T,98.7,40.3,78,2,0,0,0,21.302112571292074,Penalty area edge
+3940878,Steven Zuber,Switzerland,Gianluigi Donnarumma,0.0447,Wayward,114.8,26.8,82,2,0,0,0,14.187318280774559,Penalty area close
+3940878,Lorenzo Pellegrini,Italy,Yann Sommer,0.0216,Off T,93.0,29.9,84,2,0,0,0,28.82724405835563,Outside box
+3940878,Federico Chiesa,Italy,Yann Sommer,0.0087,Wayward,103.4,63.1,90,2,0,0,0,28.445913590531767,Outside box
+3930177,Bendegúz Bolla,Hungary,Angus Gunn,0.0157,Saved,89.7,52.3,7,1,0,1,1,32.70137611783333,Outside box
+3930177,Dominik Szoboszlai,Hungary,Angus Gunn,0.0258,Blocked,88.7,42.2,31,1,0,0,0,31.37722103692422,Outside box
+3930177,Roland Sallai,Hungary,Angus Gunn,0.019,Off T,94.0,53.7,34,1,0,0,0,29.388603233226313,Outside box
+3930177,Willi Orban,Hungary,Angus Gunn,0.1402,Post,116.5,32.3,40,1,0,0,0,8.458132181516204,6-yard box
+3930177,Dominik Szoboszlai,Hungary,Angus Gunn,0.0433,Off T,94.9,41.6,45,1,0,0,0,25.150944316267726,Outside box
+3930177,Roland Sallai,Hungary,Angus Gunn,0.0579,Saved,104.9,32.0,48,2,0,1,1,17.08830009099793,Penalty area close
+3930177,Che Adams,Scotland,Péter Gulácsi,0.0205,Off T,96.1,25.7,52,2,0,0,0,27.851391347650843,Outside box
+3930177,Roland Sallai,Hungary,Angus Gunn,0.0385,Blocked,104.1,28.3,55,2,0,0,0,19.740820651634525,Penalty area edge
+3930177,Márton Dárdai,Hungary,Angus Gunn,0.0571,Off T,110.5,43.0,63,2,0,0,0,9.962429422585638,6-yard box
+3930177,András Schäfer,Hungary,Angus Gunn,0.0366,Saved,103.9,55.7,89,2,0,1,1,22.48777445635739,Penalty area edge
+3930177,András Schäfer,Hungary,Angus Gunn,0.0294,Off T,97.0,44.5,89,2,0,0,0,23.43608329051593,Penalty area edge
+3930177,Dominik Szoboszlai,Hungary,Angus Gunn,0.0607,Saved,111.0,54.9,90,2,0,1,1,17.40718242565407,Penalty area close
+3930177,Kevin Csoboth,Hungary,Angus Gunn,0.1848,Post,113.8,51.1,91,2,0,0,0,12.714165328483032,Penalty area close
+3930177,Callum McGregor,Scotland,Péter Gulácsi,0.0262,Blocked,95.1,32.3,93,2,0,0,0,26.063384277564577,Outside box
+3930177,Ádám Nagy,Hungary,Angus Gunn,0.0289,Off T,93.3,29.7,96,2,0,0,0,28.617826612096177,Outside box
+3930177,Lewis Morgan,Scotland,Péter Gulácsi,0.0558,Blocked,105.4,30.9,97,2,0,0,0,17.20377865470257,Penalty area close
+3930177,Callum McGregor,Scotland,Péter Gulácsi,0.081,Blocked,110.3,39.8,99,2,0,0,0,9.702061636580138,6-yard box
+3930177,Kevin Csoboth,Hungary,Angus Gunn,0.2629,Goal,107.2,36.6,99,2,1,0,1,13.24386650491464,Penalty area close
+3930173,Jeremie Frimpong,Netherlands,Mike Maignan,0.0968,Saved,108.6,53.7,0,1,0,1,1,17.82273828568439,Penalty area close
+3930173,Antoine Griezmann,France,Bart Verbruggen,0.0085,Saved,95.1,22.1,3,1,0,1,1,30.666268113352174,Outside box
+3930173,Antoine Griezmann,France,Bart Verbruggen,0.0959,Off T,107.7,37.5,13,1,0,0,0,12.551493934986382,Penalty area close
+3930173,Cody Mathès Gakpo,Netherlands,Mike Maignan,0.0497,Saved,99.8,29.6,15,1,0,1,1,22.720035211240322,Penalty area edge
+3930173,Tijjani Reijnders,Netherlands,Mike Maignan,0.0246,Blocked,92.8,30.8,27,1,0,0,0,28.713759767748982,Outside box
+3930173,Marcus Thuram,France,Bart Verbruggen,0.0571,Off T,109.8,55.4,27,1,0,0,0,18.47159982243011,Penalty area edge
+3930173,Jeremie Frimpong,Netherlands,Mike Maignan,0.073,Blocked,105.9,50.3,34,1,0,0,0,17.461385970191476,Penalty area close
+3930173,Xavi Simons,Netherlands,Mike Maignan,0.0333,Saved,94.8,31.5,35,1,0,1,1,26.594924327773526,Outside box
+3930173,Antoine Griezmann,France,Bart Verbruggen,0.0439,Blocked,99.3,55.2,40,1,0,0,0,25.681316165648525,Outside box
+3930173,Antoine Griezmann,France,Bart Verbruggen,0.068,Saved,107.6,35.3,42,1,0,1,1,13.260844618650811,Penalty area close
+3930173,Ousmane Dembélé,France,Bart Verbruggen,0.0486,Blocked,98.5,45.2,50,2,0,0,0,22.119900542271886,Penalty area edge
+3930173,N'Golo Kanté,France,Bart Verbruggen,0.0203,Off T,94.8,56.3,51,2,0,0,0,30.01216420053709,Outside box
+3930173,Memphis Depay,Netherlands,Mike Maignan,0.0538,Blocked,92.3,33.5,54,2,0,0,0,28.45241641759097,Outside box
+3930173,Adrien Rabiot,France,Bart Verbruggen,0.1907,Off T,110.5,38.1,56,2,0,0,0,9.68813707582629,6-yard box
+3930173,Aurélien Djani Tchouaméni,France,Bart Verbruggen,0.0202,Blocked,91.3,33.0,58,2,0,0,0,29.541326984412873,Outside box
+3930173,Marcus Thuram,France,Bart Verbruggen,0.0741,Off T,98.8,41.7,59,2,0,0,0,21.26805115660577,Penalty area edge
+3930173,Aurélien Djani Tchouaméni,France,Bart Verbruggen,0.0682,Off T,109.8,41.1,62,2,0,0,0,10.259142264341598,Penalty area close
+3930173,Antoine Griezmann,France,Bart Verbruggen,0.3836,Saved,113.8,43.8,64,2,0,1,1,7.271863585079138,6-yard box
+3930173,Aurélien Djani Tchouaméni,France,Bart Verbruggen,0.0097,Blocked,96.6,20.8,65,2,0,0,0,30.268795813510657,Outside box
+3930173,Ousmane Dembélé,France,Bart Verbruggen,0.0526,Off T,102.5,50.5,67,2,0,0,0,20.40833163195855,Penalty area edge
+3930173,Memphis Depay,Netherlands,Mike Maignan,0.2755,Saved,110.3,32.8,68,2,0,1,1,12.080149005703534,Penalty area close
+3930173,Xavi Simons,Netherlands,Mike Maignan,0.1065,Wayward,103.9,36.2,68,2,0,0,0,16.542369842317026,Penalty area close
+3930173,Virgil van Dijk,Netherlands,Mike Maignan,0.0249,Blocked,106.8,38.5,78,2,0,0,0,13.28495389529072,Penalty area close
+3930173,N'Golo Kanté,France,Bart Verbruggen,0.0771,Blocked,107.0,50.6,90,2,0,0,0,16.773789077009404,Penalty area close
+3930172,Pedro González López,Spain,Gianluigi Donnarumma,0.2087,Saved,113.1,39.3,1,1,0,1,1,6.935416353759886,6-yard box
+3930172,Nicholas Williams Arthuer,Spain,Gianluigi Donnarumma,0.1658,Off T,112.6,43.2,9,1,0,0,0,8.062257748298556,6-yard box
+3930172,Álvaro Borja Morata Martín,Spain,Gianluigi Donnarumma,0.0459,Blocked,101.1,29.8,14,1,0,0,0,21.476731594914536,Penalty area edge
+3930172,Álvaro Borja Morata Martín,Spain,Gianluigi Donnarumma,0.0889,Saved,115.3,49.5,23,1,0,1,1,10.599056561788885,Penalty area close
+3930172,Fabián Ruiz Peña,Spain,Gianluigi Donnarumma,0.021,Saved,88.6,42.3,24,1,0,1,1,31.484122982862335,Outside box
+3930172,Rodrigo Hernández Cascante,Spain,Gianluigi Donnarumma,0.0063,Off T,83.3,37.9,26,1,0,0,0,36.760032644163964,Outside box
+3930172,Rodrigo Hernández Cascante,Spain,Gianluigi Donnarumma,0.068,Blocked,99.7,38.8,27,1,0,0,0,20.335437049643165,Penalty area edge
+3930172,Fabián Ruiz Peña,Spain,Gianluigi Donnarumma,0.0188,Off T,93.4,47.8,36,1,0,0,0,27.72002886001383,Outside box
+3930172,Fabián Ruiz Peña,Spain,Gianluigi Donnarumma,0.0561,Saved,94.8,46.2,40,1,0,1,1,25.951493213300854,Outside box
+3930172,Federico Chiesa,Italy,Unai Simón Mendibil,0.0287,Off T,103.2,57.2,45,1,0,0,0,24.043294283437948,Penalty area edge
+3930172,Pedro González López,Spain,Gianluigi Donnarumma,0.2228,Off T,110.9,35.1,51,2,0,0,0,10.335376142163375,Penalty area close
+3930172,Pedro González López,Spain,Gianluigi Donnarumma,0.0312,Saved,92.3,35.6,52,2,0,1,1,28.04728150819612,Outside box
+3930172,Álvaro Borja Morata Martín,Spain,Gianluigi Donnarumma,0.0433,Saved Off Target,113.8,27.3,54,2,0,0,0,14.13258645825314,Penalty area close
+3930172,Álvaro Borja Morata Martín,Spain,Gianluigi Donnarumma,0.0395,Saved,93.0,33.9,57,2,0,1,1,27.680498550423547,Outside box
+3930172,Robin Aime Robert Le Normand,Spain,Gianluigi Donnarumma,0.0701,Blocked,113.0,44.1,57,2,0,0,0,8.11233628494283,6-yard box
+3930172,Lamine Yamal Nasraoui Ebana,Spain,Gianluigi Donnarumma,0.0222,Off T,97.3,55.7,59,2,0,0,0,27.600362316462444,Outside box
+3930172,Nicholas Williams Arthuer,Spain,Gianluigi Donnarumma,0.0101,Post,103.5,21.2,69,2,0,0,0,25.01379619330101,Outside box
+3930172,Lorenzo Pellegrini,Italy,Unai Simón Mendibil,0.0413,Off T,94.5,25.7,73,2,0,0,0,29.235936790190255,Outside box
+3930172,Ayoze Pérez Gutiérrez,Spain,Gianluigi Donnarumma,0.081,Blocked,109.9,29.1,80,2,0,0,0,14.860013458944103,Penalty area close
+3930172,Aymeric Laporte,Spain,Gianluigi Donnarumma,0.0913,Off T,113.5,46.0,80,2,0,0,0,8.845903006477066,6-yard box
+3930172,Bryan Cristante,Italy,Unai Simón Mendibil,0.0452,Saved,115.1,31.7,85,2,0,1,1,9.638464608017195,6-yard box
+3930172,Ayoze Pérez Gutiérrez,Spain,Gianluigi Donnarumma,0.0301,Saved,112.0,24.5,90,2,0,1,1,17.44276354251241,Penalty area close
+3930172,Ayoze Pérez Gutiérrez,Spain,Gianluigi Donnarumma,0.2128,Saved,106.6,29.2,91,2,0,1,1,17.21046193453273,Penalty area close
+3930172,Riccardo Calafiori,Italy,Unai Simón Mendibil,0.0281,Off T,102.5,30.0,96,2,0,0,0,20.155644370746373,Penalty area edge
+3930167,Qazim Laçi,Albania,Dominik Livaković,0.1527,Goal,111.4,42.7,10,1,1,0,1,9.01387818865997,6-yard box
+3930167,Nedim Bajrami,Albania,Dominik Livaković,0.043,Blocked,106.7,25.1,14,1,0,0,0,19.972481067709136,Penalty area edge
+3930167,Elseid Hysaj,Albania,Dominik Livaković,0.0262,Blocked,97.8,46.2,15,1,0,0,0,23.049511925418294,Penalty area edge
+3930167,Mateo Kovačić,Croatia,Thomas Strakosha,0.0237,Blocked,94.7,32.2,19,1,0,0,0,26.4750826249891,Outside box
+3930167,Marcelo Brozović,Croatia,Thomas Strakosha,0.037,Off T,101.7,54.2,19,1,0,0,0,23.163117234085743,Penalty area edge
+3930167,Bruno Petković,Croatia,Thomas Strakosha,0.1519,Off T,111.9,40.4,25,1,0,0,0,8.109870529176154,6-yard box
+3930167,Elseid Hysaj,Albania,Dominik Livaković,0.0716,Off T,102.8,44.5,28,1,0,0,0,17.778920102188437,Penalty area close
+3930167,Kristjan Asllani,Albania,Dominik Livaković,0.4144,Saved,106.4,34.7,30,1,0,1,1,14.596232390586271,Penalty area close
+3930167,Marcelo Brozović,Croatia,Thomas Strakosha,0.0124,Saved,87.8,29.0,37,1,0,1,1,34.027048064738146,Outside box
+3930167,Lovro Majer,Croatia,Thomas Strakosha,0.0534,Blocked,109.1,43.0,42,1,0,0,0,11.305308487608825,Penalty area close
+3930167,Jasir Asani,Albania,Dominik Livaković,0.0133,Blocked,92.7,55.5,45,1,0,0,0,31.393311389530094,Outside box
+3930167,Rey Manaj,Albania,Dominik Livaković,0.1117,Saved,109.1,39.2,45,1,0,1,1,10.929318368498565,Penalty area close
+3930167,Bruno Petković,Croatia,Thomas Strakosha,0.0537,Blocked,111.9,35.4,46,2,0,0,0,9.315041599477693,6-yard box
+3930167,Luka Sučić,Croatia,Thomas Strakosha,0.0583,Saved,106.9,52.1,49,2,0,1,1,17.8331152634642,Penalty area close
+3930167,Mario Pašalić,Croatia,Thomas Strakosha,0.0952,Off T,114.6,45.6,50,2,0,0,0,7.779460135510695,6-yard box
+3930167,Mateo Kovačić,Croatia,Thomas Strakosha,0.0346,Saved,96.8,31.1,52,2,0,1,1,24.848541204666322,Penalty area edge
+3930167,Mario Pašalić,Croatia,Thomas Strakosha,0.0806,Off T,111.2,47.0,53,2,0,0,0,11.244554237496477,Penalty area close
+3930167,Bruno Petković,Croatia,Thomas Strakosha,0.1485,Blocked,112.5,39.2,56,2,0,0,0,7.54254598925323,6-yard box
+3930167,Josip Šutalo,Croatia,Thomas Strakosha,0.2778,Off T,117.2,36.5,57,2,0,0,0,4.482186966202992,6-yard box
+3930167,Luka Modrić,Croatia,Thomas Strakosha,0.0273,Blocked,95.5,50.4,58,2,0,0,0,26.615972648017205,Outside box
+3930167,Ivan Perišić,Croatia,Thomas Strakosha,0.0191,Saved,93.8,28.3,60,2,0,1,1,28.693727537564722,Outside box
+3930167,Kristjan Asllani,Albania,Dominik Livaković,0.0471,Saved,97.9,33.3,62,2,0,1,1,23.09328906847181,Penalty area edge
+3930167,Nedim Bajrami,Albania,Dominik Livaković,0.0672,Off T,102.5,50.5,66,2,0,0,0,20.40833163195855,Penalty area edge
+3930167,Mario Pašalić,Croatia,Thomas Strakosha,0.1031,Off T,113.6,43.1,68,2,0,0,0,7.111258679024416,6-yard box
+3930167,Taulant Sulejmanov,Albania,Dominik Livaković,0.0342,Saved,92.4,34.4,72,2,0,1,1,28.162386262531086,Outside box
+3930167,Andrej Kramarić,Croatia,Thomas Strakosha,0.1796,Goal,107.3,33.5,73,2,1,0,1,14.26674454807403,Penalty area close
+3930167,Luka Sučić,Croatia,Thomas Strakosha,0.2386,Blocked,111.7,38.8,75,2,0,0,0,8.386298349093,6-yard box
+3930167,Ante Budimir,Croatia,Thomas Strakosha,0.1142,Saved,105.9,35.7,79,2,0,1,1,14.74109900923265,Penalty area close
+3930167,Luka Modrić,Croatia,Thomas Strakosha,0.0474,Off T,95.3,47.0,87,2,0,0,0,25.672748197261626,Outside box
+3930167,Martin Baturina,Croatia,Thomas Strakosha,0.0182,Saved,112.1,23.1,88,2,0,1,1,18.655294154743313,Penalty area edge
+3930167,Arbër Hoxha,Albania,Dominik Livaković,0.0347,Saved,96.3,46.2,89,2,0,1,1,24.49755089799795,Penalty area edge
+3930167,Mirlind Daku,Albania,Dominik Livaković,0.1327,Blocked,110.2,36.4,92,2,0,0,0,10.440306508910549,Penalty area close
+3930167,Klaus Gjasula,Albania,Dominik Livaković,0.1145,Goal,108.0,40.2,94,2,1,0,1,12.001666550941998,Penalty area close
+3930167,Klaus Gjasula,Albania,Dominik Livaković,0.0626,Blocked,99.3,39.6,96,2,0,0,0,20.70386437358978,Penalty area edge
+3930167,Mateo Kovačić,Croatia,Thomas Strakosha,0.084,Saved,103.2,30.4,98,2,0,1,1,19.349418595916518,Penalty area edge
+3930168,Roland Sallai,Hungary,Manuel Neuer,0.4343,Saved,113.3,35.8,0,1,0,1,1,7.907591289387689,6-yard box
+3930168,Kai Havertz,Germany,Péter Gulácsi,0.0723,Saved,101.1,50.7,4,1,0,1,1,21.718655575334314,Penalty area edge
+3930168,Bendegúz Bolla,Hungary,Manuel Neuer,0.042,Blocked,109.3,54.7,5,1,0,0,0,18.18185909086307,Penalty area edge
+3930168,Kai Havertz,Germany,Péter Gulácsi,0.1763,Saved,114.9,48.7,10,1,0,1,1,10.084641788382966,Penalty area close
+3930168,Robert Andrich,Germany,Péter Gulácsi,0.0587,Blocked,109.2,48.8,11,1,0,0,0,13.931259813814394,Penalty area close
+3930168,Roland Sallai,Hungary,Manuel Neuer,0.06,Blocked,101.3,38.3,14,1,0,0,0,18.777113729218346,Penalty area edge
+3930168,Jamal Musiala,Germany,Péter Gulácsi,0.1768,Goal,111.1,36.9,21,1,1,0,1,9.424436322666736,6-yard box
+3930168,Dominik Szoboszlai,Hungary,Manuel Neuer,0.0111,Saved,95.7,21.5,25,1,0,1,1,30.540792393125624,Outside box
+3930168,Barnabás Varga,Hungary,Manuel Neuer,0.0166,Wayward,120.0,34.2,25,1,0,0,0,5.799999999999997,6-yard box
+3930168,İlkay Gündoğan,Germany,Péter Gulácsi,0.0766,Blocked,103.4,42.8,26,1,0,0,0,16.83448840921517,Penalty area close
+3930168,Dominik Szoboszlai,Hungary,Manuel Neuer,0.0622,Blocked,107.1,32.0,28,1,0,0,0,15.179262169156976,Penalty area close
+3930168,Bendegúz Bolla,Hungary,Manuel Neuer,0.0269,Blocked,99.3,51.3,29,1,0,0,0,23.58346878641902,Penalty area edge
+3930168,Maximilian Mittelstädt,Germany,Péter Gulácsi,0.0357,Blocked,98.4,43.3,36,1,0,0,0,21.850629281556166,Penalty area edge
+3930168,Florian Wirtz,Germany,Péter Gulácsi,0.0091,Off T,97.9,58.4,41,1,0,0,0,28.757086083259544,Outside box
+3930168,Jamal Musiala,Germany,Péter Gulácsi,0.0574,Off T,102.8,49.0,43,1,0,0,0,19.412367192076296,Penalty area edge
+3930168,Antonio Rüdiger,Germany,Péter Gulácsi,0.007,Blocked,90.2,56.9,45,2,0,0,0,34.258575568753585,Outside box
+3930168,Toni Kroos,Germany,Péter Gulácsi,0.0567,Saved,99.5,44.2,54,2,0,1,1,20.925821369781403,Penalty area edge
+3930168,Dominik Szoboszlai,Hungary,Manuel Neuer,0.0165,Wayward,100.1,56.9,57,2,0,0,0,26.10785322465254,Outside box
+3930168,Roland Sallai,Hungary,Manuel Neuer,0.0864,Off T,107.7,39.4,57,2,0,0,0,12.314625451064273,Penalty area close
+3930168,Barnabás Varga,Hungary,Manuel Neuer,0.188,Off T,113.5,42.2,59,2,0,0,0,6.8622153857191055,6-yard box
+3930168,Jamal Musiala,Germany,Péter Gulácsi,0.0371,Off T,96.7,35.8,61,2,0,0,0,23.67551477793038,Penalty area edge
+3930168,İlkay Gündoğan,Germany,Péter Gulácsi,0.2239,Goal,107.9,35.3,66,2,1,0,1,12.980754985747165,Penalty area close
+3930168,Joshua Kimmich,Germany,Péter Gulácsi,0.0152,Off T,112.0,56.5,68,2,0,0,0,18.33712082089225,Penalty area edge
+3930168,Joshua Kimmich,Germany,Péter Gulácsi,0.1117,Saved,107.3,48.4,73,2,0,1,1,15.226621424334423,Penalty area close
+3930168,Leroy Sané,Germany,Péter Gulácsi,0.0314,Saved,98.8,47.3,74,2,0,1,1,22.42164133153503,Penalty area edge
+3930168,Leroy Sané,Germany,Péter Gulácsi,0.0287,Off T,88.7,42.1,76,2,0,0,0,31.37036818400447,Outside box
+3930168,Chris Führich,Germany,Péter Gulácsi,0.027,Off T,111.4,24.3,80,2,0,0,0,17.901117283566407,Penalty area close
+3930168,Niclas Füllkrug,Germany,Péter Gulácsi,0.2279,Off T,113.5,40.6,86,2,0,0,0,6.527633568147036,6-yard box
+3930168,Leroy Sané,Germany,Péter Gulácsi,0.0541,Blocked,106.4,51.1,87,2,0,0,0,17.55477143115227,Penalty area close
+3930168,Willi Orban,Hungary,Manuel Neuer,0.2841,Blocked,112.1,38.3,89,2,0,0,0,8.080841540334776,6-yard box
+3930165,Kylian Mbappé Lottin,France,Patrick Pentz,0.0804,Saved,109.4,25.8,7,1,0,1,1,17.720045146669346,Penalty area close
+3930165,Theo Bernard François Hernández,France,Patrick Pentz,0.0209,Wayward,115.5,26.8,12,1,0,0,0,13.94596715900335,Penalty area close
+3930165,Antoine Griezmann,France,Patrick Pentz,0.0546,Blocked,103.8,52.8,18,1,0,0,0,20.64654934849889,Penalty area edge
+3930165,Marcus Thuram,France,Patrick Pentz,0.069,Wayward,115.3,47.9,18,1,0,0,0,9.192388155425117,6-yard box
+3930165,Kylian Mbappé Lottin,France,Patrick Pentz,0.0488,Blocked,103.5,28.8,32,1,0,0,0,19.94216638181519,Penalty area edge
+3930165,Christoph Baumgartner,Austria,Mike Maignan,0.4713,Saved,111.3,38.4,35,1,0,1,1,8.84590300647707,6-yard box
+3930165,Kevin Danso,Austria,Mike Maignan,0.0374,Wayward,108.8,36.7,41,1,0,0,0,11.676043850551437,Penalty area close
+3930165,Stefan Posch,Austria,Mike Maignan,0.0217,Off T,95.2,54.1,47,2,0,0,0,28.52805636562014,Outside box
+3930165,Kylian Mbappé Lottin,France,Patrick Pentz,0.4043,Off T,103.9,37.9,54,2,0,0,0,16.23637890664048,Penalty area close
+3930165,Ousmane Dembélé,France,Patrick Pentz,0.016,Off T,101.6,58.4,63,2,0,0,0,26.02152954766495,Outside box
+3930165,Antoine Griezmann,France,Patrick Pentz,0.6972,Wayward,114.1,41.1,65,2,0,0,0,6.001666435249469,6-yard box
+3930165,Jules Koundé,France,Patrick Pentz,0.0708,Blocked,106.4,48.3,65,2,0,0,0,15.932670836994022,Penalty area close
+3930165,Marcus Thuram,France,Patrick Pentz,0.0789,Saved,111.7,52.9,66,2,0,1,1,15.339491516996251,Penalty area close
+3930165,Marcus Thuram,France,Patrick Pentz,0.0484,Off T,103.4,28.8,72,2,0,0,0,20.02498439450078,Penalty area edge
+3930165,Christoph Baumgartner,Austria,Mike Maignan,0.1977,Saved,113.9,50.8,77,2,0,1,1,12.403628501370068,Penalty area close
+3930165,Marcus Thuram,France,Patrick Pentz,0.1999,Saved,108.1,33.2,82,2,0,1,1,13.705838172107537,Penalty area close
+3930165,Kylian Mbappé Lottin,France,Patrick Pentz,0.0807,Blocked,111.9,40.2,84,2,0,0,0,8.102468759581855,6-yard box
+3930165,Patrick Wimmer,Austria,Mike Maignan,0.0203,Saved,111.8,53.1,91,2,0,1,1,15.454772725601632,Penalty area close
+3930165,Marcus Thuram,France,Patrick Pentz,0.0346,Blocked,101.2,26.4,94,2,0,0,0,23.20344801963708,Penalty area edge
+3930164,Kevin De Bruyne,Belgium,Martin Dúbravka,0.1498,Wayward,107.4,41.5,2,1,0,0,0,12.688971589533955,Penalty area close
+3930164,Romelu Lukaku Menama,Belgium,Martin Dúbravka,0.5474,Saved,114.4,38.1,2,1,0,1,1,5.913543776789002,6-yard box
+3930164,Juraj Kucka,Slovakia,Koen Casteels,0.1626,Saved,105.4,32.4,6,1,0,1,1,16.459647626847904,Penalty area close
+3930164,Ivan Schranz,Slovakia,Koen Casteels,0.0667,Goal,116.3,28.9,6,1,1,0,1,11.700427342623007,Penalty area close
+3930164,Jeremy Doku,Belgium,Martin Dúbravka,0.0278,Blocked,106.4,57.6,15,1,0,0,0,22.242302039132547,Penalty area edge
+3930164,Leandro Trossard,Belgium,Martin Dúbravka,0.0287,Off T,91.7,24.9,20,1,0,0,0,32.076471127603796,Outside box
+3930164,Róbert Boženík,Slovakia,Koen Casteels,0.0469,Blocked,102.7,49.3,22,1,0,0,0,19.641283053812952,Penalty area edge
+3930164,Róbert Boženík,Slovakia,Koen Casteels,0.0646,Saved,99.8,38.5,30,1,0,1,1,20.255616505058544,Penalty area edge
+3930164,Leandro Trossard,Belgium,Martin Dúbravka,0.0397,Blocked,99.4,31.0,31,1,0,0,0,22.48021352211762,Penalty area edge
+3930164,Amadou Onana,Belgium,Martin Dúbravka,0.1109,Saved,112.7,41.8,35,1,0,1,1,7.518643494673753,6-yard box
+3930164,Lukáš Haraslín,Slovakia,Koen Casteels,0.1009,Saved,103.8,38.0,39,1,0,1,1,16.322989922192566,Penalty area close
+3930164,Juraj Kucka,Slovakia,Koen Casteels,0.0643,Off T,115.7,49.2,47,1,0,0,0,10.155294185792947,Penalty area close
+3930164,Lukáš Haraslín,Slovakia,Koen Casteels,0.0282,Off T,100.0,24.7,46,2,0,0,0,25.181143738917022,Outside box
+3930164,Denis Vavro,Slovakia,Koen Casteels,0.0062,Off T,79.8,40.3,51,2,0,0,0,40.20111938740015,Outside box
+3930164,Romelu Lukaku Menama,Belgium,Martin Dúbravka,0.0923,Saved,110.7,53.2,54,2,0,1,1,16.147135968957468,Penalty area close
+3930164,Leandro Trossard,Belgium,Martin Dúbravka,0.0991,Saved,99.9,47.5,58,2,0,1,1,21.453671014537342,Penalty area edge
+3930164,Yannick Ferreira Carrasco,Belgium,Martin Dúbravka,0.1005,Blocked,109.8,39.3,60,2,0,0,0,10.223991392797632,Penalty area close
+3930164,Romelu Lukaku Menama,Belgium,Martin Dúbravka,0.0894,Off T,114.8,49.2,60,2,0,0,0,10.56787585089833,Penalty area close
+3930164,Johan Bakayoko,Belgium,Martin Dúbravka,0.1953,Blocked,110.9,40.0,61,2,0,0,0,9.099999999999994,6-yard box
+3930164,Kevin De Bruyne,Belgium,Martin Dúbravka,0.034,Blocked,99.7,51.7,66,2,0,0,0,23.43032223423314,Penalty area edge
+3930164,David Strelec,Slovakia,Koen Casteels,0.1231,Blocked,111.6,44.8,75,2,0,0,0,9.674709297958264,6-yard box
+3930164,Juraj Kucka,Slovakia,Koen Casteels,0.0476,Off T,97.5,49.6,77,2,0,0,0,24.462420158275428,Penalty area edge
+3930164,Yannick Ferreira Carrasco,Belgium,Martin Dúbravka,0.0466,Blocked,98.6,35.1,79,2,0,0,0,21.953815158190622,Penalty area edge
+3930164,Amadou Onana,Belgium,Martin Dúbravka,0.0348,Off T,108.7,35.8,79,2,0,0,0,12.055289295574783,Penalty area close
+3930164,Johan Bakayoko,Belgium,Martin Dúbravka,0.0307,Off T,100.3,47.6,90,2,0,0,0,21.115160430363776,Penalty area edge
+3930164,Kevin De Bruyne,Belgium,Martin Dúbravka,0.1234,Saved,109.4,52.0,92,2,0,1,1,16.011246047700343,Penalty area close
+3930161,Nedim Bajrami,Albania,Gianluigi Donnarumma,0.0862,Goal,111.8,51.9,0,1,1,0,1,14.451643505151932,Penalty area close
+3930161,Lorenzo Pellegrini,Italy,Thomas Strakosha,0.2011,Off T,105.9,42.6,1,1,0,0,0,14.337712509323092,Penalty area close
+3930161,Federico Chiesa,Italy,Thomas Strakosha,0.0156,Blocked,111.0,57.1,5,1,0,0,0,19.3238194982255,Penalty area edge
+3930161,Jasir Asani,Albania,Gianluigi Donnarumma,0.0149,Blocked,106.8,57.6,7,1,0,0,0,22.000000000000004,Penalty area edge
+3930161,Berat Djimsiti,Albania,Gianluigi Donnarumma,0.058,Wayward,103.5,35.1,8,1,0,0,0,17.212204972053986,Penalty area close
+3930161,Federico Dimarco,Italy,Thomas Strakosha,0.0158,Blocked,105.2,23.6,9,1,0,0,0,22.09072203437452,Penalty area edge
+3930161,Alessandro Bastoni,Italy,Thomas Strakosha,0.1378,Goal,117.6,45.7,10,1,1,0,1,6.184658438426496,6-yard box
+3930161,Gianluca Scamacca,Italy,Thomas Strakosha,0.0532,Blocked,104.8,50.9,15,1,0,0,0,18.70427758562196,Penalty area edge
+3930161,Nicolò Barella,Italy,Thomas Strakosha,0.0846,Goal,100.8,36.7,15,1,1,0,1,19.481529714065065,Penalty area edge
+3930161,Riccardo Calafiori,Italy,Thomas Strakosha,0.1803,Blocked,115.6,39.0,20,1,0,0,0,4.512205669071396,6-yard box
+3930161,Federico Chiesa,Italy,Thomas Strakosha,0.0271,Blocked,95.4,34.3,20,1,0,0,0,25.251732613822753,Outside box
+3930161,Lorenzo Pellegrini,Italy,Thomas Strakosha,0.0506,Wayward,112.8,31.8,30,1,0,0,0,10.912378292562995,Penalty area close
+3930161,Davide Frattesi,Italy,Thomas Strakosha,0.2195,Saved to Post,113.1,50.5,32,1,0,0,0,12.564234954823158,Penalty area close
+3930161,Gianluca Scamacca,Italy,Thomas Strakosha,0.0858,Saved,114.8,50.6,39,1,0,1,1,11.806777714516356,Penalty area close
+3930161,Riccardo Calafiori,Italy,Thomas Strakosha,0.1009,Blocked,112.8,39.8,40,1,0,0,0,7.202777242147645,6-yard box
+3930161,Jasir Asani,Albania,Gianluigi Donnarumma,0.0232,Off T,93.3,50.5,43,1,0,0,0,28.690416518412558,Outside box
+3930161,Lorenzo Pellegrini,Italy,Thomas Strakosha,0.1197,Off T,109.0,36.9,46,1,0,0,0,11.428473213863697,Penalty area close
+3930161,Gianluca Scamacca,Italy,Thomas Strakosha,0.0373,Blocked,97.7,44.6,47,2,0,0,0,22.769497139814042,Penalty area edge
+3930161,Kristjan Asllani,Albania,Gianluigi Donnarumma,0.0086,Blocked,92.6,22.7,51,2,0,0,0,32.404474999604616,Outside box
+3930161,Federico Chiesa,Italy,Thomas Strakosha,0.0346,Off T,101.6,52.7,59,2,0,0,0,22.357325421436265,Penalty area edge
+3930161,Giovanni Di Lorenzo,Italy,Thomas Strakosha,0.0759,Blocked,116.2,31.1,66,2,0,0,0,9.67729300992793,6-yard box
+3930161,Kristjan Asllani,Albania,Gianluigi Donnarumma,0.0289,Off T,97.3,43.8,68,2,0,0,0,23.015864094141676,Penalty area edge
+3930161,Federico Dimarco,Italy,Thomas Strakosha,0.0098,Saved,95.3,22.5,79,2,0,1,1,30.271108337819417,Outside box
+3930161,Rey Manaj,Albania,Gianluigi Donnarumma,0.104,Saved,114.6,51.8,89,2,0,1,1,12.976902558006667,Penalty area close
+3930161,Mario Mitaj,Albania,Gianluigi Donnarumma,0.0307,Off T,100.7,25.2,94,2,0,0,0,24.321389762922678,Penalty area edge
+3930183,Juraj Kucka,Slovakia,Florin Constantin Niţă,0.0421,Blocked,99.2,37.7,0,1,0,0,0,20.926777104943795,Penalty area edge
+3930183,Peter Pekarík,Slovakia,Florin Constantin Niţă,0.0188,Wayward,94.7,52.1,0,1,0,0,0,28.044607324760314,Outside box
+3930183,David Strelec,Slovakia,Florin Constantin Niţă,0.1663,Wayward,105.8,41.1,0,1,0,0,0,14.242541907960112,Penalty area close
+3930183,Juraj Kucka,Slovakia,Florin Constantin Niţă,0.0436,Saved,108.5,45.8,8,1,0,1,1,12.87982919141399,Penalty area close
+3930183,Dávid Hancko,Slovakia,Florin Constantin Niţă,0.0615,Off T,104.9,42.4,9,1,0,0,0,15.289538907370614,Penalty area close
+3930183,Andrei Florin Ratiu,Romania,Martin Dúbravka,0.0838,Saved,106.4,27.8,10,1,0,1,1,18.270194306574844,Penalty area edge
+3930183,Ianis Hagi,Romania,Martin Dúbravka,0.0421,Off T,109.9,53.7,10,1,0,0,0,17.020575783445164,Penalty area close
+3930183,Răzvan Gabriel Marin,Romania,Martin Dúbravka,0.0079,Off T,85.4,26.7,12,1,0,0,0,37.06818042472546,Outside box
+3930183,Milan Škriniar,Slovakia,Florin Constantin Niţă,0.1285,Off T,112.3,37.0,21,1,0,0,0,8.26377637645163,6-yard box
+3930183,Nicolae Claudiu Stanciu,Romania,Martin Dúbravka,0.01,Saved,97.0,22.1,22,1,0,1,1,29.14463930125058,Outside box
+3930183,Ondrej Duda,Slovakia,Florin Constantin Niţă,0.1094,Goal,111.2,35.7,23,1,1,0,1,9.794386147176347,6-yard box
+3930183,David Strelec,Slovakia,Florin Constantin Niţă,0.0879,Off T,109.3,44.5,30,1,0,0,0,11.607756027760063,Penalty area close
+3930183,Andrei Florin Ratiu,Romania,Martin Dúbravka,0.0375,Saved,94.0,43.4,32,1,0,1,1,26.221365334398588,Outside box
+3930183,Răzvan Gabriel Marin,Romania,Martin Dúbravka,0.7835,Goal,108.1,40.1,36,1,1,0,1,11.900420160649796,Penalty area close
+3930183,Denis Mihai Drăguş,Romania,Martin Dúbravka,0.0456,Off T,102.7,30.5,42,1,0,0,0,19.736767719158067,Penalty area edge
+3930183,David Strelec,Slovakia,Florin Constantin Niţă,0.0164,Off T,87.6,38.5,43,1,0,0,0,32.434703636691374,Outside box
+3930183,Lukáš Haraslín,Slovakia,Florin Constantin Niţă,0.0126,Saved,116.4,26.9,51,2,0,1,1,13.585654198455074,Penalty area close
+3930183,Răzvan Gabriel Marin,Romania,Martin Dúbravka,0.0527,Saved,101.6,49.2,60,2,0,1,1,20.571825392998072,Penalty area edge
+3930183,Denis Mihai Drăguş,Romania,Martin Dúbravka,0.0589,Off T,104.3,26.3,60,2,0,0,0,20.83698634639856,Penalty area edge
+3930183,David Strelec,Slovakia,Florin Constantin Niţă,0.1146,Saved,103.7,41.8,63,2,0,1,1,16.399085340347487,Penalty area close
+3930183,Lukáš Haraslín,Slovakia,Florin Constantin Niţă,0.0364,Off T,105.1,23.6,64,2,0,0,0,22.157842855296185,Penalty area edge
+3930183,Denis Vavro,Slovakia,Florin Constantin Niţă,0.0065,Off T,84.5,53.0,75,2,0,0,0,37.80542289143186,Outside box
+3930175,Youri Tielemans,Belgium,Florin Constantin Niţă,0.0568,Goal,100.4,44.1,1,1,1,0,1,20.02423531623617,Penalty area edge
+3930175,Răzvan Gabriel Marin,Romania,Koen Casteels,0.0204,Off T,93.6,55.2,2,1,0,0,0,30.463092423455638,Outside box
+3930175,Radu Drăgușin,Romania,Koen Casteels,0.1038,Saved,112.5,41.9,4,1,0,1,1,7.736924453553879,6-yard box
+3930175,Youri Tielemans,Belgium,Florin Constantin Niţă,0.0419,Blocked,97.9,35.9,10,1,0,0,0,22.477099457002893,Penalty area edge
+3930175,Romelu Lukaku Menama,Belgium,Florin Constantin Niţă,0.128,Blocked,109.4,38.9,12,1,0,0,0,10.656922632730327,Penalty area close
+3930175,Amadou Onana,Belgium,Florin Constantin Niţă,0.0219,Wayward,95.2,41.2,17,1,0,0,0,24.82901528454159,Penalty area edge
+3930175,Dodi Lukebakio,Belgium,Florin Constantin Niţă,0.0785,Saved,105.6,47.5,17,1,0,1,1,16.236070953281775,Penalty area close
+3930175,Jan Vertonghen,Belgium,Florin Constantin Niţă,0.1049,Off T,109.5,34.6,18,1,0,0,0,11.807201192492656,Penalty area close
+3930175,Valentin Mihai Mihăilă,Romania,Koen Casteels,0.037,Off T,96.8,36.4,20,1,0,0,0,23.477648945326706,Penalty area edge
+3930175,Valentin Mihai Mihăilă,Romania,Koen Casteels,0.0309,Blocked,99.7,27.7,23,1,0,0,0,23.73562722996803,Penalty area edge
+3930175,Jeremy Doku,Belgium,Florin Constantin Niţă,0.0218,Saved,116.0,27.9,30,1,0,1,1,12.744018204632322,Penalty area close
+3930175,Dodi Lukebakio,Belgium,Florin Constantin Niţă,0.0127,Blocked,114.9,25.6,30,1,0,0,0,15.276452467768815,Penalty area close
+3930175,Dodi Lukebakio,Belgium,Florin Constantin Niţă,0.0316,Blocked,103.5,54.0,32,1,0,0,0,21.639085008382402,Penalty area edge
+3930175,Dennis Man,Romania,Koen Casteels,0.0335,Saved,102.7,54.8,36,1,0,1,1,22.76686188300882,Penalty area edge
+3930175,Kevin De Bruyne,Belgium,Florin Constantin Niţă,0.0974,Saved,103.1,52.4,42,1,0,1,1,20.961154548354443,Penalty area edge
+3930175,Andrei Burcă Andonie,Romania,Koen Casteels,0.1115,Off T,112.0,41.3,44,1,0,0,0,8.104936767180853,6-yard box
+3930175,Dennis Man,Romania,Koen Casteels,0.0213,Saved,95.8,55.5,45,2,0,1,1,28.738301967931232,Outside box
+3930175,Valentin Mihai Mihăilă,Romania,Koen Casteels,0.1173,Off T,106.3,28.4,47,2,0,0,0,17.951323071016244,Penalty area close
+3930175,Kevin De Bruyne,Belgium,Florin Constantin Niţă,0.0258,Off T,100.1,24.4,51,2,0,0,0,25.285766747322498,Outside box
+3930175,Kevin De Bruyne,Belgium,Florin Constantin Niţă,0.1301,Saved,101.0,40.8,54,2,0,1,1,19.016834647227704,Penalty area edge
+3930175,Valentin Mihai Mihăilă,Romania,Koen Casteels,0.0392,Off T,97.2,31.6,56,2,0,0,0,24.298148077579903,Penalty area edge
+3930175,Romelu Lukaku Menama,Belgium,Florin Constantin Niţă,0.0722,Blocked,105.7,50.3,57,2,0,0,0,17.62328005792338,Penalty area close
+3930175,Romelu Lukaku Menama,Belgium,Florin Constantin Niţă,0.1642,Saved,111.0,45.3,58,2,0,1,1,10.444615837837214,Penalty area close
+3930175,Jeremy Doku,Belgium,Florin Constantin Niţă,0.1102,Off T,110.6,27.2,62,2,0,0,0,15.880806024884258,Penalty area close
+3930175,Romelu Lukaku Menama,Belgium,Florin Constantin Niţă,0.204,Saved,109.0,43.5,65,2,0,1,1,11.543396380615196,Penalty area close
+3930175,Kevin De Bruyne,Belgium,Florin Constantin Niţă,0.0252,Off T,94.3,30.6,66,2,0,0,0,27.365123789232165,Outside box
+3930175,Dennis Man,Romania,Koen Casteels,0.3222,Saved,107.2,46.5,67,2,0,1,1,14.35583505059876,Penalty area close
+3930175,Răzvan Gabriel Marin,Romania,Koen Casteels,0.0058,Off T,83.8,29.8,74,2,0,0,0,37.609573249373625,Outside box
+3930175,Kevin De Bruyne,Belgium,Florin Constantin Niţă,0.1767,Goal,106.4,44.6,79,2,1,0,1,14.356879883874486,Penalty area close
+3930175,Denis Alibec,Romania,Koen Casteels,0.3628,Blocked,105.8,34.7,84,2,0,0,0,15.15684663774098,Penalty area close
+3930175,Radu Drăgușin,Romania,Koen Casteels,0.0245,Wayward,112.9,29.4,84,2,0,0,0,12.758134659894445,Penalty area close
+3930175,Leandro Trossard,Belgium,Florin Constantin Niţă,0.0337,Blocked,109.3,54.4,85,2,0,0,0,17.940178371465542,Penalty area close
+3930175,Romelu Lukaku Menama,Belgium,Florin Constantin Niţă,0.1083,Saved,114.2,51.8,88,2,0,1,1,13.148383931114877,Penalty area close
+3930175,Radu Drăgușin,Romania,Koen Casteels,0.0158,Blocked,90.4,46.8,91,2,0,0,0,30.37103883636514,Outside box
+3930158,Florian Wirtz,Germany,Angus Gunn,0.0642,Goal,101.1,42.0,9,1,1,0,1,19.005525512334568,Penalty area edge
+3930158,Jamal Musiala,Germany,Angus Gunn,0.0935,Goal,106.4,35.4,18,1,1,0,1,14.356879883874486,Penalty area close
+3930158,Kai Havertz,Germany,Angus Gunn,0.0619,Saved,101.2,41.6,27,1,0,1,1,18.867962264113206,Penalty area edge
+3930158,İlkay Gündoğan,Germany,Angus Gunn,0.0821,Saved,111.0,43.4,41,1,0,1,1,9.620810776644554,6-yard box
+3930158,Kai Havertz,Germany,Angus Gunn,0.7835,Goal,108.1,40.1,45,1,1,0,1,11.900420160649796,Penalty area close
+3930158,Antonio Rüdiger,Germany,Angus Gunn,0.0061,Saved,82.1,44.8,50,2,0,1,1,38.2027485922152,Outside box
+3930158,Antonio Rüdiger,Germany,Angus Gunn,0.0744,Blocked,106.9,43.3,51,2,0,0,0,13.509256086106289,Penalty area close
+3930158,Pascal Groß,Germany,Angus Gunn,0.0305,Blocked,98.1,29.4,56,2,0,0,0,24.33043361717995,Penalty area edge
+3930158,Joshua Kimmich,Germany,Angus Gunn,0.0154,Blocked,95.4,57.2,56,2,0,0,0,30.016662039607265,Outside box
+3930158,Florian Wirtz,Germany,Angus Gunn,0.1151,Off T,112.6,50.1,57,2,0,0,0,12.520782723136765,Penalty area close
+3930158,İlkay Gündoğan,Germany,Angus Gunn,0.1337,Blocked,110.1,37.4,58,2,0,0,0,10.235721762533414,Penalty area close
+3930158,Maximilian Mittelstädt,Germany,Angus Gunn,0.0251,Blocked,102.9,28.5,59,2,0,0,0,20.607280266934787,Penalty area edge
+3930158,Florian Wirtz,Germany,Angus Gunn,0.0204,Off T,88.9,37.2,59,2,0,0,0,31.22579062249665,Outside box
+3930158,Leroy Sané,Germany,Angus Gunn,0.0733,Saved,107.5,54.1,63,2,0,1,1,18.84303584882224,Penalty area edge
+3930158,Maximilian Mittelstädt,Germany,Angus Gunn,0.0231,Off T,99.2,28.8,65,2,0,0,0,23.623716896373438,Penalty area edge
+3930158,Niclas Füllkrug,Germany,Angus Gunn,0.114,Goal,104.1,39.3,67,2,1,0,1,15.915401345866217,Penalty area close
+3930158,Maximilian Mittelstädt,Germany,Angus Gunn,0.0213,Off T,102.8,25.6,79,2,0,0,0,22.432119828495924,Penalty area edge
+3930158,Leroy Sané,Germany,Angus Gunn,0.0264,Saved,98.9,55.4,82,2,0,1,1,26.12221276997796,Outside box
+3930158,Leroy Sané,Germany,Angus Gunn,0.0308,Off T,92.6,43.3,85,2,0,0,0,27.598007174432002,Outside box
+3930158,Scott McKenna,Scotland,Manuel Neuer,0.0605,Wayward,108.8,50.0,86,2,0,0,0,15.01465950329877,Penalty area close
+3930158,Emre Can,Germany,Angus Gunn,0.05,Goal,98.5,39.4,92,2,1,0,1,21.508370463612533,Penalty area edge

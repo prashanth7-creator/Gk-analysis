@@ -1,0 +1,6 @@
+z_column,metric,weight,weight_pct
+z_goals_prevented,Goals Prevented,0.35,35%
+z_save_pct,Save %,0.3,30%
+z_sweeper_per_match,Sweeper/Match,0.15,15%
+z_claims_per_match,Claims/Match,0.1,10%
+z_goals_conceded,Goals Conceded (inv.),0.1,10%

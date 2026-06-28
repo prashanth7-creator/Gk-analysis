@@ -1,0 +1,1341 @@
+match_id,player_name,team_name,type_name,gk_name,xg,outcome,shot_x,shot_y
+3930166,Pavel Šulc,Czech Republic,Shot,Diogo Meireles Costa,0.06054878,Blocked,103.0,33.9
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jindřich Staněk,0.054354656,Off T,108.6,40.1
+3930166,Nuno Mendes,Portugal,Shot,Jindřich Staněk,0.007152914,Off T,89.6,25.3
+3930166,Rúben Santos Gato Alves Dias,Portugal,Shot,Jindřich Staněk,0.03168744,Blocked,99.7,52.2
+3930166,João Pedro Cavaco Cancelo,Portugal,Shot,Jindřich Staněk,0.028342715,Blocked,104.7,25.1
+3930166,Bruno Miguel Borges Fernandes,Portugal,Shot,Jindřich Staněk,0.0055739963,Blocked,92.6,20.6
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jindřich Staněk,0.4916691,Saved,109.8,36.7
+3930166,Vitor Machado Ferreira,Portugal,Shot,Jindřich Staněk,0.037158106,Saved,96.7,32.6
+3930166,Vitor Machado Ferreira,Portugal,Shot,Jindřich Staněk,0.15270437,Blocked,106.6,35.4
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jindřich Staněk,0.07862081,Saved,107.9,51.7
+3930166,José Diogo Dalot Teixeira,Portugal,Shot,Jindřich Staněk,0.02290134,Off T,99.2,55.7
+3930166,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Jindřich Staněk,0.032631624,Off T,101.9,56.1
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jindřich Staněk,0.09138278,Blocked,111.8,40.5
+3930166,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jindřich Staněk,0.05240551,Saved,92.3,38.0
+3930166,Rafael Alexandre Conceição Leão,Portugal,Shot,Jindřich Staněk,0.008591539,Blocked,107.9,20.4
+3930166,Mojmír Chytil,Czech Republic,Shot,Diogo Meireles Costa,0.040316492,Wayward,107.6,41.8
+3930166,Lukáš Provod,Czech Republic,Shot,Diogo Meireles Costa,0.035857204,Goal,98.3,48.1
+3930166,Nuno Mendes,Portugal,Shot,Jindřich Staněk,0.045160558,Saved,115.0,30.7
+3930166,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Jindřich Staněk,0.067471,Saved,108.9,25.4
+3930166,Vitor Machado Ferreira,Portugal,Shot,Jindřich Staněk,0.03203486,Saved,91.3,35.1
+3930166,Bruno Miguel Borges Fernandes,Portugal,Shot,Jindřich Staněk,0.0076566194,Blocked,107.1,16.8
+3930166,Petr Ševčík,Czech Republic,Shot,Diogo Meireles Costa,0.11256568,Blocked,106.1,44.5
+3930166,Tomáš Souček,Czech Republic,Shot,Diogo Meireles Costa,0.06547854,Off T,100.6,44.7
+3930166,Francisco Fernandes Conceição,Portugal,Shot,Jindřich Staněk,0.59001094,Goal,115.7,36.1
+3930159,Attila Szalai,Hungary,Shot,Yann Sommer,0.09601528,Wayward,110.6,27.7
+3930159,Roland Sallai,Hungary,Shot,Yann Sommer,0.044836354,Off T,98.1,48.0
+3930159,Kwadwo Duah,Switzerland,Shot,Péter Gulácsi,0.38862705,Goal,108.4,41.6
+3930159,Ruben Vargas,Switzerland,Shot,Péter Gulácsi,0.4467253,Saved,107.1,47.2
+3930159,Fabian Lukas Schär,Switzerland,Shot,Péter Gulácsi,0.017150318,Blocked,93.4,51.8
+3930159,Fabian Lukas Schär,Switzerland,Shot,Péter Gulácsi,0.053312253,Blocked,103.4,50.1
+3930159,Willi Orban,Hungary,Shot,Yann Sommer,0.14360759,Saved,111.3,39.9
+3930159,Michel Aebischer,Switzerland,Shot,Péter Gulácsi,0.03557817,Goal,96.0,34.5
+3930159,Kwadwo Duah,Switzerland,Shot,Péter Gulácsi,0.06089901,Blocked,110.1,51.0
+3930159,Kwadwo Duah,Switzerland,Shot,Péter Gulácsi,0.10888988,Saved,105.0,29.0
+3930159,Ruben Vargas,Switzerland,Shot,Péter Gulácsi,0.12474265,Saved,108.6,30.2
+3930159,Dan Ndoye,Switzerland,Shot,Péter Gulácsi,0.03159932,Off T,96.4,50.9
+3930159,Barnabás Varga,Hungary,Shot,Yann Sommer,0.15456991,Off T,111.8,42.5
+3930159,Barnabás Varga,Hungary,Shot,Yann Sommer,0.57968694,Goal,115.5,42.1
+3930159,Roland Sallai,Hungary,Shot,Yann Sommer,0.08412952,Blocked,104.9,35.6
+3930159,Dan Ndoye,Switzerland,Shot,Péter Gulácsi,0.052711353,Blocked,108.7,25.6
+3930159,Fabian Lukas Schär,Switzerland,Shot,Péter Gulácsi,0.11983715,Off T,113.3,42.4
+3930159,Dan Ndoye,Switzerland,Shot,Péter Gulácsi,0.14827995,Off T,105.0,49.0
+3930159,Vincent Sierro,Switzerland,Shot,Péter Gulácsi,0.020479834,Blocked,91.4,28.3
+3930159,Granit Xhaka,Switzerland,Shot,Péter Gulácsi,0.044237033,Saved,116.5,49.9
+3930159,Breel-Donald Embolo,Switzerland,Shot,Péter Gulácsi,0.4426999,Goal,104.3,41.5
+3930163,Jude Bellingham,England,Shot,Predrag Rajković,0.28910747,Goal,113.4,39.5
+3930163,Trent Alexander-Arnold,England,Shot,Predrag Rajković,0.025817266,Off T,95.8,51.0
+3930163,Aleksandar Mitrović,Serbia,Shot,Jordan Pickford,0.09554446,Off T,103.0,47.3
+3930163,Dušan Vlahović,Serbia,Shot,Jordan Pickford,0.037229445,Blocked,98.9,46.6
+3930163,Trent Alexander-Arnold,England,Shot,Predrag Rajković,0.05354343,Blocked,92.2,46.3
+3930163,Trent Alexander-Arnold,England,Shot,Predrag Rajković,0.023010701,Saved,90.8,50.6
+3930163,Harry Kane,England,Shot,Predrag Rajković,0.16733526,Saved to Post,114.8,36.2
+3930163,Dušan Vlahović,Serbia,Shot,Jordan Pickford,0.045151852,Saved,96.9,32.1
+3930163,Veljko Birmančević,Serbia,Shot,Jordan Pickford,0.033204958,Blocked,98.1,35.4
+3930163,Sergej Milinković-Savić,Serbia,Shot,Jordan Pickford,0.01536182,Off T,89.8,27.7
+3930163,Ivan Ilić,Serbia,Shot,Jordan Pickford,0.02291271,Blocked,90.5,30.5
+3930181,Benjamin Šeško,Slovenia,Shot,Jordan Pickford,0.06892924,Saved,108.3,38.4
+3930181,Andraž Šporar,Slovenia,Shot,Jordan Pickford,0.04272891,Saved Off Target,95.3,42.9
+3930181,Harry Kane,England,Shot,Jan Oblak,0.042826455,Blocked,102.6,38.8
+3930181,Harry Kane,England,Shot,Jan Oblak,0.027990201,Blocked,107.8,35.8
+3930181,Harry Kane,England,Shot,Jan Oblak,0.020003181,Saved,98.9,22.2
+3930181,Andraž Šporar,Slovenia,Shot,Jordan Pickford,0.025362415,Blocked,92.8,35.5
+3930181,Phil Foden,England,Shot,Jan Oblak,0.02118464,Saved,89.4,52.7
+3930181,Harry Kane,England,Shot,Jan Oblak,0.39533535,Off T,115.7,43.3
+3930181,Harry Kane,England,Shot,Jan Oblak,0.022610057,Blocked,89.8,50.8
+3930181,Phil Foden,England,Shot,Jan Oblak,0.011521615,Off T,88.6,43.7
+3930181,John Stones,England,Shot,Jan Oblak,0.07156796,Blocked,112.0,40.9
+3930181,Adam Gnezda Čerin,Slovenia,Shot,Jordan Pickford,0.027896708,Off T,92.3,51.6
+3930181,Declan Rice,England,Shot,Jan Oblak,0.035136804,Off T,106.7,23.3
+3930181,Phil Foden,England,Shot,Jan Oblak,0.038287748,Blocked,97.7,32.1
+3930181,Cole Palmer,England,Shot,Jan Oblak,0.0473352,Saved,103.2,55.2
+3930181,Trent Alexander-Arnold,England,Shot,Jan Oblak,0.02242279,Off T,90.1,44.8
+3930178,Luka Sučić,Croatia,Shot,Gianluigi Donnarumma,0.021476122,Saved,91.7,51.0
+3930178,Lorenzo Pellegrini,Italy,Shot,Dominik Livaković,0.040648647,Off T,103.9,30.6
+3930178,Mateo Retegui,Italy,Shot,Dominik Livaković,0.11477187,Blocked,113.2,41.4
+3930178,Mateo Retegui,Italy,Shot,Dominik Livaković,0.050440855,Blocked,106.2,36.1
+3930178,Mateo Retegui,Italy,Shot,Dominik Livaković,0.02528777,Blocked,111.3,25.7
+3930178,Alessandro Bastoni,Italy,Shot,Dominik Livaković,0.14318198,Saved,113.0,33.8
+3930178,Luka Modrić,Croatia,Shot,Gianluigi Donnarumma,0.020104777,Blocked,99.8,54.3
+3930178,Lorenzo Pellegrini,Italy,Shot,Dominik Livaković,0.027555797,Saved,103.4,27.1
+3930178,Andrej Kramarić,Croatia,Shot,Gianluigi Donnarumma,0.024291756,Blocked,107.2,26.5
+3930178,Luka Modrić,Croatia,Shot,Gianluigi Donnarumma,0.7835,Saved,108.0,40.0
+3930178,Ante Budimir,Croatia,Shot,Gianluigi Donnarumma,0.14855804,Saved,111.3,40.9
+3930178,Luka Modrić,Croatia,Shot,Gianluigi Donnarumma,0.48530436,Goal,114.9,35.5
+3930178,Davide Frattesi,Italy,Shot,Dominik Livaković,0.05347716,Blocked,107.5,29.9
+3930178,Alessandro Bastoni,Italy,Shot,Dominik Livaković,0.16923,Off T,114.2,42.9
+3930178,Matteo Darmian,Italy,Shot,Dominik Livaković,0.055198677,Blocked,112.1,28.1
+3930178,Giacomo Raspadori,Italy,Shot,Dominik Livaković,0.06597319,Blocked,94.2,44.2
+3930178,Giovanni Di Lorenzo,Italy,Shot,Dominik Livaković,0.11527714,Blocked,114.6,34.8
+3930178,Gianluca Scamacca,Italy,Shot,Dominik Livaković,0.013674787,Blocked,87.8,29.5
+3930178,Mattia Zaccagni,Italy,Shot,Dominik Livaković,0.11067648,Goal,103.4,28.0
+3930160,Álvaro Borja Morata Martín,Spain,Shot,Dominik Livaković,0.05367552,Saved,98.8,47.5
+3930160,Lamine Yamal Nasraoui Ebana,Spain,Shot,Dominik Livaković,0.04807823,Saved Off Target,106.5,49.9
+3930160,Ante Budimir,Croatia,Shot,Unai Simón Mendibil,0.048898492,Off T,107.7,39.3
+3930160,Álvaro Borja Morata Martín,Spain,Shot,Dominik Livaković,0.4253404,Goal,104.1,39.9
+3930160,Mateo Kovačić,Croatia,Shot,Unai Simón Mendibil,0.06378076,Saved,102.8,38.7
+3930160,Fabián Ruiz Peña,Spain,Shot,Dominik Livaković,0.056130085,Goal,103.9,38.7
+3930160,Marcelo Brozović,Croatia,Shot,Unai Simón Mendibil,0.07775181,Saved,101.8,40.2
+3930160,Lovro Majer,Croatia,Shot,Unai Simón Mendibil,0.10645112,Off T,116.5,50.1
+3930160,Robin Aime Robert Le Normand,Spain,Shot,Dominik Livaković,0.108392105,Blocked,114.2,35.6
+3930160,Joško Gvardiol,Croatia,Shot,Unai Simón Mendibil,0.05044837,Off T,114.0,27.5
+3930160,Andrej Kramarić,Croatia,Shot,Unai Simón Mendibil,0.013197766,Off T,86.3,47.4
+3930160,Mateo Kovačić,Croatia,Shot,Unai Simón Mendibil,0.019094488,Off T,91.0,30.4
+3930160,Daniel Carvajal Ramos,Spain,Shot,Dominik Livaković,0.30100337,Goal,112.7,42.4
+3930160,Joško Gvardiol,Croatia,Shot,Unai Simón Mendibil,0.018449154,Blocked,101.2,24.0
+3930160,Lamine Yamal Nasraoui Ebana,Spain,Shot,Dominik Livaković,0.28168085,Saved,108.6,48.3
+3930160,Álvaro Borja Morata Martín,Spain,Shot,Dominik Livaković,0.2103611,Wayward,117.4,34.5
+3930160,Josip Stanišić,Croatia,Shot,Unai Simón Mendibil,0.22294979,Blocked,111.9,47.8
+3930160,Ante Budimir,Croatia,Shot,Unai Simón Mendibil,0.20600665,Blocked,117.0,37.0
+3930160,Andrej Kramarić,Croatia,Shot,Unai Simón Mendibil,0.71037304,Saved,118.4,40.0
+3930160,Mateo Kovačić,Croatia,Shot,Unai Simón Mendibil,0.099854395,Wayward,115.1,34.4
+3930160,Lamine Yamal Nasraoui Ebana,Spain,Shot,Dominik Livaković,0.042338703,Blocked,91.3,45.4
+3930160,Daniel Olmo Carvajal,Spain,Shot,Dominik Livaković,0.027441183,Blocked,93.9,39.0
+3930160,Bruno Petković,Croatia,Shot,Unai Simón Mendibil,0.7835,Saved,108.0,40.0
+3930160,Ivan Perišić,Croatia,Shot,Unai Simón Mendibil,0.035310246,Blocked,101.4,28.7
+3930160,Ivan Perišić,Croatia,Shot,Unai Simón Mendibil,0.006942888,Saved,87.3,24.7
+3930160,Ferrán Torres García,Spain,Shot,Dominik Livaković,0.012741043,Blocked,109.6,57.8
+3930160,Ivan Perišić,Croatia,Shot,Unai Simón Mendibil,0.019089911,Off T,107.8,27.5
+3930170,Adam Gnezda Čerin,Slovenia,Shot,Predrag Rajković,0.041358393,Saved,95.6,49.4
+3930170,Jan Mlakar,Slovenia,Shot,Predrag Rajković,0.14476232,Saved,109.1,51.7
+3930170,Andraž Šporar,Slovenia,Shot,Predrag Rajković,0.07042414,Blocked,108.8,42.9
+3930170,Timi Elšnik,Slovenia,Shot,Predrag Rajković,0.023047987,Blocked,90.1,41.2
+3930170,Dušan Vlahović,Serbia,Shot,Jan Oblak,0.0682874,Saved,111.0,34.9
+3930170,Jan Mlakar,Slovenia,Shot,Predrag Rajković,0.020043343,Wayward,102.6,25.2
+3930170,Timi Elšnik,Slovenia,Shot,Predrag Rajković,0.16156586,Post,105.7,50.3
+3930170,Andraž Šporar,Slovenia,Shot,Predrag Rajković,0.45923445,Wayward,110.6,38.9
+3930170,Benjamin Šeško,Slovenia,Shot,Predrag Rajković,0.23846735,Off T,109.6,35.3
+3930170,Dušan Vlahović,Serbia,Shot,Jan Oblak,0.042383377,Blocked,92.3,31.2
+3930170,Dušan Vlahović,Serbia,Shot,Jan Oblak,0.01660744,Blocked,95.6,30.9
+3930170,Aleksandar Mitrović,Serbia,Shot,Jan Oblak,0.29717425,Saved,116.5,33.3
+3930170,Saša Lukić,Serbia,Shot,Jan Oblak,0.08807026,Blocked,103.2,33.6
+3930170,Petar Stojanović,Slovenia,Shot,Predrag Rajković,0.023205703,Blocked,94.5,52.5
+3930170,Aleksandar Mitrović,Serbia,Shot,Jan Oblak,0.051894434,Off T,113.6,32.8
+3930170,Aleksandar Mitrović,Serbia,Shot,Jan Oblak,0.2402346,Saved,112.9,50.7
+3930170,Aleksandar Mitrović,Serbia,Shot,Jan Oblak,0.068004765,Blocked,110.2,38.0
+3930170,Benjamin Šeško,Slovenia,Shot,Predrag Rajković,0.021775488,Saved,96.0,23.6
+3930170,Aleksandar Mitrović,Serbia,Shot,Jan Oblak,0.058491293,Off T,102.7,50.4
+3930170,Žan Karničnik,Slovenia,Shot,Predrag Rajković,0.3382771,Goal,114.1,44.7
+3930170,Aleksandar Mitrović,Serbia,Shot,Jan Oblak,0.18343204,Post,113.4,38.4
+3930170,Sergej Milinković-Savić,Serbia,Shot,Jan Oblak,0.09501195,Blocked,112.9,36.9
+3930170,Žan Karničnik,Slovenia,Shot,Predrag Rajković,0.010003904,Off T,96.9,58.1
+3930170,Lazar Samardžić,Serbia,Shot,Jan Oblak,0.049244836,Off T,101.2,28.3
+3930170,Ivan Ilić,Serbia,Shot,Jan Oblak,0.02786128,Blocked,99.1,30.7
+3930170,Mijat Gaćinović,Serbia,Shot,Jan Oblak,0.032908905,Blocked,104.4,43.9
+3930170,Luka Jović,Serbia,Shot,Jan Oblak,0.14172395,Goal,114.6,40.3
+3938643,Piotr Zieliński,Poland,Shot,Mike Maignan,0.02182334,Saved,93.9,38.9
+3938643,Theo Bernard François Hernández,France,Shot,Łukasz Skorupski,0.082832314,Saved,112.6,27.2
+3938643,Sebastian Szymański,Poland,Shot,Mike Maignan,0.054202277,Blocked,104.2,25.1
+3938643,Kacper Urbanski,Poland,Shot,Mike Maignan,0.06955565,Saved,106.1,38.3
+3938643,Jakub Moder,Poland,Shot,Mike Maignan,0.016467048,Off T,89.7,27.9
+3938643,Ousmane Dembélé,France,Shot,Łukasz Skorupski,0.24532036,Saved,111.9,50.0
+3938643,Robert Lewandowski,Poland,Shot,Mike Maignan,0.08242022,Off T,109.8,43.8
+3938643,Aurélien Djani Tchouaméni,France,Shot,Łukasz Skorupski,0.013516772,Blocked,87.3,30.0
+3938643,Aurélien Djani Tchouaméni,France,Shot,Łukasz Skorupski,0.050685827,Blocked,99.1,41.7
+3938643,William Saliba,France,Shot,Łukasz Skorupski,0.046296313,Off T,107.3,39.0
+3938643,Robert Lewandowski,Poland,Shot,Mike Maignan,0.017444821,Wayward,87.5,38.4
+3938643,Kylian Mbappé Lottin,France,Shot,Łukasz Skorupski,0.118999206,Saved,115.6,29.2
+3938643,Dayotchanculle Upamecano,France,Shot,Łukasz Skorupski,0.09202025,Off T,112.3,37.3
+3938643,Kylian Mbappé Lottin,France,Shot,Łukasz Skorupski,0.033283398,Saved,117.6,29.5
+3938643,N'Golo Kanté,France,Shot,Łukasz Skorupski,0.06638347,Blocked,100.2,42.3
+3938643,Kylian Mbappé Lottin,France,Shot,Łukasz Skorupski,0.03354426,Saved,103.5,23.3
+3938643,Kylian Mbappé Lottin,France,Shot,Łukasz Skorupski,0.03001934,Off T,100.0,24.9
+3938643,Ousmane Dembélé,France,Shot,Łukasz Skorupski,0.0069303666,Blocked,105.4,60.0
+3938643,Kylian Mbappé Lottin,France,Shot,Łukasz Skorupski,0.7835,Goal,108.1,40.1
+3938643,Bradley Barcola,France,Shot,Łukasz Skorupski,0.019646157,Saved,116.6,27.4
+3938643,Antoine Griezmann,France,Shot,Łukasz Skorupski,0.04413893,Blocked,95.3,45.7
+3938643,Robert Lewandowski,Poland,Shot,Mike Maignan,0.023918275,Off T,92.6,31.8
+3938643,Robert Lewandowski,Poland,Shot,Mike Maignan,0.7835,Goal,108.0,40.0
+3938643,Robert Lewandowski,Poland,Shot,Mike Maignan,0.08196821,Off T,108.7,26.8
+3938643,Kacper Urbanski,Poland,Shot,Mike Maignan,0.027794229,Blocked,95.5,32.7
+3938643,Olivier Giroud,France,Shot,Łukasz Skorupski,0.102023974,Blocked,107.7,41.7
+3938643,Olivier Giroud,France,Shot,Łukasz Skorupski,0.054901406,Blocked,110.2,38.3
+3938643,Youssouf Fofana,France,Shot,Łukasz Skorupski,0.023010036,Blocked,94.4,28.8
+3938643,Kylian Mbappé Lottin,France,Shot,Łukasz Skorupski,0.044415563,Saved,100.9,29.8
+3938641,Stefan Posch,Austria,Shot,Wojciech Szczęsny,0.005845531,Saved,81.5,42.0
+3938641,Gernot Trauner,Austria,Shot,Wojciech Szczęsny,0.12611173,Goal,115.0,33.0
+3938641,Marcel Sabitzer,Austria,Shot,Wojciech Szczęsny,0.11302879,Blocked,107.5,45.2
+3938641,Marcel Sabitzer,Austria,Shot,Wojciech Szczęsny,0.066612996,Saved,105.5,38.4
+3938641,Piotr Zieliński,Poland,Shot,Patrick Pentz,0.11300054,Blocked,104.5,43.5
+3938641,Nicola Zalewski,Poland,Shot,Patrick Pentz,0.09912066,Off T,106.7,29.1
+3938641,Piotr Zieliński,Poland,Shot,Patrick Pentz,0.034465805,Blocked,97.3,46.3
+3938641,Piotr Zieliński,Poland,Shot,Patrick Pentz,0.07402389,Blocked,99.4,38.0
+3938641,Jan Bednarek,Poland,Shot,Patrick Pentz,0.20368662,Blocked,108.9,40.0
+3938641,Krzysztof Piątek,Poland,Shot,Patrick Pentz,0.4451365,Goal,113.8,41.6
+3938641,Marcel Sabitzer,Austria,Shot,Wojciech Szczęsny,0.13583574,Blocked,106.9,32.0
+3938641,Marcel Sabitzer,Austria,Shot,Wojciech Szczęsny,0.020456407,Off T,90.9,36.1
+3938641,Piotr Zieliński,Poland,Shot,Patrick Pentz,0.04249511,Saved,91.6,47.5
+3938641,Jakub Piotrowski,Poland,Shot,Patrick Pentz,0.04781311,Blocked,110.1,38.8
+3938641,Stefan Posch,Austria,Shot,Wojciech Szczęsny,0.027307073,Blocked,94.0,47.8
+3938641,Stefan Posch,Austria,Shot,Wojciech Szczęsny,0.062189415,Saved,111.5,37.6
+3938641,Krzysztof Piątek,Poland,Shot,Patrick Pentz,0.04481905,Off T,95.3,42.6
+3938641,Marcel Sabitzer,Austria,Shot,Wojciech Szczęsny,0.03803288,Blocked,103.6,26.7
+3938641,Adam Buksa,Poland,Shot,Patrick Pentz,0.01743585,Blocked,103.9,42.4
+3938641,Piotr Zieliński,Poland,Shot,Patrick Pentz,0.04008755,Blocked,96.8,24.1
+3938641,Paweł Dawidowicz,Poland,Shot,Patrick Pentz,0.06839087,Off T,113.0,47.4
+3938641,Christoph Baumgartner,Austria,Shot,Wojciech Szczęsny,0.14242558,Goal,102.5,36.3
+3938641,Karol Świderski,Poland,Shot,Patrick Pentz,0.07291489,Saved,99.6,33.0
+3938641,Patrick Wimmer,Austria,Shot,Wojciech Szczęsny,0.062519945,Saved,103.1,44.4
+3938641,Nicolas Seiwald,Austria,Shot,Wojciech Szczęsny,0.033934437,Saved,95.9,35.7
+3938641,Marko Arnautović,Austria,Shot,Wojciech Szczęsny,0.7835,Goal,108.0,40.0
+3938641,Stefan Posch,Austria,Shot,Wojciech Szczęsny,0.040483512,Saved,97.6,49.9
+3938641,Konrad Laimer,Austria,Shot,Wojciech Szczęsny,0.16341422,Off T,115.2,28.3
+3938641,Piotr Zieliński,Poland,Shot,Patrick Pentz,0.014394102,Off T,91.4,48.8
+3938641,Kamil Grosicki,Poland,Shot,Patrick Pentz,0.12030749,Off T,112.7,32.9
+3938642,Adam Hložek,Czech Republic,Shot,Giorgi Mamardashvili,0.11786606,Saved,110.7,30.3
+3938642,Ladislav Krejčí,Czech Republic,Shot,Giorgi Mamardashvili,0.03927281,Blocked,108.9,32.4
+3938642,Patrik Schick,Czech Republic,Shot,Giorgi Mamardashvili,0.1550353,Saved,112.8,46.4
+3938642,Patrik Schick,Czech Republic,Shot,Giorgi Mamardashvili,0.025926754,Saved,105.6,41.2
+3938642,Václav Černý,Czech Republic,Shot,Giorgi Mamardashvili,0.030162912,Blocked,99.6,52.7
+3938642,Patrik Schick,Czech Republic,Shot,Giorgi Mamardashvili,0.043804016,Blocked,102.2,37.3
+3938642,Lukáš Provod,Czech Republic,Shot,Giorgi Mamardashvili,0.029279253,Blocked,93.5,44.0
+3938642,Patrik Schick,Czech Republic,Shot,Giorgi Mamardashvili,0.085338846,Wayward,112.2,42.3
+3938642,Ladislav Krejčí,Czech Republic,Shot,Giorgi Mamardashvili,0.041940983,Wayward,108.5,42.3
+3938642,Adam Hložek,Czech Republic,Shot,Giorgi Mamardashvili,0.29124188,Saved,113.9,35.8
+3938642,Václav Černý,Czech Republic,Shot,Giorgi Mamardashvili,0.53146774,Saved,113.6,43.0
+3938642,Adam Hložek,Czech Republic,Shot,Giorgi Mamardashvili,0.047878973,Saved,101.1,27.1
+3938642,Otar Kakabadze,Georgia,Shot,Jindřich Staněk,0.012979693,Blocked,101.1,56.3
+3938642,Georges Mikautadze,Georgia,Shot,Jindřich Staněk,0.7835,Goal,108.1,40.1
+3938642,Patrik Schick,Czech Republic,Shot,Giorgi Mamardashvili,0.11700317,Saved,104.6,39.9
+3938642,Patrik Schick,Czech Republic,Shot,Giorgi Mamardashvili,0.047342736,Wayward,109.3,41.0
+3938642,Ondřej Lingr,Czech Republic,Shot,Giorgi Mamardashvili,0.02231607,Blocked,115.5,52.2
+3938642,David Jurásek,Czech Republic,Shot,Giorgi Mamardashvili,0.038487274,Wayward,99.7,31.4
+3938642,Anzor Mekvabishvili,Georgia,Shot,Jindřich Staněk,0.05346131,Off T,102.9,34.8
+3938642,Ondřej Lingr,Czech Republic,Shot,Giorgi Mamardashvili,0.16812286,Post,115.1,44.1
+3938642,Patrik Schick,Czech Republic,Shot,Giorgi Mamardashvili,0.719015,Goal,117.7,36.5
+3938642,Ladislav Krejčí,Czech Republic,Shot,Giorgi Mamardashvili,0.059734687,Off T,111.4,44.7
+3938642,Matěj Jurásek,Czech Republic,Shot,Giorgi Mamardashvili,0.03587616,Saved,95.4,44.6
+3938642,Khvicha Kvaratskhelia,Georgia,Shot,Jindřich Staněk,0.023518495,Off T,91.7,36.6
+3938642,Ladislav Krejčí,Czech Republic,Shot,Giorgi Mamardashvili,0.005695847,Blocked,82.5,28.6
+3938642,David Jurásek,Czech Republic,Shot,Giorgi Mamardashvili,0.02393963,Off T,91.8,35.6
+3938642,Mojmír Chytil,Czech Republic,Shot,Giorgi Mamardashvili,0.066270776,Off T,112.8,32.5
+3938642,Ondřej Lingr,Czech Republic,Shot,Giorgi Mamardashvili,0.06684302,Saved,100.9,45.2
+3938642,Matěj Jurásek,Czech Republic,Shot,Giorgi Mamardashvili,0.0065820687,Off T,92.7,59.5
+3938642,Matěj Jurásek,Czech Republic,Shot,Giorgi Mamardashvili,0.029686315,Saved,101.0,23.0
+3938642,Tomáš Holeš,Czech Republic,Shot,Giorgi Mamardashvili,0.01932125,Blocked,88.9,41.4
+3938642,Saba Lobzhanidze,Georgia,Shot,Jindřich Staněk,0.30646315,Off T,108.1,49.2
+3938639,Kaan Ayhan,Turkey,Shot,Giorgi Mamardashvili,0.109281614,Off T,113.7,37.4
+3938639,Hakan Çalhanoğlu,Turkey,Shot,Giorgi Mamardashvili,0.0104925465,Blocked,99.0,59.3
+3938639,Abdülkerim Bardakcı,Turkey,Shot,Giorgi Mamardashvili,0.11773408,Off T,113.4,36.5
+3938639,Kaan Ayhan,Turkey,Shot,Giorgi Mamardashvili,0.047329877,Post,98.2,32.6
+3938639,Anzor Mekvabishvili,Georgia,Shot,Fehmi Mert Günok,0.027525524,Saved,92.7,40.9
+3938639,Georges Mikautadze,Georgia,Shot,Fehmi Mert Günok,0.030906457,Off T,101.3,25.7
+3938639,Kenan Yildiz,Turkey,Shot,Giorgi Mamardashvili,0.010085153,Saved,111.6,20.7
+3938639,Hakan Çalhanoğlu,Turkey,Shot,Giorgi Mamardashvili,0.04039659,Off T,103.3,31.0
+3938639,Orkun Kökçü,Turkey,Shot,Giorgi Mamardashvili,0.021431247,Blocked,92.6,29.1
+3938639,Mert Müldür,Turkey,Shot,Giorgi Mamardashvili,0.04871227,Goal,102.6,48.7
+3938639,Orkun Kökçü,Turkey,Shot,Giorgi Mamardashvili,0.32288,Wayward,111.6,45.6
+3938639,Heorhii Tsitaishvili,Georgia,Shot,Fehmi Mert Günok,0.008763675,Saved,110.0,20.4
+3938639,Georges Mikautadze,Georgia,Shot,Fehmi Mert Günok,0.19899806,Goal,111.2,49.7
+3938639,Georges Mikautadze,Georgia,Shot,Fehmi Mert Günok,0.15692246,Off T,107.1,41.9
+3938639,Giorgi Kochorashvili,Georgia,Shot,Fehmi Mert Günok,0.04459064,Blocked,98.4,37.4
+3938639,Kaan Ayhan,Turkey,Shot,Giorgi Mamardashvili,0.07663289,Blocked,107.1,34.6
+3938639,Ferdi Erenay Kadıoğlu,Turkey,Shot,Giorgi Mamardashvili,0.004520179,Off T,73.2,39.2
+3938639,Mert Müldür,Turkey,Shot,Giorgi Mamardashvili,0.39194897,Saved,111.7,46.2
+3938639,Barış Alper Yılmaz,Turkey,Shot,Giorgi Mamardashvili,0.08905159,Blocked,107.9,49.7
+3938639,Heorhii Tsitaishvili,Georgia,Shot,Fehmi Mert Günok,0.010639418,Saved,112.5,22.7
+3938639,Georges Mikautadze,Georgia,Shot,Fehmi Mert Günok,0.071241885,Blocked,111.1,36.6
+3938639,Hakan Çalhanoğlu,Turkey,Shot,Giorgi Mamardashvili,0.048409604,Saved,93.2,31.5
+3938639,Kenan Yildiz,Turkey,Shot,Giorgi Mamardashvili,0.012807231,Blocked,101.2,24.7
+3938639,Mert Müldür,Turkey,Shot,Giorgi Mamardashvili,0.026884427,Blocked,96.6,51.5
+3938639,Hakan Çalhanoğlu,Turkey,Shot,Giorgi Mamardashvili,0.02077125,Off T,95.8,46.1
+3938639,Khvicha Kvaratskhelia,Georgia,Shot,Fehmi Mert Günok,0.12805878,Off T,109.4,30.4
+3938639,Arda Güler,Turkey,Shot,Giorgi Mamardashvili,0.018738218,Goal,95.5,53.4
+3938639,Orkun Kökçü,Turkey,Shot,Giorgi Mamardashvili,0.35099584,Wayward,108.9,36.5
+3938639,Giorgi Kochorashvili,Georgia,Shot,Fehmi Mert Günok,0.3773847,Post,107.6,41.5
+3938639,Orkun Kökçü,Turkey,Shot,Giorgi Mamardashvili,0.0030440427,Wayward,52.0,38.1
+3938639,Luka Lochoshvili,Georgia,Shot,Fehmi Mert Günok,0.050998244,Wayward,111.2,32.3
+3938639,Yusuf Yazıcı,Turkey,Shot,Giorgi Mamardashvili,0.15887032,Saved,111.8,37.6
+3938639,Budu Zivzivadze,Georgia,Shot,Fehmi Mert Günok,0.057229597,Blocked,114.8,32.5
+3938639,Giorgi Kochorashvili,Georgia,Shot,Fehmi Mert Günok,0.3389554,Off T,111.4,37.4
+3938639,Zuriko Davitashvili,Georgia,Shot,Fehmi Mert Günok,0.07635267,Blocked,108.9,45.6
+3938639,Muhammed Kerem Aktürkoğlu,Turkey,Shot,Giorgi Mamardashvili,0.4724009,Goal,96.1,52.9
+3938638,Viktor Tsygankov,Ukraine,Shot,Florin Constantin Niţă,0.046381094,Blocked,97.1,35.4
+3938638,Florinel Teodor Coman,Romania,Shot,Andriy Lunin,0.024980098,Saved,89.9,33.0
+3938638,Georgiy Sudakov,Ukraine,Shot,Florin Constantin Niţă,0.028104939,Blocked,99.8,30.0
+3938638,Artem Dovbyk,Ukraine,Shot,Florin Constantin Niţă,0.041105933,Off T,93.3,39.3
+3938638,Nicolae Claudiu Stanciu,Romania,Shot,Andriy Lunin,0.046266142,Goal,96.6,45.0
+3938638,Viktor Tsygankov,Ukraine,Shot,Florin Constantin Niţă,0.06380467,Blocked,102.6,42.1
+3938638,Dennis Man,Romania,Shot,Andriy Lunin,0.021797933,Blocked,101.2,58.1
+3938638,Nicolae Claudiu Stanciu,Romania,Shot,Andriy Lunin,0.00018,Post,120.1,0.8
+3938638,Florinel Teodor Coman,Romania,Shot,Andriy Lunin,0.03314492,Off T,104.0,26.5
+3938638,Georgiy Sudakov,Ukraine,Shot,Florin Constantin Niţă,0.008008759,Off T,93.6,22.0
+3938638,Mykhailo Mudryk,Ukraine,Shot,Florin Constantin Niţă,0.031143205,Blocked,108.4,27.6
+3938638,Răzvan Gabriel Marin,Romania,Shot,Andriy Lunin,0.019967925,Goal,93.2,49.7
+3938638,Nicolae Claudiu Stanciu,Romania,Shot,Andriy Lunin,0.07114553,Blocked,98.3,43.3
+3938638,Andrei Florin Ratiu,Romania,Shot,Andriy Lunin,0.013371198,Saved,110.4,56.7
+3938638,Denis Mihai Drăguş,Romania,Shot,Andriy Lunin,0.8830415,Goal,116.3,41.2
+3938638,Andriy Yarmolenko,Ukraine,Shot,Florin Constantin Niţă,0.05293641,Off T,103.5,46.3
+3938638,Nicolae Claudiu Stanciu,Romania,Shot,Andriy Lunin,0.007156054,Off T,111.2,5.6
+3938638,Georgiy Sudakov,Ukraine,Shot,Florin Constantin Niţă,0.038833655,Blocked,94.8,24.9
+3938638,Georgiy Sudakov,Ukraine,Shot,Florin Constantin Niţă,0.03194495,Saved,93.3,40.3
+3938638,Roman Yaremchuk,Ukraine,Shot,Florin Constantin Niţă,0.05042256,Blocked,98.6,43.1
+3938638,Mykhailo Mudryk,Ukraine,Shot,Florin Constantin Niţă,0.11517301,Off T,110.4,27.6
+3938638,Roman Yaremchuk,Ukraine,Shot,Florin Constantin Niţă,0.027714925,Post,112.4,55.2
+3938638,Mykhailo Mudryk,Ukraine,Shot,Florin Constantin Niţă,0.007901854,Saved,82.6,30.8
+3938640,Lukáš Haraslín,Slovakia,Shot,Anatolii Trubin,0.054630604,Saved,108.9,26.0
+3938640,Ivan Schranz,Slovakia,Shot,Anatolii Trubin,0.1294898,Saved,116.4,47.1
+3938640,Ondrej Duda,Slovakia,Shot,Anatolii Trubin,0.02533847,Off T,99.9,24.0
+3938640,Volodymyr Brazhko,Ukraine,Shot,Martin Dúbravka,0.02577948,Saved,92.5,36.0
+3938640,Dávid Hancko,Slovakia,Shot,Anatolii Trubin,0.078277074,Saved,99.7,50.8
+3938640,Ivan Schranz,Slovakia,Shot,Anatolii Trubin,0.14396761,Goal,114.4,45.7
+3938640,Mykhailo Mudryk,Ukraine,Shot,Martin Dúbravka,0.03218591,Off T,93.2,41.7
+3938640,Artem Dovbyk,Ukraine,Shot,Martin Dúbravka,0.055954177,Blocked,112.5,29.1
+3938640,Mykhailo Mudryk,Ukraine,Shot,Martin Dúbravka,0.028492702,Blocked,104.4,24.3
+3938640,Andriy Yarmolenko,Ukraine,Shot,Martin Dúbravka,0.3173499,Off T,111.9,45.2
+3938640,Andriy Yarmolenko,Ukraine,Shot,Martin Dúbravka,0.1337551,Blocked,109.1,45.7
+3938640,Oleksandr Zinchenko,Ukraine,Shot,Martin Dúbravka,0.0076609575,Saved,106.5,65.2
+3938640,Lukáš Haraslín,Slovakia,Shot,Anatolii Trubin,0.061842117,Saved,100.3,31.4
+3938640,Juraj Kucka,Slovakia,Shot,Anatolii Trubin,0.032029018,Wayward,102.8,39.2
+3938640,Artem Dovbyk,Ukraine,Shot,Martin Dúbravka,0.319456,Wayward,115.1,43.7
+3938640,Mykola Shaparenko,Ukraine,Shot,Martin Dúbravka,0.23976156,Goal,108.8,37.3
+3938640,Ivan Schranz,Slovakia,Shot,Anatolii Trubin,0.008721116,Blocked,97.3,59.2
+3938640,Roman Yaremchuk,Ukraine,Shot,Martin Dúbravka,0.06388939,Blocked,113.6,32.9
+3938640,Peter Pekarík,Slovakia,Shot,Anatolii Trubin,0.024953041,Blocked,97.8,55.1
+3938640,Mykhailo Mudryk,Ukraine,Shot,Martin Dúbravka,0.082766004,Saved,113.7,27.7
+3938640,Georgiy Sudakov,Ukraine,Shot,Martin Dúbravka,0.03816442,Blocked,97.8,28.6
+3938640,Roman Yaremchuk,Ukraine,Shot,Martin Dúbravka,0.38643968,Goal,114.8,49.2
+3938640,László Bénes,Slovakia,Shot,Anatolii Trubin,0.08046466,Blocked,104.1,45.7
+3938640,Juraj Kucka,Slovakia,Shot,Anatolii Trubin,0.03774482,Off T,107.8,43.4
+3938640,Juraj Kucka,Slovakia,Shot,Anatolii Trubin,0.0087996805,Off T,92.1,21.7
+3938640,Denis Vavro,Slovakia,Shot,Anatolii Trubin,0.041888792,Off T,115.2,29.9
+3938640,Milan Škriniar,Slovakia,Shot,Anatolii Trubin,0.01799174,Blocked,85.8,38.5
+3938637,Cody Mathès Gakpo,Netherlands,Shot,Wojciech Szczęsny,0.010196376,Saved,110.1,23.0
+3938637,Cody Mathès Gakpo,Netherlands,Shot,Wojciech Szczęsny,0.11391678,Wayward,112.3,34.1
+3938637,Bartosz Salamon,Poland,Shot,Bart Verbruggen,0.0034011703,Wayward,54.2,44.2
+3938637,Tijjani Reijnders,Netherlands,Shot,Wojciech Szczęsny,0.114312105,Off T,106.1,42.8
+3938637,Adam Buksa,Poland,Shot,Bart Verbruggen,0.04367851,Blocked,107.9,55.5
+3938637,Xavi Simons,Netherlands,Shot,Wojciech Szczęsny,0.015395193,Off T,98.4,58.0
+3938637,Adam Buksa,Poland,Shot,Bart Verbruggen,0.08721661,Goal,114.6,33.6
+3938637,Virgil van Dijk,Netherlands,Shot,Wojciech Szczęsny,0.033487294,Saved,107.0,38.9
+3938637,Memphis Depay,Netherlands,Shot,Wojciech Szczęsny,0.11201969,Off T,104.8,40.8
+3938637,Memphis Depay,Netherlands,Shot,Wojciech Szczęsny,0.08160148,Wayward,112.1,53.4
+3938637,Denzel Dumfries,Netherlands,Shot,Wojciech Szczęsny,0.110036224,Wayward,110.1,43.1
+3938637,Tijjani Reijnders,Netherlands,Shot,Wojciech Szczęsny,0.075011835,Blocked,118.5,33.7
+3938637,Cody Mathès Gakpo,Netherlands,Shot,Wojciech Szczęsny,0.010005396,Off T,101.1,19.6
+3938637,Cody Mathès Gakpo,Netherlands,Shot,Wojciech Szczęsny,0.048307355,Goal,97.7,34.5
+3938637,Jakub Piotr Kiwior,Poland,Shot,Bart Verbruggen,0.018577162,Saved,109.5,23.2
+3938637,Cody Mathès Gakpo,Netherlands,Shot,Wojciech Szczęsny,0.107844956,Off T,112.6,34.0
+3938637,Tijjani Reijnders,Netherlands,Shot,Wojciech Szczęsny,0.01554486,Off T,92.3,29.7
+3938637,Memphis Depay,Netherlands,Shot,Wojciech Szczęsny,0.15418267,Off T,108.0,50.5
+3938637,Xavi Simons,Netherlands,Shot,Wojciech Szczęsny,0.021836616,Blocked,95.3,49.4
+3938637,Tijjani Reijnders,Netherlands,Shot,Wojciech Szczęsny,0.031454585,Blocked,98.4,53.0
+3938637,Memphis Depay,Netherlands,Shot,Wojciech Szczęsny,0.01068202,Off T,83.3,34.1
+3938637,Xavi Simons,Netherlands,Shot,Wojciech Szczęsny,0.04667762,Off T,106.5,50.7
+3938637,Jakub Piotr Kiwior,Poland,Shot,Bart Verbruggen,0.060536034,Saved,108.2,51.3
+3938637,Piotr Zieliński,Poland,Shot,Bart Verbruggen,0.036215097,Saved,95.9,46.5
+3938637,Jakub Moder,Poland,Shot,Bart Verbruggen,0.17306519,Wayward,108.9,32.4
+3938637,Denzel Dumfries,Netherlands,Shot,Wojciech Szczęsny,0.03682928,Off T,110.0,56.3
+3938637,Stefan de Vrij,Netherlands,Shot,Wojciech Szczęsny,0.06877075,Off T,110.9,41.9
+3938637,Jakub Moder,Poland,Shot,Bart Verbruggen,0.2948724,Wayward,115.5,39.4
+3938637,Wout Weghorst,Netherlands,Shot,Wojciech Szczęsny,0.09464203,Goal,110.6,36.7
+3938637,Karol Świderski,Poland,Shot,Bart Verbruggen,0.13144952,Saved,112.0,36.4
+3938637,Jakub Piotrowski,Poland,Shot,Bart Verbruggen,0.021284437,Off T,119.0,32.0
+3938637,Jakub Moder,Poland,Shot,Bart Verbruggen,0.020169877,Saved,88.9,45.8
+3938637,Nicola Zalewski,Poland,Shot,Bart Verbruggen,0.018691555,Saved,90.3,29.2
+3938644,Khvicha Kvaratskhelia,Georgia,Shot,Diogo Meireles Costa,0.13665316,Goal,111.4,29.2
+3938644,Giorgi Chakvetadze,Georgia,Shot,Diogo Meireles Costa,0.008420149,Blocked,103.7,19.9
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Giorgi Mamardashvili,0.022706533,Saved,87.1,41.7
+3938644,Gonçalo Bernardo Inácio,Portugal,Shot,Giorgi Mamardashvili,0.049144432,Blocked,109.9,37.3
+3938644,José Diogo Dalot Teixeira,Portugal,Shot,Giorgi Mamardashvili,0.026044907,Off T,106.2,46.7
+3938644,António João Pereira Albuquerque Tavares Silva,Portugal,Shot,Giorgi Mamardashvili,0.18730545,Off T,118.7,34.9
+3938644,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Shot,Giorgi Mamardashvili,0.019303527,Saved,92.0,26.5
+3938644,João Neves,Portugal,Shot,Giorgi Mamardashvili,0.044234637,Blocked,100.5,38.1
+3938644,Francisco Fernandes Conceição,Portugal,Shot,Giorgi Mamardashvili,0.052520916,Off T,109.5,51.5
+3938644,João Félix Sequeira,Portugal,Shot,Giorgi Mamardashvili,0.03601527,Off T,97.4,50.7
+3938644,Khvicha Kvaratskhelia,Georgia,Shot,Diogo Meireles Costa,0.013807702,Off T,111.1,57.2
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Giorgi Mamardashvili,0.058714412,Blocked,112.6,28.6
+3938644,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Shot,Giorgi Mamardashvili,0.035719465,Off T,95.6,42.0
+3938644,João Félix Sequeira,Portugal,Shot,Giorgi Mamardashvili,0.04260302,Saved,96.9,45.9
+3938644,Francisco Fernandes Conceição,Portugal,Shot,Giorgi Mamardashvili,0.04607975,Blocked,105.2,50.7
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Giorgi Mamardashvili,0.18968906,Blocked,113.7,42.7
+3938644,Danilo Luís Hélio Pereira,Portugal,Shot,Giorgi Mamardashvili,0.22954655,Off T,116.6,36.2
+3938644,Khvicha Kvaratskhelia,Georgia,Shot,Diogo Meireles Costa,0.24445653,Saved,106.4,42.1
+3938644,Georges Mikautadze,Georgia,Shot,Diogo Meireles Costa,0.7835,Goal,108.1,40.1
+3938644,Francisco Fernandes Conceição,Portugal,Shot,Giorgi Mamardashvili,0.03953764,Off T,102.3,45.9
+3938644,Giorgi Chakvetadze,Georgia,Shot,Diogo Meireles Costa,0.06953994,Off T,103.4,53.3
+3938644,Nélson Cabral Semedo,Portugal,Shot,Giorgi Mamardashvili,0.020204514,Blocked,92.9,41.1
+3938644,Matheus Luiz Nunes,Portugal,Shot,Giorgi Mamardashvili,0.19409223,Wayward,112.4,39.4
+3938644,Zuriko Davitashvili,Georgia,Shot,Diogo Meireles Costa,0.08911559,Off T,113.5,27.4
+3938644,Nélson Cabral Semedo,Portugal,Shot,Giorgi Mamardashvili,0.21424782,Saved,115.8,45.8
+3938644,João Félix Sequeira,Portugal,Shot,Giorgi Mamardashvili,0.01927459,Blocked,100.1,51.9
+3938644,Diogo José Teixeira da Silva,Portugal,Shot,Giorgi Mamardashvili,0.70389277,Off T,113.5,37.5
+3938644,José Diogo Dalot Teixeira,Portugal,Shot,Giorgi Mamardashvili,0.023084719,Saved,93.5,52.2
+3938644,Gonçalo Matias Ramos,Portugal,Shot,Giorgi Mamardashvili,0.102168575,Blocked,116.2,47.1
+3941019,Adrien Rabiot,France,Shot,Koen Casteels,0.049315576,Off T,105.3,39.5
+3941019,Antoine Griezmann,France,Shot,Koen Casteels,0.026957866,Saved,95.5,36.4
+3941019,Kylian Mbappé Lottin,France,Shot,Koen Casteels,0.06710457,Off T,106.8,26.1
+3941019,Marcus Thuram,France,Shot,Koen Casteels,0.02893819,Off T,113.0,50.1
+3941019,Adrien Rabiot,France,Shot,Koen Casteels,0.021996574,Off T,87.2,35.1
+3941019,Yannick Ferreira Carrasco,Belgium,Shot,Mike Maignan,0.105909355,Blocked,106.5,44.0
+3941019,Marcus Thuram,France,Shot,Koen Casteels,0.094443604,Off T,110.6,41.9
+3941019,Aurélien Djani Tchouaméni,France,Shot,Koen Casteels,0.022445312,Off T,89.2,47.9
+3941019,Marcus Thuram,France,Shot,Koen Casteels,0.16247946,Wayward,114.2,32.2
+3941019,Aurélien Djani Tchouaméni,France,Shot,Koen Casteels,0.055180438,Off T,103.3,32.5
+3941019,Aurélien Djani Tchouaméni,France,Shot,Koen Casteels,0.027458923,Saved,93.9,33.9
+3941019,Kylian Mbappé Lottin,France,Shot,Koen Casteels,0.023882177,Blocked,111.5,24.5
+3941019,Marcus Thuram,France,Shot,Koen Casteels,0.14512838,Off T,113.4,37.7
+3941019,Kylian Mbappé Lottin,France,Shot,Koen Casteels,0.037212588,Off T,102.3,26.3
+3941019,Kylian Mbappé Lottin,France,Shot,Koen Casteels,0.18814844,Wayward,107.9,46.3
+3941019,Yannick Ferreira Carrasco,Belgium,Shot,Mike Maignan,0.13074823,Blocked,111.0,51.5
+3941019,Antoine Griezmann,France,Shot,Koen Casteels,0.05479053,Off T,97.3,43.1
+3941019,Aurélien Djani Tchouaméni,France,Shot,Koen Casteels,0.030925188,Off T,94.6,47.3
+3941019,Romelu Lukaku Menama,Belgium,Shot,Mike Maignan,0.0381186,Saved,109.8,25.7
+3941019,William Saliba,France,Shot,Koen Casteels,0.06782964,Off T,106.1,53.7
+3941019,Kylian Mbappé Lottin,France,Shot,Koen Casteels,0.09472088,Off T,103.1,48.2
+3941019,Kevin De Bruyne,Belgium,Shot,Mike Maignan,0.082713604,Saved,100.8,31.1
+3941019,Randal Kolo Muani,France,Shot,Koen Casteels,0.06305356,Wayward,108.7,52.4
+3941019,Arthur Theate,Belgium,Shot,Mike Maignan,0.005724137,Wayward,88.7,26.5
+3942227,Breel-Donald Embolo,Switzerland,Shot,Jordan Pickford,0.008929583,Off T,115.2,59.1
+3942227,Declan Rice,England,Shot,Yann Sommer,0.03981024,Blocked,97.1,38.6
+3942227,Kobbie Mainoo,England,Shot,Yann Sommer,0.041179437,Blocked,97.0,40.0
+3942227,Harry Kane,England,Shot,Yann Sommer,0.024830516,Wayward,107.6,34.7
+3942227,Breel-Donald Embolo,Switzerland,Shot,Jordan Pickford,0.050617944,Blocked,103.5,35.4
+3942227,Bukayo Saka,England,Shot,Yann Sommer,0.022693586,Blocked,94.4,53.3
+3942227,Kobbie Mainoo,England,Shot,Yann Sommer,0.105490096,Blocked,113.2,49.6
+3942227,Bukayo Saka,England,Shot,Yann Sommer,0.043717798,Blocked,111.9,52.7
+3942227,Breel-Donald Embolo,Switzerland,Shot,Jordan Pickford,0.052396607,Saved,112.9,30.4
+3942227,Breel-Donald Embolo,Switzerland,Shot,Jordan Pickford,0.113653235,Blocked,113.4,43.5
+3942227,Michel Aebischer,Switzerland,Shot,Jordan Pickford,0.054864526,Off T,103.5,36.6
+3942227,Breel-Donald Embolo,Switzerland,Shot,Jordan Pickford,0.673555,Goal,116.9,38.5
+3942227,Bukayo Saka,England,Shot,Yann Sommer,0.027096223,Goal,100.3,56.6
+3942227,Harry Kane,England,Shot,Yann Sommer,0.043730237,Blocked,107.6,40.4
+3942227,Eberechi Eze,England,Shot,Yann Sommer,0.012332749,Off T,107.6,21.5
+3942227,Dan Ndoye,Switzerland,Shot,Jordan Pickford,0.02836855,Off T,102.2,22.4
+3942227,Steven Zuber,Switzerland,Shot,Jordan Pickford,0.049106847,Off T,110.9,28.0
+3942227,Declan Rice,England,Shot,Yann Sommer,0.017482303,Saved,89.6,32.5
+3942227,Phil Foden,England,Shot,Yann Sommer,0.02448303,Blocked,90.5,44.9
+3942227,Jude Bellingham,England,Shot,Yann Sommer,0.06517577,Blocked,103.5,46.6
+3942227,Jude Bellingham,England,Shot,Yann Sommer,0.06901925,Saved,103.8,44.8
+3942227,Fabian Lukas Schär,Switzerland,Shot,Jordan Pickford,0.012323262,Off T,106.2,58.7
+3942227,Xherdan Shaqiri,Switzerland,Shot,Jordan Pickford,0.00018,Post,119.3,79.1
+3942227,Mohamed Zeki Amdouni,Switzerland,Shot,Jordan Pickford,0.039720625,Saved,101.7,23.7
+3942227,Silvan Widmer,Switzerland,Shot,Jordan Pickford,0.11769032,Off T,111.7,46.0
+3942227,Cole Palmer,England,Shot,Yann Sommer,0.7835,Goal,108.1,40.1
+3942227,Manuel Obafemi Akanji,Switzerland,Shot,Jordan Pickford,0.7835,Saved,108.1,40.1
+3942227,Jude Bellingham,England,Shot,Yann Sommer,0.7835,Goal,108.1,40.1
+3942227,Fabian Lukas Schär,Switzerland,Shot,Jordan Pickford,0.7835,Goal,108.1,40.1
+3942227,Bukayo Saka,England,Shot,Yann Sommer,0.7835,Goal,108.1,40.1
+3942227,Xherdan Shaqiri,Switzerland,Shot,Jordan Pickford,0.7835,Goal,108.1,40.1
+3942227,Ivan Toney,England,Shot,Yann Sommer,0.7835,Goal,108.1,40.1
+3942227,Mohamed Zeki Amdouni,Switzerland,Shot,Jordan Pickford,0.7835,Goal,108.1,40.1
+3942227,Trent Alexander-Arnold,England,Shot,Yann Sommer,0.7835,Goal,108.1,40.1
+3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Altay Bayındır,0.030822832,Saved,104.7,54.5
+3930174,Bruno Miguel Borges Fernandes,Portugal,Shot,Altay Bayındır,0.041098516,Blocked,92.6,41.8
+3930174,Muhammed Kerem Aktürkoğlu,Turkey,Shot,Diogo Meireles Costa,0.048342027,Off T,107.8,44.4
+3930174,Muhammed Kerem Aktürkoğlu,Turkey,Shot,Diogo Meireles Costa,0.45019928,Wayward,116.2,36.6
+3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Altay Bayındır,0.06344055,Off T,113.1,34.1
+3930174,Rafael Alexandre Conceição Leão,Portugal,Shot,Altay Bayındır,0.04168335,Wayward,108.6,34.2
+3930174,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Altay Bayındır,0.3171335,Goal,108.8,44.0
+3930174,Bruno Miguel Borges Fernandes,Portugal,Shot,Altay Bayındır,0.0370126,Off T,103.2,29.7
+3930174,Muhammed Kerem Aktürkoğlu,Turkey,Shot,Diogo Meireles Costa,0.09970065,Saved,110.9,27.4
+3930174,Orkun Kökçü,Turkey,Shot,Diogo Meireles Costa,0.06214549,Blocked,108.6,51.3
+3930174,Hakan Çalhanoğlu,Turkey,Shot,Diogo Meireles Costa,0.008017924,Blocked,99.0,60.0
+3930174,Bruno Miguel Borges Fernandes,Portugal,Shot,Altay Bayındır,0.07170779,Off T,104.7,54.4
+3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Altay Bayındır,0.056781985,Off T,101.7,30.6
+3930174,Orkun Kökçü,Turkey,Shot,Diogo Meireles Costa,0.039146766,Saved,94.9,32.7
+3930174,Yusuf Yazıcı,Turkey,Shot,Diogo Meireles Costa,0.006459761,Saved,89.4,55.2
+3930174,Bruno Miguel Borges Fernandes,Portugal,Shot,Altay Bayındır,0.85188305,Goal,111.5,36.3
+3930174,Yusuf Yazıcı,Turkey,Shot,Diogo Meireles Costa,0.019997858,Blocked,99.9,27.2
+3930174,Kenan Yildiz,Turkey,Shot,Diogo Meireles Costa,0.025981167,Off T,97.1,24.9
+3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Altay Bayındır,0.19733512,Wayward,113.1,37.7
+3930174,Arda Güler,Turkey,Shot,Diogo Meireles Costa,0.014791918,Blocked,91.0,51.3
+3930174,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Altay Bayındır,0.16763084,Blocked,107.0,35.5
+3930174,Arda Güler,Turkey,Shot,Diogo Meireles Costa,0.004203976,Wayward,60.9,25.6
+3930174,Rúben Diogo Da Silva Neves,Portugal,Shot,Altay Bayındır,0.024696983,Off T,93.8,50.2
+3930162,Andreas Christensen,Denmark,Shot,Jan Oblak,0.023670547,Off T,105.6,39.0
+3930162,Victor Bernth Kristansen,Denmark,Shot,Jan Oblak,0.05016356,Blocked,101.6,37.8
+3930162,Benjamin Šeško,Slovenia,Shot,Kasper Schmeichel,0.022961853,Off T,89.6,43.4
+3930162,Christian Dannemann Eriksen,Denmark,Shot,Jan Oblak,0.2766666,Goal,109.7,46.4
+3930162,Erik Janža,Slovenia,Shot,Kasper Schmeichel,0.02282429,Blocked,94.8,34.0
+3930162,Erik Janža,Slovenia,Shot,Kasper Schmeichel,0.02002185,Wayward,92.1,32.2
+3930162,Jannik Vestergaard,Denmark,Shot,Jan Oblak,0.10208895,Off T,113.5,42.3
+3930162,Joachim Andersen,Denmark,Shot,Jan Oblak,0.07210865,Wayward,111.2,42.9
+3930162,Christian Dannemann Eriksen,Denmark,Shot,Jan Oblak,0.033157267,Blocked,110.8,54.5
+3930162,Christian Dannemann Eriksen,Denmark,Shot,Jan Oblak,0.03012717,Blocked,89.0,35.6
+3930162,Christian Dannemann Eriksen,Denmark,Shot,Jan Oblak,0.10017875,Off T,105.1,30.6
+3930162,Andreas Christensen,Denmark,Shot,Jan Oblak,0.028868087,Blocked,106.4,37.5
+3930162,Pierre-Emile Højbjerg,Denmark,Shot,Jan Oblak,0.06811079,Blocked,111.1,43.8
+3930162,Rasmus Winther Højlund,Denmark,Shot,Jan Oblak,0.44749036,Saved,116.7,41.6
+3930162,Alexander Hartmann Bah,Denmark,Shot,Jan Oblak,0.05694469,Blocked,100.7,49.3
+3930162,Adam Gnezda Čerin,Slovenia,Shot,Kasper Schmeichel,0.19572966,Off T,113.1,39.6
+3930162,Christian Dannemann Eriksen,Denmark,Shot,Jan Oblak,0.030444594,Off T,114.6,27.9
+3930162,Jonas Older Wind,Denmark,Shot,Jan Oblak,0.13023244,Off T,114.5,43.6
+3930162,Andraž Šporar,Slovenia,Shot,Kasper Schmeichel,0.33457097,Off T,114.0,39.1
+3930162,Benjamin Šeško,Slovenia,Shot,Kasper Schmeichel,0.032746676,Post,94.7,44.0
+3930162,Erik Janža,Slovenia,Shot,Kasper Schmeichel,0.012828235,Goal,98.1,22.6
+3930162,Andraž Šporar,Slovenia,Shot,Kasper Schmeichel,0.18183897,Blocked,112.5,40.9
+3930162,Andraž Šporar,Slovenia,Shot,Kasper Schmeichel,0.10890295,Off T,111.1,39.6
+3930162,Jannik Vestergaard,Denmark,Shot,Jan Oblak,0.01490126,Saved,112.1,27.8
+3930162,Andraž Šporar,Slovenia,Shot,Kasper Schmeichel,0.026201004,Saved,114.6,54.5
+3930162,Morten Hjulmand,Denmark,Shot,Jan Oblak,0.046085708,Saved,95.3,39.1
+3930162,Žan Karničnik,Slovenia,Shot,Kasper Schmeichel,0.0077642933,Off T,90.2,57.0
+3930176,Kai Havertz,Germany,Shot,Yann Sommer,0.08929836,Saved,113.5,44.4
+3930176,İlkay Gündoğan,Germany,Shot,Yann Sommer,0.037393745,Blocked,96.5,38.1
+3930176,Kai Havertz,Germany,Shot,Yann Sommer,0.087086074,Blocked,108.1,35.2
+3930176,Dan Ndoye,Switzerland,Shot,Manuel Neuer,0.18121041,Goal,113.7,35.0
+3930176,Dan Ndoye,Switzerland,Shot,Manuel Neuer,0.046368696,Off T,101.6,26.3
+3930176,Robert Andrich,Germany,Shot,Yann Sommer,0.021470767,Blocked,89.8,32.6
+3930176,Antonio Rüdiger,Germany,Shot,Yann Sommer,0.07583652,Off T,114.5,47.4
+3930176,Kai Havertz,Germany,Shot,Yann Sommer,0.074331574,Off T,107.1,49.6
+3930176,Robert Andrich,Germany,Shot,Yann Sommer,0.024752146,Off T,95.2,40.1
+3930176,Jamal Musiala,Germany,Shot,Yann Sommer,0.10492643,Saved,101.0,49.4
+3930176,İlkay Gündoğan,Germany,Shot,Yann Sommer,0.13064142,Off T,103.1,41.9
+3930176,Toni Kroos,Germany,Shot,Yann Sommer,0.04210514,Off T,95.3,38.1
+3930176,David Raum,Germany,Shot,Yann Sommer,0.024444293,Off T,94.6,26.2
+3930176,İlkay Gündoğan,Germany,Shot,Yann Sommer,0.06176375,Blocked,110.0,40.4
+3930176,Kai Havertz,Germany,Shot,Yann Sommer,0.06201411,Off T,110.4,38.4
+3930176,Kai Havertz,Germany,Shot,Yann Sommer,0.22987874,Off T,115.1,42.0
+3930176,Joshua Kimmich,Germany,Shot,Yann Sommer,0.09524317,Blocked,114.2,47.9
+3930176,Kwadwo Duah,Switzerland,Shot,Manuel Neuer,0.024068562,Saved,93.6,51.6
+3930176,Leroy Sané,Germany,Shot,Yann Sommer,0.037312206,Off T,104.6,53.2
+3930176,Kai Havertz,Germany,Shot,Yann Sommer,0.18030311,Post,114.0,42.8
+3930176,Granit Xhaka,Switzerland,Shot,Manuel Neuer,0.028437931,Saved,93.4,33.9
+3930176,Niclas Füllkrug,Germany,Shot,Yann Sommer,0.16287667,Goal,113.6,41.4
+3930169,Scott McTominay,Scotland,Shot,Yann Sommer,0.06252074,Goal,103.8,32.8
+3930169,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Angus Gunn,0.03573002,Off T,100.6,38.0
+3930169,Xherdan Shaqiri,Switzerland,Shot,Angus Gunn,0.08584379,Goal,98.1,32.5
+3930169,Silvan Widmer,Switzerland,Shot,Angus Gunn,0.04224507,Off T,104.0,52.2
+3930169,Dan Ndoye,Switzerland,Shot,Angus Gunn,0.05182667,Blocked,110.8,33.1
+3930169,Dan Ndoye,Switzerland,Shot,Angus Gunn,0.22225732,Saved,111.7,31.1
+3930169,Jack Hendry,Scotland,Shot,Yann Sommer,0.066154584,Wayward,107.7,38.9
+3930169,Che Adams,Scotland,Shot,Yann Sommer,0.10378359,Saved,116.8,47.4
+3930169,Granit Xhaka,Switzerland,Shot,Angus Gunn,0.039015256,Saved,103.8,25.1
+3930169,Ruben Vargas,Switzerland,Shot,Angus Gunn,0.026921839,Saved,104.0,23.4
+3930169,Dan Ndoye,Switzerland,Shot,Angus Gunn,0.293888,Saved,102.8,37.7
+3930169,Ruben Vargas,Switzerland,Shot,Angus Gunn,0.04814583,Off T,107.2,25.6
+3930169,Billy Gilmour,Scotland,Shot,Yann Sommer,0.025520865,Blocked,89.4,44.5
+3930169,Grant Campbell Hanley,Scotland,Shot,Yann Sommer,0.19868778,Post,114.8,36.6
+3930169,Scott McKenna,Scotland,Shot,Yann Sommer,0.025902173,Off T,106.4,38.2
+3930169,Billy Gilmour,Scotland,Shot,Yann Sommer,0.062246423,Blocked,112.3,34.2
+3930169,Dan Ndoye,Switzerland,Shot,Angus Gunn,0.034561172,Off T,108.3,23.4
+3930169,Scott McTominay,Scotland,Shot,Yann Sommer,0.049823087,Wayward,109.4,43.5
+3930169,Scott McTominay,Scotland,Shot,Yann Sommer,0.06748764,Blocked,107.3,44.8
+3930169,Scott McTominay,Scotland,Shot,Yann Sommer,0.065750904,Blocked,107.7,42.7
+3930169,Kenneth McLean,Scotland,Shot,Yann Sommer,0.011382165,Saved,98.5,60.6
+3930169,Mohamed Zeki Amdouni,Switzerland,Shot,Angus Gunn,0.10971865,Off T,112.3,34.8
+3930169,Callum McGregor,Scotland,Shot,Yann Sommer,0.032622617,Off T,100.0,32.0
+3942819,Xavi Simons,Netherlands,Shot,Jordan Pickford,0.04893475,Goal,99.6,51.2
+3942819,Harry Kane,England,Shot,Bart Verbruggen,0.028932061,Saved,88.2,36.6
+3942819,Bukayo Saka,England,Shot,Bart Verbruggen,0.07174964,Blocked,104.5,41.6
+3942819,Harry Kane,England,Shot,Bart Verbruggen,0.7835,Goal,108.1,40.0
+3942819,Phil Foden,England,Shot,Bart Verbruggen,0.17228934,Saved,117.0,47.6
+3942819,Donyell Malen,Netherlands,Shot,Jordan Pickford,0.039829366,Blocked,102.9,45.1
+3942819,Denzel Dumfries,Netherlands,Shot,Jordan Pickford,0.0631593,Post,111.3,43.4
+3942819,Phil Foden,England,Shot,Bart Verbruggen,0.028710563,Post,95.8,51.6
+3942819,Phil Foden,England,Shot,Bart Verbruggen,0.03463848,Saved,98.4,50.6
+3942819,Kobbie Mainoo,England,Shot,Bart Verbruggen,0.029809527,Blocked,98.8,52.9
+3942819,Virgil van Dijk,Netherlands,Shot,Jordan Pickford,0.08157874,Saved,109.5,33.3
+3942819,Denzel Dumfries,Netherlands,Shot,Jordan Pickford,0.058512155,Off T,111.1,44.6
+3942819,Wout Weghorst,Netherlands,Shot,Jordan Pickford,0.057835978,Blocked,110.4,38.9
+3942819,Xavi Simons,Netherlands,Shot,Jordan Pickford,0.06232192,Saved,103.5,45.0
+3942819,Cole Palmer,England,Shot,Bart Verbruggen,0.051446717,Off T,104.8,50.4
+3942819,Ollie Watkins,England,Shot,Bart Verbruggen,0.035494413,Goal,110.4,53.5
+3943043,Nicholas Williams Arthuer,Spain,Shot,Jordan Pickford,0.06802966,Blocked,115.6,28.4
+3943043,Robin Aime Robert Le Normand,Spain,Shot,Jordan Pickford,0.11746518,Off T,112.9,36.2
+3943043,Declan Rice,England,Shot,Unai Simón Mendibil,0.0489952,Blocked,96.2,40.8
+3943043,Fabián Ruiz Peña,Spain,Shot,Jordan Pickford,0.048117142,Saved,101.2,49.8
+3943043,Daniel Olmo Carvajal,Spain,Shot,Jordan Pickford,0.02654902,Blocked,95.0,31.2
+3943043,Álvaro Borja Morata Martín,Spain,Shot,Jordan Pickford,0.07835983,Blocked,113.9,30.2
+3943043,Harry Kane,England,Shot,Unai Simón Mendibil,0.048372418,Blocked,102.6,36.7
+3943043,Phil Foden,England,Shot,Unai Simón Mendibil,0.1796937,Saved,114.4,29.9
+3943043,Nicholas Williams Arthuer,Spain,Shot,Jordan Pickford,0.1124816,Goal,109.9,28.0
+3943043,Daniel Olmo Carvajal,Spain,Shot,Jordan Pickford,0.2455793,Off T,108.8,32.1
+3943043,Álvaro Borja Morata Martín,Spain,Shot,Jordan Pickford,0.02528921,Blocked,95.8,46.1
+3943043,Álvaro Borja Morata Martín,Spain,Shot,Jordan Pickford,0.24310583,Wayward,110.9,51.0
+3943043,Nicholas Williams Arthuer,Spain,Shot,Jordan Pickford,0.04913289,Off T,97.2,43.4
+3943043,Jude Bellingham,England,Shot,Unai Simón Mendibil,0.05628593,Off T,99.0,37.2
+3943043,Lamine Yamal Nasraoui Ebana,Spain,Shot,Jordan Pickford,0.16213313,Saved,103.5,49.7
+3943043,Aymeric Laporte,Spain,Shot,Jordan Pickford,0.097933225,Blocked,111.9,43.8
+3943043,Fabián Ruiz Peña,Spain,Shot,Jordan Pickford,0.03257165,Off T,93.3,35.9
+3943043,Ollie Watkins,England,Shot,Unai Simón Mendibil,0.07470869,Blocked,91.0,40.1
+3943043,Mikel Oyarzabal Ugarte,Spain,Shot,Jordan Pickford,0.037707567,Saved,112.0,24.9
+3943043,Cole Palmer,England,Shot,Unai Simón Mendibil,0.03794335,Goal,98.4,49.0
+3943043,Lamine Yamal Nasraoui Ebana,Spain,Shot,Jordan Pickford,0.16392969,Saved,107.2,50.2
+3943043,Mikel Oyarzabal Ugarte,Spain,Shot,Jordan Pickford,0.2833282,Goal,111.2,36.3
+3943043,Declan Rice,England,Shot,Unai Simón Mendibil,0.057442125,Saved,109.5,44.1
+3943043,Marc Guehi,England,Shot,Unai Simón Mendibil,0.117154144,Blocked,114.8,35.5
+3943043,Declan Rice,England,Shot,Unai Simón Mendibil,0.10578214,Off T,113.1,41.4
+3942752,Fabián Ruiz Peña,Spain,Shot,Mike Maignan,0.19328672,Off T,115.4,35.9
+3942752,Randal Kolo Muani,France,Shot,Unai Simón Mendibil,0.27131972,Goal,114.9,43.7
+3942752,Kylian Mbappé Lottin,France,Shot,Unai Simón Mendibil,0.030292137,Blocked,88.6,45.1
+3942752,Kylian Mbappé Lottin,France,Shot,Unai Simón Mendibil,0.08122322,Blocked,102.9,30.2
+3942752,Lamine Yamal Nasraoui Ebana,Spain,Shot,Mike Maignan,0.02681241,Goal,93.2,47.1
+3942752,Daniel Olmo Carvajal,Spain,Shot,Mike Maignan,0.07387237,Goal,111.6,50.8
+3942752,Fabián Ruiz Peña,Spain,Shot,Mike Maignan,0.04887295,Blocked,99.7,39.5
+3942752,Lamine Yamal Nasraoui Ebana,Spain,Shot,Mike Maignan,0.024287114,Blocked,97.7,49.9
+3942752,Aurélien Djani Tchouaméni,France,Shot,Unai Simón Mendibil,0.08108944,Saved,111.9,37.4
+3942752,Kylian Mbappé Lottin,France,Shot,Unai Simón Mendibil,0.037130367,Saved,111.3,24.4
+3942752,Dayotchanculle Upamecano,France,Shot,Unai Simón Mendibil,0.09654521,Off T,115.4,46.4
+3942752,Theo Bernard François Hernández,France,Shot,Unai Simón Mendibil,0.12171783,Off T,103.1,34.5
+3942752,Lamine Yamal Nasraoui Ebana,Spain,Shot,Mike Maignan,0.05438437,Off T,100.4,51.7
+3942752,Kylian Mbappé Lottin,France,Shot,Unai Simón Mendibil,0.09963949,Off T,104.1,29.6
+3942752,Antoine Griezmann,France,Shot,Unai Simón Mendibil,0.03180728,Blocked,109.8,46.9
+3942382,Memphis Depay,Netherlands,Shot,Fehmi Mert Günok,0.1305271,Off T,103.7,33.2
+3942382,Memphis Depay,Netherlands,Shot,Fehmi Mert Günok,0.064000264,Blocked,108.3,42.5
+3942382,Salih Özcan,Turkey,Shot,Bart Verbruggen,0.025876114,Off T,94.1,49.4
+3942382,Xavi Simons,Netherlands,Shot,Fehmi Mert Günok,0.03922345,Off T,95.1,32.8
+3942382,Hakan Çalhanoğlu,Turkey,Shot,Bart Verbruggen,0.018811692,Blocked,98.9,57.7
+3942382,Abdülkerim Bardakcı,Turkey,Shot,Bart Verbruggen,0.103276074,Off T,110.5,34.8
+3942382,Arda Güler,Turkey,Shot,Bart Verbruggen,0.006275559,Off T,99.3,66.6
+3942382,Kenan Yildiz,Turkey,Shot,Bart Verbruggen,0.019850902,Off T,105.0,22.8
+3942382,Samet Akaydin,Turkey,Shot,Bart Verbruggen,0.24565445,Goal,117.9,35.1
+3942382,Steven Bergwijn,Netherlands,Shot,Fehmi Mert Günok,0.025480429,Off T,93.2,50.5
+3942382,Arda Güler,Turkey,Shot,Bart Verbruggen,0.042380717,Saved to Post,90.2,45.9
+3942382,Memphis Depay,Netherlands,Shot,Fehmi Mert Günok,0.02907499,Saved,95.0,31.7
+3942382,Memphis Depay,Netherlands,Shot,Fehmi Mert Günok,0.03874837,Blocked,102.6,24.6
+3942382,Kenan Yildiz,Turkey,Shot,Bart Verbruggen,0.038447194,Saved,97.4,42.2
+3942382,Cody Mathès Gakpo,Netherlands,Shot,Fehmi Mert Günok,0.07885103,Blocked,110.5,37.0
+3942382,Wout Weghorst,Netherlands,Shot,Fehmi Mert Günok,0.15561853,Saved,114.1,47.8
+3942382,Stefan de Vrij,Netherlands,Shot,Fehmi Mert Günok,0.061265625,Goal,110.1,39.1
+3942382,Joey Veerman,Netherlands,Shot,Fehmi Mert Günok,0.024245147,Blocked,95.1,28.0
+3942382,Cenk Tosun,Turkey,Shot,Bart Verbruggen,0.041926187,Off T,108.2,46.5
+3942382,Mehmet Zeki Çelik,Turkey,Shot,Bart Verbruggen,0.24236712,Blocked,110.5,50.7
+3942382,Muhammed Kerem Aktürkoğlu,Turkey,Shot,Bart Verbruggen,0.08011716,Blocked,110.2,29.0
+3942382,Cenk Tosun,Turkey,Shot,Bart Verbruggen,0.07797563,Off T,111.3,34.1
+3942382,Cody Mathès Gakpo,Netherlands,Shot,Fehmi Mert Günok,0.07189418,Saved,106.9,25.8
+3942382,Muhammed Kerem Aktürkoğlu,Turkey,Shot,Bart Verbruggen,0.095398486,Off T,115.1,30.4
+3942382,Semih Kılıçsoy,Turkey,Shot,Bart Verbruggen,0.113987,Saved,111.3,41.6
+3942382,Hakan Çalhanoğlu,Turkey,Shot,Bart Verbruggen,0.030088589,Blocked,101.2,29.4
+3942349,Bruno Miguel Borges Fernandes,Portugal,Shot,Mike Maignan,0.02740746,Blocked,92.5,32.9
+3942349,Theo Bernard François Hernández,France,Shot,Diogo Meireles Costa,0.017666074,Saved,91.4,26.7
+3942349,Antoine Griezmann,France,Shot,Diogo Meireles Costa,0.009978434,Blocked,98.0,59.1
+3942349,Eduardo Camavinga,France,Shot,Diogo Meireles Costa,0.021160081,Off T,94.9,25.6
+3942349,Bruno Miguel Borges Fernandes,Portugal,Shot,Mike Maignan,0.03952836,Off T,93.9,26.0
+3942349,Kylian Mbappé Lottin,France,Shot,Diogo Meireles Costa,0.033553086,Saved,99.5,28.3
+3942349,Aurélien Djani Tchouaméni,France,Shot,Diogo Meireles Costa,0.019283272,Blocked,89.5,30.2
+3942349,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Mike Maignan,0.04770692,Blocked,111.7,47.2
+3942349,Bruno Miguel Borges Fernandes,Portugal,Shot,Mike Maignan,0.13447225,Saved,109.3,52.1
+3942349,João Pedro Cavaco Cancelo,Portugal,Shot,Mike Maignan,0.052601743,Off T,105.7,52.8
+3942349,Aurélien Djani Tchouaméni,France,Shot,Diogo Meireles Costa,0.006239464,Wayward,91.6,23.0
+3942349,Vitor Machado Ferreira,Portugal,Shot,Mike Maignan,0.264942,Saved,110.4,32.9
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Mike Maignan,0.1352057,Saved,118.7,45.1
+3942349,Randal Kolo Muani,France,Shot,Diogo Meireles Costa,0.116558924,Blocked,107.2,49.3
+3942349,Kylian Mbappé Lottin,France,Shot,Diogo Meireles Costa,0.022234876,Blocked,108.1,54.2
+3942349,Ousmane Dembélé,France,Shot,Diogo Meireles Costa,0.010713111,Blocked,113.7,56.4
+3942349,Eduardo Camavinga,France,Shot,Diogo Meireles Costa,0.23683809,Post,114.8,50.0
+3942349,Ousmane Dembélé,France,Shot,Diogo Meireles Costa,0.02501046,Post,99.1,57.0
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Mike Maignan,0.010742701,Blocked,99.5,61.1
+3942349,Vitor Machado Ferreira,Portugal,Shot,Mike Maignan,0.00655848,Blocked,88.0,22.7
+3942349,N'Golo Kanté,France,Shot,Diogo Meireles Costa,0.02393025,Saved,93.9,33.2
+3942349,N'Golo Kanté,France,Shot,Diogo Meireles Costa,0.052443802,Saved,96.4,33.1
+3942349,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Mike Maignan,0.050959174,Blocked,107.5,53.3
+3942349,Kylian Mbappé Lottin,France,Shot,Diogo Meireles Costa,0.019525701,Off T,96.1,25.4
+3942349,Kylian Mbappé Lottin,France,Shot,Diogo Meireles Costa,0.04812045,Saved,99.9,39.0
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Mike Maignan,0.2695404,Off T,111.4,42.7
+3942349,Kylian Mbappé Lottin,France,Shot,Diogo Meireles Costa,0.06612929,Blocked,106.6,32.5
+3942349,Marcus Thuram,France,Shot,Diogo Meireles Costa,0.18562049,Off T,101.2,43.9
+3942349,Rafael Alexandre Conceição Leão,Portugal,Shot,Mike Maignan,0.13186198,Blocked,109.9,35.7
+3942349,Francisco Fernandes Conceição,Portugal,Shot,Mike Maignan,0.021586083,Off T,103.0,56.4
+3942349,João Félix Sequeira,Portugal,Shot,Mike Maignan,0.08330991,Off T,116.0,30.8
+3942349,Ousmane Dembélé,France,Shot,Diogo Meireles Costa,0.0539449,Off T,100.5,47.5
+3942349,Bradley Barcola,France,Shot,Diogo Meireles Costa,0.059450485,Off T,114.4,28.4
+3942349,Dayotchanculle Upamecano,France,Shot,Diogo Meireles Costa,0.039004326,Wayward,109.6,37.4
+3942349,Nuno Mendes,Portugal,Shot,Mike Maignan,0.1323755,Saved,103.1,38.3
+3942349,Ousmane Dembélé,France,Shot,Diogo Meireles Costa,0.7835,Goal,108.1,40.1
+3942349,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Mike Maignan,0.7835,Goal,108.1,40.1
+3942349,Youssouf Fofana,France,Shot,Diogo Meireles Costa,0.7835,Goal,108.1,40.1
+3942349,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Mike Maignan,0.7835,Goal,108.1,40.1
+3942349,Jules Koundé,France,Shot,Diogo Meireles Costa,0.7835,Goal,108.1,40.1
+3942349,João Félix Sequeira,Portugal,Shot,Mike Maignan,0.7835,Post,108.1,40.1
+3942349,Bradley Barcola,France,Shot,Diogo Meireles Costa,0.7835,Goal,108.1,40.1
+3942349,Nuno Mendes,Portugal,Shot,Mike Maignan,0.7835,Goal,108.1,40.1
+3942349,Theo Bernard François Hernández,France,Shot,Diogo Meireles Costa,0.7835,Goal,108.1,40.1
+3930180,Tijjani Reijnders,Netherlands,Shot,Patrick Pentz,0.14255726,Off T,106.5,38.9
+3930180,Donyell Malen,Netherlands,Shot,Patrick Pentz,0.35075784,Off T,105.6,32.9
+3930180,Marcel Sabitzer,Austria,Shot,Bart Verbruggen,0.055332307,Blocked,102.9,33.1
+3930180,Florian Grillitsch,Austria,Shot,Bart Verbruggen,0.012392985,Saved,94.8,24.0
+3930180,Tijjani Reijnders,Netherlands,Shot,Patrick Pentz,0.044637516,Off T,95.2,44.7
+3930180,Marcel Sabitzer,Austria,Shot,Bart Verbruggen,0.02351871,Saved,97.9,25.3
+3930180,Florian Grillitsch,Austria,Shot,Bart Verbruggen,0.035556145,Blocked,101.1,31.8
+3930180,Marko Arnautović,Austria,Shot,Bart Verbruggen,0.46128318,Saved,112.7,41.3
+3930180,Patrick Wimmer,Austria,Shot,Bart Verbruggen,0.057999488,Blocked,94.7,40.5
+3930180,Jerdy Schouten,Netherlands,Shot,Patrick Pentz,0.07204104,Blocked,107.5,50.1
+3930180,Memphis Depay,Netherlands,Shot,Patrick Pentz,0.37566358,Post,114.9,35.9
+3930180,Florian Grillitsch,Austria,Shot,Bart Verbruggen,0.09956471,Off T,111.8,41.6
+3930180,Cody Mathès Gakpo,Netherlands,Shot,Patrick Pentz,0.12614554,Goal,107.4,30.2
+3930180,Virgil van Dijk,Netherlands,Shot,Patrick Pentz,0.14079262,Blocked,114.4,37.3
+3930180,Romano Schmid,Austria,Shot,Bart Verbruggen,0.17982809,Goal,110.2,40.7
+3930180,Xavi Simons,Netherlands,Shot,Patrick Pentz,0.020448573,Off T,74.0,47.8
+3930180,Memphis Depay,Netherlands,Shot,Patrick Pentz,0.121777005,Goal,109.7,37.5
+3930180,Marcel Sabitzer,Austria,Shot,Bart Verbruggen,0.1324231,Goal,114.9,29.1
+3930180,Wout Weghorst,Netherlands,Shot,Patrick Pentz,0.080460265,Off T,107.3,41.3
+3930180,Memphis Depay,Netherlands,Shot,Patrick Pentz,0.03492738,Blocked,111.2,25.1
+3930171,Pierre-Emile Højbjerg,Denmark,Shot,Jordan Pickford,0.025765574,Saved,97.1,27.4
+3930171,Phil Foden,England,Shot,Kasper Schmeichel,0.10147241,Off T,104.5,51.4
+3930171,Harry Kane,England,Shot,Kasper Schmeichel,0.052686803,Blocked,97.3,38.5
+3930171,Harry Kane,England,Shot,Kasper Schmeichel,0.45489097,Goal,112.9,40.4
+3930171,Christian Dannemann Eriksen,Denmark,Shot,Jordan Pickford,0.01892699,Blocked,108.4,56.6
+3930171,Jonas Older Wind,Denmark,Shot,Jordan Pickford,0.06100823,Saved,112.3,34.5
+3930171,Christian Dannemann Eriksen,Denmark,Shot,Jordan Pickford,0.039681155,Blocked,102.6,49.8
+3930171,Marc Guehi,England,Shot,Kasper Schmeichel,0.021727161,Off T,115.3,53.4
+3930171,Jonas Older Wind,Denmark,Shot,Jordan Pickford,0.03800949,Blocked,108.2,50.4
+3930171,Morten Hjulmand,Denmark,Shot,Jordan Pickford,0.019366447,Goal,88.6,40.7
+3930171,Morten Hjulmand,Denmark,Shot,Jordan Pickford,0.037683774,Blocked,97.2,49.3
+3930171,Joachim Andersen,Denmark,Shot,Jordan Pickford,0.011467024,Off T,117.7,28.2
+3930171,Phil Foden,England,Shot,Kasper Schmeichel,0.025206389,Saved,94.2,31.4
+3930171,Pierre-Emile Højbjerg,Denmark,Shot,Jordan Pickford,0.021093283,Saved,93.1,54.1
+3930171,Phil Foden,England,Shot,Kasper Schmeichel,0.01993659,Off T,95.5,54.6
+3930171,Jonas Older Wind,Denmark,Shot,Jordan Pickford,0.0451295,Blocked,101.3,49.5
+3930171,Declan Rice,England,Shot,Kasper Schmeichel,0.021318365,Saved,93.7,26.4
+3930171,Bukayo Saka,England,Shot,Kasper Schmeichel,0.06160539,Off T,115.1,49.3
+3930171,Phil Foden,England,Shot,Kasper Schmeichel,0.035421107,Post,96.8,51.3
+3930171,Bukayo Saka,England,Shot,Kasper Schmeichel,0.22372523,Off T,110.1,50.4
+3930171,Bukayo Saka,England,Shot,Kasper Schmeichel,0.04036888,Off T,103.9,55.8
+3930171,Christian Dannemann Eriksen,Denmark,Shot,Jordan Pickford,0.02688801,Off T,93.3,45.6
+3930171,Mikkel Damsgaard,Denmark,Shot,Jordan Pickford,0.017544413,Saved,96.1,28.0
+3930171,Ollie Watkins,England,Shot,Kasper Schmeichel,0.114346,Saved,115.0,51.1
+3930171,Pierre-Emile Højbjerg,Denmark,Shot,Jordan Pickford,0.022561343,Saved,89.7,32.2
+3930171,Pierre-Emile Højbjerg,Denmark,Shot,Jordan Pickford,0.01088163,Saved,85.4,47.2
+3930171,Andreas Christensen,Denmark,Shot,Jordan Pickford,0.2926257,Off T,113.5,39.7
+3930171,Pierre-Emile Højbjerg,Denmark,Shot,Jordan Pickford,0.04469684,Off T,100.5,30.8
+3942226,Pedro González López,Spain,Shot,Manuel Neuer,0.11743693,Saved,101.5,39.7
+3942226,Nicholas Williams Arthuer,Spain,Shot,Manuel Neuer,0.021921165,Off T,91.9,28.7
+3942226,Lamine Yamal Nasraoui Ebana,Spain,Shot,Manuel Neuer,0.084460065,Off T,98.9,48.6
+3942226,Álvaro Borja Morata Martín,Spain,Shot,Manuel Neuer,0.013587153,Blocked,100.2,21.9
+3942226,Fabián Ruiz Peña,Spain,Shot,Manuel Neuer,0.06860946,Off T,98.6,41.5
+3942226,Kai Havertz,Germany,Shot,Unai Simón Mendibil,0.07551446,Saved,110.4,40.0
+3942226,Aymeric Laporte,Spain,Shot,Manuel Neuer,0.020855846,Saved,95.6,23.8
+3942226,Jonathan Tah,Germany,Shot,Unai Simón Mendibil,0.021546038,Blocked,109.2,32.9
+3942226,Kai Havertz,Germany,Shot,Unai Simón Mendibil,0.154297,Saved,102.7,39.0
+3942226,Daniel Olmo Carvajal,Spain,Shot,Manuel Neuer,0.029002221,Saved,92.1,45.5
+3942226,Lamine Yamal Nasraoui Ebana,Spain,Shot,Manuel Neuer,0.027097616,Saved,89.1,49.3
+3942226,Álvaro Borja Morata Martín,Spain,Shot,Manuel Neuer,0.15766257,Off T,112.2,43.8
+3942226,Robert Andrich,Germany,Shot,Unai Simón Mendibil,0.020109814,Off T,96.7,56.2
+3942226,Daniel Olmo Carvajal,Spain,Shot,Manuel Neuer,0.16316466,Goal,103.6,42.7
+3942226,Jamal Musiala,Germany,Shot,Unai Simón Mendibil,0.040737197,Blocked,98.6,44.9
+3942226,Nicholas Williams Arthuer,Spain,Shot,Manuel Neuer,0.12471274,Wayward,107.4,52.1
+3942226,Florian Wirtz,Germany,Shot,Unai Simón Mendibil,0.028129423,Blocked,93.1,39.8
+3942226,Niclas Füllkrug,Germany,Shot,Unai Simón Mendibil,0.046607595,Off T,111.8,47.0
+3942226,Robert Andrich,Germany,Shot,Unai Simón Mendibil,0.06904092,Saved,99.8,43.6
+3942226,Kai Havertz,Germany,Shot,Unai Simón Mendibil,0.08557191,Blocked,108.8,33.1
+3942226,Niclas Füllkrug,Germany,Shot,Unai Simón Mendibil,0.078394026,Off T,110.7,39.3
+3942226,Niclas Füllkrug,Germany,Shot,Unai Simón Mendibil,0.10089645,Post,109.2,42.6
+3942226,Jamal Musiala,Germany,Shot,Unai Simón Mendibil,0.06056656,Off T,111.0,25.7
+3942226,Kai Havertz,Germany,Shot,Unai Simón Mendibil,0.037947286,Off T,93.1,21.7
+3942226,Fabián Ruiz Peña,Spain,Shot,Manuel Neuer,0.04979181,Off T,96.6,34.4
+3942226,Maximilian Mittelstädt,Germany,Shot,Unai Simón Mendibil,0.040309463,Blocked,97.2,39.1
+3942226,Florian Wirtz,Germany,Shot,Unai Simón Mendibil,0.119556814,Goal,111.8,45.5
+3942226,Thomas Müller,Germany,Shot,Unai Simón Mendibil,0.23735376,Off T,113.2,43.6
+3942226,Ferrán Torres García,Spain,Shot,Manuel Neuer,0.051860645,Wayward,106.6,43.2
+3942226,Mikel Oyarzabal Ugarte,Spain,Shot,Manuel Neuer,0.026732832,Blocked,98.2,43.0
+3942226,Daniel Olmo Carvajal,Spain,Shot,Manuel Neuer,0.018918002,Blocked,103.5,24.3
+3942226,Robert Andrich,Germany,Shot,Unai Simón Mendibil,0.0269288,Off T,100.7,50.7
+3942226,Mikel Oyarzabal Ugarte,Spain,Shot,Manuel Neuer,0.022105819,Off T,96.8,54.8
+3942226,Florian Wirtz,Germany,Shot,Unai Simón Mendibil,0.1075199,Off T,102.4,36.0
+3942226,Jamal Musiala,Germany,Shot,Unai Simón Mendibil,0.0490711,Blocked,100.3,44.6
+3942226,Niclas Füllkrug,Germany,Shot,Unai Simón Mendibil,0.045802347,Off T,104.6,29.1
+3942226,Mikel Oyarzabal Ugarte,Spain,Shot,Manuel Neuer,0.04228213,Off T,97.5,44.3
+3942226,Niclas Füllkrug,Germany,Shot,Unai Simón Mendibil,0.052276906,Saved,108.4,43.4
+3942226,Mikel Merino Zazón,Spain,Shot,Manuel Neuer,0.20066643,Goal,112.6,39.2
+3942226,Joshua Kimmich,Germany,Shot,Unai Simón Mendibil,0.044950247,Blocked,98.8,45.3
+3942226,Ferrán Torres García,Spain,Shot,Manuel Neuer,0.29318613,Wayward,111.5,50.9
+3942226,Niclas Füllkrug,Germany,Shot,Unai Simón Mendibil,0.08594657,Off T,110.1,42.4
+3938645,Romelu Lukaku Menama,Belgium,Shot,Anatolii Trubin,0.27452216,Saved,110.8,30.7
+3938645,Roman Yaremchuk,Ukraine,Shot,Koen Casteels,0.030924592,Saved,91.1,43.1
+3938645,Artem Dovbyk,Ukraine,Shot,Koen Casteels,0.040268533,Off T,94.9,34.0
+3938645,Arthur Theate,Belgium,Shot,Anatolii Trubin,0.008175447,Off T,94.4,19.7
+3938645,Volodymyr Brazhko,Ukraine,Shot,Koen Casteels,0.018024947,Blocked,91.9,51.3
+3938645,Georgiy Sudakov,Ukraine,Shot,Koen Casteels,0.046265554,Off T,95.9,37.0
+3938645,Roman Yaremchuk,Ukraine,Shot,Koen Casteels,0.10216147,Off T,111.3,37.0
+3938645,Kevin De Bruyne,Belgium,Shot,Anatolii Trubin,0.005830124,Off T,88.1,69.5
+3938645,Georgiy Sudakov,Ukraine,Shot,Koen Casteels,0.04998817,Saved,104.2,29.9
+3938645,Georgiy Sudakov,Ukraine,Shot,Koen Casteels,0.0074785133,Saved,89.8,17.6
+3938645,Kevin De Bruyne,Belgium,Shot,Anatolii Trubin,0.027014952,Saved,100.3,24.5
+3938645,Youri Tielemans,Belgium,Shot,Anatolii Trubin,0.02085355,Blocked,96.3,25.6
+3938645,Youri Tielemans,Belgium,Shot,Anatolii Trubin,0.03379251,Blocked,98.2,46.6
+3938645,Jeremy Doku,Belgium,Shot,Anatolii Trubin,0.04610922,Blocked,100.3,45.7
+3938645,Romelu Lukaku Menama,Belgium,Shot,Anatolii Trubin,0.032758437,Saved,105.3,54.2
+3938645,Yannick Ferreira Carrasco,Belgium,Shot,Anatolii Trubin,0.06505812,Saved,102.0,34.5
+3938645,Jeremy Doku,Belgium,Shot,Anatolii Trubin,0.049519155,Blocked,101.9,39.2
+3938645,Artem Dovbyk,Ukraine,Shot,Koen Casteels,0.054199155,Blocked,116.1,30.6
+3938645,Artem Dovbyk,Ukraine,Shot,Koen Casteels,0.0340628,Off T,108.5,53.2
+3938645,Ruslan Malinovskiy,Ukraine,Shot,Koen Casteels,0.00018,Saved,119.0,79.3
+3938645,Taras Stepanenko,Ukraine,Shot,Koen Casteels,0.06703938,Off T,112.4,45.3
+3938645,Andriy Yarmolenko,Ukraine,Shot,Koen Casteels,0.015305686,Blocked,94.1,50.8
+3938645,Johan Bakayoko,Belgium,Shot,Anatolii Trubin,0.06330791,Off T,103.2,48.4
+3938645,Ruslan Malinovskiy,Ukraine,Shot,Koen Casteels,0.06252074,Blocked,97.8,42.7
+3938645,Georgiy Sudakov,Ukraine,Shot,Koen Casteels,0.18075049,Saved,104.4,44.6
+3938645,Yannick Ferreira Carrasco,Belgium,Shot,Anatolii Trubin,0.007042983,Blocked,108.7,18.4
+3930184,Lukáš Provod,Czech Republic,Shot,Fehmi Mert Günok,0.031836256,Saved,99.4,27.2
+3930184,Kenan Yildiz,Turkey,Shot,Matěj Kovář,0.008673587,Blocked,112.6,21.5
+3930184,Arda Güler,Turkey,Shot,Matěj Kovář,0.026633171,Off T,90.5,37.1
+3930184,David Jurásek,Czech Republic,Shot,Fehmi Mert Günok,0.0066083334,Saved,80.6,30.1
+3930184,Robin Hranáč,Czech Republic,Shot,Fehmi Mert Günok,0.2578839,Off T,113.5,37.1
+3930184,Robin Hranáč,Czech Republic,Shot,Fehmi Mert Günok,0.07917333,Blocked,112.5,35.8
+3930184,Kenan Yildiz,Turkey,Shot,Matěj Kovář,0.033986952,Blocked,111.7,25.6
+3930184,Arda Güler,Turkey,Shot,Matěj Kovář,0.17483498,Blocked,112.9,36.9
+3930184,Samet Akaydin,Turkey,Shot,Matěj Kovář,0.07527008,Off T,113.2,33.9
+3930184,Hakan Çalhanoğlu,Turkey,Shot,Matěj Kovář,0.011782922,Blocked,114.8,55.0
+3930184,Hakan Çalhanoğlu,Turkey,Shot,Matěj Kovář,0.0105593875,Off T,98.6,58.7
+3930184,David Jurásek,Czech Republic,Shot,Fehmi Mert Günok,0.07308208,Saved,110.3,23.8
+3930184,Arda Güler,Turkey,Shot,Matěj Kovář,0.03921402,Off T,98.0,49.4
+3930184,Barış Alper Yılmaz,Turkey,Shot,Matěj Kovář,0.048628997,Saved,115.1,50.8
+3930184,Kenan Yildiz,Turkey,Shot,Matěj Kovář,0.039678648,Off T,99.6,29.5
+3930184,Adam Hložek,Czech Republic,Shot,Fehmi Mert Günok,0.03270364,Saved,99.0,48.6
+3930184,Kenan Yildiz,Turkey,Shot,Matěj Kovář,0.103175014,Blocked,106.4,37.9
+3930184,Kenan Yildiz,Turkey,Shot,Matěj Kovář,0.12868324,Saved,109.4,42.3
+3930184,İsmail Yüksek,Turkey,Shot,Matěj Kovář,0.04587865,Blocked,98.8,38.1
+3930184,Hakan Çalhanoğlu,Turkey,Shot,Matěj Kovář,0.07116598,Goal,109.2,26.0
+3930184,Ladislav Krejčí,Czech Republic,Shot,Fehmi Mert Günok,0.050790045,Saved,114.8,49.8
+3930184,Tomáš Chorý,Czech Republic,Shot,Fehmi Mert Günok,0.55123883,Blocked,116.0,44.0
+3930184,Tomáš Souček,Czech Republic,Shot,Fehmi Mert Günok,0.1198459,Goal,113.6,46.4
+3930184,Kenan Yildiz,Turkey,Shot,Matěj Kovář,0.1691182,Blocked,111.8,34.4
+3930184,Ondřej Lingr,Czech Republic,Shot,Fehmi Mert Günok,0.10603972,Wayward,111.9,32.5
+3930184,Ondřej Lingr,Czech Republic,Shot,Fehmi Mert Günok,0.07450897,Off T,112.7,34.1
+3930184,Okay Yokuşlu,Turkey,Shot,Matěj Kovář,0.040461615,Off T,95.4,36.3
+3930184,Matěj Jurásek,Czech Republic,Shot,Fehmi Mert Günok,0.026611561,Blocked,98.5,28.7
+3930184,Barış Alper Yılmaz,Turkey,Shot,Matěj Kovář,0.103810854,Saved,99.1,45.5
+3930184,Cenk Tosun,Turkey,Shot,Matěj Kovář,0.08598739,Goal,105.3,34.5
+3941022,Merih Demiral,Turkey,Shot,Patrick Pentz,0.4581151,Goal,115.8,39.0
+3941022,Christoph Baumgartner,Austria,Shot,Fehmi Mert Günok,0.043312646,Off T,101.4,51.9
+3941022,Philipp Lienhart,Austria,Shot,Fehmi Mert Günok,0.12085788,Off T,115.8,47.4
+3941022,Marcel Sabitzer,Austria,Shot,Fehmi Mert Günok,0.042849332,Blocked,89.9,35.2
+3941022,Philipp Lienhart,Austria,Shot,Fehmi Mert Günok,0.060313236,Blocked,103.8,36.1
+3941022,Arda Güler,Turkey,Shot,Patrick Pentz,0.0070581385,Off T,59.0,42.3
+3941022,Merih Demiral,Turkey,Shot,Patrick Pentz,0.10399367,Off T,115.8,45.8
+3941022,Marcel Sabitzer,Austria,Shot,Fehmi Mert Günok,0.00823542,Blocked,93.9,22.4
+3941022,Christoph Baumgartner,Austria,Shot,Fehmi Mert Günok,0.16866307,Off T,111.4,45.6
+3941022,Michael Gregoritsch,Austria,Shot,Fehmi Mert Günok,0.0427339,Off T,107.7,35.0
+3941022,Marko Arnautović,Austria,Shot,Fehmi Mert Günok,0.29855767,Saved,110.1,44.6
+3941022,Konrad Laimer,Austria,Shot,Fehmi Mert Günok,0.10591905,Off T,103.9,38.4
+3941022,Stefan Posch,Austria,Shot,Fehmi Mert Günok,0.06528039,Blocked,108.2,50.3
+3941022,Ferdi Erenay Kadıoğlu,Turkey,Shot,Patrick Pentz,0.050657645,Blocked,109.5,25.2
+3941022,Merih Demiral,Turkey,Shot,Patrick Pentz,0.1547648,Goal,116.9,44.8
+3941022,Stefan Posch,Austria,Shot,Fehmi Mert Günok,0.11622289,Wayward,113.1,41.9
+3941022,Michael Gregoritsch,Austria,Shot,Fehmi Mert Günok,0.5777065,Goal,116.2,36.5
+3941022,Michael Gregoritsch,Austria,Shot,Fehmi Mert Günok,0.098569036,Saved,109.4,39.1
+3941022,Florian Grillitsch,Austria,Shot,Fehmi Mert Günok,0.024146283,Blocked,96.4,47.7
+3941022,Florian Grillitsch,Austria,Shot,Fehmi Mert Günok,0.024710217,Saved,94.4,51.1
+3941022,Marko Arnautović,Austria,Shot,Fehmi Mert Günok,0.030356593,Blocked,96.7,38.5
+3941022,Marcel Sabitzer,Austria,Shot,Fehmi Mert Günok,0.02972567,Wayward,99.8,52.9
+3941022,Christoph Baumgartner,Austria,Shot,Fehmi Mert Günok,0.24289556,Off T,114.1,37.5
+3941022,Christoph Baumgartner,Austria,Shot,Fehmi Mert Günok,0.0522076,Off T,110.5,43.6
+3941022,Michael Gregoritsch,Austria,Shot,Fehmi Mert Günok,0.101370536,Blocked,112.6,42.5
+3941022,Barış Alper Yılmaz,Turkey,Shot,Patrick Pentz,0.10791902,Saved,102.8,35.9
+3941022,Christoph Baumgartner,Austria,Shot,Fehmi Mert Günok,0.23239474,Saved,113.9,42.7
+3941021,Xavi Simons,Netherlands,Shot,Florin Constantin Niţă,0.008267852,Saved,95.3,18.1
+3941021,Dennis Man,Romania,Shot,Bart Verbruggen,0.03920482,Off T,99.0,48.2
+3941021,Stefan de Vrij,Netherlands,Shot,Florin Constantin Niţă,0.07967252,Blocked,111.8,40.0
+3941021,Nathan Aké,Netherlands,Shot,Florin Constantin Niţă,0.033201255,Wayward,108.7,35.3
+3941021,Cody Mathès Gakpo,Netherlands,Shot,Florin Constantin Niţă,0.046985872,Goal,107.5,24.9
+3941021,Ianis Hagi,Romania,Shot,Bart Verbruggen,0.007178938,Off T,96.2,17.6
+3941021,Dennis Man,Romania,Shot,Bart Verbruggen,0.10886951,Off T,107.9,38.5
+3941021,Tijjani Reijnders,Netherlands,Shot,Florin Constantin Niţă,0.052920066,Blocked,101.2,41.1
+3941021,Stefan de Vrij,Netherlands,Shot,Florin Constantin Niţă,0.0656883,Off T,112.9,46.5
+3941021,Memphis Depay,Netherlands,Shot,Florin Constantin Niţă,0.00018,Off T,119.2,79.2
+3941021,Xavi Simons,Netherlands,Shot,Florin Constantin Niţă,0.14239058,Off T,110.1,39.2
+3941021,Denis Mihai Drăguş,Romania,Shot,Bart Verbruggen,0.056796633,Saved,99.5,38.3
+3941021,Tijjani Reijnders,Netherlands,Shot,Florin Constantin Niţă,0.09582185,Blocked,101.2,41.0
+3941021,Donyell Malen,Netherlands,Shot,Florin Constantin Niţă,0.14581987,Off T,113.0,42.2
+3941021,Donyell Malen,Netherlands,Shot,Florin Constantin Niţă,0.22304013,Wayward,110.6,49.7
+3941021,Memphis Depay,Netherlands,Shot,Florin Constantin Niţă,0.3079616,Blocked,114.0,38.3
+3941021,Tijjani Reijnders,Netherlands,Shot,Florin Constantin Niţă,0.03629456,Off T,96.4,38.6
+3941021,Virgil van Dijk,Netherlands,Shot,Florin Constantin Niţă,0.06589584,Post,109.6,39.8
+3941021,Cody Mathès Gakpo,Netherlands,Shot,Florin Constantin Niţă,0.11165685,Saved,112.5,27.9
+3941021,Denis Mihai Drăguş,Romania,Shot,Bart Verbruggen,0.05565119,Blocked,104.2,47.5
+3941021,Cody Mathès Gakpo,Netherlands,Shot,Florin Constantin Niţă,0.0472151,Saved,97.1,47.3
+3941021,Nathan Aké,Netherlands,Shot,Florin Constantin Niţă,0.07373578,Wayward,111.4,47.2
+3941021,Memphis Depay,Netherlands,Shot,Florin Constantin Niţă,0.061553013,Off T,94.3,33.1
+3941021,Joey Veerman,Netherlands,Shot,Florin Constantin Niţă,0.11710371,Off T,114.2,28.3
+3941021,Memphis Depay,Netherlands,Shot,Florin Constantin Niţă,0.028539894,Blocked,108.3,25.7
+3941021,Cody Mathès Gakpo,Netherlands,Shot,Florin Constantin Niţă,0.062258154,Blocked,106.1,51.7
+3941021,Donyell Malen,Netherlands,Shot,Florin Constantin Niţă,0.39829126,Goal,115.6,36.0
+3941021,Memphis Depay,Netherlands,Shot,Florin Constantin Niţă,0.070296794,Off T,112.2,27.4
+3941021,Donyell Malen,Netherlands,Shot,Florin Constantin Niţă,0.35144565,Goal,104.2,33.2
+3941020,Rúben Santos Gato Alves Dias,Portugal,Shot,Jan Oblak,0.048859816,Off T,114.4,52.5
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.07103491,Saved,111.7,41.6
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.08345447,Off T,96.9,35.6
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.0067048697,Off T,105.0,10.5
+3941020,Benjamin Šeško,Slovenia,Shot,Diogo Meireles Costa,0.03214056,Saved,89.8,31.3
+3941020,Jaka Bijol,Slovenia,Shot,Diogo Meireles Costa,0.036003575,Off T,116.0,29.4
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Shot,Jan Oblak,0.06763536,Off T,98.7,40.3
+3941020,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Jan Oblak,0.061536763,Off T,105.5,48.4
+3941020,Timi Elšnik,Slovenia,Shot,Diogo Meireles Costa,0.030757122,Saved Off Target,111.7,25.4
+3941020,Vitor Machado Ferreira,Portugal,Shot,Jan Oblak,0.00635036,Blocked,91.9,22.4
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.07588849,Saved,95.8,44.3
+3941020,Vitor Machado Ferreira,Portugal,Shot,Jan Oblak,0.0891514,Blocked,106.5,42.7
+3941020,Vitor Machado Ferreira,Portugal,Shot,Jan Oblak,0.052142147,Blocked,100.8,38.4
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Shot,Jan Oblak,0.037417345,Wayward,107.5,45.5
+3941020,Adam Gnezda Čerin,Slovenia,Shot,Diogo Meireles Costa,0.020967843,Off T,99.4,27.1
+3941020,Benjamin Šeško,Slovenia,Shot,Diogo Meireles Costa,0.25142625,Off T,104.4,30.4
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.029365536,Off T,88.9,37.9
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.093401864,Saved,108.9,27.4
+3941020,Bruno Miguel Borges Fernandes,Portugal,Shot,Jan Oblak,0.0052186823,Blocked,86.6,24.3
+3941020,Benjamin Verbič,Slovenia,Shot,Diogo Meireles Costa,0.04497154,Blocked,96.9,33.5
+3941020,Jon Gorenc Stankovič,Slovenia,Shot,Diogo Meireles Costa,0.039114628,Off T,101.4,50.6
+3941020,Diogo José Teixeira da Silva,Portugal,Shot,Jan Oblak,0.07446987,Saved,112.9,46.6
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.7835,Saved to Post,108.1,40.1
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Shot,Jan Oblak,0.050350625,Saved,107.5,47.3
+3941020,Kléper Laveran Lima Ferreira,Portugal,Shot,Jan Oblak,0.050621446,Blocked,111.3,45.2
+3941020,Josip Iličić,Slovenia,Shot,Diogo Meireles Costa,0.045270752,Blocked,95.3,28.0
+3941020,Benjamin Šeško,Slovenia,Shot,Diogo Meireles Costa,0.17587057,Saved,98.6,32.8
+3941020,Žan Celar,Slovenia,Shot,Diogo Meireles Costa,0.039013498,Wayward,93.7,32.8
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.022550302,Blocked,107.5,34.4
+3941020,Rúben Diogo Da Silva Neves,Portugal,Shot,Jan Oblak,0.01152262,Off T,86.6,41.9
+3941020,Josip Iličić,Slovenia,Shot,Diogo Meireles Costa,0.7835,Saved,108.1,40.1
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,Shot,Jan Oblak,0.7835,Goal,108.1,40.1
+3941020,Jure Balkovec,Slovenia,Shot,Diogo Meireles Costa,0.7835,Saved,108.1,40.1
+3941020,Bruno Miguel Borges Fernandes,Portugal,Shot,Jan Oblak,0.7835,Goal,108.2,40.1
+3941020,Benjamin Verbič,Slovenia,Shot,Diogo Meireles Costa,0.7835,Saved,108.1,40.1
+3941020,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Shot,Jan Oblak,0.7835,Goal,108.1,40.1
+3941018,Fabián Ruiz Peña,Spain,Shot,Giorgi Mamardashvili,0.03403919,Blocked,95.1,40.3
+3941018,Pedro González López,Spain,Shot,Giorgi Mamardashvili,0.2088165,Saved,109.5,47.0
+3941018,Fabián Ruiz Peña,Spain,Shot,Giorgi Mamardashvili,0.0355224,Blocked,110.9,32.9
+3941018,Daniel Carvajal Ramos,Spain,Shot,Giorgi Mamardashvili,0.047663942,Saved,113.4,30.1
+3941018,Nicholas Williams Arthuer,Spain,Shot,Giorgi Mamardashvili,0.04628006,Blocked,100.2,33.1
+3941018,Fabián Ruiz Peña,Spain,Shot,Giorgi Mamardashvili,0.068191275,Blocked,103.6,48.1
+3941018,Nicholas Williams Arthuer,Spain,Shot,Giorgi Mamardashvili,0.02863869,Blocked,109.8,23.8
+3941018,Aymeric Laporte,Spain,Shot,Giorgi Mamardashvili,0.05098217,Blocked,111.8,34.6
+3941018,Fabián Ruiz Peña,Spain,Shot,Giorgi Mamardashvili,0.030612372,Saved,103.7,54.8
+3941018,Rodrigo Hernández Cascante,Spain,Shot,Giorgi Mamardashvili,0.016834991,Blocked,87.6,30.5
+3941018,Pedro González López,Spain,Shot,Giorgi Mamardashvili,0.06233343,Off T,102.1,31.3
+3941018,Aymeric Laporte,Spain,Shot,Giorgi Mamardashvili,0.006787614,Off T,86.4,29.1
+3941018,Giorgi Kochorashvili,Georgia,Shot,Unai Simón Mendibil,0.050696027,Blocked,99.6,43.4
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Shot,Giorgi Mamardashvili,0.031005034,Blocked,94.3,48.5
+3941018,Marc Cucurella Saseta,Spain,Shot,Giorgi Mamardashvili,0.015615603,Saved,96.3,28.4
+3941018,Nicholas Williams Arthuer,Spain,Shot,Giorgi Mamardashvili,0.042119805,Saved,113.4,27.4
+3941018,Rodrigo Hernández Cascante,Spain,Shot,Giorgi Mamardashvili,0.06652527,Goal,102.1,36.2
+3941018,Giorgi Kochorashvili,Georgia,Shot,Unai Simón Mendibil,0.0040819473,Off T,53.8,38.5
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Shot,Giorgi Mamardashvili,0.015696,Blocked,92.7,49.6
+3941018,Fabián Ruiz Peña,Spain,Shot,Giorgi Mamardashvili,0.059734892,Off T,96.2,46.3
+3941018,Khvicha Kvaratskhelia,Georgia,Shot,Unai Simón Mendibil,0.0055915527,Off T,57.4,28.1
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Shot,Giorgi Mamardashvili,0.08360341,Saved,99.6,43.0
+3941018,Fabián Ruiz Peña,Spain,Shot,Giorgi Mamardashvili,0.29910773,Goal,115.6,35.6
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Shot,Giorgi Mamardashvili,0.07618404,Off T,101.0,47.7
+3941018,Álvaro Borja Morata Martín,Spain,Shot,Giorgi Mamardashvili,0.046154205,Off T,94.8,37.3
+3941018,Daniel Olmo Carvajal,Spain,Shot,Giorgi Mamardashvili,0.030945767,Blocked,95.6,45.7
+3941018,Daniel Olmo Carvajal,Spain,Shot,Giorgi Mamardashvili,0.071499854,Wayward,101.6,49.4
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Shot,Giorgi Mamardashvili,0.075688556,Off T,104.9,41.5
+3941018,Heorhii Tsitaishvili,Georgia,Shot,Unai Simón Mendibil,0.052708115,Off T,108.4,23.4
+3941018,Fabián Ruiz Peña,Spain,Shot,Giorgi Mamardashvili,0.024543561,Off T,93.3,30.5
+3941018,Nicholas Williams Arthuer,Spain,Shot,Giorgi Mamardashvili,0.21495746,Goal,111.2,29.5
+3941018,Daniel Olmo Carvajal,Spain,Shot,Giorgi Mamardashvili,0.26680577,Saved,108.3,38.6
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Shot,Giorgi Mamardashvili,0.2859731,Saved,114.8,47.3
+3941018,Lamine Yamal Nasraoui Ebana,Spain,Shot,Giorgi Mamardashvili,0.08169625,Off T,107.6,49.0
+3941018,Daniel Olmo Carvajal,Spain,Shot,Giorgi Mamardashvili,0.1281342,Goal,102.3,38.5
+3941018,Nicholas Williams Arthuer,Spain,Shot,Giorgi Mamardashvili,0.06438794,Blocked,104.8,29.5
+3941018,Daniel Olmo Carvajal,Spain,Shot,Giorgi Mamardashvili,0.053031437,Saved,99.5,41.3
+3941018,Daniel Olmo Carvajal,Spain,Shot,Giorgi Mamardashvili,0.061232504,Blocked,114.6,50.7
+3941018,Rodrigo Hernández Cascante,Spain,Shot,Giorgi Mamardashvili,0.033381354,Off T,106.0,40.5
+3941017,David Strelec,Slovakia,Shot,Jordan Pickford,0.092393875,Wayward,107.3,35.8
+3941017,Lukáš Haraslín,Slovakia,Shot,Jordan Pickford,0.053368397,Blocked,101.0,34.2
+3941017,Kieran Trippier,England,Shot,Martin Dúbravka,0.08902558,Off T,102.8,29.9
+3941017,Lukáš Haraslín,Slovakia,Shot,Jordan Pickford,0.079396516,Blocked,107.1,32.1
+3941017,Harry Kane,England,Shot,Martin Dúbravka,0.051736627,Blocked,111.7,46.4
+3941017,Kobbie Mainoo,England,Shot,Martin Dúbravka,0.030446114,Off T,97.3,46.8
+3941017,Ivan Schranz,Slovakia,Shot,Jordan Pickford,0.52801526,Goal,113.3,44.7
+3941017,Declan Rice,England,Shot,Martin Dúbravka,0.04069054,Blocked,111.3,46.9
+3941017,Kobbie Mainoo,England,Shot,Martin Dúbravka,0.043453604,Blocked,97.4,34.3
+3941017,Bukayo Saka,England,Shot,Martin Dúbravka,0.026043994,Blocked,92.1,46.0
+3941017,Harry Kane,England,Shot,Martin Dúbravka,0.10859543,Blocked,104.9,32.5
+3941017,David Strelec,Slovakia,Shot,Jordan Pickford,0.028537394,Off T,62.7,30.6
+3941017,Jude Bellingham,England,Shot,Martin Dúbravka,0.08132238,Blocked,111.7,40.2
+3941017,Phil Foden,England,Shot,Martin Dúbravka,0.054180622,Blocked,99.1,25.5
+3941017,Harry Kane,England,Shot,Martin Dúbravka,0.16138653,Off T,111.7,39.5
+3941017,Declan Rice,England,Shot,Martin Dúbravka,0.026050739,Post,93.5,36.7
+3941017,Harry Kane,England,Shot,Martin Dúbravka,0.12184181,Off T,107.4,40.0
+3941017,Stanislav Lobotka,Slovakia,Shot,Jordan Pickford,0.021908578,Saved,89.4,45.1
+3941017,Jude Bellingham,England,Shot,Martin Dúbravka,0.103242844,Goal,110.1,40.9
+3941017,Eberechi Eze,England,Shot,Martin Dúbravka,0.028122703,Wayward,96.5,37.6
+3941017,Harry Kane,England,Shot,Martin Dúbravka,0.49724415,Goal,116.2,42.1
+3941017,Peter Pekarík,Slovakia,Shot,Jordan Pickford,0.5063636,Off T,114.9,42.3
+3941017,Matúš Bero,Slovakia,Shot,Jordan Pickford,0.014195163,Wayward,94.0,56.4
+3941017,Ľubomír Tupta,Slovakia,Shot,Jordan Pickford,0.02863606,Off T,88.8,47.2
+3941017,Róbert Boženík,Slovakia,Shot,Jordan Pickford,0.008433037,Off T,115.1,57.3
+3941017,Dávid Hancko,Slovakia,Shot,Jordan Pickford,0.0678651,Off T,112.1,35.7
+3941017,Milan Škriniar,Slovakia,Shot,Jordan Pickford,0.07292546,Blocked,111.9,36.3
+3941017,Ivan Toney,England,Shot,Martin Dúbravka,0.123356834,Off T,99.9,42.1
+3941017,Dávid Hancko,Slovakia,Shot,Jordan Pickford,0.045808684,Saved,107.2,40.3
+3930182,Alexander Hartmann Bah,Denmark,Shot,Predrag Rajković,0.18430655,Off T,112.0,43.3
+3930182,Christian Dannemann Eriksen,Denmark,Shot,Predrag Rajković,0.05411584,Saved,94.6,37.4
+3930182,Christian Dannemann Eriksen,Denmark,Shot,Predrag Rajković,0.012576064,Blocked,108.8,22.8
+3930182,Aleksandar Mitrović,Serbia,Shot,Kasper Schmeichel,0.061910562,Blocked,110.4,40.1
+3930182,Rasmus Winther Højlund,Denmark,Shot,Predrag Rajković,0.04584343,Saved,104.1,55.1
+3930182,Jonas Older Wind,Denmark,Shot,Predrag Rajković,0.10859825,Off T,103.5,39.6
+3930182,Andreas Skov Olsen,Denmark,Shot,Predrag Rajković,0.03971446,Blocked,105.4,55.7
+3930182,Andreas Christensen,Denmark,Shot,Predrag Rajković,0.020697463,Off T,91.2,33.8
+3930182,Morten Hjulmand,Denmark,Shot,Predrag Rajković,0.021786047,Off T,91.8,48.8
+3930182,Jannik Vestergaard,Denmark,Shot,Predrag Rajković,0.045023,Saved,110.1,37.1
+3930182,Morten Hjulmand,Denmark,Shot,Predrag Rajković,0.01887132,Off T,89.0,29.3
+3930182,Aleksandar Mitrović,Serbia,Shot,Kasper Schmeichel,0.031952977,Off T,107.4,23.8
+3930182,Aleksandar Mitrović,Serbia,Shot,Kasper Schmeichel,0.06519839,Wayward,110.9,34.6
+3930182,Dušan Vlahović,Serbia,Shot,Kasper Schmeichel,0.060776833,Off T,106.9,46.4
+3930182,Sergej Milinković-Savić,Serbia,Shot,Kasper Schmeichel,0.10460368,Saved,101.3,42.6
+3930179,Mikel Merino Zazón,Spain,Shot,Thomas Strakosha,0.025040166,Saved,107.3,33.1
+3930179,José Luis Sanmartín Mato,Spain,Shot,Thomas Strakosha,0.060585164,Off T,107.6,38.7
+3930179,Ferrán Torres García,Spain,Shot,Thomas Strakosha,0.10358183,Goal,107.5,53.5
+3930179,Daniel Olmo Carvajal,Spain,Shot,Thomas Strakosha,0.0103651,Off T,96.3,57.9
+3930179,Daniel Vivian Moreno,Spain,Shot,Thomas Strakosha,0.046571102,Wayward,109.7,40.6
+3930179,Daniel Olmo Carvajal,Spain,Shot,Thomas Strakosha,0.10403911,Blocked,113.0,47.4
+3930179,Ferrán Torres García,Spain,Shot,Thomas Strakosha,0.030360926,Off T,109.6,50.2
+3930179,Mikel Merino Zazón,Spain,Shot,Thomas Strakosha,0.100341134,Off T,107.1,33.1
+3930179,Kristjan Asllani,Albania,Shot,David Raya Martin,0.027896741,Saved,95.6,37.2
+3930179,José Luis Sanmartín Mato,Spain,Shot,Thomas Strakosha,0.014968767,Off T,104.0,24.3
+3930179,José Luis Sanmartín Mato,Spain,Shot,Thomas Strakosha,0.06717369,Off T,110.4,36.2
+3930179,Mikel Oyarzabal Ugarte,Spain,Shot,Thomas Strakosha,0.18723619,Saved,108.6,44.8
+3930179,Kristjan Asllani,Albania,Shot,David Raya Martin,0.044980317,Blocked,96.6,33.2
+3930179,Daniel Olmo Carvajal,Spain,Shot,Thomas Strakosha,0.006101164,Off T,61.0,43.8
+3930179,Armando Broja,Albania,Shot,David Raya Martin,0.117052965,Saved,105.7,48.1
+3930179,Kristjan Asllani,Albania,Shot,David Raya Martin,0.030892402,Blocked,95.7,31.3
+3930179,Jasir Asani,Albania,Shot,David Raya Martin,0.008626999,Saved,96.6,62.0
+3930179,Fermin Lopez Marin,Spain,Shot,Thomas Strakosha,0.008684722,Wayward,95.9,60.5
+3930179,Fermin Lopez Marin,Spain,Shot,Thomas Strakosha,0.02939205,Blocked,97.4,48.1
+3930179,Kristjan Asllani,Albania,Shot,David Raya Martin,0.025797911,Off T,98.4,23.9
+3930179,Medon Berisha,Albania,Shot,David Raya Martin,0.03180046,Blocked,94.4,46.8
+3930179,Daniel Olmo Carvajal,Spain,Shot,Thomas Strakosha,0.06142092,Blocked,107.7,27.1
+3930179,Álvaro Borja Morata Martín,Spain,Shot,Thomas Strakosha,0.09585059,Off T,113.8,35.1
+3930179,Arbër Hoxha,Albania,Shot,David Raya Martin,0.05797654,Off T,111.0,26.6
+3930179,Berat Djimsiti,Albania,Shot,David Raya Martin,0.04627785,Wayward,109.2,44.2
+3930179,Armando Broja,Albania,Shot,David Raya Martin,0.111852095,Saved,108.8,40.8
+3940983,Joshua Kimmich,Germany,Shot,Kasper Schmeichel,0.024539126,Saved,91.2,49.7
+3940983,Nico Schlotterbeck,Germany,Shot,Kasper Schmeichel,0.029666193,Saved,110.3,32.0
+3940983,Kai Havertz,Germany,Shot,Kasper Schmeichel,0.07374886,Saved,107.1,28.1
+3940983,Robert Andrich,Germany,Shot,Kasper Schmeichel,0.054684527,Saved,110.5,37.7
+3940983,Jamal Musiala,Germany,Shot,Kasper Schmeichel,0.024523731,Off T,90.2,42.2
+3940983,Toni Kroos,Germany,Shot,Kasper Schmeichel,0.056089107,Blocked,92.3,36.2
+3940983,Christian Dannemann Eriksen,Denmark,Shot,Manuel Neuer,0.12234442,Blocked,101.0,40.2
+3940983,Joakim Mæhle,Denmark,Shot,Manuel Neuer,0.092478566,Off T,112.5,27.4
+3940983,Christian Dannemann Eriksen,Denmark,Shot,Manuel Neuer,0.08993592,Blocked,100.8,38.0
+3940983,Rasmus Winther Højlund,Denmark,Shot,Manuel Neuer,0.008721689,Blocked,105.9,20.0
+3940983,Kai Havertz,Germany,Shot,Kasper Schmeichel,0.13610949,Saved,111.5,39.7
+3940983,Nico Schlotterbeck,Germany,Shot,Kasper Schmeichel,0.039883997,Off T,112.3,31.4
+3940983,Rasmus Winther Højlund,Denmark,Shot,Manuel Neuer,0.061353974,Off T,115.0,51.7
+3940983,Rasmus Winther Højlund,Denmark,Shot,Manuel Neuer,0.48120555,Saved,108.2,37.4
+3940983,Kai Havertz,Germany,Shot,Kasper Schmeichel,0.7835,Goal,108.0,40.0
+3940983,Kai Havertz,Germany,Shot,Kasper Schmeichel,0.42521873,Off T,108.9,31.0
+3940983,Rasmus Winther Højlund,Denmark,Shot,Manuel Neuer,0.059370115,Saved,105.6,30.8
+3940983,Jamal Musiala,Germany,Shot,Kasper Schmeichel,0.25639373,Goal,110.2,28.9
+3940983,Joachim Andersen,Denmark,Shot,Manuel Neuer,0.0607214,Wayward,114.2,33.2
+3940983,Joshua Kimmich,Germany,Shot,Kasper Schmeichel,0.0027235784,Wayward,48.1,47.9
+3940983,Pierre-Emile Højbjerg,Denmark,Shot,Manuel Neuer,0.03581329,Blocked,94.3,43.0
+3940983,Benjamin Henrichs,Germany,Shot,Kasper Schmeichel,0.018572439,Off T,97.7,22.4
+3940983,Florian Wirtz,Germany,Shot,Kasper Schmeichel,0.11136572,Saved,101.4,45.0
+3940983,Jannik Vestergaard,Denmark,Shot,Manuel Neuer,0.061550424,Blocked,106.8,42.2
+3940983,Kai Havertz,Germany,Shot,Kasper Schmeichel,0.18960205,Saved,106.6,29.6
+3940878,Dan Ndoye,Switzerland,Shot,Gianluigi Donnarumma,0.04959083,Wayward,108.4,51.9
+3940878,Breel-Donald Embolo,Switzerland,Shot,Gianluigi Donnarumma,0.19980636,Saved,106.4,30.3
+3940878,Dan Ndoye,Switzerland,Shot,Gianluigi Donnarumma,0.037947614,Blocked,108.0,50.3
+3940878,Remo Freuler,Switzerland,Shot,Gianluigi Donnarumma,0.029872663,Blocked,94.4,42.5
+3940878,Breel-Donald Embolo,Switzerland,Shot,Gianluigi Donnarumma,0.028032592,Blocked,93.7,36.4
+3940878,Federico Chiesa,Italy,Shot,Yann Sommer,0.060102012,Blocked,109.2,27.3
+3940878,Dan Ndoye,Switzerland,Shot,Gianluigi Donnarumma,0.03514188,Blocked,108.7,53.7
+3940878,Fabian Lukas Schär,Switzerland,Shot,Gianluigi Donnarumma,0.017792227,Blocked,108.1,55.0
+3940878,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Gianluigi Donnarumma,0.014435371,Off T,91.6,25.6
+3940878,Remo Freuler,Switzerland,Shot,Gianluigi Donnarumma,0.14406602,Goal,111.1,34.4
+3940878,Fabian Rieder,Switzerland,Shot,Gianluigi Donnarumma,0.008087687,Saved to Post,100.0,66.4
+3940878,Ruben Vargas,Switzerland,Shot,Gianluigi Donnarumma,0.044832002,Goal,103.5,25.6
+3940878,Federico Chiesa,Italy,Shot,Yann Sommer,0.046473652,Wayward,116.2,51.2
+3940878,Federico Chiesa,Italy,Shot,Yann Sommer,0.026729954,Blocked,95.3,39.3
+3940878,Ricardo Iván Rodríguez Araya,Switzerland,Shot,Gianluigi Donnarumma,0.023338681,Blocked,91.6,28.4
+3940878,Bryan Cristante,Italy,Shot,Yann Sommer,0.021880716,Blocked,90.0,45.3
+3940878,Dan Ndoye,Switzerland,Shot,Gianluigi Donnarumma,0.026606286,Off T,94.9,52.6
+3940878,Granit Xhaka,Switzerland,Shot,Gianluigi Donnarumma,0.0407081,Blocked,100.3,30.0
+3940878,Mateo Retegui,Italy,Shot,Yann Sommer,0.0671122,Saved,99.1,44.7
+3940878,Mattia Zaccagni,Italy,Shot,Yann Sommer,0.11148876,Wayward,109.4,41.6
+3940878,Gianluca Scamacca,Italy,Shot,Yann Sommer,0.3101263,Post,116.9,34.1
+3940878,Nicolò Fagioli,Italy,Shot,Yann Sommer,0.018499942,Off T,91.4,28.3
+3940878,Gianluca Scamacca,Italy,Shot,Yann Sommer,0.032929283,Off T,97.5,43.0
+3940878,Remo Freuler,Switzerland,Shot,Gianluigi Donnarumma,0.037396807,Off T,98.7,40.3
+3940878,Steven Zuber,Switzerland,Shot,Gianluigi Donnarumma,0.044701636,Wayward,114.8,26.8
+3940878,Lorenzo Pellegrini,Italy,Shot,Yann Sommer,0.021618782,Off T,93.0,29.9
+3940878,Federico Chiesa,Italy,Shot,Yann Sommer,0.008696314,Wayward,103.4,63.1
+3930177,Bendegúz Bolla,Hungary,Shot,Angus Gunn,0.015725836,Saved,89.7,52.3
+3930177,Dominik Szoboszlai,Hungary,Shot,Angus Gunn,0.025828812,Blocked,88.7,42.2
+3930177,Roland Sallai,Hungary,Shot,Angus Gunn,0.019044949,Off T,94.0,53.7
+3930177,Willi Orban,Hungary,Shot,Angus Gunn,0.14024208,Post,116.5,32.3
+3930177,Dominik Szoboszlai,Hungary,Shot,Angus Gunn,0.043323457,Off T,94.9,41.6
+3930177,Roland Sallai,Hungary,Shot,Angus Gunn,0.05792367,Saved,104.9,32.0
+3930177,Che Adams,Scotland,Shot,Péter Gulácsi,0.020522645,Off T,96.1,25.7
+3930177,Roland Sallai,Hungary,Shot,Angus Gunn,0.038458098,Blocked,104.1,28.3
+3930177,Márton Dárdai,Hungary,Shot,Angus Gunn,0.05713405,Off T,110.5,43.0
+3930177,András Schäfer,Hungary,Shot,Angus Gunn,0.0365714,Saved,103.9,55.7
+3930177,András Schäfer,Hungary,Shot,Angus Gunn,0.029436294,Off T,97.0,44.5
+3930177,Dominik Szoboszlai,Hungary,Shot,Angus Gunn,0.06067144,Saved,111.0,54.9
+3930177,Kevin Csoboth,Hungary,Shot,Angus Gunn,0.18480031,Post,113.8,51.1
+3930177,Callum McGregor,Scotland,Shot,Péter Gulácsi,0.026212929,Blocked,95.1,32.3
+3930177,Ádám Nagy,Hungary,Shot,Angus Gunn,0.028947517,Off T,93.3,29.7
+3930177,Lewis Morgan,Scotland,Shot,Péter Gulácsi,0.05578008,Blocked,105.4,30.9
+3930177,Callum McGregor,Scotland,Shot,Péter Gulácsi,0.0810196,Blocked,110.3,39.8
+3930177,Kevin Csoboth,Hungary,Shot,Angus Gunn,0.26290518,Goal,107.2,36.6
+3930173,Jeremie Frimpong,Netherlands,Shot,Mike Maignan,0.09676152,Saved,108.6,53.7
+3930173,Antoine Griezmann,France,Shot,Bart Verbruggen,0.0084621785,Saved,95.1,22.1
+3930173,Antoine Griezmann,France,Shot,Bart Verbruggen,0.09589434,Off T,107.7,37.5
+3930173,Cody Mathès Gakpo,Netherlands,Shot,Mike Maignan,0.049663115,Saved,99.8,29.6
+3930173,Tijjani Reijnders,Netherlands,Shot,Mike Maignan,0.024566133,Blocked,92.8,30.8
+3930173,Marcus Thuram,France,Shot,Bart Verbruggen,0.057095893,Off T,109.8,55.4
+3930173,Jeremie Frimpong,Netherlands,Shot,Mike Maignan,0.07304683,Blocked,105.9,50.3
+3930173,Xavi Simons,Netherlands,Shot,Mike Maignan,0.033340927,Saved,94.8,31.5
+3930173,Antoine Griezmann,France,Shot,Bart Verbruggen,0.043873254,Blocked,99.3,55.2
+3930173,Antoine Griezmann,France,Shot,Bart Verbruggen,0.067954645,Saved,107.6,35.3
+3930173,Ousmane Dembélé,France,Shot,Bart Verbruggen,0.048582327,Blocked,98.5,45.2
+3930173,N'Golo Kanté,France,Shot,Bart Verbruggen,0.020307582,Off T,94.8,56.3
+3930173,Memphis Depay,Netherlands,Shot,Mike Maignan,0.053838786,Blocked,92.3,33.5
+3930173,Adrien Rabiot,France,Shot,Bart Verbruggen,0.19072829,Off T,110.5,38.1
+3930173,Aurélien Djani Tchouaméni,France,Shot,Bart Verbruggen,0.020245472,Blocked,91.3,33.0
+3930173,Marcus Thuram,France,Shot,Bart Verbruggen,0.07412944,Off T,98.8,41.7
+3930173,Aurélien Djani Tchouaméni,France,Shot,Bart Verbruggen,0.06818111,Off T,109.8,41.1
+3930173,Antoine Griezmann,France,Shot,Bart Verbruggen,0.38357785,Saved,113.8,43.8
+3930173,Aurélien Djani Tchouaméni,France,Shot,Bart Verbruggen,0.009652127,Blocked,96.6,20.8
+3930173,Ousmane Dembélé,France,Shot,Bart Verbruggen,0.05260031,Off T,102.5,50.5
+3930173,Memphis Depay,Netherlands,Shot,Mike Maignan,0.27552643,Saved,110.3,32.8
+3930173,Xavi Simons,Netherlands,Shot,Mike Maignan,0.106497265,Wayward,103.9,36.2
+3930173,Virgil van Dijk,Netherlands,Shot,Mike Maignan,0.024942296,Blocked,106.8,38.5
+3930173,N'Golo Kanté,France,Shot,Bart Verbruggen,0.07711755,Blocked,107.0,50.6
+3930172,Pedro González López,Spain,Shot,Gianluigi Donnarumma,0.20873496,Saved,113.1,39.3
+3930172,Nicholas Williams Arthuer,Spain,Shot,Gianluigi Donnarumma,0.16577838,Off T,112.6,43.2
+3930172,Álvaro Borja Morata Martín,Spain,Shot,Gianluigi Donnarumma,0.045866285,Blocked,101.1,29.8
+3930172,Álvaro Borja Morata Martín,Spain,Shot,Gianluigi Donnarumma,0.0889132,Saved,115.3,49.5
+3930172,Fabián Ruiz Peña,Spain,Shot,Gianluigi Donnarumma,0.020980582,Saved,88.6,42.3
+3930172,Rodrigo Hernández Cascante,Spain,Shot,Gianluigi Donnarumma,0.0063212407,Off T,83.3,37.9
+3930172,Rodrigo Hernández Cascante,Spain,Shot,Gianluigi Donnarumma,0.06796482,Blocked,99.7,38.8
+3930172,Fabián Ruiz Peña,Spain,Shot,Gianluigi Donnarumma,0.018837484,Off T,93.4,47.8
+3930172,Fabián Ruiz Peña,Spain,Shot,Gianluigi Donnarumma,0.05605037,Saved,94.8,46.2
+3930172,Federico Chiesa,Italy,Shot,Unai Simón Mendibil,0.028738793,Off T,103.2,57.2
+3930172,Pedro González López,Spain,Shot,Gianluigi Donnarumma,0.22276898,Off T,110.9,35.1
+3930172,Pedro González López,Spain,Shot,Gianluigi Donnarumma,0.031200469,Saved,92.3,35.6
+3930172,Álvaro Borja Morata Martín,Spain,Shot,Gianluigi Donnarumma,0.043265585,Saved Off Target,113.8,27.3
+3930172,Álvaro Borja Morata Martín,Spain,Shot,Gianluigi Donnarumma,0.039537966,Saved,93.0,33.9
+3930172,Robin Aime Robert Le Normand,Spain,Shot,Gianluigi Donnarumma,0.07005949,Blocked,113.0,44.1
+3930172,Lamine Yamal Nasraoui Ebana,Spain,Shot,Gianluigi Donnarumma,0.022184672,Off T,97.3,55.7
+3930172,Nicholas Williams Arthuer,Spain,Shot,Gianluigi Donnarumma,0.0101199495,Post,103.5,21.2
+3930172,Lorenzo Pellegrini,Italy,Shot,Unai Simón Mendibil,0.041307483,Off T,94.5,25.7
+3930172,Ayoze Pérez Gutiérrez,Spain,Shot,Gianluigi Donnarumma,0.081019565,Blocked,109.9,29.1
+3930172,Aymeric Laporte,Spain,Shot,Gianluigi Donnarumma,0.09134299,Off T,113.5,46.0
+3930172,Bryan Cristante,Italy,Shot,Unai Simón Mendibil,0.04522397,Saved,115.1,31.7
+3930172,Ayoze Pérez Gutiérrez,Spain,Shot,Gianluigi Donnarumma,0.030097554,Saved,112.0,24.5
+3930172,Ayoze Pérez Gutiérrez,Spain,Shot,Gianluigi Donnarumma,0.21283588,Saved,106.6,29.2
+3930172,Riccardo Calafiori,Italy,Shot,Unai Simón Mendibil,0.028129116,Off T,102.5,30.0
+3930167,Qazim Laçi,Albania,Shot,Dominik Livaković,0.15271324,Goal,111.4,42.7
+3930167,Nedim Bajrami,Albania,Shot,Dominik Livaković,0.042951755,Blocked,106.7,25.1
+3930167,Elseid Hysaj,Albania,Shot,Dominik Livaković,0.026227653,Blocked,97.8,46.2
+3930167,Mateo Kovačić,Croatia,Shot,Thomas Strakosha,0.02367818,Blocked,94.7,32.2
+3930167,Marcelo Brozović,Croatia,Shot,Thomas Strakosha,0.037039116,Off T,101.7,54.2
+3930167,Bruno Petković,Croatia,Shot,Thomas Strakosha,0.15187249,Off T,111.9,40.4
+3930167,Elseid Hysaj,Albania,Shot,Dominik Livaković,0.07158221,Off T,102.8,44.5
+3930167,Kristjan Asllani,Albania,Shot,Dominik Livaković,0.4143787,Saved,106.4,34.7
+3930167,Marcelo Brozović,Croatia,Shot,Thomas Strakosha,0.012439796,Saved,87.8,29.0
+3930167,Lovro Majer,Croatia,Shot,Thomas Strakosha,0.053446807,Blocked,109.1,43.0
+3930167,Jasir Asani,Albania,Shot,Dominik Livaković,0.013309195,Blocked,92.7,55.5
+3930167,Rey Manaj,Albania,Shot,Dominik Livaković,0.11167682,Saved,109.1,39.2
+3930167,Bruno Petković,Croatia,Shot,Thomas Strakosha,0.053682253,Blocked,111.9,35.4
+3930167,Luka Sučić,Croatia,Shot,Thomas Strakosha,0.05831094,Saved,106.9,52.1
+3930167,Mario Pašalić,Croatia,Shot,Thomas Strakosha,0.09518195,Off T,114.6,45.6
+3930167,Mateo Kovačić,Croatia,Shot,Thomas Strakosha,0.034642614,Saved,96.8,31.1
+3930167,Mario Pašalić,Croatia,Shot,Thomas Strakosha,0.08055008,Off T,111.2,47.0
+3930167,Bruno Petković,Croatia,Shot,Thomas Strakosha,0.14854461,Blocked,112.5,39.2
+3930167,Josip Šutalo,Croatia,Shot,Thomas Strakosha,0.27776286,Off T,117.2,36.5
+3930167,Luka Modrić,Croatia,Shot,Thomas Strakosha,0.027270537,Blocked,95.5,50.4
+3930167,Ivan Perišić,Croatia,Shot,Thomas Strakosha,0.019084653,Saved,93.8,28.3
+3930167,Kristjan Asllani,Albania,Shot,Dominik Livaković,0.047146343,Saved,97.9,33.3
+3930167,Nedim Bajrami,Albania,Shot,Dominik Livaković,0.067161754,Off T,102.5,50.5
+3930167,Mario Pašalić,Croatia,Shot,Thomas Strakosha,0.103066094,Off T,113.6,43.1
+3930167,Taulant Sulejmanov,Albania,Shot,Dominik Livaković,0.03424818,Saved,92.4,34.4
+3930167,Andrej Kramarić,Croatia,Shot,Thomas Strakosha,0.17964375,Goal,107.3,33.5
+3930167,Luka Sučić,Croatia,Shot,Thomas Strakosha,0.23861712,Blocked,111.7,38.8
+3930167,Ante Budimir,Croatia,Shot,Thomas Strakosha,0.11424082,Saved,105.9,35.7
+3930167,Luka Modrić,Croatia,Shot,Thomas Strakosha,0.047361944,Off T,95.3,47.0
+3930167,Martin Baturina,Croatia,Shot,Thomas Strakosha,0.018151348,Saved,112.1,23.1
+3930167,Arbër Hoxha,Albania,Shot,Dominik Livaković,0.03468018,Saved,96.3,46.2
+3930167,Mirlind Daku,Albania,Shot,Dominik Livaković,0.13273408,Blocked,110.2,36.4
+3930167,Klaus Gjasula,Albania,Shot,Dominik Livaković,0.11446814,Goal,108.0,40.2
+3930167,Klaus Gjasula,Albania,Shot,Dominik Livaković,0.062581755,Blocked,99.3,39.6
+3930167,Mateo Kovačić,Croatia,Shot,Thomas Strakosha,0.08401197,Saved,103.2,30.4
+3930168,Roland Sallai,Hungary,Shot,Manuel Neuer,0.43428022,Saved,113.3,35.8
+3930168,Kai Havertz,Germany,Shot,Péter Gulácsi,0.0723028,Saved,101.1,50.7
+3930168,Bendegúz Bolla,Hungary,Shot,Manuel Neuer,0.042028096,Blocked,109.3,54.7
+3930168,Kai Havertz,Germany,Shot,Péter Gulácsi,0.17632313,Saved,114.9,48.7
+3930168,Robert Andrich,Germany,Shot,Péter Gulácsi,0.058733784,Blocked,109.2,48.8
+3930168,Roland Sallai,Hungary,Shot,Manuel Neuer,0.060010985,Blocked,101.3,38.3
+3930168,Jamal Musiala,Germany,Shot,Péter Gulácsi,0.17679916,Goal,111.1,36.9
+3930168,Dominik Szoboszlai,Hungary,Shot,Manuel Neuer,0.011125852,Saved,95.7,21.5
+3930168,Barnabás Varga,Hungary,Shot,Manuel Neuer,0.016573403,Wayward,120.0,34.2
+3930168,İlkay Gündoğan,Germany,Shot,Péter Gulácsi,0.07659019,Blocked,103.4,42.8
+3930168,Dominik Szoboszlai,Hungary,Shot,Manuel Neuer,0.062200293,Blocked,107.1,32.0
+3930168,Bendegúz Bolla,Hungary,Shot,Manuel Neuer,0.02690711,Blocked,99.3,51.3
+3930168,Maximilian Mittelstädt,Germany,Shot,Péter Gulácsi,0.035652474,Blocked,98.4,43.3
+3930168,Florian Wirtz,Germany,Shot,Péter Gulácsi,0.009146902,Off T,97.9,58.4
+3930168,Jamal Musiala,Germany,Shot,Péter Gulácsi,0.057380453,Off T,102.8,49.0
+3930168,Antonio Rüdiger,Germany,Shot,Péter Gulácsi,0.007015708,Blocked,90.2,56.9
+3930168,Toni Kroos,Germany,Shot,Péter Gulácsi,0.05673947,Saved,99.5,44.2
+3930168,Dominik Szoboszlai,Hungary,Shot,Manuel Neuer,0.016451184,Wayward,100.1,56.9
+3930168,Roland Sallai,Hungary,Shot,Manuel Neuer,0.08636546,Off T,107.7,39.4
+3930168,Barnabás Varga,Hungary,Shot,Manuel Neuer,0.18803331,Off T,113.5,42.2
+3930168,Jamal Musiala,Germany,Shot,Péter Gulácsi,0.0370909,Off T,96.7,35.8
+3930168,İlkay Gündoğan,Germany,Shot,Péter Gulácsi,0.2238691,Goal,107.9,35.3
+3930168,Joshua Kimmich,Germany,Shot,Péter Gulácsi,0.015231439,Off T,112.0,56.5
+3930168,Joshua Kimmich,Germany,Shot,Péter Gulácsi,0.11168318,Saved,107.3,48.4
+3930168,Leroy Sané,Germany,Shot,Péter Gulácsi,0.03144114,Saved,98.8,47.3
+3930168,Leroy Sané,Germany,Shot,Péter Gulácsi,0.02867941,Off T,88.7,42.1
+3930168,Chris Führich,Germany,Shot,Péter Gulácsi,0.027013024,Off T,111.4,24.3
+3930168,Niclas Füllkrug,Germany,Shot,Péter Gulácsi,0.2278667,Off T,113.5,40.6
+3930168,Leroy Sané,Germany,Shot,Péter Gulácsi,0.05413388,Blocked,106.4,51.1
+3930168,Willi Orban,Hungary,Shot,Manuel Neuer,0.2840574,Blocked,112.1,38.3
+3930165,Kylian Mbappé Lottin,France,Shot,Patrick Pentz,0.08037747,Saved,109.4,25.8
+3930165,Theo Bernard François Hernández,France,Shot,Patrick Pentz,0.020863526,Wayward,115.5,26.8
+3930165,Antoine Griezmann,France,Shot,Patrick Pentz,0.054649312,Blocked,103.8,52.8
+3930165,Marcus Thuram,France,Shot,Patrick Pentz,0.06899431,Wayward,115.3,47.9
+3930165,Kylian Mbappé Lottin,France,Shot,Patrick Pentz,0.048833035,Blocked,103.5,28.8
+3930165,Christoph Baumgartner,Austria,Shot,Mike Maignan,0.47129205,Saved,111.3,38.4
+3930165,Kevin Danso,Austria,Shot,Mike Maignan,0.037411693,Wayward,108.8,36.7
+3930165,Stefan Posch,Austria,Shot,Mike Maignan,0.021681927,Off T,95.2,54.1
+3930165,Kylian Mbappé Lottin,France,Shot,Patrick Pentz,0.40426746,Off T,103.9,37.9
+3930165,Ousmane Dembélé,France,Shot,Patrick Pentz,0.01604397,Off T,101.6,58.4
+3930165,Antoine Griezmann,France,Shot,Patrick Pentz,0.6972375,Wayward,114.1,41.1
+3930165,Jules Koundé,France,Shot,Patrick Pentz,0.07075118,Blocked,106.4,48.3
+3930165,Marcus Thuram,France,Shot,Patrick Pentz,0.07894939,Saved,111.7,52.9
+3930165,Marcus Thuram,France,Shot,Patrick Pentz,0.04839009,Off T,103.4,28.8
+3930165,Christoph Baumgartner,Austria,Shot,Mike Maignan,0.1976641,Saved,113.9,50.8
+3930165,Marcus Thuram,France,Shot,Patrick Pentz,0.19990508,Saved,108.1,33.2
+3930165,Kylian Mbappé Lottin,France,Shot,Patrick Pentz,0.080690145,Blocked,111.9,40.2
+3930165,Patrick Wimmer,Austria,Shot,Mike Maignan,0.020267555,Saved,111.8,53.1
+3930165,Marcus Thuram,France,Shot,Patrick Pentz,0.034579307,Blocked,101.2,26.4
+3930164,Kevin De Bruyne,Belgium,Shot,Martin Dúbravka,0.14977165,Wayward,107.4,41.5
+3930164,Romelu Lukaku Menama,Belgium,Shot,Martin Dúbravka,0.54738164,Saved,114.4,38.1
+3930164,Juraj Kucka,Slovakia,Shot,Koen Casteels,0.16258486,Saved,105.4,32.4
+3930164,Ivan Schranz,Slovakia,Shot,Koen Casteels,0.06667144,Goal,116.3,28.9
+3930164,Jeremy Doku,Belgium,Shot,Martin Dúbravka,0.027797548,Blocked,106.4,57.6
+3930164,Leandro Trossard,Belgium,Shot,Martin Dúbravka,0.028659014,Off T,91.7,24.9
+3930164,Róbert Boženík,Slovakia,Shot,Koen Casteels,0.04691546,Blocked,102.7,49.3
+3930164,Róbert Boženík,Slovakia,Shot,Koen Casteels,0.064620696,Saved,99.8,38.5
+3930164,Leandro Trossard,Belgium,Shot,Martin Dúbravka,0.039659355,Blocked,99.4,31.0
+3930164,Amadou Onana,Belgium,Shot,Martin Dúbravka,0.11087667,Saved,112.7,41.8
+3930164,Lukáš Haraslín,Slovakia,Shot,Koen Casteels,0.100932,Saved,103.8,38.0
+3930164,Juraj Kucka,Slovakia,Shot,Koen Casteels,0.06432098,Off T,115.7,49.2
+3930164,Lukáš Haraslín,Slovakia,Shot,Koen Casteels,0.02820586,Off T,100.0,24.7
+3930164,Denis Vavro,Slovakia,Shot,Koen Casteels,0.0061508114,Off T,79.8,40.3
+3930164,Romelu Lukaku Menama,Belgium,Shot,Martin Dúbravka,0.09231648,Saved,110.7,53.2
+3930164,Leandro Trossard,Belgium,Shot,Martin Dúbravka,0.09907409,Saved,99.9,47.5
+3930164,Yannick Ferreira Carrasco,Belgium,Shot,Martin Dúbravka,0.10049267,Blocked,109.8,39.3
+3930164,Romelu Lukaku Menama,Belgium,Shot,Martin Dúbravka,0.08940556,Off T,114.8,49.2
+3930164,Johan Bakayoko,Belgium,Shot,Martin Dúbravka,0.195297,Blocked,110.9,40.0
+3930164,Kevin De Bruyne,Belgium,Shot,Martin Dúbravka,0.03400005,Blocked,99.7,51.7
+3930164,David Strelec,Slovakia,Shot,Koen Casteels,0.12313379,Blocked,111.6,44.8
+3930164,Juraj Kucka,Slovakia,Shot,Koen Casteels,0.047570586,Off T,97.5,49.6
+3930164,Yannick Ferreira Carrasco,Belgium,Shot,Martin Dúbravka,0.046634816,Blocked,98.6,35.1
+3930164,Amadou Onana,Belgium,Shot,Martin Dúbravka,0.034820676,Off T,108.7,35.8
+3930164,Johan Bakayoko,Belgium,Shot,Martin Dúbravka,0.030715866,Off T,100.3,47.6
+3930164,Kevin De Bruyne,Belgium,Shot,Martin Dúbravka,0.123351954,Saved,109.4,52.0
+3930161,Nedim Bajrami,Albania,Shot,Gianluigi Donnarumma,0.08619496,Goal,111.8,51.9
+3930161,Lorenzo Pellegrini,Italy,Shot,Thomas Strakosha,0.20114782,Off T,105.9,42.6
+3930161,Federico Chiesa,Italy,Shot,Thomas Strakosha,0.015626727,Blocked,111.0,57.1
+3930161,Jasir Asani,Albania,Shot,Gianluigi Donnarumma,0.014936902,Blocked,106.8,57.6
+3930161,Berat Djimsiti,Albania,Shot,Gianluigi Donnarumma,0.05804902,Wayward,103.5,35.1
+3930161,Federico Dimarco,Italy,Shot,Thomas Strakosha,0.015797285,Blocked,105.2,23.6
+3930161,Alessandro Bastoni,Italy,Shot,Thomas Strakosha,0.1377708,Goal,117.6,45.7
+3930161,Gianluca Scamacca,Italy,Shot,Thomas Strakosha,0.05321112,Blocked,104.8,50.9
+3930161,Nicolò Barella,Italy,Shot,Thomas Strakosha,0.0846303,Goal,100.8,36.7
+3930161,Riccardo Calafiori,Italy,Shot,Thomas Strakosha,0.1803363,Blocked,115.6,39.0
+3930161,Federico Chiesa,Italy,Shot,Thomas Strakosha,0.027081154,Blocked,95.4,34.3
+3930161,Lorenzo Pellegrini,Italy,Shot,Thomas Strakosha,0.050647445,Wayward,112.8,31.8
+3930161,Davide Frattesi,Italy,Shot,Thomas Strakosha,0.21950644,Saved to Post,113.1,50.5
+3930161,Gianluca Scamacca,Italy,Shot,Thomas Strakosha,0.08583342,Saved,114.8,50.6
+3930161,Riccardo Calafiori,Italy,Shot,Thomas Strakosha,0.10085189,Blocked,112.8,39.8
+3930161,Jasir Asani,Albania,Shot,Gianluigi Donnarumma,0.023186801,Off T,93.3,50.5
+3930161,Lorenzo Pellegrini,Italy,Shot,Thomas Strakosha,0.11972189,Off T,109.0,36.9
+3930161,Gianluca Scamacca,Italy,Shot,Thomas Strakosha,0.03734544,Blocked,97.7,44.6
+3930161,Kristjan Asllani,Albania,Shot,Gianluigi Donnarumma,0.008601317,Blocked,92.6,22.7
+3930161,Federico Chiesa,Italy,Shot,Thomas Strakosha,0.03460156,Off T,101.6,52.7
+3930161,Giovanni Di Lorenzo,Italy,Shot,Thomas Strakosha,0.07586851,Blocked,116.2,31.1
+3930161,Kristjan Asllani,Albania,Shot,Gianluigi Donnarumma,0.028912615,Off T,97.3,43.8
+3930161,Federico Dimarco,Italy,Shot,Thomas Strakosha,0.009818552,Saved,95.3,22.5
+3930161,Rey Manaj,Albania,Shot,Gianluigi Donnarumma,0.104034275,Saved,114.6,51.8
+3930161,Mario Mitaj,Albania,Shot,Gianluigi Donnarumma,0.030680664,Off T,100.7,25.2
+3930183,Juraj Kucka,Slovakia,Shot,Florin Constantin Niţă,0.042125423,Blocked,99.2,37.7
+3930183,Peter Pekarík,Slovakia,Shot,Florin Constantin Niţă,0.018847207,Wayward,94.7,52.1
+3930183,David Strelec,Slovakia,Shot,Florin Constantin Niţă,0.16629212,Wayward,105.8,41.1
+3930183,Juraj Kucka,Slovakia,Shot,Florin Constantin Niţă,0.04360604,Saved,108.5,45.8
+3930183,Dávid Hancko,Slovakia,Shot,Florin Constantin Niţă,0.061454203,Off T,104.9,42.4
+3930183,Andrei Florin Ratiu,Romania,Shot,Martin Dúbravka,0.083783165,Saved,106.4,27.8
+3930183,Ianis Hagi,Romania,Shot,Martin Dúbravka,0.042076837,Off T,109.9,53.7
+3930183,Răzvan Gabriel Marin,Romania,Shot,Martin Dúbravka,0.007878168,Off T,85.4,26.7
+3930183,Milan Škriniar,Slovakia,Shot,Florin Constantin Niţă,0.12854967,Off T,112.3,37.0
+3930183,Nicolae Claudiu Stanciu,Romania,Shot,Martin Dúbravka,0.010006143,Saved,97.0,22.1
+3930183,Ondrej Duda,Slovakia,Shot,Florin Constantin Niţă,0.10944717,Goal,111.2,35.7
+3930183,David Strelec,Slovakia,Shot,Florin Constantin Niţă,0.087866805,Off T,109.3,44.5
+3930183,Andrei Florin Ratiu,Romania,Shot,Martin Dúbravka,0.03746017,Saved,94.0,43.4
+3930183,Răzvan Gabriel Marin,Romania,Shot,Martin Dúbravka,0.7835,Goal,108.1,40.1
+3930183,Denis Mihai Drăguş,Romania,Shot,Martin Dúbravka,0.045624558,Off T,102.7,30.5
+3930183,David Strelec,Slovakia,Shot,Florin Constantin Niţă,0.016442684,Off T,87.6,38.5
+3930183,Lukáš Haraslín,Slovakia,Shot,Florin Constantin Niţă,0.012604465,Saved,116.4,26.9
+3930183,Răzvan Gabriel Marin,Romania,Shot,Martin Dúbravka,0.052743744,Saved,101.6,49.2
+3930183,Denis Mihai Drăguş,Romania,Shot,Martin Dúbravka,0.058865298,Off T,104.3,26.3
+3930183,David Strelec,Slovakia,Shot,Florin Constantin Niţă,0.114570245,Saved,103.7,41.8
+3930183,Lukáš Haraslín,Slovakia,Shot,Florin Constantin Niţă,0.036418177,Off T,105.1,23.6
+3930183,Denis Vavro,Slovakia,Shot,Florin Constantin Niţă,0.006518632,Off T,84.5,53.0
+3930175,Youri Tielemans,Belgium,Shot,Florin Constantin Niţă,0.056764796,Goal,100.4,44.1
+3930175,Răzvan Gabriel Marin,Romania,Shot,Koen Casteels,0.020378055,Off T,93.6,55.2
+3930175,Radu Drăgușin,Romania,Shot,Koen Casteels,0.10383942,Saved,112.5,41.9
+3930175,Youri Tielemans,Belgium,Shot,Florin Constantin Niţă,0.041907914,Blocked,97.9,35.9
+3930175,Romelu Lukaku Menama,Belgium,Shot,Florin Constantin Niţă,0.1279859,Blocked,109.4,38.9
+3930175,Amadou Onana,Belgium,Shot,Florin Constantin Niţă,0.021880424,Wayward,95.2,41.2
+3930175,Dodi Lukebakio,Belgium,Shot,Florin Constantin Niţă,0.078508794,Saved,105.6,47.5
+3930175,Jan Vertonghen,Belgium,Shot,Florin Constantin Niţă,0.104912855,Off T,109.5,34.6
+3930175,Valentin Mihai Mihăilă,Romania,Shot,Koen Casteels,0.036989477,Off T,96.8,36.4
+3930175,Valentin Mihai Mihăilă,Romania,Shot,Koen Casteels,0.030926589,Blocked,99.7,27.7
+3930175,Jeremy Doku,Belgium,Shot,Florin Constantin Niţă,0.021825416,Saved,116.0,27.9
+3930175,Dodi Lukebakio,Belgium,Shot,Florin Constantin Niţă,0.012732397,Blocked,114.9,25.6
+3930175,Dodi Lukebakio,Belgium,Shot,Florin Constantin Niţă,0.031616453,Blocked,103.5,54.0
+3930175,Dennis Man,Romania,Shot,Koen Casteels,0.033510946,Saved,102.7,54.8
+3930175,Kevin De Bruyne,Belgium,Shot,Florin Constantin Niţă,0.09735306,Saved,103.1,52.4
+3930175,Andrei Burcă Andonie,Romania,Shot,Koen Casteels,0.11149162,Off T,112.0,41.3
+3930175,Dennis Man,Romania,Shot,Koen Casteels,0.021334786,Saved,95.8,55.5
+3930175,Valentin Mihai Mihăilă,Romania,Shot,Koen Casteels,0.11731382,Off T,106.3,28.4
+3930175,Kevin De Bruyne,Belgium,Shot,Florin Constantin Niţă,0.025796724,Off T,100.1,24.4
+3930175,Kevin De Bruyne,Belgium,Shot,Florin Constantin Niţă,0.13007036,Saved,101.0,40.8
+3930175,Valentin Mihai Mihăilă,Romania,Shot,Koen Casteels,0.039179783,Off T,97.2,31.6
+3930175,Romelu Lukaku Menama,Belgium,Shot,Florin Constantin Niţă,0.072152875,Blocked,105.7,50.3
+3930175,Romelu Lukaku Menama,Belgium,Shot,Florin Constantin Niţă,0.16418488,Saved,111.0,45.3
+3930175,Jeremy Doku,Belgium,Shot,Florin Constantin Niţă,0.11017092,Off T,110.6,27.2
+3930175,Romelu Lukaku Menama,Belgium,Shot,Florin Constantin Niţă,0.20404467,Saved,109.0,43.5
+3930175,Kevin De Bruyne,Belgium,Shot,Florin Constantin Niţă,0.025171522,Off T,94.3,30.6
+3930175,Dennis Man,Romania,Shot,Koen Casteels,0.32217968,Saved,107.2,46.5
+3930175,Răzvan Gabriel Marin,Romania,Shot,Koen Casteels,0.005796874,Off T,83.8,29.8
+3930175,Kevin De Bruyne,Belgium,Shot,Florin Constantin Niţă,0.17672184,Goal,106.4,44.6
+3930175,Denis Alibec,Romania,Shot,Koen Casteels,0.36282617,Blocked,105.8,34.7
+3930175,Radu Drăgușin,Romania,Shot,Koen Casteels,0.024504332,Wayward,112.9,29.4
+3930175,Leandro Trossard,Belgium,Shot,Florin Constantin Niţă,0.033712856,Blocked,109.3,54.4
+3930175,Romelu Lukaku Menama,Belgium,Shot,Florin Constantin Niţă,0.10830227,Saved,114.2,51.8
+3930175,Radu Drăgușin,Romania,Shot,Koen Casteels,0.015765483,Blocked,90.4,46.8
+3930158,Florian Wirtz,Germany,Shot,Angus Gunn,0.064226404,Goal,101.1,42.0
+3930158,Jamal Musiala,Germany,Shot,Angus Gunn,0.09347519,Goal,106.4,35.4
+3930158,Kai Havertz,Germany,Shot,Angus Gunn,0.061890993,Saved,101.2,41.6
+3930158,İlkay Gündoğan,Germany,Shot,Angus Gunn,0.08211112,Saved,111.0,43.4
+3930158,Kai Havertz,Germany,Shot,Angus Gunn,0.7835,Goal,108.1,40.1
+3930158,Antonio Rüdiger,Germany,Shot,Angus Gunn,0.006107928,Saved,82.1,44.8
+3930158,Antonio Rüdiger,Germany,Shot,Angus Gunn,0.07437212,Blocked,106.9,43.3
+3930158,Pascal Groß,Germany,Shot,Angus Gunn,0.030512892,Blocked,98.1,29.4
+3930158,Joshua Kimmich,Germany,Shot,Angus Gunn,0.01540596,Blocked,95.4,57.2
+3930158,Florian Wirtz,Germany,Shot,Angus Gunn,0.11507621,Off T,112.6,50.1
+3930158,İlkay Gündoğan,Germany,Shot,Angus Gunn,0.13365488,Blocked,110.1,37.4
+3930158,Maximilian Mittelstädt,Germany,Shot,Angus Gunn,0.025077615,Blocked,102.9,28.5
+3930158,Florian Wirtz,Germany,Shot,Angus Gunn,0.020383658,Off T,88.9,37.2
+3930158,Leroy Sané,Germany,Shot,Angus Gunn,0.07334591,Saved,107.5,54.1
+3930158,Maximilian Mittelstädt,Germany,Shot,Angus Gunn,0.023070266,Off T,99.2,28.8
+3930158,Niclas Füllkrug,Germany,Shot,Angus Gunn,0.113960005,Goal,104.1,39.3
+3930158,Maximilian Mittelstädt,Germany,Shot,Angus Gunn,0.021256333,Off T,102.8,25.6
+3930158,Leroy Sané,Germany,Shot,Angus Gunn,0.026378801,Saved,98.9,55.4
+3930158,Leroy Sané,Germany,Shot,Angus Gunn,0.030833129,Off T,92.6,43.3
+3930158,Scott McKenna,Scotland,Shot,Manuel Neuer,0.060525935,Wayward,108.8,50.0
+3930158,Emre Can,Germany,Shot,Angus Gunn,0.0499945,Goal,98.5,39.4
