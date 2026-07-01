@@ -1,0 +1,7 @@
+Comparison,Pearson r,p-value,Significant (α=0.05)
+Save % vs. Goals Prevented (GSaE),0.5223676262461002,0.008829546598891581,Yes
+xG Faced vs. Goals Conceded,0.7627568493645313,1.4670278507030816e-05,Yes
+Shots Faced vs. Save %,-0.017686428244916,0.9346259520956183,No
+Sweeper Actions/Match vs. Claims/Match,-0.12877613795364648,0.5487068129939064,No
+Goal Kicks/Match vs. Avg. Kick Length,0.5806892196698743,0.0029277209918698245,Yes
+Matches Played vs. Save % (sample-size bias check),-0.04605842806588267,0.8307756837428195,No
