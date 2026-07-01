@@ -24,7 +24,10 @@ A data-driven analysis of goalkeeper performances at UEFA Euro 2024, using Stats
 │   ├── rank_goalkeepers.py   # Step 4 — composite ranking -> data/final
 │   ├── chart.py              # Step 5 — tournament-level charts
 │   ├── dashboard.py          # Step 6 — top-3 goalkeeper dashboards
-│   └── stat_tests.py         # Step 7 — descriptive stats, correlation p-values
+│   ├── stat_tests.py         # Step 7 — descriptive stats, correlation p-values
+│   ├── gk_360_positioning.py # Step 9 — keeper distance-off-line/lateral offset per shot (360 data)
+│   ├── gk_360_angle_coverage.py  # Step 10 — angle-adjusted goal-mouth coverage, extends Step 9's output
+│   └── gk_claim_punch_success.py # Step 11 — claim/punch success rates from gk_events.csv outcomes
 ├── notebooks/
 │   └── Euro2024_GK_Analysis.ipynb  # Full analysis notebook (same pipeline, one file)
 ├── powerbi/
@@ -94,4 +97,18 @@ Writes → `data/final/descriptive_stats.csv`, `correlation_pvalues.csv`, `repor
 Reads ← `data/processed/*.csv`, `data/final/gk_rank.csv` (must run after Step 4)
 Writes → `powerbi/data/*.csv` (9 files ready to import into Power BI Desktop)
 
-Or explore the full analysis in the [Jupyter notebook](notebooks/Euro2024_GK_Analysis.ipynb), which runs the same pipeline in one file.
+**Step 9 (optional) — `python scripts/gk_360_positioning.py`**
+Pulls StatsBomb 360 freeze-frame data for all 51 matches (network access) and filters to the same 24 qualifying keepers as the rest of `data/final`.
+Reads ← StatsBomb API, `data/processed/goalkeepers_clean.csv`
+Writes → `data/final/gk_360_positioning.csv`, `gk_360_positioning_summary.csv`
+
+**Step 10 (optional) — `python scripts/gk_360_angle_coverage.py`**
+Adds angle-adjusted goal-mouth coverage columns to Step 9's output in place (does not write a separate file).
+Reads ← `data/final/gk_360_positioning.csv` (must run after Step 9)
+Writes → `data/final/gk_360_positioning.csv`, `gk_360_positioning_summary.csv` (adds `goal_coverage_pct`, `open_goal_pct`, `shot_angle_deg` and their per-keeper averages)
+
+**Step 11 (optional) — `python scripts/gk_claim_punch_success.py`**
+Reads ← `data/processed/gk_events.csv`, `goalkeepers_clean.csv`
+Writes → `data/final/gk_claim_punch_success.csv`
+
+Or explore the full analysis in the [Jupyter notebook](notebooks/Euro2024_GK_Analysis.ipynb), which runs the same pipeline in one file (Steps 9–11 are not included in the notebook).
