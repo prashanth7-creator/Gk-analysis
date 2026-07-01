@@ -222,9 +222,12 @@ def main():
         "z_gp_per_match", "z_xg_faced",
         "composite_score",
     ]
-    rank_df = gk[[c for c in output_cols if c in gk.columns]]
+    rank_df = gk[[c for c in output_cols if c in gk.columns]].copy()
 
-    rank_df.to_csv(FINAL_DIR / "gk_rank.csv")
+    # Round save_pct to 2 decimal places
+    rank_df["save_pct"] = rank_df["save_pct"].round(2)
+
+    rank_df.to_csv(FINAL_DIR / "gk_rank.csv", index=False)
     print(f"\nSaved: {FINAL_DIR / 'gk_rank.csv'}")
 
     print("\nFull Rankings:")
@@ -234,12 +237,12 @@ def main():
             f"  {i:2d}. {row['gk_name']:<25s}  "
             f"Score: {row['composite_score']:+.3f}  |  "
             f"MP: {int(row['matches_played'])}  |  "
-            f"Sv%: {row['save_pct']:.1f}%  |  "
-            f"Prev: {row['goals_prevented']:+.1f}"
+            f"Sv%: {row['save_pct']:.2f}%  |  "
+            f"Prev: {row['goals_prevented']:+.2f}"
         )
 
     top10 = rank_df.head(10).copy()
-    top10.to_csv(FINAL_DIR / "top10_gk_performance.csv")
+    top10.to_csv(FINAL_DIR / "top10_gk_performance.csv", index=False)
     print(f"\nSaved: {FINAL_DIR / 'top10_gk_performance.csv'}")
 
     print_top10_report(top10)
