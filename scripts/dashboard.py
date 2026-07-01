@@ -157,35 +157,6 @@ def panel_radar(fig, pos, gk_name, gk_stats):
     ax.set_title("Z-Score Profile", fontsize=10, color=GRAY, pad=18)
 
 
-def panel_compare(fig, pos, gk_name, gk_df):
-    row = gk_df[gk_df["gk_name"] == gk_name].iloc[0]
-    metrics = ["save_pct", "goals_prevented", "sweeper_per_match", "claims_per_match"]
-    labels  = ["Save %", "Goals\nPrevented", "Sweeper\n/Match", "Claims\n/Match"]
-
-    gk_vals  = [row[m] for m in metrics]
-    avg_vals = [gk_df[m].mean() for m in metrics]
-
-    # normalise to 0-1 per metric so bars are comparable
-    max_vals = [max(gk_df[m].max(), 0.01) for m in metrics]
-    gk_n  = [v / mx for v, mx in zip(gk_vals,  max_vals)]
-    avg_n = [v / mx for v, mx in zip(avg_vals, max_vals)]
-
-    x = np.arange(len(metrics))
-    w = 0.35
-
-    ax = fig.add_subplot(pos)
-    ax.set_facecolor(BG)
-    ax.bar(x - w/2, gk_n,  w, color=CYAN,    label=gk_name.split()[0], edgecolor="none")
-    ax.bar(x + w/2, avg_n, w, color="#cccccc", label="Tournament Avg",  edgecolor="none")
-    ax.set_xticks(x)
-    ax.set_xticklabels(labels, fontsize=8, color=GRAY)
-    ax.set_yticks([])
-    ax.set_ylim(0, 1.25)
-    ax.spines[["top", "right", "left"]].set_visible(False)
-    ax.spines["bottom"].set_color("#cccccc")
-    ax.legend(fontsize=7.5, framealpha=0, labelcolor=GRAY, loc="upper right")
-    ax.set_title("vs Tournament Average", fontsize=9, color=GRAY, pad=6)
-
 
 def generate_dashboard(gk_name, rank_num, gk, shots, events, kicks, gk_rank):
     if gk[gk["gk_name"] == gk_name].empty:
