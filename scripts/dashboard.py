@@ -211,7 +211,9 @@ def generate_dashboard(gk_name, rank_num, gk, shots, events, kicks, gk_rank):
     panel_punches(fig, gs[0, 1], gk_name, events)
     panel_kicks(fig, gs[0, 2], gk_name, kicks, long=True)
     panel_kicks(fig, gs[1, 0], gk_name, kicks, long=False)
-    panel_compare(fig, gs[1, 1], gk_name, gk)
+    ax_blank = fig.add_subplot(gs[1, 1])
+    ax_blank.set_facecolor(BG)
+    ax_blank.axis("off")
     panel_radar(fig, gs[1, 2], gk_name, gk)
 
     fname = CHARTS_DIR / f"dashboard_{rank_num:02d}_{gk_name.replace(' ', '_')}.png"

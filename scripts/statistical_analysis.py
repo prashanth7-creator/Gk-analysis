@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patheffects as pe
-from mplsoccer import VerticalPitch
+from mplsoccer import VerticalPitch, Pitch as HorizPitch
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -229,7 +229,7 @@ def plot_gsae_vs_save_pct(gk_df, highlight_gk=None):
     # Title with cyan underline
     fig.text(0.08, 0.95, "GSaE vs. Save %  Efficiency Analysis",
              fontsize=18, fontweight="bold", color=WHITE, va="top")
-    fig.patches.append(plt.Rectangle(
+    fig.add_artist(plt.Rectangle(
         (0.08, 0.925), 0.35, 0.006, transform=fig.transFigure,
         facecolor=CYAN, edgecolor="none", zorder=20,
     ))
@@ -238,7 +238,7 @@ def plot_gsae_vs_save_pct(gk_df, highlight_gk=None):
     box_x, box_w, box_h = 0.70, 0.27, 0.17
 
     # Top Right — Elite
-    fig.patches.append(plt.Rectangle(
+    fig.add_artist(plt.Rectangle(
         (box_x, 0.72), box_w, box_h, transform=fig.transFigure,
         facecolor=DARK_CARD, edgecolor="#2e7d32", linewidth=2, zorder=15,
     ))
@@ -249,7 +249,7 @@ def plot_gsae_vs_save_pct(gk_df, highlight_gk=None):
              linespacing=1.5, zorder=16)
 
     # Bottom Right — Quality over quantity
-    fig.patches.append(plt.Rectangle(
+    fig.add_artist(plt.Rectangle(
         (box_x, 0.49), box_w, box_h, transform=fig.transFigure,
         facecolor=DARK_CARD, edgecolor="#1565c0", linewidth=2, zorder=15,
     ))
@@ -260,7 +260,7 @@ def plot_gsae_vs_save_pct(gk_df, highlight_gk=None):
              linespacing=1.5, zorder=16)
 
     # Left — Underperforming
-    fig.patches.append(plt.Rectangle(
+    fig.add_artist(plt.Rectangle(
         (box_x, 0.26), box_w, box_h, transform=fig.transFigure,
         facecolor="#3e1a1a", edgecolor="#c62828", linewidth=2, zorder=15,
     ))
@@ -345,13 +345,14 @@ def plot_gsae_bar_ranking(gk_df, highlight_gk=None):
 
 def plot_gk_action_heatmap(gk_name, gk_events_path=None):
     """Pitch heatmap of a GK's action locations (saves, punches, claims)."""
+    import ast
+
     if gk_events_path is None:
         gk_events_path = PROC_DIR / "gk_events.csv"
     if not gk_events_path.exists():
         print(f"  Skipping action heatmap — {gk_events_path} not found")
         return
 
-    import ast
     gk_ev = pd.read_csv(gk_events_path, low_memory=False)
     gk_ev = gk_ev[gk_ev["player_name"] == gk_name].copy()
     if gk_ev.empty:
@@ -374,29 +375,30 @@ def plot_gk_action_heatmap(gk_name, gk_events_path=None):
     if gk_ev.empty:
         return
 
-    pitch = VerticalPitch(
+    # Full horizontal pitch — GK actions are near x=0-18, visible on left side
+    pitch = HorizPitch(
         pitch_type="statsbomb", pitch_color="grass",
-        line_color="white", half=True, goal_type="box", linewidth=1.5,
+        line_color="white", goal_type="box", linewidth=1.5,
     )
-    fig, ax = pitch.draw(figsize=(9, 11))
+    fig, ax = pitch.draw(figsize=(12, 8))
     fig.set_facecolor("#1a472a")
 
+    action_col = "gk_action" if "gk_action" in gk_ev.columns else "goalkeeper_type"
     action_styles = {
-        "Shot Faced": ("#00e676", "o", "Save"),
-        "Punch": ("#ffd600", "D", "Punch"),
-        "Claim": ("#42a5f5", "s", "Claim"),
-        "Keeper Sweeper": ("#00e5ff", "^", "Sweeper"),
-        "Smother": ("#ff9100", "P", "Smother"),
+        "Shot":          ("#00e676", "o", "Shot Faced/Saved"),
+        "Collected":     ("#42a5f5", "s", "Claim"),
+        "Punch":         ("#ffd600", "D", "Punch"),
+        "Keeper Sweeper":("#00e5ff", "^", "Sweeper"),
+        "Goal Conceded": ("#ff1744", "X", "Goal Conceded"),
     }
 
-    action_col = "gk_action" if "gk_action" in gk_ev.columns else "goalkeeper_type"
     for action, (color, marker, label) in action_styles.items():
         mask = gk_ev[action_col].str.contains(action, case=False, na=False)
         if mask.sum() == 0:
             continue
         pitch.scatter(
             gk_ev.loc[mask, "loc_x"], gk_ev.loc[mask, "loc_y"],
-            s=80, c=color, marker=marker, alpha=0.85,
+            s=90, c=color, marker=marker, alpha=0.85,
             edgecolors="white", linewidths=0.5,
             label=f"{label} ({mask.sum()})", ax=ax, zorder=5,
         )
@@ -404,13 +406,10 @@ def plot_gk_action_heatmap(gk_name, gk_events_path=None):
     fig.text(0.5, 0.97, f"Action Heatmap — {gk_name}", ha="center",
              fontsize=16, fontweight="bold", color="white",
              path_effects=[pe.withStroke(linewidth=3, foreground="#1a472a")])
-    fig.text(0.5, 0.935, f"Euro 2024 — {len(gk_ev)} total actions on pitch",
-             ha="center", fontsize=10, color="#c8e6c9",
-             path_effects=[pe.withStroke(linewidth=2, foreground="#1a472a")])
 
-    ax.legend(loc="upper left", fontsize=9, framealpha=0.6,
+    ax.legend(loc="upper right", fontsize=9, framealpha=0.6,
               facecolor="#1b5e20", edgecolor="white", labelcolor="white")
-    plt.tight_layout(rect=[0, 0.02, 1, 0.92])
+    plt.tight_layout(rect=[0, 0.02, 1, 0.94])
 
     fname = CHARTS_DIR / f"action_heatmap_{gk_name.replace(' ', '_')}.png"
     plt.savefig(fname, dpi=150, bbox_inches="tight", facecolor=fig.get_facecolor())
