@@ -392,25 +392,13 @@ match_id,player,team,gk_name,outcome,is_goal,xg,shot_x,shot_y,gk_x,gk_y,dist_off
 3930174,Arda Güler,Turkey,Diogo Meireles Costa,Wayward,0,0.004203976,60.9,25.6,105.5,39.2,14.5,-0.8,7.31,0.2129,0.7871
 3930174,Yusuf Yazıcı,Turkey,Diogo Meireles Costa,Saved,0,0.006459761,89.4,55.2,118.8,40.5,1.2,0.5,12.0,0.2602,0.7398
 3930174,Arda Güler,Turkey,Diogo Meireles Costa,Blocked,0,0.014791918,91.0,51.3,118.0,40.4,2.0,0.4,13.69,0.2685,0.7315
-3930174,Bruno Miguel Borges Fernandes,Portugal,Altay Bayındır,Blocked,0,0.041098516,92.6,41.8,118.8,39.9,1.2,-0.1,16.54,0.2615,0.7385
-3930174,Rúben Diogo Da Silva Neves,Portugal,Altay Bayındır,Off T,0,0.024696983,93.8,50.2,117.3,40.7,2.7,0.7,15.14,0.2787,0.7213
 3930174,Orkun Kökçü,Turkey,Diogo Meireles Costa,Saved,0,0.039146766,94.9,32.7,117.7,39.4,2.3,-0.6,16.75,0.2752,0.7248
 3930174,Kenan Yildiz,Turkey,Diogo Meireles Costa,Off T,0,0.025981167,97.1,24.9,117.9,38.6,2.1,-1.4,13.97,0.2752,0.7248
 3930174,Hakan Çalhanoğlu,Turkey,Diogo Meireles Costa,Blocked,0,0.008017924,99.0,60.0,117.4,41.1,2.6,1.1,11.51,0.2853,0.7147
 3930174,Yusuf Yazıcı,Turkey,Diogo Meireles Costa,Blocked,0,0.019997858,99.9,27.2,117.3,37.3,2.7,-2.7,16.25,0.2888,0.7112
-3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Altay Bayındır,Off T,0,0.056781985,101.7,30.6,117.7,38.8,2.3,-1.2,19.77,0.2859,0.7141
-3930174,Bruno Miguel Borges Fernandes,Portugal,Altay Bayındır,Off T,0,0.0370126,103.2,29.7,117.3,39.6,2.7,-0.4,19.85,0.2979,0.7021
-3930174,Bruno Miguel Borges Fernandes,Portugal,Altay Bayındır,Off T,0,0.07170779,104.7,54.4,116.3,44.0,3.7,4.0,16.05,0.3297,0.6703
-3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Altay Bayındır,Saved,0,0.030822832,104.7,54.5,117.8,42.8,2.2,2.8,15.95,0.292,0.708
-3930174,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Altay Bayındır,Blocked,0,0.16763084,107.0,35.5,116.8,38.2,3.2,-1.8,30.98,0.3316,0.6684
 3930174,Muhammed Kerem Aktürkoğlu,Turkey,Diogo Meireles Costa,Off T,0,0.048342027,107.8,44.4,117.4,41.8,2.6,1.8,32.67,0.3177,0.6823
-3930174,Rafael Alexandre Conceição Leão,Portugal,Altay Bayındır,Wayward,0,0.04168335,108.6,34.2,118.1,39.2,1.9,-0.8,31.71,0.3,0.7
 3930174,Orkun Kökçü,Turkey,Diogo Meireles Costa,Blocked,0,0.06214549,108.6,51.3,118.8,43.6,1.2,3.6,20.68,0.2794,0.7206
-3930174,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Altay Bayındır,Goal,1,0.3171335,108.8,44.0,117.3,40.8,2.7,0.8,35.54,0.3294,0.6706
 3930174,Muhammed Kerem Aktürkoğlu,Turkey,Diogo Meireles Costa,Saved,0,0.09970065,110.9,27.4,117.7,36.1,2.3,-3.9,17.89,0.3346,0.6654
-3930174,Bruno Miguel Borges Fernandes,Portugal,Altay Bayındır,Goal,1,0.85188305,111.5,36.3,113.5,39.8,6.5,-0.2,44.19,0.0,1.0
-3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Altay Bayındır,Off T,0,0.06344055,113.1,34.1,118.1,39.1,1.9,-0.9,39.73,0.345,0.655
-3930174,Cristiano Ronaldo dos Santos Aveiro,Portugal,Altay Bayındır,Wayward,0,0.19733512,113.1,37.7,118.6,41.4,1.4,1.4,56.24,0.3136,0.6864
 3930174,Muhammed Kerem Aktürkoğlu,Turkey,Diogo Meireles Costa,Wayward,0,0.45019928,116.2,36.6,118.9,40.7,1.1,0.7,71.79,0.3519,0.6481
 3930175,Răzvan Gabriel Marin,Romania,Koen Casteels,Off T,0,0.005796874,83.8,29.8,117.8,38.7,2.2,-1.3,11.7,0.2662,0.7338
 3930175,Radu Drăgușin,Romania,Koen Casteels,Blocked,0,0.015765483,90.4,46.8,117.9,40.7,2.1,0.7,14.64,0.2691,0.7309
@@ -505,29 +493,19 @@ match_id,player,team,gk_name,outcome,is_goal,xg,shot_x,shot_y,gk_x,gk_y,dist_off
 3930178,Giovanni Di Lorenzo,Italy,Dominik Livaković,Blocked,0,0.11527714,114.6,34.8,119.3,38.0,0.7,-2.0,47.06,0.2872,0.7128
 3930178,Luka Modrić,Croatia,Gianluigi Donnarumma,Goal,1,0.48530436,114.9,35.5,117.7,37.8,2.3,-2.2,53.44,0.4554,0.5446
 3930179,Daniel Olmo Carvajal,Spain,Thomas Strakosha,Off T,0,0.006101164,61.0,43.8,103.5,41.9,16.5,1.9,7.73,0.3471,0.6529
-3930179,Medon Berisha,Albania,David Raya Martin,Blocked,0,0.03180046,94.4,46.8,118.6,41.2,1.4,1.2,16.63,0.2645,0.7355
-3930179,Kristjan Asllani,Albania,David Raya Martin,Saved,0,0.027896741,95.6,37.2,118.9,38.7,1.1,-1.3,18.39,0.2618,0.7382
-3930179,Kristjan Asllani,Albania,David Raya Martin,Blocked,0,0.030892402,95.7,31.3,119.1,39.1,0.9,-0.9,16.65,0.2596,0.7404
 3930179,Fermin Lopez Marin,Spain,Thomas Strakosha,Wayward,0,0.008684722,95.9,60.5,118.0,40.9,2.0,0.9,11.07,0.2726,0.7274
 3930179,Daniel Olmo Carvajal,Spain,Thomas Strakosha,Off T,0,0.0103651,96.3,57.9,118.2,42.6,1.8,2.6,12.35,0.2705,0.7295
-3930179,Kristjan Asllani,Albania,David Raya Martin,Blocked,0,0.044980317,96.6,33.2,118.9,40.7,1.1,0.7,17.95,0.2623,0.7377
-3930179,Jasir Asani,Albania,David Raya Martin,Saved,0,0.008626999,96.6,62.0,117.9,42.2,2.1,2.2,10.44,0.2746,0.7254
 3930179,Fermin Lopez Marin,Spain,Thomas Strakosha,Blocked,0,0.02939205,97.4,48.1,116.3,41.5,3.7,1.5,17.88,0.2989,0.7011
-3930179,Kristjan Asllani,Albania,David Raya Martin,Off T,0,0.025797911,98.4,23.9,118.3,38.2,1.7,-1.8,13.68,0.2714,0.7286
 3930179,José Luis Sanmartín Mato,Spain,Thomas Strakosha,Off T,0,0.014968767,104.0,24.3,118.8,38.5,1.2,-1.5,14.74,0.2703,0.7297
-3930179,Armando Broja,Albania,David Raya Martin,Saved,0,0.117052965,105.7,48.1,115.2,42.6,4.8,2.6,24.24,0.3763,0.6237
 3930179,Mikel Merino Zazón,Spain,Thomas Strakosha,Off T,0,0.100341134,107.1,33.1,118.8,37.9,1.2,-2.1,27.53,0.2756,0.7244
 3930179,Mikel Merino Zazón,Spain,Thomas Strakosha,Saved,0,0.025040166,107.3,33.1,119.3,39.3,0.7,-0.7,27.78,0.2646,0.7354
 3930179,Ferrán Torres García,Spain,Thomas Strakosha,Goal,1,0.10358183,107.5,53.5,115.9,44.2,4.1,4.2,17.23,0.372,0.628
 3930179,José Luis Sanmartín Mato,Spain,Thomas Strakosha,Off T,0,0.060585164,107.6,38.7,119.2,39.8,0.8,-0.2,35.43,0.2672,0.7328
 3930179,Daniel Olmo Carvajal,Spain,Thomas Strakosha,Blocked,0,0.06142092,107.7,27.1,117.7,35.9,2.3,-4.1,18.06,0.3075,0.6925
 3930179,Mikel Oyarzabal Ugarte,Spain,Thomas Strakosha,Saved,0,0.18723619,108.6,44.8,110.4,44.2,9.6,4.2,33.65,1.0,0.0
-3930179,Armando Broja,Albania,David Raya Martin,Saved,0,0.111852095,108.8,40.8,119.2,40.7,0.8,0.7,39.14,0.2692,0.7308
-3930179,Berat Djimsiti,Albania,David Raya Martin,Wayward,0,0.04627785,109.2,44.2,119.0,41.9,1.0,1.9,36.15,0.2755,0.7245
 3930179,Ferrán Torres García,Spain,Thomas Strakosha,Off T,0,0.030360926,109.6,50.2,119.1,42.0,0.9,2.0,22.98,0.2737,0.7263
 3930179,Daniel Vivian Moreno,Spain,Thomas Strakosha,Wayward,0,0.046571102,109.7,40.6,119.5,40.1,0.5,0.1,42.33,0.2628,0.7372
 3930179,José Luis Sanmartín Mato,Spain,Thomas Strakosha,Off T,0,0.06717369,110.4,36.2,119.0,37.8,1.0,-2.2,40.29,0.2791,0.7209
-3930179,Arbër Hoxha,Albania,David Raya Martin,Off T,0,0.05797654,111.0,26.6,118.4,37.1,1.6,-2.9,16.4,0.3041,0.6959
 3930179,Daniel Olmo Carvajal,Spain,Thomas Strakosha,Blocked,0,0.10403911,113.0,47.4,118.7,43.0,1.3,3.0,32.54,0.307,0.693
 3930179,Álvaro Borja Morata Martín,Spain,Thomas Strakosha,Off T,0,0.09585059,113.8,35.1,119.2,38.9,0.8,-1.1,46.88,0.287,0.713
 3930180,Xavi Simons,Netherlands,Patrick Pentz,Off T,0,0.020448573,74.0,47.8,108.4,25.2,11.6,-14.8,9.66,0.0,1.0
@@ -604,22 +582,18 @@ match_id,player,team,gk_name,outcome,is_goal,xg,shot_x,shot_y,gk_x,gk_y,dist_off
 3930183,Lukáš Haraslín,Slovakia,Florin Constantin Niţă,Saved,0,0.012604465,116.4,26.9,119.1,36.1,0.9,-3.9,9.7,0.3333,0.6667
 3930184,David Jurásek,Czech Republic,Fehmi Mert Günok,Saved,0,0.0066083334,80.6,30.1,119.1,39.7,0.9,-0.3,10.92,0.2558,0.7442
 3930184,Arda Güler,Turkey,Jindřich Staněk,Off T,0,0.026633171,90.5,37.1,118.4,39.8,1.6,-0.2,15.3,0.2643,0.7357
-3930184,Okay Yokuşlu,Turkey,Matěj Kovář,Off T,0,0.040461615,95.4,36.3,118.3,39.6,1.7,-0.4,18.08,0.2686,0.7314
 3930184,Arda Güler,Turkey,Jindřich Staněk,Off T,0,0.03921402,98.0,49.4,117.0,41.7,3.0,1.7,17.55,0.2895,0.7105
 3930184,Matěj Jurásek,Czech Republic,Fehmi Mert Günok,Blocked,0,0.026611561,98.5,28.7,118.7,39.3,1.3,-0.7,16.68,0.2661,0.7339
 3930184,Hakan Çalhanoğlu,Turkey,Jindřich Staněk,Off T,0,0.0105593875,98.6,58.7,118.6,41.4,1.4,1.4,12.2,0.2675,0.7325
 3930184,İsmail Yüksek,Turkey,Jindřich Staněk,Blocked,0,0.04587865,98.8,38.1,116.7,39.0,3.3,-1.0,21.21,0.2961,0.7039
 3930184,Adam Hložek,Czech Republic,Fehmi Mert Günok,Saved,0,0.03270364,99.0,48.6,117.4,41.9,2.6,1.9,18.61,0.2853,0.7147
-3930184,Barış Alper Yılmaz,Turkey,Matěj Kovář,Saved,0,0.103810854,99.1,45.5,118.5,40.8,1.5,0.8,20.34,0.2693,0.7307
 3930184,Lukáš Provod,Czech Republic,Fehmi Mert Günok,Saved,0,0.031836256,99.4,27.2,118.0,39.8,2.0,-0.2,16.07,0.2769,0.7231
 3930184,Kenan Yildiz,Turkey,Jindřich Staněk,Off T,0,0.039678648,99.6,29.5,117.7,39.6,2.3,-0.4,17.73,0.2818,0.7182
-3930184,Cenk Tosun,Turkey,Matěj Kovář,Goal,1,0.08598739,105.3,34.5,118.4,38.7,1.6,-1.3,27.05,0.2805,0.7195
 3930184,Kenan Yildiz,Turkey,Jindřich Staněk,Blocked,0,0.103175014,106.4,37.9,117.9,40.3,2.1,0.3,32.11,0.2957,0.7043
 3930184,Hakan Çalhanoğlu,Turkey,Jindřich Staněk,Goal,1,0.07116598,109.2,26.0,118.2,36.7,1.8,-3.3,16.24,0.3,0.7
 3930184,Kenan Yildiz,Turkey,Jindřich Staněk,Saved,0,0.12868324,109.4,42.3,117.9,40.6,2.1,0.6,39.84,0.3118,0.6882
 3930184,David Jurásek,Czech Republic,Fehmi Mert Günok,Saved,0,0.07308208,110.3,23.8,113.7,30.0,6.3,-10.0,12.84,0.6706,0.3294
 3930184,Kenan Yildiz,Turkey,Jindřich Staněk,Blocked,0,0.033986952,111.7,25.6,118.0,36.0,2.0,-4.0,14.31,0.3294,0.6706
-3930184,Kenan Yildiz,Turkey,Matěj Kovář,Blocked,0,0.1691182,111.8,34.4,117.7,37.8,2.3,-2.2,38.46,0.3475,0.6525
 3930184,Ondřej Lingr,Czech Republic,Fehmi Mert Günok,Wayward,0,0.10603972,111.9,32.5,118.7,37.7,1.3,-2.3,31.47,0.2978,0.7022
 3930184,Robin Hranáč,Czech Republic,Fehmi Mert Günok,Blocked,0,0.07917333,112.5,35.8,119.1,39.3,0.9,-0.7,46.03,0.2841,0.7159
 3930184,Kenan Yildiz,Turkey,Jindřich Staněk,Blocked,0,0.008673587,112.6,21.5,118.4,36.9,1.6,-3.1,8.83,0.319,0.681
@@ -666,28 +640,18 @@ match_id,player,team,gk_name,outcome,is_goal,xg,shot_x,shot_y,gk_x,gk_y,dist_off
 3938637,Tijjani Reijnders,Netherlands,Wojciech Szczęsny,Blocked,0,0.075011835,118.5,33.7,119.6,37.0,0.4,-3.0,24.83,0.3409,0.6591
 3938637,Jakub Piotrowski,Poland,Bart Verbruggen,Off T,0,0.021284437,119.0,32.0,119.1,35.7,0.9,-4.3,9.27,0.0,1.0
 3938638,Mykhailo Mudryk,Ukraine,Florin Constantin Niţă,Saved,0,0.007901854,82.6,30.8,114.2,39.6,5.8,-0.4,11.52,0.2959,0.7041
-3938638,Florinel Teodor Coman,Romania,Andriy Lunin,Saved,0,0.024980098,89.9,33.0,119.2,39.6,0.8,-0.4,14.38,0.2568,0.7432
-3938638,Răzvan Gabriel Marin,Romania,Andriy Lunin,Goal,1,0.019967925,93.2,49.7,119.6,39.8,0.4,-0.2,15.07,0.2538,0.7462
 3938638,Artem Dovbyk,Ukraine,Florin Constantin Niţă,Off T,0,0.041105933,93.3,39.3,113.9,39.6,6.1,-0.4,17.03,0.324,0.676
 3938638,Georgiy Sudakov,Ukraine,Florin Constantin Niţă,Saved,0,0.03194495,93.3,40.3,118.1,40.4,1.9,0.4,17.04,0.2692,0.7308
 3938638,Georgiy Sudakov,Ukraine,Florin Constantin Niţă,Off T,0,0.008008759,93.6,22.0,118.3,38.3,1.7,-1.7,11.87,0.2672,0.7328
 3938638,Georgiy Sudakov,Ukraine,Florin Constantin Niţă,Blocked,0,0.038833655,94.8,24.9,118.9,40.2,1.1,0.2,13.39,0.2614,0.7386
-3938638,Nicolae Claudiu Stanciu,Romania,Andriy Lunin,Goal,1,0.046266142,96.6,45.0,119.0,41.4,1.0,1.4,18.59,0.2612,0.7388
 3938638,Viktor Tsygankov,Ukraine,Florin Constantin Niţă,Blocked,0,0.046381094,97.1,35.4,116.6,39.1,3.4,-0.9,19.08,0.2936,0.7064
-3938638,Nicolae Claudiu Stanciu,Romania,Andriy Lunin,Blocked,0,0.07114553,98.3,43.3,119.1,39.2,0.9,-0.8,20.44,0.2608,0.7392
 3938638,Roman Yaremchuk,Ukraine,Florin Constantin Niţă,Blocked,0,0.05042256,98.6,43.1,117.3,40.4,2.7,0.4,20.76,0.2861,0.7139
 3938638,Georgiy Sudakov,Ukraine,Florin Constantin Niţă,Blocked,0,0.028104939,99.8,30.0,118.7,37.2,1.3,-2.8,18.18,0.2672,0.7328
-3938638,Dennis Man,Romania,Andriy Lunin,Blocked,0,0.021797933,101.2,58.1,118.9,42.8,1.1,2.8,12.74,0.2655,0.7345
 3938638,Viktor Tsygankov,Ukraine,Florin Constantin Niţă,Blocked,0,0.06380467,102.6,42.1,115.3,41.3,4.7,1.3,25.55,0.3425,0.6575
 3938638,Andriy Yarmolenko,Ukraine,Florin Constantin Niţă,Off T,0,0.05293641,103.5,46.3,119.3,41.7,0.7,1.7,24.04,0.2611,0.7389
-3938638,Florinel Teodor Coman,Romania,Andriy Lunin,Off T,0,0.03314492,104.0,26.5,118.7,37.6,1.3,-2.4,16.86,0.2721,0.7279
 3938638,Mykhailo Mudryk,Ukraine,Florin Constantin Niţă,Blocked,0,0.031143205,108.4,27.6,118.9,37.7,1.1,-2.3,18.82,0.2762,0.7238
 3938638,Mykhailo Mudryk,Ukraine,Florin Constantin Niţă,Off T,0,0.11517301,110.4,27.6,117.5,36.0,2.5,-4.0,18.47,0.338,0.662
-3938638,Andrei Florin Ratiu,Romania,Andriy Lunin,Saved,0,0.013371198,110.4,56.7,118.9,44.1,1.1,4.1,12.21,0.2824,0.7176
-3938638,Nicolae Claudiu Stanciu,Romania,Andriy Lunin,Off T,0,0.007156054,111.2,5.6,119.6,38.8,0.4,-1.2,3.24,0.2619,0.7381
 3938638,Roman Yaremchuk,Ukraine,Florin Constantin Niţă,Post,0,0.027714925,112.4,55.2,118.6,43.8,1.4,3.8,12.56,0.3065,0.6935
-3938638,Denis Mihai Drăguş,Romania,Andriy Lunin,Goal,1,0.8830415,116.3,41.2,119.1,44.2,0.9,4.2,91.68,0.0196,0.9804
-3938638,Nicolae Claudiu Stanciu,Romania,Andriy Lunin,Post,0,0.00018,120.1,0.8,117.9,39.0,2.1,-1.0,0.03,0.0,1.0
 3938639,Orkun Kökçü,Turkey,Giorgi Mamardashvili,Wayward,0,0.0030440427,52.0,38.1,110.6,39.6,9.4,-0.4,6.73,0.2901,0.7099
 3938639,Ferdi Erenay Kadıoğlu,Turkey,Giorgi Mamardashvili,Off T,0,0.004520179,73.2,39.2,118.5,39.5,1.5,-0.5,9.77,0.2583,0.7417
 3938639,Orkun Kökçü,Turkey,Giorgi Mamardashvili,Blocked,0,0.021431247,92.6,29.1,117.8,39.8,2.2,-0.2,14.4,0.2718,0.7282
@@ -811,33 +775,15 @@ match_id,player,team,gk_name,outcome,is_goal,xg,shot_x,shot_y,gk_x,gk_y,dist_off
 3938642,Ondřej Lingr,Czech Republic,Giorgi Mamardashvili,Post,0,0.16812286,115.1,44.1,118.8,41.3,1.2,1.3,57.66,0.3311,0.6689
 3938642,Ondřej Lingr,Czech Republic,Giorgi Mamardashvili,Blocked,0,0.02231607,115.5,52.2,118.3,44.2,1.7,4.2,13.23,0.4018,0.5982
 3938642,Patrik Schick,Czech Republic,Giorgi Mamardashvili,Goal,1,0.719015,117.7,36.5,119.5,40.0,0.5,0.0,85.22,0.3194,0.6806
-3938643,Aurélien Djani Tchouaméni,France,Łukasz Skorupski,Blocked,0,0.013516772,87.3,30.0,117.4,39.1,2.6,-0.9,12.78,0.2716,0.7284
 3938643,Robert Lewandowski,Poland,Mike Maignan,Wayward,0,0.017444821,87.5,38.4,116.5,39.3,3.5,-0.7,14.0,0.2802,0.7198
 3938643,Jakub Moder,Poland,Mike Maignan,Off T,0,0.016467048,89.7,27.9,117.8,39.7,2.2,-0.3,13.02,0.2696,0.7304
 3938643,Robert Lewandowski,Poland,Mike Maignan,Off T,0,0.023918275,92.6,31.8,116.4,38.6,3.6,-1.4,15.29,0.2878,0.7122
 3938643,Piotr Zieliński,Poland,Mike Maignan,Saved,0,0.02182334,93.9,38.9,116.6,39.9,3.4,-0.1,17.4,0.2874,0.7126
-3938643,Youssouf Fofana,France,Łukasz Skorupski,Blocked,0,0.023010036,94.4,28.8,117.2,38.8,2.8,-1.2,14.99,0.2807,0.7193
-3938643,Antoine Griezmann,France,Łukasz Skorupski,Blocked,0,0.04413893,95.3,45.7,117.4,40.9,2.6,0.9,17.5,0.2794,0.7206
 3938643,Kacper Urbanski,Poland,Mike Maignan,Blocked,0,0.027794229,95.5,32.7,118.7,39.8,1.3,-0.2,17.09,0.264,0.736
-3938643,Aurélien Djani Tchouaméni,France,Łukasz Skorupski,Blocked,0,0.050685827,99.1,41.7,118.4,40.6,1.6,0.6,21.54,0.2707,0.7293
-3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,Off T,0,0.03001934,100.0,24.9,117.5,38.4,2.5,-1.6,14.65,0.2857,0.7143
-3938643,N'Golo Kanté,France,Łukasz Skorupski,Blocked,0,0.06638347,100.2,42.3,118.5,41.8,1.5,1.8,22.56,0.2705,0.7295
-3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,Saved,0,0.044415563,100.9,29.8,118.0,38.4,2.0,-1.6,18.65,0.2792,0.7208
-3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,Saved,0,0.03354426,103.5,23.3,118.3,38.6,1.7,-1.4,13.86,0.2787,0.7213
 3938643,Sebastian Szymański,Poland,Mike Maignan,Blocked,0,0.054202277,104.2,25.1,115.7,35.5,4.3,-4.5,15.5,0.3435,0.6565
-3938643,Ousmane Dembélé,France,Łukasz Skorupski,Blocked,0,0.0069303666,105.4,60.0,118.4,43.0,1.6,3.0,11.07,0.2808,0.7192
 3938643,Kacper Urbanski,Poland,Mike Maignan,Saved,0,0.06955565,106.1,38.3,118.6,39.3,1.4,-0.7,31.69,0.278,0.722
-3938643,William Saliba,France,Łukasz Skorupski,Off T,0,0.046296313,107.3,39.0,119.3,40.4,0.7,0.4,34.78,0.2646,0.7354
-3938643,Olivier Giroud,France,Łukasz Skorupski,Blocked,0,0.102023974,107.7,41.7,119.1,41.5,0.9,1.5,35.46,0.2697,0.7303
 3938643,Robert Lewandowski,Poland,Mike Maignan,Off T,0,0.08196821,108.7,26.8,118.5,36.4,1.5,-3.6,17.54,0.2883,0.7117
 3938643,Robert Lewandowski,Poland,Mike Maignan,Off T,0,0.08242022,109.8,43.8,118.9,39.8,1.1,-0.2,38.53,0.2802,0.7198
-3938643,Olivier Giroud,France,Łukasz Skorupski,Blocked,0,0.054901406,110.2,38.3,118.9,41.1,1.1,1.1,43.39,0.2816,0.7184
-3938643,Ousmane Dembélé,France,Łukasz Skorupski,Saved,0,0.24532036,111.9,50.0,115.3,46.4,4.7,6.4,23.42,0.5956,0.4044
-3938643,Dayotchanculle Upamecano,France,Łukasz Skorupski,Off T,0,0.09202025,112.3,37.3,119.8,39.7,0.2,-0.3,50.61,0.2567,0.7433
-3938643,Theo Bernard François Hernández,France,Łukasz Skorupski,Saved,0,0.082832314,112.6,27.2,119.0,37.2,1.0,-2.8,16.29,0.2891,0.7109
-3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,Saved,0,0.118999206,115.6,29.2,117.8,33.9,2.2,-6.1,16.35,0.5,0.5
-3938643,Bradley Barcola,France,Łukasz Skorupski,Saved,0,0.019646157,116.6,27.4,119.1,36.1,0.9,-3.9,10.0,0.34,0.66
-3938643,Kylian Mbappé Lottin,France,Łukasz Skorupski,Saved,0,0.033283398,117.6,29.5,118.8,34.3,1.2,-5.7,10.87,0.5,0.5
 3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,Giorgi Mamardashvili,Saved,0,0.022706533,87.1,41.7,118.6,40.1,1.4,0.1,13.83,0.2611,0.7389
 3938644,João Maria Lobo Alves Palhinha Gonçalves,Portugal,Giorgi Mamardashvili,Saved,0,0.019303527,92.0,26.5,117.2,38.2,2.8,-1.8,13.26,0.2778,0.7222
 3938644,Nélson Cabral Semedo,Portugal,Giorgi Mamardashvili,Blocked,0,0.020204514,92.9,41.1,117.4,40.4,2.6,0.4,16.77,0.2765,0.7235

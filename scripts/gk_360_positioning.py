@@ -1,6 +1,6 @@
 """
 Step 9: Goalkeeper 360 positioning -- distance off the line and lateral offset per shot.
-Reads: StatsBomb API (event freeze frames, competition 55 / season 282)
+Reads: StatsBomb API (event freeze frames, competition 55 / season 282), data/processed/goalkeepers_clean.csv
 Writes: data/final/gk_360_positioning.csv, data/final/gk_360_positioning_summary.csv
 
 For each shot, the defending keeper's position is taken from the shot's own
@@ -9,6 +9,10 @@ shot_freeze_frame, filtered to position == "Goalkeeper" and teammate == False
 important: in rare situations (stoppage-time desperation, a keeper pushed up
 for a corner) the shooting team's own keeper is also visible in frame, and a
 naive "whichever keeper is tracked" lookup can pick the wrong one.
+
+Shots are filtered to the same qualifying-keeper population (matches_played
+>= 2) as the rest of data/final, so gk_name is joinable across every file
+without silently dropping rows for backup keepers who played one match.
 """
 import sys
 import pandas as pd
@@ -18,6 +22,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).resolve().parent.parent
+PROC_DIR = ROOT / "data" / "processed"
 FINAL_DIR = ROOT / "data" / "final"
 
 COMPETITION_ID = 55
@@ -98,6 +103,12 @@ def main():
     print(f"Euro 2024: {len(match_ids)} matches")
 
     df = build_shot_positioning(match_ids)
+
+    qualifying = set(pd.read_csv(PROC_DIR / "goalkeepers_clean.csv")["gk_name"])
+    n_before = len(df)
+    df = df[df["gk_name"].isin(qualifying)].copy()
+    print(f"\nFiltered to {len(qualifying)} qualifying keepers (matches_played >= 2): "
+          f"{n_before} -> {len(df)} shots ({n_before - len(df)} dropped)")
 
     per_shot = df[["match_id", "player", "team", "gk_name", "outcome", "is_goal", "xg",
                    "shot_x", "shot_y", "gk_x", "gk_y", "dist_off_line", "lateral_offset",
