@@ -1,7 +1,7 @@
 """
 Step 10: Angle-adjusted goalkeeper positioning -- goal-mouth coverage per shot.
-Reads: data/final/gk_360_positioning.csv (must run after Step 9)
-Writes: data/final/gk_360_angle_coverage.csv, data/final/gk_360_angle_coverage_summary.csv
+Reads: data/final/gk_360_positioning.csv, data/final/gk_360_positioning_summary.csv (must run after Step 9)
+Writes: data/final/gk_360_positioning.csv, data/final/gk_360_positioning_summary.csv (adds columns in place)
 
 Raw distance-off-line (Step 9) treats a keeper standing 3 yards off-line
 dead-center the same as one standing 3 yards off-line but badly angled.
@@ -9,6 +9,12 @@ This models the keeper's body as a BODY_WIDTH-yard-wide block and projects
 it from the shot location onto the goal line, measuring what fraction of
 the 8-yard goal mouth it actually shadows -- capturing both depth and
 lateral centering relative to the real shot angle.
+
+This step augments Step 9's output with new columns rather than writing a
+separate file: gk_360_positioning.csv already has match_id/shot_x/shot_y/
+gk_x/gk_y/dist_off_line/etc, and a second file duplicating those columns
+just to add 3 more (goal_coverage_pct, open_goal_pct, shot_angle_deg)
+would mean two files to keep in sync for the same 1251 shots.
 """
 import sys
 import numpy as np
@@ -50,46 +56,31 @@ def total_shot_angle(sx, sy):
     return np.degrees(np.arccos(cos_theta))
 
 
-def build_summary(df):
-    summary = df.groupby("gk_name").agg(
-        shots=("outcome", "count"),
-        goals_conceded=("is_goal", "sum"),
-        avg_goal_coverage_pct=("goal_coverage_pct", "mean"),
-        avg_open_goal_pct=("open_goal_pct", "mean"),
-        avg_shot_angle_deg=("shot_angle_deg", "mean"),
-    ).reset_index()
-    summary["avg_goal_coverage_pct"] = summary["avg_goal_coverage_pct"].round(4)
-    summary["avg_open_goal_pct"] = summary["avg_open_goal_pct"].round(4)
-    summary["avg_shot_angle_deg"] = summary["avg_shot_angle_deg"].round(2)
-    return summary.sort_values("avg_goal_coverage_pct", ascending=False).reset_index(drop=True)
-
-
 def main():
     positioning_path = FINAL_DIR / "gk_360_positioning.csv"
+    summary_path = FINAL_DIR / "gk_360_positioning_summary.csv"
+
     df = pd.read_csv(positioning_path)
     print(f"Loaded {len(df)} shots from {positioning_path.name}")
 
     df["goal_coverage_pct"] = df.apply(
         lambda r: goal_mouth_coverage(r["shot_x"], r["shot_y"], r["gk_x"], r["gk_y"]), axis=1
-    )
-    df["open_goal_pct"] = 1 - df["goal_coverage_pct"]
-    df["shot_angle_deg"] = df.apply(lambda r: total_shot_angle(r["shot_x"], r["shot_y"]), axis=1)
+    ).round(4)
+    df["open_goal_pct"] = (1 - df["goal_coverage_pct"]).round(4)
+    df["shot_angle_deg"] = df.apply(lambda r: total_shot_angle(r["shot_x"], r["shot_y"]), axis=1).round(2)
 
-    per_shot = df[["match_id", "player", "team", "gk_name", "outcome", "is_goal", "xg",
-                   "shot_x", "shot_y", "gk_x", "gk_y", "dist_off_line", "lateral_offset",
-                   "shot_angle_deg", "goal_coverage_pct", "open_goal_pct"]].copy()
-    per_shot["shot_angle_deg"] = per_shot["shot_angle_deg"].round(2)
-    per_shot["goal_coverage_pct"] = per_shot["goal_coverage_pct"].round(4)
-    per_shot["open_goal_pct"] = per_shot["open_goal_pct"].round(4)
+    df.to_csv(positioning_path, index=False, encoding="utf-8")
+    print(f"Updated: {positioning_path} (+goal_coverage_pct, +open_goal_pct, +shot_angle_deg)")
 
-    out_path = FINAL_DIR / "gk_360_angle_coverage.csv"
-    per_shot.to_csv(out_path, index=False, encoding="utf-8")
-    print(f"Saved: {out_path} ({len(per_shot)} shots)")
+    coverage_summary = df.groupby("gk_name").agg(
+        avg_goal_coverage_pct=("goal_coverage_pct", "mean"),
+        avg_open_goal_pct=("open_goal_pct", "mean"),
+        avg_shot_angle_deg=("shot_angle_deg", "mean"),
+    ).round({"avg_goal_coverage_pct": 4, "avg_open_goal_pct": 4, "avg_shot_angle_deg": 2}).reset_index()
 
-    summary = build_summary(df)
-    summary_path = FINAL_DIR / "gk_360_angle_coverage_summary.csv"
+    summary = pd.read_csv(summary_path).merge(coverage_summary, on="gk_name", how="left")
     summary.to_csv(summary_path, index=False, encoding="utf-8")
-    print(f"Saved: {summary_path} ({len(summary)} goalkeepers)")
+    print(f"Updated: {summary_path} (+avg_goal_coverage_pct, +avg_open_goal_pct, +avg_shot_angle_deg)")
 
     print(f"\nMean goal_coverage_pct: {df['goal_coverage_pct'].mean():.1%}")
     print("Done!")

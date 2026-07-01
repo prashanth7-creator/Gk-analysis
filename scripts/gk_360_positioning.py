@@ -13,6 +13,9 @@ naive "whichever keeper is tracked" lookup can pick the wrong one.
 Shots are filtered to the same qualifying-keeper population (matches_played
 >= 2) as the rest of data/final, so gk_name is joinable across every file
 without silently dropping rows for backup keepers who played one match.
+
+Step 10 (gk_360_angle_coverage.py) reads this step's output and adds
+columns to it in place -- it does not write a separate file.
 """
 import sys
 import pandas as pd

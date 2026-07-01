@@ -1,25 +1,25 @@
-gk_name,shots,goals_conceded,avg_dist_off_line,avg_abs_lateral_offset,extreme_position_shots
-Jan Oblak,62,2,1.56,1.52,0
-Yann Sommer,60,4,1.56,1.35,0
-Predrag Rajković,27,2,2.01,2.01,0
-Gianluigi Donnarumma,49,4,2.08,2.27,0
-Bart Verbruggen,64,5,2.09,1.82,0
-Dominik Livaković,38,6,2.11,1.69,0
-Angus Gunn,44,6,2.11,1.86,1
-Anatolii Trubin,26,1,2.16,1.92,0
-Unai Simón Mendibil,64,3,2.29,1.6,3
-Manuel Neuer,45,3,2.32,1.94,1
-Mike Maignan,50,2,2.35,1.98,0
-Martin Dúbravka,53,4,2.36,1.89,1
-Jordan Pickford,74,6,2.36,1.96,1
-Koen Casteels,57,1,2.37,1.79,1
-Kasper Schmeichel,42,3,2.37,2.25,1
-Wojciech Szczęsny,35,4,2.38,2.03,0
-Jindřich Staněk,37,2,2.41,2.06,0
-Thomas Strakosha,54,4,2.46,2.02,2
-Florin Constantin Niţă,70,6,2.46,1.91,1
-Fehmi Mert Günok,58,4,2.52,1.76,0
-Giorgi Mamardashvili,106,8,2.64,1.5,2
-Péter Gulácsi,38,5,2.78,2.05,1
-Diogo Meireles Costa,52,2,2.81,2.04,3
-Patrick Pentz,46,5,2.93,2.14,2
+gk_name,shots,goals_conceded,avg_dist_off_line,avg_abs_lateral_offset,extreme_position_shots,avg_goal_coverage_pct,avg_open_goal_pct,avg_shot_angle_deg
+Jan Oblak,62,2,1.56,1.52,0,0.2959,0.7041,28.56
+Yann Sommer,60,4,1.56,1.35,0,0.2885,0.7115,28.25
+Predrag Rajković,27,2,2.01,2.01,0,0.2621,0.7379,25.22
+Gianluigi Donnarumma,49,4,2.08,2.27,0,0.3086,0.6914,21.55
+Bart Verbruggen,64,5,2.09,1.82,0,0.2887,0.7113,24.51
+Dominik Livaković,38,6,2.11,1.69,0,0.3038,0.6962,27.74
+Angus Gunn,44,6,2.11,1.86,1,0.3036,0.6964,21.6
+Anatolii Trubin,26,1,2.16,1.92,0,0.2876,0.7124,19.44
+Unai Simón Mendibil,64,3,2.29,1.6,3,0.2924,0.7076,28.22
+Manuel Neuer,45,3,2.32,1.94,1,0.3255,0.6745,23.92
+Mike Maignan,50,2,2.35,1.98,0,0.3358,0.6642,23.07
+Martin Dúbravka,53,4,2.36,1.89,1,0.2874,0.7126,27.16
+Jordan Pickford,74,6,2.36,1.96,1,0.2958,0.7042,24.83
+Koen Casteels,57,1,2.37,1.79,1,0.3039,0.6961,22.12
+Kasper Schmeichel,42,3,2.37,2.25,1,0.3431,0.6569,24.98
+Wojciech Szczęsny,35,4,2.38,2.03,0,0.297,0.703,23.98
+Jindřich Staněk,37,2,2.41,2.06,0,0.3064,0.6936,22.32
+Thomas Strakosha,54,4,2.46,2.02,2,0.3206,0.6794,28.76
+Florin Constantin Niţă,70,6,2.46,1.91,1,0.3046,0.6954,24.17
+Fehmi Mert Günok,58,4,2.52,1.76,0,0.3237,0.6763,29.79
+Giorgi Mamardashvili,106,8,2.64,1.5,2,0.312,0.688,26.46
+Péter Gulácsi,38,5,2.78,2.05,1,0.3335,0.6665,23.55
+Diogo Meireles Costa,52,2,2.81,2.04,3,0.3093,0.6907,19.26
+Patrick Pentz,46,5,2.93,2.14,2,0.2991,0.7009,29.14
