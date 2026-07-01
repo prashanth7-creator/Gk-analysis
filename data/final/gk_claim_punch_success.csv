@@ -1,0 +1,25 @@
+gk_name,matches_played,claims_total,claims_success,claim_success_rate,punches_total,punches_safe,punches_contact,punch_success_rate,punch_contact_rate
+Jordan Pickford,7,4,4,1.0,5,3,4,0.6,0.8
+Bart Verbruggen,6,4,4,1.0,4,2,3,0.5,0.75
+Mike Maignan,6,3,3,1.0,4,4,4,1.0,1.0
+Unai Simón Mendibil,6,6,6,1.0,3,2,3,0.6667,1.0
+Manuel Neuer,5,3,2,0.6667,0,0,0,,
+Diogo Meireles Costa,5,0,0,,2,0,2,0.0,1.0
+Yann Sommer,5,5,5,1.0,3,2,3,0.6667,1.0
+Florin Constantin Niţă,4,4,4,1.0,4,4,4,1.0,1.0
+Kasper Schmeichel,4,1,1,1.0,1,0,1,0.0,1.0
+Martin Dúbravka,4,4,3,0.75,8,8,8,1.0,1.0
+Patrick Pentz,4,4,3,0.75,1,1,1,1.0,1.0
+Gianluigi Donnarumma,4,1,1,1.0,2,1,2,0.5,1.0
+Fehmi Mert Günok,4,5,4,0.8,3,3,3,1.0,1.0
+Koen Casteels,4,3,3,1.0,0,0,0,,
+Jan Oblak,4,3,2,0.6667,5,3,4,0.6,0.8
+Giorgi Mamardashvili,4,7,7,1.0,5,2,3,0.4,0.6
+Péter Gulácsi,3,1,1,1.0,4,3,4,0.75,1.0
+Dominik Livaković,3,0,0,,2,2,2,1.0,1.0
+Angus Gunn,3,2,2,1.0,1,1,1,1.0,1.0
+Jindřich Staněk,3,1,1,1.0,2,1,2,0.5,1.0
+Thomas Strakosha,3,2,2,1.0,4,2,4,0.5,1.0
+Predrag Rajković,3,4,4,1.0,4,4,4,1.0,1.0
+Anatolii Trubin,2,0,0,,1,0,0,0.0,0.0
+Wojciech Szczęsny,2,0,0,,2,1,2,0.5,1.0
