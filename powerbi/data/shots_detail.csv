@@ -1338,4 +1338,4 @@ match_id,shooter,shooting_team,goalkeeper,xg,outcome,shot_x,shot_y,minute,period
 3930158,Leroy Sané,Germany,Angus Gunn,0.0264,Saved,98.9,55.4,82,2,0,1,1,26.12221276997796,Outside box
 3930158,Leroy Sané,Germany,Angus Gunn,0.0308,Off T,92.6,43.3,85,2,0,0,0,27.598007174432002,Outside box
 3930158,Scott McKenna,Scotland,Manuel Neuer,0.0605,Wayward,108.8,50.0,86,2,0,0,0,15.01465950329877,Penalty area close
-3930158,Emre Can,Germany,Angus Gunn,0.05,Goal,98.5,39.4,92,2,1,0,1,21.508370463612533,Penalty area edge
+3930158,Emre Can,Germany,Angus Gunn ,0.05,Goal,98.5,39.4,92,2,1,0,1,21.508370463612533,Penalty area edge

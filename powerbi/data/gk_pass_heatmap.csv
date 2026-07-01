@@ -1,61 +1,588 @@
 gk_name,zone_x,zone_y,pass_count,avg_length,complete_count,zone_label,accuracy
+Altay Bayındır,1,1,0,,0,Own 6yd Left,0.0
+Altay Bayındır,1,2,0,,0,Own 6yd Left,0.0
 Altay Bayındır,1,3,1,11.1,1,Own 6yd Left-Center,100.0
+Altay Bayındır,1,4,0,,0,Own 6yd Center,0.0
 Altay Bayındır,1,5,1,4.8,1,Own 6yd Center,100.0
+Altay Bayındır,1,6,0,,0,Own 6yd Right-Center,0.0
+Altay Bayındır,1,7,0,,0,Own 6yd Right,0.0
+Altay Bayındır,1,8,0,,0,Own 6yd Right,0.0
+Altay Bayındır,2,1,0,,0,Own Box Left,0.0
+Altay Bayındır,2,2,0,,0,Own Box Left,0.0
+Altay Bayındır,2,3,0,,0,Own Box Left-Center,0.0
+Altay Bayındır,2,4,0,,0,Own Box Center,0.0
+Altay Bayındır,2,5,0,,0,Own Box Center,0.0
+Altay Bayındır,2,6,0,,0,Own Box Right-Center,0.0
+Altay Bayındır,2,7,0,,0,Own Box Right,0.0
+Altay Bayındır,2,8,0,,0,Own Box Right,0.0
+Altay Bayındır,3,1,0,,0,Own Def 3rd Left,0.0
+Altay Bayındır,3,2,0,,0,Own Def 3rd Left,0.0
+Altay Bayındır,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Altay Bayındır,3,4,0,,0,Own Def 3rd Center,0.0
+Altay Bayındır,3,5,0,,0,Own Def 3rd Center,0.0
+Altay Bayındır,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Altay Bayındır,3,7,0,,0,Own Def 3rd Right,0.0
+Altay Bayındır,3,8,0,,0,Own Def 3rd Right,0.0
+Altay Bayındır,4,1,0,,0,Own Def 3rd Left,0.0
+Altay Bayındır,4,2,0,,0,Own Def 3rd Left,0.0
 Altay Bayındır,4,3,1,26.2,1,Own Def 3rd Left-Center,100.0
+Altay Bayındır,4,4,0,,0,Own Def 3rd Center,0.0
+Altay Bayındır,4,5,0,,0,Own Def 3rd Center,0.0
+Altay Bayındır,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Altay Bayındır,4,7,0,,0,Own Def 3rd Right,0.0
+Altay Bayındır,4,8,0,,0,Own Def 3rd Right,0.0
+Altay Bayındır,5,1,0,,0,Own Mid 3rd Left,0.0
+Altay Bayındır,5,2,0,,0,Own Mid 3rd Left,0.0
+Altay Bayındır,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Altay Bayındır,5,4,0,,0,Own Mid 3rd Center,0.0
+Altay Bayındır,5,5,0,,0,Own Mid 3rd Center,0.0
+Altay Bayındır,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Altay Bayındır,5,7,0,,0,Own Mid 3rd Right,0.0
+Altay Bayındır,5,8,0,,0,Own Mid 3rd Right,0.0
+Altay Bayındır,6,1,0,,0,Own Mid 3rd Left,0.0
+Altay Bayındır,6,2,0,,0,Own Mid 3rd Left,0.0
+Altay Bayındır,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Altay Bayındır,6,4,0,,0,Own Mid 3rd Center,0.0
+Altay Bayındır,6,5,0,,0,Own Mid 3rd Center,0.0
+Altay Bayındır,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Altay Bayındır,6,7,0,,0,Own Mid 3rd Right,0.0
+Altay Bayındır,6,8,0,,0,Own Mid 3rd Right,0.0
+Altay Bayındır,7,1,0,,0,Opp Mid 3rd Left,0.0
+Altay Bayındır,7,2,0,,0,Opp Mid 3rd Left,0.0
+Altay Bayındır,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Altay Bayındır,7,4,0,,0,Opp Mid 3rd Center,0.0
+Altay Bayındır,7,5,0,,0,Opp Mid 3rd Center,0.0
+Altay Bayındır,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Altay Bayındır,7,7,0,,0,Opp Mid 3rd Right,0.0
+Altay Bayındır,7,8,0,,0,Opp Mid 3rd Right,0.0
+Altay Bayındır,8,1,0,,0,Opp Mid 3rd Left,0.0
+Altay Bayındır,8,2,0,,0,Opp Mid 3rd Left,0.0
+Altay Bayındır,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Altay Bayındır,8,4,0,,0,Opp Mid 3rd Center,0.0
+Altay Bayındır,8,5,0,,0,Opp Mid 3rd Center,0.0
+Altay Bayındır,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Altay Bayındır,8,7,0,,0,Opp Mid 3rd Right,0.0
+Altay Bayındır,8,8,0,,0,Opp Mid 3rd Right,0.0
+Altay Bayındır,9,1,0,,0,Opp Att 3rd Left,0.0
+Altay Bayındır,9,2,0,,0,Opp Att 3rd Left,0.0
+Altay Bayındır,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Altay Bayındır,9,4,0,,0,Opp Att 3rd Center,0.0
+Altay Bayındır,9,5,0,,0,Opp Att 3rd Center,0.0
+Altay Bayındır,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Altay Bayındır,9,7,0,,0,Opp Att 3rd Right,0.0
+Altay Bayındır,9,8,0,,0,Opp Att 3rd Right,0.0
+Altay Bayındır,10,1,0,,0,Opp Att 3rd Left,0.0
+Altay Bayındır,10,2,0,,0,Opp Att 3rd Left,0.0
+Altay Bayındır,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Altay Bayındır,10,4,0,,0,Opp Att 3rd Center,0.0
+Altay Bayındır,10,5,0,,0,Opp Att 3rd Center,0.0
+Altay Bayındır,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Altay Bayındır,10,7,0,,0,Opp Att 3rd Right,0.0
+Altay Bayındır,10,8,0,,0,Opp Att 3rd Right,0.0
+Altay Bayındır,11,1,0,,0,Opp Box Left,0.0
+Altay Bayındır,11,2,0,,0,Opp Box Left,0.0
+Altay Bayındır,11,3,0,,0,Opp Box Left-Center,0.0
+Altay Bayındır,11,4,0,,0,Opp Box Center,0.0
+Altay Bayındır,11,5,0,,0,Opp Box Center,0.0
+Altay Bayındır,11,6,0,,0,Opp Box Right-Center,0.0
+Altay Bayındır,11,7,0,,0,Opp Box Right,0.0
+Altay Bayındır,11,8,0,,0,Opp Box Right,0.0
+Altay Bayındır,12,1,0,,0,Opp 6yd Left,0.0
+Altay Bayındır,12,2,0,,0,Opp 6yd Left,0.0
+Altay Bayındır,12,3,0,,0,Opp 6yd Left-Center,0.0
+Altay Bayındır,12,4,0,,0,Opp 6yd Center,0.0
+Altay Bayındır,12,5,0,,0,Opp 6yd Center,0.0
+Altay Bayındır,12,6,0,,0,Opp 6yd Right-Center,0.0
+Altay Bayındır,12,7,0,,0,Opp 6yd Right,0.0
+Altay Bayındır,12,8,0,,0,Opp 6yd Right,0.0
+Anatolii Trubin,1,1,0,,0,Own 6yd Left,0.0
+Anatolii Trubin,1,2,0,,0,Own 6yd Left,0.0
+Anatolii Trubin,1,3,0,,0,Own 6yd Left-Center,0.0
+Anatolii Trubin,1,4,0,,0,Own 6yd Center,0.0
+Anatolii Trubin,1,5,0,,0,Own 6yd Center,0.0
+Anatolii Trubin,1,6,0,,0,Own 6yd Right-Center,0.0
+Anatolii Trubin,1,7,0,,0,Own 6yd Right,0.0
+Anatolii Trubin,1,8,0,,0,Own 6yd Right,0.0
+Anatolii Trubin,2,1,0,,0,Own Box Left,0.0
 Anatolii Trubin,2,2,1,26.1,1,Own Box Left,100.0
+Anatolii Trubin,2,3,0,,0,Own Box Left-Center,0.0
 Anatolii Trubin,2,4,1,14.4,1,Own Box Center,100.0
+Anatolii Trubin,2,5,0,,0,Own Box Center,0.0
+Anatolii Trubin,2,6,0,,0,Own Box Right-Center,0.0
+Anatolii Trubin,2,7,0,,0,Own Box Right,0.0
+Anatolii Trubin,2,8,0,,0,Own Box Right,0.0
+Anatolii Trubin,3,1,0,,0,Own Def 3rd Left,0.0
 Anatolii Trubin,3,2,1,31.2,1,Own Def 3rd Left,100.0
+Anatolii Trubin,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Anatolii Trubin,3,4,0,,0,Own Def 3rd Center,0.0
+Anatolii Trubin,3,5,0,,0,Own Def 3rd Center,0.0
+Anatolii Trubin,3,6,0,,0,Own Def 3rd Right-Center,0.0
 Anatolii Trubin,3,7,1,20.0,1,Own Def 3rd Right,100.0
+Anatolii Trubin,3,8,0,,0,Own Def 3rd Right,0.0
 Anatolii Trubin,4,1,1,42.6,1,Own Def 3rd Left,100.0
+Anatolii Trubin,4,2,0,,0,Own Def 3rd Left,0.0
 Anatolii Trubin,4,3,1,35.6,1,Own Def 3rd Left-Center,100.0
+Anatolii Trubin,4,4,0,,0,Own Def 3rd Center,0.0
+Anatolii Trubin,4,5,0,,0,Own Def 3rd Center,0.0
+Anatolii Trubin,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Anatolii Trubin,4,7,0,,0,Own Def 3rd Right,0.0
+Anatolii Trubin,4,8,0,,0,Own Def 3rd Right,0.0
+Anatolii Trubin,5,1,0,,0,Own Mid 3rd Left,0.0
+Anatolii Trubin,5,2,0,,0,Own Mid 3rd Left,0.0
 Anatolii Trubin,5,3,1,40.0,1,Own Mid 3rd Left-Center,100.0
+Anatolii Trubin,5,4,0,,0,Own Mid 3rd Center,0.0
+Anatolii Trubin,5,5,0,,0,Own Mid 3rd Center,0.0
+Anatolii Trubin,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Anatolii Trubin,5,7,0,,0,Own Mid 3rd Right,0.0
+Anatolii Trubin,5,8,0,,0,Own Mid 3rd Right,0.0
+Anatolii Trubin,6,1,0,,0,Own Mid 3rd Left,0.0
+Anatolii Trubin,6,2,0,,0,Own Mid 3rd Left,0.0
+Anatolii Trubin,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Anatolii Trubin,6,4,0,,0,Own Mid 3rd Center,0.0
+Anatolii Trubin,6,5,0,,0,Own Mid 3rd Center,0.0
+Anatolii Trubin,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Anatolii Trubin,6,7,0,,0,Own Mid 3rd Right,0.0
+Anatolii Trubin,6,8,0,,0,Own Mid 3rd Right,0.0
+Anatolii Trubin,7,1,0,,0,Opp Mid 3rd Left,0.0
+Anatolii Trubin,7,2,0,,0,Opp Mid 3rd Left,0.0
+Anatolii Trubin,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Anatolii Trubin,7,4,0,,0,Opp Mid 3rd Center,0.0
 Anatolii Trubin,7,5,1,64.9,0,Opp Mid 3rd Center,0.0
+Anatolii Trubin,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Anatolii Trubin,7,7,1,64.9,0,Opp Mid 3rd Right,0.0
+Anatolii Trubin,7,8,0,,0,Opp Mid 3rd Right,0.0
+Anatolii Trubin,8,1,0,,0,Opp Mid 3rd Left,0.0
+Anatolii Trubin,8,2,0,,0,Opp Mid 3rd Left,0.0
+Anatolii Trubin,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
 Anatolii Trubin,8,4,1,67.0,1,Opp Mid 3rd Center,100.0
+Anatolii Trubin,8,5,0,,0,Opp Mid 3rd Center,0.0
 Anatolii Trubin,8,6,2,67.4,0,Opp Mid 3rd Right-Center,0.0
+Anatolii Trubin,8,7,0,,0,Opp Mid 3rd Right,0.0
 Anatolii Trubin,8,8,1,71.8,1,Opp Mid 3rd Right,100.0
+Anatolii Trubin,9,1,0,,0,Opp Att 3rd Left,0.0
+Anatolii Trubin,9,2,0,,0,Opp Att 3rd Left,0.0
+Anatolii Trubin,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Anatolii Trubin,9,4,0,,0,Opp Att 3rd Center,0.0
+Anatolii Trubin,9,5,0,,0,Opp Att 3rd Center,0.0
+Anatolii Trubin,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Anatolii Trubin,9,7,0,,0,Opp Att 3rd Right,0.0
+Anatolii Trubin,9,8,0,,0,Opp Att 3rd Right,0.0
+Anatolii Trubin,10,1,0,,0,Opp Att 3rd Left,0.0
+Anatolii Trubin,10,2,0,,0,Opp Att 3rd Left,0.0
+Anatolii Trubin,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Anatolii Trubin,10,4,0,,0,Opp Att 3rd Center,0.0
 Anatolii Trubin,10,5,1,86.3,0,Opp Att 3rd Center,0.0
+Anatolii Trubin,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Anatolii Trubin,10,7,0,,0,Opp Att 3rd Right,0.0
+Anatolii Trubin,10,8,0,,0,Opp Att 3rd Right,0.0
+Anatolii Trubin,11,1,0,,0,Opp Box Left,0.0
+Anatolii Trubin,11,2,0,,0,Opp Box Left,0.0
+Anatolii Trubin,11,3,0,,0,Opp Box Left-Center,0.0
+Anatolii Trubin,11,4,0,,0,Opp Box Center,0.0
+Anatolii Trubin,11,5,0,,0,Opp Box Center,0.0
+Anatolii Trubin,11,6,0,,0,Opp Box Right-Center,0.0
+Anatolii Trubin,11,7,0,,0,Opp Box Right,0.0
+Anatolii Trubin,11,8,0,,0,Opp Box Right,0.0
+Anatolii Trubin,12,1,0,,0,Opp 6yd Left,0.0
+Anatolii Trubin,12,2,0,,0,Opp 6yd Left,0.0
+Anatolii Trubin,12,3,0,,0,Opp 6yd Left-Center,0.0
+Anatolii Trubin,12,4,0,,0,Opp 6yd Center,0.0
+Anatolii Trubin,12,5,0,,0,Opp 6yd Center,0.0
+Anatolii Trubin,12,6,0,,0,Opp 6yd Right-Center,0.0
+Anatolii Trubin,12,7,0,,0,Opp 6yd Right,0.0
+Anatolii Trubin,12,8,0,,0,Opp 6yd Right,0.0
+Andriy Lunin,1,1,0,,0,Own 6yd Left,0.0
+Andriy Lunin,1,2,0,,0,Own 6yd Left,0.0
+Andriy Lunin,1,3,0,,0,Own 6yd Left-Center,0.0
+Andriy Lunin,1,4,0,,0,Own 6yd Center,0.0
+Andriy Lunin,1,5,0,,0,Own 6yd Center,0.0
 Andriy Lunin,1,6,1,14.5,1,Own 6yd Right-Center,100.0
+Andriy Lunin,1,7,0,,0,Own 6yd Right,0.0
+Andriy Lunin,1,8,0,,0,Own 6yd Right,0.0
+Andriy Lunin,2,1,0,,0,Own Box Left,0.0
 Andriy Lunin,2,2,1,24.8,1,Own Box Left,100.0
+Andriy Lunin,2,3,0,,0,Own Box Left-Center,0.0
+Andriy Lunin,2,4,0,,0,Own Box Center,0.0
+Andriy Lunin,2,5,0,,0,Own Box Center,0.0
 Andriy Lunin,2,6,1,19.7,1,Own Box Right-Center,100.0
+Andriy Lunin,2,7,0,,0,Own Box Right,0.0
+Andriy Lunin,2,8,0,,0,Own Box Right,0.0
+Andriy Lunin,3,1,0,,0,Own Def 3rd Left,0.0
+Andriy Lunin,3,2,0,,0,Own Def 3rd Left,0.0
+Andriy Lunin,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Andriy Lunin,3,4,0,,0,Own Def 3rd Center,0.0
+Andriy Lunin,3,5,0,,0,Own Def 3rd Center,0.0
 Andriy Lunin,3,6,1,23.1,1,Own Def 3rd Right-Center,100.0
+Andriy Lunin,3,7,0,,0,Own Def 3rd Right,0.0
+Andriy Lunin,3,8,0,,0,Own Def 3rd Right,0.0
+Andriy Lunin,4,1,0,,0,Own Def 3rd Left,0.0
+Andriy Lunin,4,2,0,,0,Own Def 3rd Left,0.0
+Andriy Lunin,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Andriy Lunin,4,4,0,,0,Own Def 3rd Center,0.0
+Andriy Lunin,4,5,0,,0,Own Def 3rd Center,0.0
+Andriy Lunin,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Andriy Lunin,4,7,0,,0,Own Def 3rd Right,0.0
+Andriy Lunin,4,8,0,,0,Own Def 3rd Right,0.0
+Andriy Lunin,5,1,0,,0,Own Mid 3rd Left,0.0
+Andriy Lunin,5,2,0,,0,Own Mid 3rd Left,0.0
+Andriy Lunin,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Andriy Lunin,5,4,0,,0,Own Mid 3rd Center,0.0
+Andriy Lunin,5,5,0,,0,Own Mid 3rd Center,0.0
+Andriy Lunin,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Andriy Lunin,5,7,0,,0,Own Mid 3rd Right,0.0
+Andriy Lunin,5,8,0,,0,Own Mid 3rd Right,0.0
+Andriy Lunin,6,1,0,,0,Own Mid 3rd Left,0.0
+Andriy Lunin,6,2,0,,0,Own Mid 3rd Left,0.0
+Andriy Lunin,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Andriy Lunin,6,4,0,,0,Own Mid 3rd Center,0.0
+Andriy Lunin,6,5,0,,0,Own Mid 3rd Center,0.0
+Andriy Lunin,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Andriy Lunin,6,7,0,,0,Own Mid 3rd Right,0.0
+Andriy Lunin,6,8,0,,0,Own Mid 3rd Right,0.0
+Andriy Lunin,7,1,0,,0,Opp Mid 3rd Left,0.0
+Andriy Lunin,7,2,0,,0,Opp Mid 3rd Left,0.0
+Andriy Lunin,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Andriy Lunin,7,4,0,,0,Opp Mid 3rd Center,0.0
+Andriy Lunin,7,5,0,,0,Opp Mid 3rd Center,0.0
+Andriy Lunin,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Andriy Lunin,7,7,0,,0,Opp Mid 3rd Right,0.0
+Andriy Lunin,7,8,0,,0,Opp Mid 3rd Right,0.0
+Andriy Lunin,8,1,0,,0,Opp Mid 3rd Left,0.0
+Andriy Lunin,8,2,0,,0,Opp Mid 3rd Left,0.0
+Andriy Lunin,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Andriy Lunin,8,4,0,,0,Opp Mid 3rd Center,0.0
+Andriy Lunin,8,5,0,,0,Opp Mid 3rd Center,0.0
+Andriy Lunin,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Andriy Lunin,8,7,0,,0,Opp Mid 3rd Right,0.0
+Andriy Lunin,8,8,0,,0,Opp Mid 3rd Right,0.0
+Andriy Lunin,9,1,0,,0,Opp Att 3rd Left,0.0
+Andriy Lunin,9,2,0,,0,Opp Att 3rd Left,0.0
+Andriy Lunin,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Andriy Lunin,9,4,0,,0,Opp Att 3rd Center,0.0
+Andriy Lunin,9,5,0,,0,Opp Att 3rd Center,0.0
+Andriy Lunin,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Andriy Lunin,9,7,0,,0,Opp Att 3rd Right,0.0
+Andriy Lunin,9,8,0,,0,Opp Att 3rd Right,0.0
+Andriy Lunin,10,1,0,,0,Opp Att 3rd Left,0.0
+Andriy Lunin,10,2,0,,0,Opp Att 3rd Left,0.0
+Andriy Lunin,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Andriy Lunin,10,4,0,,0,Opp Att 3rd Center,0.0
+Andriy Lunin,10,5,0,,0,Opp Att 3rd Center,0.0
+Andriy Lunin,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Andriy Lunin,10,7,0,,0,Opp Att 3rd Right,0.0
+Andriy Lunin,10,8,0,,0,Opp Att 3rd Right,0.0
+Andriy Lunin,11,1,0,,0,Opp Box Left,0.0
+Andriy Lunin,11,2,0,,0,Opp Box Left,0.0
+Andriy Lunin,11,3,0,,0,Opp Box Left-Center,0.0
+Andriy Lunin,11,4,0,,0,Opp Box Center,0.0
+Andriy Lunin,11,5,0,,0,Opp Box Center,0.0
+Andriy Lunin,11,6,0,,0,Opp Box Right-Center,0.0
+Andriy Lunin,11,7,0,,0,Opp Box Right,0.0
+Andriy Lunin,11,8,0,,0,Opp Box Right,0.0
+Andriy Lunin,12,1,0,,0,Opp 6yd Left,0.0
+Andriy Lunin,12,2,0,,0,Opp 6yd Left,0.0
+Andriy Lunin,12,3,0,,0,Opp 6yd Left-Center,0.0
+Andriy Lunin,12,4,0,,0,Opp 6yd Center,0.0
+Andriy Lunin,12,5,0,,0,Opp 6yd Center,0.0
+Andriy Lunin,12,6,0,,0,Opp 6yd Right-Center,0.0
+Andriy Lunin,12,7,0,,0,Opp 6yd Right,0.0
+Andriy Lunin,12,8,0,,0,Opp 6yd Right,0.0
+Angus Gunn,1,1,0,,0,Own 6yd Left,0.0
+Angus Gunn,1,2,0,,0,Own 6yd Left,0.0
+Angus Gunn,1,3,0,,0,Own 6yd Left-Center,0.0
+Angus Gunn,1,4,0,,0,Own 6yd Center,0.0
+Angus Gunn,1,5,0,,0,Own 6yd Center,0.0
+Angus Gunn,1,6,0,,0,Own 6yd Right-Center,0.0
+Angus Gunn,1,7,0,,0,Own 6yd Right,0.0
+Angus Gunn,1,8,0,,0,Own 6yd Right,0.0
+Angus Gunn,2,1,0,,0,Own Box Left,0.0
+Angus Gunn,2,2,0,,0,Own Box Left,0.0
 Angus Gunn,2,3,1,19.6,1,Own Box Left-Center,100.0
+Angus Gunn,2,4,0,,0,Own Box Center,0.0
 Angus Gunn,2,5,1,8.4,1,Own Box Center,100.0
+Angus Gunn,2,6,0,,0,Own Box Right-Center,0.0
+Angus Gunn,2,7,0,,0,Own Box Right,0.0
+Angus Gunn,2,8,0,,0,Own Box Right,0.0
+Angus Gunn,3,1,0,,0,Own Def 3rd Left,0.0
+Angus Gunn,3,2,0,,0,Own Def 3rd Left,0.0
+Angus Gunn,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Angus Gunn,3,4,0,,0,Own Def 3rd Center,0.0
+Angus Gunn,3,5,0,,0,Own Def 3rd Center,0.0
+Angus Gunn,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Angus Gunn,3,7,0,,0,Own Def 3rd Right,0.0
+Angus Gunn,3,8,0,,0,Own Def 3rd Right,0.0
+Angus Gunn,4,1,0,,0,Own Def 3rd Left,0.0
+Angus Gunn,4,2,0,,0,Own Def 3rd Left,0.0
+Angus Gunn,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Angus Gunn,4,4,0,,0,Own Def 3rd Center,0.0
+Angus Gunn,4,5,0,,0,Own Def 3rd Center,0.0
+Angus Gunn,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Angus Gunn,4,7,0,,0,Own Def 3rd Right,0.0
+Angus Gunn,4,8,0,,0,Own Def 3rd Right,0.0
+Angus Gunn,5,1,0,,0,Own Mid 3rd Left,0.0
+Angus Gunn,5,2,0,,0,Own Mid 3rd Left,0.0
+Angus Gunn,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Angus Gunn,5,4,0,,0,Own Mid 3rd Center,0.0
+Angus Gunn,5,5,0,,0,Own Mid 3rd Center,0.0
+Angus Gunn,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Angus Gunn,5,7,0,,0,Own Mid 3rd Right,0.0
+Angus Gunn,5,8,0,,0,Own Mid 3rd Right,0.0
+Angus Gunn,6,1,0,,0,Own Mid 3rd Left,0.0
+Angus Gunn,6,2,0,,0,Own Mid 3rd Left,0.0
+Angus Gunn,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Angus Gunn,6,4,0,,0,Own Mid 3rd Center,0.0
+Angus Gunn,6,5,0,,0,Own Mid 3rd Center,0.0
+Angus Gunn,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Angus Gunn,6,7,0,,0,Own Mid 3rd Right,0.0
+Angus Gunn,6,8,0,,0,Own Mid 3rd Right,0.0
+Angus Gunn,7,1,0,,0,Opp Mid 3rd Left,0.0
+Angus Gunn,7,2,0,,0,Opp Mid 3rd Left,0.0
+Angus Gunn,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Angus Gunn,7,4,0,,0,Opp Mid 3rd Center,0.0
+Angus Gunn,7,5,0,,0,Opp Mid 3rd Center,0.0
 Angus Gunn,7,6,1,63.2,1,Opp Mid 3rd Right-Center,100.0
+Angus Gunn,7,7,0,,0,Opp Mid 3rd Right,0.0
+Angus Gunn,7,8,0,,0,Opp Mid 3rd Right,0.0
 Angus Gunn,8,1,2,71.9,2,Opp Mid 3rd Left,100.0
 Angus Gunn,8,2,3,72.2,1,Opp Mid 3rd Left,33.3
+Angus Gunn,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Angus Gunn,8,4,0,,0,Opp Mid 3rd Center,0.0
+Angus Gunn,8,5,0,,0,Opp Mid 3rd Center,0.0
 Angus Gunn,8,6,1,68.1,0,Opp Mid 3rd Right-Center,0.0
 Angus Gunn,8,7,4,69.4,1,Opp Mid 3rd Right,25.0
 Angus Gunn,8,8,3,72.6,1,Opp Mid 3rd Right,33.3
+Angus Gunn,9,1,0,,0,Opp Att 3rd Left,0.0
+Angus Gunn,9,2,0,,0,Opp Att 3rd Left,0.0
+Angus Gunn,9,3,0,,0,Opp Att 3rd Left-Center,0.0
 Angus Gunn,9,4,1,74.4,0,Opp Att 3rd Center,0.0
+Angus Gunn,9,5,0,,0,Opp Att 3rd Center,0.0
 Angus Gunn,9,6,1,79.7,0,Opp Att 3rd Right-Center,0.0
+Angus Gunn,9,7,0,,0,Opp Att 3rd Right,0.0
 Angus Gunn,9,8,2,82.9,1,Opp Att 3rd Right,50.0
+Angus Gunn,10,1,0,,0,Opp Att 3rd Left,0.0
+Angus Gunn,10,2,0,,0,Opp Att 3rd Left,0.0
+Angus Gunn,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Angus Gunn,10,4,0,,0,Opp Att 3rd Center,0.0
 Angus Gunn,10,5,1,88.5,0,Opp Att 3rd Center,0.0
+Angus Gunn,10,6,0,,0,Opp Att 3rd Right-Center,0.0
 Angus Gunn,10,7,1,86.6,0,Opp Att 3rd Right,0.0
+Angus Gunn,10,8,0,,0,Opp Att 3rd Right,0.0
+Angus Gunn,11,1,0,,0,Opp Box Left,0.0
+Angus Gunn,11,2,0,,0,Opp Box Left,0.0
+Angus Gunn,11,3,0,,0,Opp Box Left-Center,0.0
+Angus Gunn,11,4,0,,0,Opp Box Center,0.0
+Angus Gunn,11,5,0,,0,Opp Box Center,0.0
+Angus Gunn,11,6,0,,0,Opp Box Right-Center,0.0
+Angus Gunn,11,7,0,,0,Opp Box Right,0.0
+Angus Gunn,11,8,0,,0,Opp Box Right,0.0
+Angus Gunn,12,1,0,,0,Opp 6yd Left,0.0
+Angus Gunn,12,2,0,,0,Opp 6yd Left,0.0
+Angus Gunn,12,3,0,,0,Opp 6yd Left-Center,0.0
+Angus Gunn,12,4,0,,0,Opp 6yd Center,0.0
+Angus Gunn,12,5,0,,0,Opp 6yd Center,0.0
+Angus Gunn,12,6,0,,0,Opp 6yd Right-Center,0.0
+Angus Gunn,12,7,0,,0,Opp 6yd Right,0.0
+Angus Gunn,12,8,0,,0,Opp 6yd Right,0.0
+Bart Verbruggen,1,1,0,,0,Own 6yd Left,0.0
+Bart Verbruggen,1,2,0,,0,Own 6yd Left,0.0
+Bart Verbruggen,1,3,0,,0,Own 6yd Left-Center,0.0
+Bart Verbruggen,1,4,0,,0,Own 6yd Center,0.0
+Bart Verbruggen,1,5,0,,0,Own 6yd Center,0.0
 Bart Verbruggen,1,6,1,10.3,1,Own 6yd Right-Center,100.0
+Bart Verbruggen,1,7,0,,0,Own 6yd Right,0.0
+Bart Verbruggen,1,8,0,,0,Own 6yd Right,0.0
+Bart Verbruggen,2,1,0,,0,Own Box Left,0.0
 Bart Verbruggen,2,2,1,18.5,1,Own Box Left,100.0
 Bart Verbruggen,2,3,1,16.6,1,Own Box Left-Center,100.0
 Bart Verbruggen,2,4,1,16.2,1,Own Box Center,100.0
+Bart Verbruggen,2,5,0,,0,Own Box Center,0.0
 Bart Verbruggen,2,6,6,16.3,6,Own Box Right-Center,100.0
+Bart Verbruggen,2,7,0,,0,Own Box Right,0.0
+Bart Verbruggen,2,8,0,,0,Own Box Right,0.0
+Bart Verbruggen,3,1,0,,0,Own Def 3rd Left,0.0
+Bart Verbruggen,3,2,0,,0,Own Def 3rd Left,0.0
+Bart Verbruggen,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Bart Verbruggen,3,4,0,,0,Own Def 3rd Center,0.0
 Bart Verbruggen,3,5,1,22.1,1,Own Def 3rd Center,100.0
 Bart Verbruggen,3,6,1,20.9,1,Own Def 3rd Right-Center,100.0
+Bart Verbruggen,3,7,0,,0,Own Def 3rd Right,0.0
+Bart Verbruggen,3,8,0,,0,Own Def 3rd Right,0.0
+Bart Verbruggen,4,1,0,,0,Own Def 3rd Left,0.0
+Bart Verbruggen,4,2,0,,0,Own Def 3rd Left,0.0
+Bart Verbruggen,4,3,0,,0,Own Def 3rd Left-Center,0.0
 Bart Verbruggen,4,4,1,34.2,1,Own Def 3rd Center,100.0
+Bart Verbruggen,4,5,0,,0,Own Def 3rd Center,0.0
+Bart Verbruggen,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Bart Verbruggen,4,7,0,,0,Own Def 3rd Right,0.0
+Bart Verbruggen,4,8,0,,0,Own Def 3rd Right,0.0
 Bart Verbruggen,5,1,1,49.7,1,Own Mid 3rd Left,100.0
+Bart Verbruggen,5,2,0,,0,Own Mid 3rd Left,0.0
+Bart Verbruggen,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Bart Verbruggen,5,4,0,,0,Own Mid 3rd Center,0.0
+Bart Verbruggen,5,5,0,,0,Own Mid 3rd Center,0.0
+Bart Verbruggen,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Bart Verbruggen,5,7,0,,0,Own Mid 3rd Right,0.0
+Bart Verbruggen,5,8,0,,0,Own Mid 3rd Right,0.0
+Bart Verbruggen,6,1,0,,0,Own Mid 3rd Left,0.0
+Bart Verbruggen,6,2,0,,0,Own Mid 3rd Left,0.0
+Bart Verbruggen,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Bart Verbruggen,6,4,0,,0,Own Mid 3rd Center,0.0
+Bart Verbruggen,6,5,0,,0,Own Mid 3rd Center,0.0
+Bart Verbruggen,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Bart Verbruggen,6,7,0,,0,Own Mid 3rd Right,0.0
+Bart Verbruggen,6,8,0,,0,Own Mid 3rd Right,0.0
+Bart Verbruggen,7,1,0,,0,Opp Mid 3rd Left,0.0
+Bart Verbruggen,7,2,0,,0,Opp Mid 3rd Left,0.0
+Bart Verbruggen,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Bart Verbruggen,7,4,0,,0,Opp Mid 3rd Center,0.0
+Bart Verbruggen,7,5,0,,0,Opp Mid 3rd Center,0.0
 Bart Verbruggen,7,6,1,59.5,1,Opp Mid 3rd Right-Center,100.0
+Bart Verbruggen,7,7,0,,0,Opp Mid 3rd Right,0.0
+Bart Verbruggen,7,8,0,,0,Opp Mid 3rd Right,0.0
+Bart Verbruggen,8,1,0,,0,Opp Mid 3rd Left,0.0
 Bart Verbruggen,8,2,1,67.2,0,Opp Mid 3rd Left,0.0
 Bart Verbruggen,8,3,1,71.1,1,Opp Mid 3rd Left-Center,100.0
+Bart Verbruggen,8,4,0,,0,Opp Mid 3rd Center,0.0
+Bart Verbruggen,8,5,0,,0,Opp Mid 3rd Center,0.0
+Bart Verbruggen,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Bart Verbruggen,8,7,1,74.4,0,Opp Mid 3rd Right,0.0
+Bart Verbruggen,8,8,0,,0,Opp Mid 3rd Right,0.0
+Bart Verbruggen,9,1,0,,0,Opp Att 3rd Left,0.0
 Bart Verbruggen,9,2,1,81.6,0,Opp Att 3rd Left,0.0
+Bart Verbruggen,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Bart Verbruggen,9,4,0,,0,Opp Att 3rd Center,0.0
 Bart Verbruggen,9,5,1,83.2,0,Opp Att 3rd Center,0.0
 Bart Verbruggen,9,6,2,77.6,1,Opp Att 3rd Right-Center,50.0
+Bart Verbruggen,9,7,0,,0,Opp Att 3rd Right,0.0
+Bart Verbruggen,9,8,0,,0,Opp Att 3rd Right,0.0
+Bart Verbruggen,10,1,0,,0,Opp Att 3rd Left,0.0
+Bart Verbruggen,10,2,0,,0,Opp Att 3rd Left,0.0
+Bart Verbruggen,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Bart Verbruggen,10,4,0,,0,Opp Att 3rd Center,0.0
+Bart Verbruggen,10,5,0,,0,Opp Att 3rd Center,0.0
+Bart Verbruggen,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Bart Verbruggen,10,7,0,,0,Opp Att 3rd Right,0.0
+Bart Verbruggen,10,8,0,,0,Opp Att 3rd Right,0.0
+Bart Verbruggen,11,1,0,,0,Opp Box Left,0.0
+Bart Verbruggen,11,2,0,,0,Opp Box Left,0.0
+Bart Verbruggen,11,3,0,,0,Opp Box Left-Center,0.0
+Bart Verbruggen,11,4,0,,0,Opp Box Center,0.0
+Bart Verbruggen,11,5,0,,0,Opp Box Center,0.0
+Bart Verbruggen,11,6,0,,0,Opp Box Right-Center,0.0
 Bart Verbruggen,11,7,1,101.8,0,Opp Box Right,0.0
+Bart Verbruggen,11,8,0,,0,Opp Box Right,0.0
+Bart Verbruggen,12,1,0,,0,Opp 6yd Left,0.0
+Bart Verbruggen,12,2,0,,0,Opp 6yd Left,0.0
+Bart Verbruggen,12,3,0,,0,Opp 6yd Left-Center,0.0
+Bart Verbruggen,12,4,0,,0,Opp 6yd Center,0.0
+Bart Verbruggen,12,5,0,,0,Opp 6yd Center,0.0
+Bart Verbruggen,12,6,0,,0,Opp 6yd Right-Center,0.0
+Bart Verbruggen,12,7,0,,0,Opp 6yd Right,0.0
+Bart Verbruggen,12,8,0,,0,Opp 6yd Right,0.0
+David Raya Martin,1,1,0,,0,Own 6yd Left,0.0
+David Raya Martin,1,2,0,,0,Own 6yd Left,0.0
 David Raya Martin,1,3,1,15.2,1,Own 6yd Left-Center,100.0
+David Raya Martin,1,4,0,,0,Own 6yd Center,0.0
+David Raya Martin,1,5,0,,0,Own 6yd Center,0.0
+David Raya Martin,1,6,0,,0,Own 6yd Right-Center,0.0
+David Raya Martin,1,7,0,,0,Own 6yd Right,0.0
+David Raya Martin,1,8,0,,0,Own 6yd Right,0.0
+David Raya Martin,2,1,0,,0,Own Box Left,0.0
+David Raya Martin,2,2,0,,0,Own Box Left,0.0
+David Raya Martin,2,3,0,,0,Own Box Left-Center,0.0
+David Raya Martin,2,4,0,,0,Own Box Center,0.0
+David Raya Martin,2,5,0,,0,Own Box Center,0.0
+David Raya Martin,2,6,0,,0,Own Box Right-Center,0.0
+David Raya Martin,2,7,0,,0,Own Box Right,0.0
+David Raya Martin,2,8,0,,0,Own Box Right,0.0
+David Raya Martin,3,1,0,,0,Own Def 3rd Left,0.0
+David Raya Martin,3,2,0,,0,Own Def 3rd Left,0.0
+David Raya Martin,3,3,0,,0,Own Def 3rd Left-Center,0.0
+David Raya Martin,3,4,0,,0,Own Def 3rd Center,0.0
+David Raya Martin,3,5,0,,0,Own Def 3rd Center,0.0
+David Raya Martin,3,6,0,,0,Own Def 3rd Right-Center,0.0
+David Raya Martin,3,7,0,,0,Own Def 3rd Right,0.0
+David Raya Martin,3,8,0,,0,Own Def 3rd Right,0.0
+David Raya Martin,4,1,0,,0,Own Def 3rd Left,0.0
+David Raya Martin,4,2,0,,0,Own Def 3rd Left,0.0
+David Raya Martin,4,3,0,,0,Own Def 3rd Left-Center,0.0
+David Raya Martin,4,4,0,,0,Own Def 3rd Center,0.0
+David Raya Martin,4,5,0,,0,Own Def 3rd Center,0.0
+David Raya Martin,4,6,0,,0,Own Def 3rd Right-Center,0.0
+David Raya Martin,4,7,0,,0,Own Def 3rd Right,0.0
+David Raya Martin,4,8,0,,0,Own Def 3rd Right,0.0
+David Raya Martin,5,1,0,,0,Own Mid 3rd Left,0.0
+David Raya Martin,5,2,0,,0,Own Mid 3rd Left,0.0
+David Raya Martin,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+David Raya Martin,5,4,0,,0,Own Mid 3rd Center,0.0
+David Raya Martin,5,5,0,,0,Own Mid 3rd Center,0.0
+David Raya Martin,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+David Raya Martin,5,7,0,,0,Own Mid 3rd Right,0.0
+David Raya Martin,5,8,0,,0,Own Mid 3rd Right,0.0
+David Raya Martin,6,1,0,,0,Own Mid 3rd Left,0.0
+David Raya Martin,6,2,0,,0,Own Mid 3rd Left,0.0
+David Raya Martin,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+David Raya Martin,6,4,0,,0,Own Mid 3rd Center,0.0
+David Raya Martin,6,5,0,,0,Own Mid 3rd Center,0.0
+David Raya Martin,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+David Raya Martin,6,7,0,,0,Own Mid 3rd Right,0.0
+David Raya Martin,6,8,0,,0,Own Mid 3rd Right,0.0
 David Raya Martin,7,1,1,68.5,1,Opp Mid 3rd Left,100.0
+David Raya Martin,7,2,0,,0,Opp Mid 3rd Left,0.0
 David Raya Martin,7,3,1,65.7,0,Opp Mid 3rd Left-Center,0.0
+David Raya Martin,7,4,0,,0,Opp Mid 3rd Center,0.0
+David Raya Martin,7,5,0,,0,Opp Mid 3rd Center,0.0
+David Raya Martin,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+David Raya Martin,7,7,0,,0,Opp Mid 3rd Right,0.0
+David Raya Martin,7,8,0,,0,Opp Mid 3rd Right,0.0
 David Raya Martin,8,1,1,72.5,1,Opp Mid 3rd Left,100.0
+David Raya Martin,8,2,0,,0,Opp Mid 3rd Left,0.0
 David Raya Martin,8,3,1,68.5,0,Opp Mid 3rd Left-Center,0.0
+David Raya Martin,8,4,0,,0,Opp Mid 3rd Center,0.0
+David Raya Martin,8,5,0,,0,Opp Mid 3rd Center,0.0
+David Raya Martin,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+David Raya Martin,8,7,0,,0,Opp Mid 3rd Right,0.0
+David Raya Martin,8,8,0,,0,Opp Mid 3rd Right,0.0
+David Raya Martin,9,1,0,,0,Opp Att 3rd Left,0.0
+David Raya Martin,9,2,0,,0,Opp Att 3rd Left,0.0
+David Raya Martin,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+David Raya Martin,9,4,0,,0,Opp Att 3rd Center,0.0
+David Raya Martin,9,5,0,,0,Opp Att 3rd Center,0.0
+David Raya Martin,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+David Raya Martin,9,7,0,,0,Opp Att 3rd Right,0.0
+David Raya Martin,9,8,0,,0,Opp Att 3rd Right,0.0
+David Raya Martin,10,1,0,,0,Opp Att 3rd Left,0.0
+David Raya Martin,10,2,0,,0,Opp Att 3rd Left,0.0
+David Raya Martin,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+David Raya Martin,10,4,0,,0,Opp Att 3rd Center,0.0
+David Raya Martin,10,5,0,,0,Opp Att 3rd Center,0.0
+David Raya Martin,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+David Raya Martin,10,7,0,,0,Opp Att 3rd Right,0.0
+David Raya Martin,10,8,0,,0,Opp Att 3rd Right,0.0
+David Raya Martin,11,1,0,,0,Opp Box Left,0.0
+David Raya Martin,11,2,0,,0,Opp Box Left,0.0
+David Raya Martin,11,3,0,,0,Opp Box Left-Center,0.0
+David Raya Martin,11,4,0,,0,Opp Box Center,0.0
+David Raya Martin,11,5,0,,0,Opp Box Center,0.0
+David Raya Martin,11,6,0,,0,Opp Box Right-Center,0.0
+David Raya Martin,11,7,0,,0,Opp Box Right,0.0
+David Raya Martin,11,8,0,,0,Opp Box Right,0.0
+David Raya Martin,12,1,0,,0,Opp 6yd Left,0.0
+David Raya Martin,12,2,0,,0,Opp 6yd Left,0.0
+David Raya Martin,12,3,0,,0,Opp 6yd Left-Center,0.0
+David Raya Martin,12,4,0,,0,Opp 6yd Center,0.0
+David Raya Martin,12,5,0,,0,Opp 6yd Center,0.0
+David Raya Martin,12,6,0,,0,Opp 6yd Right-Center,0.0
+David Raya Martin,12,7,0,,0,Opp 6yd Right,0.0
+David Raya Martin,12,8,0,,0,Opp 6yd Right,0.0
+Diogo Meireles Costa,1,1,0,,0,Own 6yd Left,0.0
+Diogo Meireles Costa,1,2,0,,0,Own 6yd Left,0.0
 Diogo Meireles Costa,1,3,1,12.6,1,Own 6yd Left-Center,100.0
+Diogo Meireles Costa,1,4,0,,0,Own 6yd Center,0.0
 Diogo Meireles Costa,1,5,1,9.6,1,Own 6yd Center,100.0
+Diogo Meireles Costa,1,6,0,,0,Own 6yd Right-Center,0.0
+Diogo Meireles Costa,1,7,0,,0,Own 6yd Right,0.0
+Diogo Meireles Costa,1,8,0,,0,Own 6yd Right,0.0
 Diogo Meireles Costa,2,1,1,33.6,1,Own Box Left,100.0
 Diogo Meireles Costa,2,2,1,24.9,1,Own Box Left,100.0
 Diogo Meireles Costa,2,3,2,10.9,2,Own Box Left-Center,100.0
@@ -63,75 +590,333 @@ Diogo Meireles Costa,2,4,1,8.4,1,Own Box Center,100.0
 Diogo Meireles Costa,2,5,2,18.4,2,Own Box Center,100.0
 Diogo Meireles Costa,2,6,3,17.0,3,Own Box Right-Center,100.0
 Diogo Meireles Costa,2,7,2,24.4,2,Own Box Right,100.0
+Diogo Meireles Costa,2,8,0,,0,Own Box Right,0.0
 Diogo Meireles Costa,3,1,2,35.0,2,Own Def 3rd Left,100.0
+Diogo Meireles Costa,3,2,0,,0,Own Def 3rd Left,0.0
 Diogo Meireles Costa,3,3,2,24.4,2,Own Def 3rd Left-Center,100.0
 Diogo Meireles Costa,3,4,2,22.4,2,Own Def 3rd Center,100.0
+Diogo Meireles Costa,3,5,0,,0,Own Def 3rd Center,0.0
+Diogo Meireles Costa,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Diogo Meireles Costa,3,7,0,,0,Own Def 3rd Right,0.0
+Diogo Meireles Costa,3,8,0,,0,Own Def 3rd Right,0.0
 Diogo Meireles Costa,4,1,2,42.7,2,Own Def 3rd Left,100.0
 Diogo Meireles Costa,4,2,2,31.6,2,Own Def 3rd Left,100.0
+Diogo Meireles Costa,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Diogo Meireles Costa,4,4,0,,0,Own Def 3rd Center,0.0
 Diogo Meireles Costa,4,5,1,27.2,1,Own Def 3rd Center,100.0
+Diogo Meireles Costa,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Diogo Meireles Costa,4,7,0,,0,Own Def 3rd Right,0.0
 Diogo Meireles Costa,4,8,2,39.3,2,Own Def 3rd Right,100.0
+Diogo Meireles Costa,5,1,0,,0,Own Mid 3rd Left,0.0
 Diogo Meireles Costa,5,2,1,42.2,1,Own Mid 3rd Left,100.0
+Diogo Meireles Costa,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Diogo Meireles Costa,5,4,0,,0,Own Mid 3rd Center,0.0
+Diogo Meireles Costa,5,5,0,,0,Own Mid 3rd Center,0.0
+Diogo Meireles Costa,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Diogo Meireles Costa,5,7,0,,0,Own Mid 3rd Right,0.0
+Diogo Meireles Costa,5,8,0,,0,Own Mid 3rd Right,0.0
+Diogo Meireles Costa,6,1,0,,0,Own Mid 3rd Left,0.0
+Diogo Meireles Costa,6,2,0,,0,Own Mid 3rd Left,0.0
+Diogo Meireles Costa,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Diogo Meireles Costa,6,4,0,,0,Own Mid 3rd Center,0.0
+Diogo Meireles Costa,6,5,0,,0,Own Mid 3rd Center,0.0
+Diogo Meireles Costa,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Diogo Meireles Costa,6,7,0,,0,Own Mid 3rd Right,0.0
+Diogo Meireles Costa,6,8,0,,0,Own Mid 3rd Right,0.0
+Diogo Meireles Costa,7,1,0,,0,Opp Mid 3rd Left,0.0
+Diogo Meireles Costa,7,2,0,,0,Opp Mid 3rd Left,0.0
+Diogo Meireles Costa,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Diogo Meireles Costa,7,4,0,,0,Opp Mid 3rd Center,0.0
+Diogo Meireles Costa,7,5,0,,0,Opp Mid 3rd Center,0.0
+Diogo Meireles Costa,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Diogo Meireles Costa,7,7,0,,0,Opp Mid 3rd Right,0.0
+Diogo Meireles Costa,7,8,0,,0,Opp Mid 3rd Right,0.0
+Diogo Meireles Costa,8,1,0,,0,Opp Mid 3rd Left,0.0
+Diogo Meireles Costa,8,2,0,,0,Opp Mid 3rd Left,0.0
+Diogo Meireles Costa,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
 Diogo Meireles Costa,8,4,1,73.4,0,Opp Mid 3rd Center,0.0
+Diogo Meireles Costa,8,5,0,,0,Opp Mid 3rd Center,0.0
+Diogo Meireles Costa,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Diogo Meireles Costa,8,7,0,,0,Opp Mid 3rd Right,0.0
+Diogo Meireles Costa,8,8,0,,0,Opp Mid 3rd Right,0.0
+Diogo Meireles Costa,9,1,0,,0,Opp Att 3rd Left,0.0
+Diogo Meireles Costa,9,2,0,,0,Opp Att 3rd Left,0.0
+Diogo Meireles Costa,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Diogo Meireles Costa,9,4,0,,0,Opp Att 3rd Center,0.0
+Diogo Meireles Costa,9,5,0,,0,Opp Att 3rd Center,0.0
+Diogo Meireles Costa,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Diogo Meireles Costa,9,7,0,,0,Opp Att 3rd Right,0.0
+Diogo Meireles Costa,9,8,0,,0,Opp Att 3rd Right,0.0
+Diogo Meireles Costa,10,1,0,,0,Opp Att 3rd Left,0.0
+Diogo Meireles Costa,10,2,0,,0,Opp Att 3rd Left,0.0
+Diogo Meireles Costa,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Diogo Meireles Costa,10,4,0,,0,Opp Att 3rd Center,0.0
+Diogo Meireles Costa,10,5,0,,0,Opp Att 3rd Center,0.0
+Diogo Meireles Costa,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Diogo Meireles Costa,10,7,0,,0,Opp Att 3rd Right,0.0
+Diogo Meireles Costa,10,8,0,,0,Opp Att 3rd Right,0.0
+Diogo Meireles Costa,11,1,0,,0,Opp Box Left,0.0
+Diogo Meireles Costa,11,2,0,,0,Opp Box Left,0.0
+Diogo Meireles Costa,11,3,0,,0,Opp Box Left-Center,0.0
+Diogo Meireles Costa,11,4,0,,0,Opp Box Center,0.0
+Diogo Meireles Costa,11,5,0,,0,Opp Box Center,0.0
 Diogo Meireles Costa,11,6,1,98.3,0,Opp Box Right-Center,0.0
+Diogo Meireles Costa,11,7,0,,0,Opp Box Right,0.0
+Diogo Meireles Costa,11,8,0,,0,Opp Box Right,0.0
+Diogo Meireles Costa,12,1,0,,0,Opp 6yd Left,0.0
+Diogo Meireles Costa,12,2,0,,0,Opp 6yd Left,0.0
+Diogo Meireles Costa,12,3,0,,0,Opp 6yd Left-Center,0.0
+Diogo Meireles Costa,12,4,0,,0,Opp 6yd Center,0.0
+Diogo Meireles Costa,12,5,0,,0,Opp 6yd Center,0.0
+Diogo Meireles Costa,12,6,0,,0,Opp 6yd Right-Center,0.0
+Diogo Meireles Costa,12,7,0,,0,Opp 6yd Right,0.0
+Diogo Meireles Costa,12,8,0,,0,Opp 6yd Right,0.0
+Dominik Livaković,1,1,0,,0,Own 6yd Left,0.0
+Dominik Livaković,1,2,0,,0,Own 6yd Left,0.0
 Dominik Livaković,1,3,1,17.3,1,Own 6yd Left-Center,100.0
 Dominik Livaković,1,4,2,11.1,2,Own 6yd Center,100.0
 Dominik Livaković,1,5,1,10.1,1,Own 6yd Center,100.0
 Dominik Livaković,1,6,1,14.1,1,Own 6yd Right-Center,100.0
+Dominik Livaković,1,7,0,,0,Own 6yd Right,0.0
 Dominik Livaković,1,8,1,34.8,1,Own 6yd Right,100.0
+Dominik Livaković,2,1,0,,0,Own Box Left,0.0
+Dominik Livaković,2,2,0,,0,Own Box Left,0.0
+Dominik Livaković,2,3,0,,0,Own Box Left-Center,0.0
 Dominik Livaković,2,4,1,9.3,1,Own Box Center,100.0
+Dominik Livaković,2,5,0,,0,Own Box Center,0.0
 Dominik Livaković,2,6,1,17.1,1,Own Box Right-Center,100.0
+Dominik Livaković,2,7,0,,0,Own Box Right,0.0
+Dominik Livaković,2,8,0,,0,Own Box Right,0.0
+Dominik Livaković,3,1,0,,0,Own Def 3rd Left,0.0
+Dominik Livaković,3,2,0,,0,Own Def 3rd Left,0.0
 Dominik Livaković,3,3,1,25.2,1,Own Def 3rd Left-Center,100.0
+Dominik Livaković,3,4,0,,0,Own Def 3rd Center,0.0
+Dominik Livaković,3,5,0,,0,Own Def 3rd Center,0.0
+Dominik Livaković,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Dominik Livaković,3,7,0,,0,Own Def 3rd Right,0.0
+Dominik Livaković,3,8,0,,0,Own Def 3rd Right,0.0
+Dominik Livaković,4,1,0,,0,Own Def 3rd Left,0.0
+Dominik Livaković,4,2,0,,0,Own Def 3rd Left,0.0
 Dominik Livaković,4,3,1,29.7,1,Own Def 3rd Left-Center,100.0
+Dominik Livaković,4,4,0,,0,Own Def 3rd Center,0.0
+Dominik Livaković,4,5,0,,0,Own Def 3rd Center,0.0
+Dominik Livaković,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Dominik Livaković,4,7,0,,0,Own Def 3rd Right,0.0
+Dominik Livaković,4,8,0,,0,Own Def 3rd Right,0.0
+Dominik Livaković,5,1,0,,0,Own Mid 3rd Left,0.0
+Dominik Livaković,5,2,0,,0,Own Mid 3rd Left,0.0
+Dominik Livaković,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Dominik Livaković,5,4,0,,0,Own Mid 3rd Center,0.0
+Dominik Livaković,5,5,0,,0,Own Mid 3rd Center,0.0
+Dominik Livaković,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Dominik Livaković,5,7,0,,0,Own Mid 3rd Right,0.0
+Dominik Livaković,5,8,0,,0,Own Mid 3rd Right,0.0
+Dominik Livaković,6,1,0,,0,Own Mid 3rd Left,0.0
+Dominik Livaković,6,2,0,,0,Own Mid 3rd Left,0.0
+Dominik Livaković,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Dominik Livaković,6,4,0,,0,Own Mid 3rd Center,0.0
+Dominik Livaković,6,5,0,,0,Own Mid 3rd Center,0.0
+Dominik Livaković,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Dominik Livaković,6,7,0,,0,Own Mid 3rd Right,0.0
+Dominik Livaković,6,8,0,,0,Own Mid 3rd Right,0.0
+Dominik Livaković,7,1,0,,0,Opp Mid 3rd Left,0.0
+Dominik Livaković,7,2,0,,0,Opp Mid 3rd Left,0.0
+Dominik Livaković,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Dominik Livaković,7,4,0,,0,Opp Mid 3rd Center,0.0
+Dominik Livaković,7,5,0,,0,Opp Mid 3rd Center,0.0
+Dominik Livaković,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Dominik Livaković,7,7,0,,0,Opp Mid 3rd Right,0.0
 Dominik Livaković,7,8,1,66.2,1,Opp Mid 3rd Right,100.0
 Dominik Livaković,8,1,1,82.3,0,Opp Mid 3rd Left,0.0
+Dominik Livaković,8,2,0,,0,Opp Mid 3rd Left,0.0
+Dominik Livaković,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Dominik Livaković,8,4,0,,0,Opp Mid 3rd Center,0.0
+Dominik Livaković,8,5,0,,0,Opp Mid 3rd Center,0.0
+Dominik Livaković,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Dominik Livaković,8,7,0,,0,Opp Mid 3rd Right,0.0
 Dominik Livaković,8,8,1,69.3,1,Opp Mid 3rd Right,100.0
+Dominik Livaković,9,1,0,,0,Opp Att 3rd Left,0.0
+Dominik Livaković,9,2,0,,0,Opp Att 3rd Left,0.0
 Dominik Livaković,9,3,1,76.9,0,Opp Att 3rd Left-Center,0.0
+Dominik Livaković,9,4,0,,0,Opp Att 3rd Center,0.0
 Dominik Livaković,9,5,1,76.2,0,Opp Att 3rd Center,0.0
+Dominik Livaković,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Dominik Livaković,9,7,0,,0,Opp Att 3rd Right,0.0
+Dominik Livaković,9,8,0,,0,Opp Att 3rd Right,0.0
+Dominik Livaković,10,1,0,,0,Opp Att 3rd Left,0.0
+Dominik Livaković,10,2,0,,0,Opp Att 3rd Left,0.0
+Dominik Livaković,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Dominik Livaković,10,4,0,,0,Opp Att 3rd Center,0.0
+Dominik Livaković,10,5,0,,0,Opp Att 3rd Center,0.0
+Dominik Livaković,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Dominik Livaković,10,7,0,,0,Opp Att 3rd Right,0.0
+Dominik Livaković,10,8,0,,0,Opp Att 3rd Right,0.0
+Dominik Livaković,11,1,0,,0,Opp Box Left,0.0
+Dominik Livaković,11,2,0,,0,Opp Box Left,0.0
+Dominik Livaković,11,3,0,,0,Opp Box Left-Center,0.0
+Dominik Livaković,11,4,0,,0,Opp Box Center,0.0
+Dominik Livaković,11,5,0,,0,Opp Box Center,0.0
+Dominik Livaković,11,6,0,,0,Opp Box Right-Center,0.0
+Dominik Livaković,11,7,0,,0,Opp Box Right,0.0
+Dominik Livaković,11,8,0,,0,Opp Box Right,0.0
+Dominik Livaković,12,1,0,,0,Opp 6yd Left,0.0
+Dominik Livaković,12,2,0,,0,Opp 6yd Left,0.0
+Dominik Livaković,12,3,0,,0,Opp 6yd Left-Center,0.0
+Dominik Livaković,12,4,0,,0,Opp 6yd Center,0.0
+Dominik Livaković,12,5,0,,0,Opp 6yd Center,0.0
+Dominik Livaković,12,6,0,,0,Opp 6yd Right-Center,0.0
+Dominik Livaković,12,7,0,,0,Opp 6yd Right,0.0
+Dominik Livaković,12,8,0,,0,Opp 6yd Right,0.0
+Fehmi Mert Günok,1,1,0,,0,Own 6yd Left,0.0
+Fehmi Mert Günok,1,2,0,,0,Own 6yd Left,0.0
 Fehmi Mert Günok,1,3,1,18.9,1,Own 6yd Left-Center,100.0
+Fehmi Mert Günok,1,4,0,,0,Own 6yd Center,0.0
+Fehmi Mert Günok,1,5,0,,0,Own 6yd Center,0.0
 Fehmi Mert Günok,1,6,1,18.8,1,Own 6yd Right-Center,100.0
 Fehmi Mert Günok,1,7,1,17.0,1,Own 6yd Right,100.0
+Fehmi Mert Günok,1,8,0,,0,Own 6yd Right,0.0
 Fehmi Mert Günok,2,1,1,37.1,1,Own Box Left,100.0
+Fehmi Mert Günok,2,2,0,,0,Own Box Left,0.0
+Fehmi Mert Günok,2,3,0,,0,Own Box Left-Center,0.0
+Fehmi Mert Günok,2,4,0,,0,Own Box Center,0.0
 Fehmi Mert Günok,2,5,1,12.8,1,Own Box Center,100.0
 Fehmi Mert Günok,2,6,2,13.4,2,Own Box Right-Center,100.0
 Fehmi Mert Günok,2,7,1,14.3,1,Own Box Right,100.0
+Fehmi Mert Günok,2,8,0,,0,Own Box Right,0.0
 Fehmi Mert Günok,3,1,1,33.7,1,Own Def 3rd Left,100.0
+Fehmi Mert Günok,3,2,0,,0,Own Def 3rd Left,0.0
+Fehmi Mert Günok,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Fehmi Mert Günok,3,4,0,,0,Own Def 3rd Center,0.0
 Fehmi Mert Günok,3,5,1,13.4,1,Own Def 3rd Center,100.0
+Fehmi Mert Günok,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Fehmi Mert Günok,3,7,0,,0,Own Def 3rd Right,0.0
 Fehmi Mert Günok,3,8,1,35.6,1,Own Def 3rd Right,100.0
+Fehmi Mert Günok,4,1,0,,0,Own Def 3rd Left,0.0
+Fehmi Mert Günok,4,2,0,,0,Own Def 3rd Left,0.0
+Fehmi Mert Günok,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Fehmi Mert Günok,4,4,0,,0,Own Def 3rd Center,0.0
 Fehmi Mert Günok,4,5,1,28.9,1,Own Def 3rd Center,100.0
+Fehmi Mert Günok,4,6,0,,0,Own Def 3rd Right-Center,0.0
 Fehmi Mert Günok,4,7,1,33.7,1,Own Def 3rd Right,100.0
+Fehmi Mert Günok,4,8,0,,0,Own Def 3rd Right,0.0
+Fehmi Mert Günok,5,1,0,,0,Own Mid 3rd Left,0.0
+Fehmi Mert Günok,5,2,0,,0,Own Mid 3rd Left,0.0
+Fehmi Mert Günok,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Fehmi Mert Günok,5,4,0,,0,Own Mid 3rd Center,0.0
+Fehmi Mert Günok,5,5,0,,0,Own Mid 3rd Center,0.0
+Fehmi Mert Günok,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Fehmi Mert Günok,5,7,0,,0,Own Mid 3rd Right,0.0
+Fehmi Mert Günok,5,8,0,,0,Own Mid 3rd Right,0.0
+Fehmi Mert Günok,6,1,0,,0,Own Mid 3rd Left,0.0
 Fehmi Mert Günok,6,2,1,52.3,1,Own Mid 3rd Left,100.0
+Fehmi Mert Günok,6,3,0,,0,Own Mid 3rd Left-Center,0.0
 Fehmi Mert Günok,6,4,1,51.8,0,Own Mid 3rd Center,0.0
+Fehmi Mert Günok,6,5,0,,0,Own Mid 3rd Center,0.0
+Fehmi Mert Günok,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Fehmi Mert Günok,6,7,0,,0,Own Mid 3rd Right,0.0
+Fehmi Mert Günok,6,8,0,,0,Own Mid 3rd Right,0.0
+Fehmi Mert Günok,7,1,0,,0,Opp Mid 3rd Left,0.0
 Fehmi Mert Günok,7,2,1,59.6,0,Opp Mid 3rd Left,0.0
 Fehmi Mert Günok,7,3,1,59.7,0,Opp Mid 3rd Left-Center,0.0
+Fehmi Mert Günok,7,4,0,,0,Opp Mid 3rd Center,0.0
+Fehmi Mert Günok,7,5,0,,0,Opp Mid 3rd Center,0.0
 Fehmi Mert Günok,7,6,1,63.0,1,Opp Mid 3rd Right-Center,100.0
+Fehmi Mert Günok,7,7,0,,0,Opp Mid 3rd Right,0.0
 Fehmi Mert Günok,7,8,2,67.0,2,Opp Mid 3rd Right,100.0
+Fehmi Mert Günok,8,1,0,,0,Opp Mid 3rd Left,0.0
 Fehmi Mert Günok,8,2,1,70.6,0,Opp Mid 3rd Left,0.0
+Fehmi Mert Günok,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Fehmi Mert Günok,8,4,0,,0,Opp Mid 3rd Center,0.0
 Fehmi Mert Günok,8,5,4,72.2,1,Opp Mid 3rd Center,25.0
 Fehmi Mert Günok,8,6,1,69.2,0,Opp Mid 3rd Right-Center,0.0
 Fehmi Mert Günok,8,7,2,72.6,0,Opp Mid 3rd Right,0.0
+Fehmi Mert Günok,8,8,0,,0,Opp Mid 3rd Right,0.0
+Fehmi Mert Günok,9,1,0,,0,Opp Att 3rd Left,0.0
+Fehmi Mert Günok,9,2,0,,0,Opp Att 3rd Left,0.0
+Fehmi Mert Günok,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Fehmi Mert Günok,9,4,0,,0,Opp Att 3rd Center,0.0
 Fehmi Mert Günok,9,5,1,74.3,0,Opp Att 3rd Center,0.0
+Fehmi Mert Günok,9,6,0,,0,Opp Att 3rd Right-Center,0.0
 Fehmi Mert Günok,9,7,1,78.3,0,Opp Att 3rd Right,0.0
+Fehmi Mert Günok,9,8,0,,0,Opp Att 3rd Right,0.0
+Fehmi Mert Günok,10,1,0,,0,Opp Att 3rd Left,0.0
+Fehmi Mert Günok,10,2,0,,0,Opp Att 3rd Left,0.0
+Fehmi Mert Günok,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Fehmi Mert Günok,10,4,0,,0,Opp Att 3rd Center,0.0
+Fehmi Mert Günok,10,5,0,,0,Opp Att 3rd Center,0.0
+Fehmi Mert Günok,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Fehmi Mert Günok,10,7,0,,0,Opp Att 3rd Right,0.0
+Fehmi Mert Günok,10,8,0,,0,Opp Att 3rd Right,0.0
+Fehmi Mert Günok,11,1,0,,0,Opp Box Left,0.0
+Fehmi Mert Günok,11,2,0,,0,Opp Box Left,0.0
+Fehmi Mert Günok,11,3,0,,0,Opp Box Left-Center,0.0
+Fehmi Mert Günok,11,4,0,,0,Opp Box Center,0.0
+Fehmi Mert Günok,11,5,0,,0,Opp Box Center,0.0
+Fehmi Mert Günok,11,6,0,,0,Opp Box Right-Center,0.0
+Fehmi Mert Günok,11,7,0,,0,Opp Box Right,0.0
+Fehmi Mert Günok,11,8,0,,0,Opp Box Right,0.0
+Fehmi Mert Günok,12,1,0,,0,Opp 6yd Left,0.0
+Fehmi Mert Günok,12,2,0,,0,Opp 6yd Left,0.0
+Fehmi Mert Günok,12,3,0,,0,Opp 6yd Left-Center,0.0
+Fehmi Mert Günok,12,4,0,,0,Opp 6yd Center,0.0
+Fehmi Mert Günok,12,5,0,,0,Opp 6yd Center,0.0
+Fehmi Mert Günok,12,6,0,,0,Opp 6yd Right-Center,0.0
+Fehmi Mert Günok,12,7,0,,0,Opp 6yd Right,0.0
+Fehmi Mert Günok,12,8,0,,0,Opp 6yd Right,0.0
+Florin Constantin Niţă,1,1,0,,0,Own 6yd Left,0.0
+Florin Constantin Niţă,1,2,0,,0,Own 6yd Left,0.0
 Florin Constantin Niţă,1,3,1,21.9,1,Own 6yd Left-Center,100.0
+Florin Constantin Niţă,1,4,0,,0,Own 6yd Center,0.0
 Florin Constantin Niţă,1,5,1,13.6,1,Own 6yd Center,100.0
+Florin Constantin Niţă,1,6,0,,0,Own 6yd Right-Center,0.0
+Florin Constantin Niţă,1,7,0,,0,Own 6yd Right,0.0
+Florin Constantin Niţă,1,8,0,,0,Own 6yd Right,0.0
 Florin Constantin Niţă,2,1,1,37.2,1,Own Box Left,100.0
 Florin Constantin Niţă,2,2,1,20.0,1,Own Box Left,100.0
 Florin Constantin Niţă,2,3,1,16.9,1,Own Box Left-Center,100.0
+Florin Constantin Niţă,2,4,0,,0,Own Box Center,0.0
 Florin Constantin Niţă,2,5,1,10.5,1,Own Box Center,100.0
+Florin Constantin Niţă,2,6,0,,0,Own Box Right-Center,0.0
 Florin Constantin Niţă,2,7,1,30.6,1,Own Box Right,100.0
+Florin Constantin Niţă,2,8,0,,0,Own Box Right,0.0
+Florin Constantin Niţă,3,1,0,,0,Own Def 3rd Left,0.0
+Florin Constantin Niţă,3,2,0,,0,Own Def 3rd Left,0.0
 Florin Constantin Niţă,3,3,1,20.7,1,Own Def 3rd Left-Center,100.0
+Florin Constantin Niţă,3,4,0,,0,Own Def 3rd Center,0.0
+Florin Constantin Niţă,3,5,0,,0,Own Def 3rd Center,0.0
 Florin Constantin Niţă,3,6,1,17.7,1,Own Def 3rd Right-Center,100.0
+Florin Constantin Niţă,3,7,0,,0,Own Def 3rd Right,0.0
+Florin Constantin Niţă,3,8,0,,0,Own Def 3rd Right,0.0
 Florin Constantin Niţă,4,1,1,51.2,0,Own Def 3rd Left,0.0
 Florin Constantin Niţă,4,2,1,37.9,0,Own Def 3rd Left,0.0
+Florin Constantin Niţă,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Florin Constantin Niţă,4,4,0,,0,Own Def 3rd Center,0.0
+Florin Constantin Niţă,4,5,0,,0,Own Def 3rd Center,0.0
+Florin Constantin Niţă,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Florin Constantin Niţă,4,7,0,,0,Own Def 3rd Right,0.0
+Florin Constantin Niţă,4,8,0,,0,Own Def 3rd Right,0.0
 Florin Constantin Niţă,5,1,1,55.8,1,Own Mid 3rd Left,100.0
 Florin Constantin Niţă,5,2,1,47.2,1,Own Mid 3rd Left,100.0
 Florin Constantin Niţă,5,3,1,40.2,1,Own Mid 3rd Left-Center,100.0
+Florin Constantin Niţă,5,4,0,,0,Own Mid 3rd Center,0.0
+Florin Constantin Niţă,5,5,0,,0,Own Mid 3rd Center,0.0
+Florin Constantin Niţă,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Florin Constantin Niţă,5,7,0,,0,Own Mid 3rd Right,0.0
+Florin Constantin Niţă,5,8,0,,0,Own Mid 3rd Right,0.0
 Florin Constantin Niţă,6,1,2,60.8,1,Own Mid 3rd Left,50.0
+Florin Constantin Niţă,6,2,0,,0,Own Mid 3rd Left,0.0
+Florin Constantin Niţă,6,3,0,,0,Own Mid 3rd Left-Center,0.0
 Florin Constantin Niţă,6,4,1,53.2,0,Own Mid 3rd Center,0.0
+Florin Constantin Niţă,6,5,0,,0,Own Mid 3rd Center,0.0
+Florin Constantin Niţă,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Florin Constantin Niţă,6,7,0,,0,Own Mid 3rd Right,0.0
 Florin Constantin Niţă,6,8,1,59.8,0,Own Mid 3rd Right,0.0
 Florin Constantin Niţă,7,1,5,66.4,1,Opp Mid 3rd Left,20.0
 Florin Constantin Niţă,7,2,3,61.9,2,Opp Mid 3rd Left,66.7
 Florin Constantin Niţă,7,3,2,59.8,1,Opp Mid 3rd Left-Center,50.0
 Florin Constantin Niţă,7,4,1,58.7,1,Opp Mid 3rd Center,100.0
+Florin Constantin Niţă,7,5,0,,0,Opp Mid 3rd Center,0.0
+Florin Constantin Niţă,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Florin Constantin Niţă,7,7,1,64.1,0,Opp Mid 3rd Right,0.0
 Florin Constantin Niţă,7,8,1,66.8,1,Opp Mid 3rd Right,100.0
 Florin Constantin Niţă,8,1,1,73.7,0,Opp Mid 3rd Left,0.0
@@ -141,106 +926,478 @@ Florin Constantin Niţă,8,4,1,69.7,0,Opp Mid 3rd Center,0.0
 Florin Constantin Niţă,8,5,1,72.1,0,Opp Mid 3rd Center,0.0
 Florin Constantin Niţă,8,6,5,68.7,1,Opp Mid 3rd Right-Center,20.0
 Florin Constantin Niţă,8,7,2,71.4,0,Opp Mid 3rd Right,0.0
+Florin Constantin Niţă,8,8,0,,0,Opp Mid 3rd Right,0.0
+Florin Constantin Niţă,9,1,0,,0,Opp Att 3rd Left,0.0
+Florin Constantin Niţă,9,2,0,,0,Opp Att 3rd Left,0.0
+Florin Constantin Niţă,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Florin Constantin Niţă,9,4,0,,0,Opp Att 3rd Center,0.0
+Florin Constantin Niţă,9,5,0,,0,Opp Att 3rd Center,0.0
+Florin Constantin Niţă,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Florin Constantin Niţă,9,7,0,,0,Opp Att 3rd Right,0.0
+Florin Constantin Niţă,9,8,0,,0,Opp Att 3rd Right,0.0
+Florin Constantin Niţă,10,1,0,,0,Opp Att 3rd Left,0.0
+Florin Constantin Niţă,10,2,0,,0,Opp Att 3rd Left,0.0
+Florin Constantin Niţă,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Florin Constantin Niţă,10,4,0,,0,Opp Att 3rd Center,0.0
+Florin Constantin Niţă,10,5,0,,0,Opp Att 3rd Center,0.0
+Florin Constantin Niţă,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Florin Constantin Niţă,10,7,0,,0,Opp Att 3rd Right,0.0
+Florin Constantin Niţă,10,8,0,,0,Opp Att 3rd Right,0.0
+Florin Constantin Niţă,11,1,0,,0,Opp Box Left,0.0
+Florin Constantin Niţă,11,2,0,,0,Opp Box Left,0.0
+Florin Constantin Niţă,11,3,0,,0,Opp Box Left-Center,0.0
+Florin Constantin Niţă,11,4,0,,0,Opp Box Center,0.0
+Florin Constantin Niţă,11,5,0,,0,Opp Box Center,0.0
+Florin Constantin Niţă,11,6,0,,0,Opp Box Right-Center,0.0
+Florin Constantin Niţă,11,7,0,,0,Opp Box Right,0.0
+Florin Constantin Niţă,11,8,0,,0,Opp Box Right,0.0
+Florin Constantin Niţă,12,1,0,,0,Opp 6yd Left,0.0
+Florin Constantin Niţă,12,2,0,,0,Opp 6yd Left,0.0
+Florin Constantin Niţă,12,3,0,,0,Opp 6yd Left-Center,0.0
+Florin Constantin Niţă,12,4,0,,0,Opp 6yd Center,0.0
+Florin Constantin Niţă,12,5,0,,0,Opp 6yd Center,0.0
+Florin Constantin Niţă,12,6,0,,0,Opp 6yd Right-Center,0.0
+Florin Constantin Niţă,12,7,0,,0,Opp 6yd Right,0.0
+Florin Constantin Niţă,12,8,0,,0,Opp 6yd Right,0.0
+Gianluigi Donnarumma,1,1,0,,0,Own 6yd Left,0.0
+Gianluigi Donnarumma,1,2,0,,0,Own 6yd Left,0.0
 Gianluigi Donnarumma,1,3,1,15.5,1,Own 6yd Left-Center,100.0
+Gianluigi Donnarumma,1,4,0,,0,Own 6yd Center,0.0
 Gianluigi Donnarumma,1,5,3,7.7,3,Own 6yd Center,100.0
 Gianluigi Donnarumma,1,6,2,11.2,2,Own 6yd Right-Center,100.0
+Gianluigi Donnarumma,1,7,0,,0,Own 6yd Right,0.0
+Gianluigi Donnarumma,1,8,0,,0,Own 6yd Right,0.0
 Gianluigi Donnarumma,2,1,1,33.7,1,Own Box Left,100.0
+Gianluigi Donnarumma,2,2,0,,0,Own Box Left,0.0
 Gianluigi Donnarumma,2,3,2,10.7,2,Own Box Left-Center,100.0
 Gianluigi Donnarumma,2,4,1,8.4,1,Own Box Center,100.0
+Gianluigi Donnarumma,2,5,0,,0,Own Box Center,0.0
 Gianluigi Donnarumma,2,6,1,21.5,1,Own Box Right-Center,100.0
+Gianluigi Donnarumma,2,7,0,,0,Own Box Right,0.0
 Gianluigi Donnarumma,2,8,1,30.6,1,Own Box Right,100.0
+Gianluigi Donnarumma,3,1,0,,0,Own Def 3rd Left,0.0
+Gianluigi Donnarumma,3,2,0,,0,Own Def 3rd Left,0.0
+Gianluigi Donnarumma,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Gianluigi Donnarumma,3,4,0,,0,Own Def 3rd Center,0.0
+Gianluigi Donnarumma,3,5,0,,0,Own Def 3rd Center,0.0
 Gianluigi Donnarumma,3,6,1,29.5,1,Own Def 3rd Right-Center,100.0
+Gianluigi Donnarumma,3,7,0,,0,Own Def 3rd Right,0.0
+Gianluigi Donnarumma,3,8,0,,0,Own Def 3rd Right,0.0
+Gianluigi Donnarumma,4,1,0,,0,Own Def 3rd Left,0.0
+Gianluigi Donnarumma,4,2,0,,0,Own Def 3rd Left,0.0
+Gianluigi Donnarumma,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Gianluigi Donnarumma,4,4,0,,0,Own Def 3rd Center,0.0
+Gianluigi Donnarumma,4,5,0,,0,Own Def 3rd Center,0.0
+Gianluigi Donnarumma,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Gianluigi Donnarumma,4,7,0,,0,Own Def 3rd Right,0.0
+Gianluigi Donnarumma,4,8,0,,0,Own Def 3rd Right,0.0
+Gianluigi Donnarumma,5,1,0,,0,Own Mid 3rd Left,0.0
+Gianluigi Donnarumma,5,2,0,,0,Own Mid 3rd Left,0.0
+Gianluigi Donnarumma,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Gianluigi Donnarumma,5,4,0,,0,Own Mid 3rd Center,0.0
+Gianluigi Donnarumma,5,5,0,,0,Own Mid 3rd Center,0.0
+Gianluigi Donnarumma,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Gianluigi Donnarumma,5,7,0,,0,Own Mid 3rd Right,0.0
+Gianluigi Donnarumma,5,8,0,,0,Own Mid 3rd Right,0.0
+Gianluigi Donnarumma,6,1,0,,0,Own Mid 3rd Left,0.0
 Gianluigi Donnarumma,6,2,1,55.4,0,Own Mid 3rd Left,0.0
+Gianluigi Donnarumma,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Gianluigi Donnarumma,6,4,0,,0,Own Mid 3rd Center,0.0
+Gianluigi Donnarumma,6,5,0,,0,Own Mid 3rd Center,0.0
+Gianluigi Donnarumma,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Gianluigi Donnarumma,6,7,0,,0,Own Mid 3rd Right,0.0
+Gianluigi Donnarumma,6,8,0,,0,Own Mid 3rd Right,0.0
+Gianluigi Donnarumma,7,1,0,,0,Opp Mid 3rd Left,0.0
 Gianluigi Donnarumma,7,2,1,63.9,0,Opp Mid 3rd Left,0.0
 Gianluigi Donnarumma,7,3,1,58.2,0,Opp Mid 3rd Left-Center,0.0
+Gianluigi Donnarumma,7,4,0,,0,Opp Mid 3rd Center,0.0
+Gianluigi Donnarumma,7,5,0,,0,Opp Mid 3rd Center,0.0
+Gianluigi Donnarumma,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Gianluigi Donnarumma,7,7,0,,0,Opp Mid 3rd Right,0.0
 Gianluigi Donnarumma,7,8,1,64.0,1,Opp Mid 3rd Right,100.0
+Gianluigi Donnarumma,8,1,0,,0,Opp Mid 3rd Left,0.0
+Gianluigi Donnarumma,8,2,0,,0,Opp Mid 3rd Left,0.0
+Gianluigi Donnarumma,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Gianluigi Donnarumma,8,4,0,,0,Opp Mid 3rd Center,0.0
+Gianluigi Donnarumma,8,5,0,,0,Opp Mid 3rd Center,0.0
+Gianluigi Donnarumma,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Gianluigi Donnarumma,8,7,0,,0,Opp Mid 3rd Right,0.0
+Gianluigi Donnarumma,8,8,0,,0,Opp Mid 3rd Right,0.0
+Gianluigi Donnarumma,9,1,0,,0,Opp Att 3rd Left,0.0
+Gianluigi Donnarumma,9,2,0,,0,Opp Att 3rd Left,0.0
+Gianluigi Donnarumma,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Gianluigi Donnarumma,9,4,0,,0,Opp Att 3rd Center,0.0
+Gianluigi Donnarumma,9,5,0,,0,Opp Att 3rd Center,0.0
+Gianluigi Donnarumma,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Gianluigi Donnarumma,9,7,0,,0,Opp Att 3rd Right,0.0
+Gianluigi Donnarumma,9,8,0,,0,Opp Att 3rd Right,0.0
+Gianluigi Donnarumma,10,1,0,,0,Opp Att 3rd Left,0.0
+Gianluigi Donnarumma,10,2,0,,0,Opp Att 3rd Left,0.0
+Gianluigi Donnarumma,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Gianluigi Donnarumma,10,4,0,,0,Opp Att 3rd Center,0.0
+Gianluigi Donnarumma,10,5,0,,0,Opp Att 3rd Center,0.0
+Gianluigi Donnarumma,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Gianluigi Donnarumma,10,7,0,,0,Opp Att 3rd Right,0.0
+Gianluigi Donnarumma,10,8,0,,0,Opp Att 3rd Right,0.0
+Gianluigi Donnarumma,11,1,0,,0,Opp Box Left,0.0
+Gianluigi Donnarumma,11,2,0,,0,Opp Box Left,0.0
+Gianluigi Donnarumma,11,3,0,,0,Opp Box Left-Center,0.0
+Gianluigi Donnarumma,11,4,0,,0,Opp Box Center,0.0
+Gianluigi Donnarumma,11,5,0,,0,Opp Box Center,0.0
+Gianluigi Donnarumma,11,6,0,,0,Opp Box Right-Center,0.0
+Gianluigi Donnarumma,11,7,0,,0,Opp Box Right,0.0
+Gianluigi Donnarumma,11,8,0,,0,Opp Box Right,0.0
+Gianluigi Donnarumma,12,1,0,,0,Opp 6yd Left,0.0
+Gianluigi Donnarumma,12,2,0,,0,Opp 6yd Left,0.0
+Gianluigi Donnarumma,12,3,0,,0,Opp 6yd Left-Center,0.0
+Gianluigi Donnarumma,12,4,0,,0,Opp 6yd Center,0.0
+Gianluigi Donnarumma,12,5,0,,0,Opp 6yd Center,0.0
+Gianluigi Donnarumma,12,6,0,,0,Opp 6yd Right-Center,0.0
+Gianluigi Donnarumma,12,7,0,,0,Opp 6yd Right,0.0
+Gianluigi Donnarumma,12,8,0,,0,Opp 6yd Right,0.0
+Giorgi Mamardashvili,1,1,0,,0,Own 6yd Left,0.0
 Giorgi Mamardashvili,1,2,3,27.0,3,Own 6yd Left,100.0
+Giorgi Mamardashvili,1,3,0,,0,Own 6yd Left-Center,0.0
+Giorgi Mamardashvili,1,4,0,,0,Own 6yd Center,0.0
 Giorgi Mamardashvili,1,5,1,6.6,1,Own 6yd Center,100.0
 Giorgi Mamardashvili,1,6,2,19.6,2,Own 6yd Right-Center,100.0
 Giorgi Mamardashvili,1,7,1,24.0,1,Own 6yd Right,100.0
+Giorgi Mamardashvili,1,8,0,,0,Own 6yd Right,0.0
+Giorgi Mamardashvili,2,1,0,,0,Own Box Left,0.0
+Giorgi Mamardashvili,2,2,0,,0,Own Box Left,0.0
+Giorgi Mamardashvili,2,3,0,,0,Own Box Left-Center,0.0
 Giorgi Mamardashvili,2,4,1,11.0,1,Own Box Center,100.0
 Giorgi Mamardashvili,2,5,2,13.1,2,Own Box Center,100.0
 Giorgi Mamardashvili,2,6,1,13.6,1,Own Box Right-Center,100.0
 Giorgi Mamardashvili,2,7,1,25.3,1,Own Box Right,100.0
+Giorgi Mamardashvili,2,8,0,,0,Own Box Right,0.0
+Giorgi Mamardashvili,3,1,0,,0,Own Def 3rd Left,0.0
+Giorgi Mamardashvili,3,2,0,,0,Own Def 3rd Left,0.0
+Giorgi Mamardashvili,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Giorgi Mamardashvili,3,4,0,,0,Own Def 3rd Center,0.0
+Giorgi Mamardashvili,3,5,0,,0,Own Def 3rd Center,0.0
+Giorgi Mamardashvili,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Giorgi Mamardashvili,3,7,0,,0,Own Def 3rd Right,0.0
+Giorgi Mamardashvili,3,8,0,,0,Own Def 3rd Right,0.0
+Giorgi Mamardashvili,4,1,0,,0,Own Def 3rd Left,0.0
+Giorgi Mamardashvili,4,2,0,,0,Own Def 3rd Left,0.0
+Giorgi Mamardashvili,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Giorgi Mamardashvili,4,4,0,,0,Own Def 3rd Center,0.0
+Giorgi Mamardashvili,4,5,0,,0,Own Def 3rd Center,0.0
+Giorgi Mamardashvili,4,6,0,,0,Own Def 3rd Right-Center,0.0
 Giorgi Mamardashvili,4,7,1,36.1,1,Own Def 3rd Right,100.0
+Giorgi Mamardashvili,4,8,0,,0,Own Def 3rd Right,0.0
 Giorgi Mamardashvili,5,1,1,49.3,0,Own Mid 3rd Left,0.0
+Giorgi Mamardashvili,5,2,0,,0,Own Mid 3rd Left,0.0
+Giorgi Mamardashvili,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Giorgi Mamardashvili,5,4,0,,0,Own Mid 3rd Center,0.0
+Giorgi Mamardashvili,5,5,0,,0,Own Mid 3rd Center,0.0
 Giorgi Mamardashvili,5,6,1,44.1,1,Own Mid 3rd Right-Center,100.0
+Giorgi Mamardashvili,5,7,0,,0,Own Mid 3rd Right,0.0
+Giorgi Mamardashvili,5,8,0,,0,Own Mid 3rd Right,0.0
+Giorgi Mamardashvili,6,1,0,,0,Own Mid 3rd Left,0.0
+Giorgi Mamardashvili,6,2,0,,0,Own Mid 3rd Left,0.0
+Giorgi Mamardashvili,6,3,0,,0,Own Mid 3rd Left-Center,0.0
 Giorgi Mamardashvili,6,4,1,50.3,0,Own Mid 3rd Center,0.0
+Giorgi Mamardashvili,6,5,0,,0,Own Mid 3rd Center,0.0
+Giorgi Mamardashvili,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Giorgi Mamardashvili,6,7,0,,0,Own Mid 3rd Right,0.0
 Giorgi Mamardashvili,6,8,2,60.6,2,Own Mid 3rd Right,100.0
 Giorgi Mamardashvili,7,1,1,70.0,1,Opp Mid 3rd Left,100.0
+Giorgi Mamardashvili,7,2,0,,0,Opp Mid 3rd Left,0.0
 Giorgi Mamardashvili,7,3,2,61.8,1,Opp Mid 3rd Left-Center,50.0
+Giorgi Mamardashvili,7,4,0,,0,Opp Mid 3rd Center,0.0
+Giorgi Mamardashvili,7,5,0,,0,Opp Mid 3rd Center,0.0
+Giorgi Mamardashvili,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Giorgi Mamardashvili,7,7,2,64.7,0,Opp Mid 3rd Right,0.0
 Giorgi Mamardashvili,7,8,3,69.4,2,Opp Mid 3rd Right,66.7
+Giorgi Mamardashvili,8,1,0,,0,Opp Mid 3rd Left,0.0
 Giorgi Mamardashvili,8,2,1,72.6,0,Opp Mid 3rd Left,0.0
 Giorgi Mamardashvili,8,3,3,68.7,0,Opp Mid 3rd Left-Center,0.0
 Giorgi Mamardashvili,8,4,1,72.1,0,Opp Mid 3rd Center,0.0
+Giorgi Mamardashvili,8,5,0,,0,Opp Mid 3rd Center,0.0
 Giorgi Mamardashvili,8,6,2,69.4,0,Opp Mid 3rd Right-Center,0.0
 Giorgi Mamardashvili,8,7,7,71.4,0,Opp Mid 3rd Right,0.0
 Giorgi Mamardashvili,8,8,2,70.8,1,Opp Mid 3rd Right,50.0
+Giorgi Mamardashvili,9,1,0,,0,Opp Att 3rd Left,0.0
+Giorgi Mamardashvili,9,2,0,,0,Opp Att 3rd Left,0.0
+Giorgi Mamardashvili,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Giorgi Mamardashvili,9,4,0,,0,Opp Att 3rd Center,0.0
+Giorgi Mamardashvili,9,5,0,,0,Opp Att 3rd Center,0.0
+Giorgi Mamardashvili,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Giorgi Mamardashvili,9,7,0,,0,Opp Att 3rd Right,0.0
 Giorgi Mamardashvili,9,8,1,81.3,0,Opp Att 3rd Right,0.0
 Giorgi Mamardashvili,10,1,1,94.7,0,Opp Att 3rd Left,0.0
+Giorgi Mamardashvili,10,2,0,,0,Opp Att 3rd Left,0.0
+Giorgi Mamardashvili,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Giorgi Mamardashvili,10,4,0,,0,Opp Att 3rd Center,0.0
+Giorgi Mamardashvili,10,5,0,,0,Opp Att 3rd Center,0.0
+Giorgi Mamardashvili,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Giorgi Mamardashvili,10,7,0,,0,Opp Att 3rd Right,0.0
+Giorgi Mamardashvili,10,8,0,,0,Opp Att 3rd Right,0.0
+Giorgi Mamardashvili,11,1,0,,0,Opp Box Left,0.0
+Giorgi Mamardashvili,11,2,0,,0,Opp Box Left,0.0
+Giorgi Mamardashvili,11,3,0,,0,Opp Box Left-Center,0.0
+Giorgi Mamardashvili,11,4,0,,0,Opp Box Center,0.0
+Giorgi Mamardashvili,11,5,0,,0,Opp Box Center,0.0
+Giorgi Mamardashvili,11,6,0,,0,Opp Box Right-Center,0.0
+Giorgi Mamardashvili,11,7,0,,0,Opp Box Right,0.0
+Giorgi Mamardashvili,11,8,0,,0,Opp Box Right,0.0
+Giorgi Mamardashvili,12,1,0,,0,Opp 6yd Left,0.0
+Giorgi Mamardashvili,12,2,0,,0,Opp 6yd Left,0.0
+Giorgi Mamardashvili,12,3,0,,0,Opp 6yd Left-Center,0.0
+Giorgi Mamardashvili,12,4,0,,0,Opp 6yd Center,0.0
+Giorgi Mamardashvili,12,5,0,,0,Opp 6yd Center,0.0
+Giorgi Mamardashvili,12,6,0,,0,Opp 6yd Right-Center,0.0
+Giorgi Mamardashvili,12,7,0,,0,Opp 6yd Right,0.0
+Giorgi Mamardashvili,12,8,0,,0,Opp 6yd Right,0.0
+Jan Oblak,1,1,0,,0,Own 6yd Left,0.0
+Jan Oblak,1,2,0,,0,Own 6yd Left,0.0
 Jan Oblak,1,3,2,14.6,2,Own 6yd Left-Center,100.0
+Jan Oblak,1,4,0,,0,Own 6yd Center,0.0
 Jan Oblak,1,5,4,7.3,4,Own 6yd Center,100.0
+Jan Oblak,1,6,0,,0,Own 6yd Right-Center,0.0
+Jan Oblak,1,7,0,,0,Own 6yd Right,0.0
+Jan Oblak,1,8,0,,0,Own 6yd Right,0.0
 Jan Oblak,2,1,1,33.6,1,Own Box Left,100.0
 Jan Oblak,2,2,2,29.0,2,Own Box Left,100.0
 Jan Oblak,2,3,1,14.7,1,Own Box Left-Center,100.0
+Jan Oblak,2,4,0,,0,Own Box Center,0.0
+Jan Oblak,2,5,0,,0,Own Box Center,0.0
 Jan Oblak,2,6,1,7.1,1,Own Box Right-Center,100.0
+Jan Oblak,2,7,0,,0,Own Box Right,0.0
 Jan Oblak,2,8,1,41.6,1,Own Box Right,100.0
 Jan Oblak,3,1,1,32.1,1,Own Def 3rd Left,100.0
+Jan Oblak,3,2,0,,0,Own Def 3rd Left,0.0
+Jan Oblak,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Jan Oblak,3,4,0,,0,Own Def 3rd Center,0.0
+Jan Oblak,3,5,0,,0,Own Def 3rd Center,0.0
+Jan Oblak,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Jan Oblak,3,7,0,,0,Own Def 3rd Right,0.0
 Jan Oblak,3,8,2,37.6,2,Own Def 3rd Right,100.0
 Jan Oblak,4,1,1,42.6,1,Own Def 3rd Left,100.0
 Jan Oblak,4,2,1,31.7,1,Own Def 3rd Left,100.0
+Jan Oblak,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Jan Oblak,4,4,0,,0,Own Def 3rd Center,0.0
+Jan Oblak,4,5,0,,0,Own Def 3rd Center,0.0
+Jan Oblak,4,6,0,,0,Own Def 3rd Right-Center,0.0
 Jan Oblak,4,7,1,36.2,1,Own Def 3rd Right,100.0
+Jan Oblak,4,8,0,,0,Own Def 3rd Right,0.0
+Jan Oblak,5,1,0,,0,Own Mid 3rd Left,0.0
+Jan Oblak,5,2,0,,0,Own Mid 3rd Left,0.0
+Jan Oblak,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Jan Oblak,5,4,0,,0,Own Mid 3rd Center,0.0
+Jan Oblak,5,5,0,,0,Own Mid 3rd Center,0.0
+Jan Oblak,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Jan Oblak,5,7,0,,0,Own Mid 3rd Right,0.0
 Jan Oblak,5,8,1,56.0,0,Own Mid 3rd Right,0.0
 Jan Oblak,6,1,1,63.5,1,Own Mid 3rd Left,100.0
 Jan Oblak,6,2,2,56.0,1,Own Mid 3rd Left,50.0
 Jan Oblak,6,3,1,53.5,0,Own Mid 3rd Left-Center,0.0
+Jan Oblak,6,4,0,,0,Own Mid 3rd Center,0.0
+Jan Oblak,6,5,0,,0,Own Mid 3rd Center,0.0
+Jan Oblak,6,6,0,,0,Own Mid 3rd Right-Center,0.0
 Jan Oblak,6,7,1,56.8,0,Own Mid 3rd Right,0.0
+Jan Oblak,6,8,0,,0,Own Mid 3rd Right,0.0
 Jan Oblak,7,1,3,67.0,0,Opp Mid 3rd Left,0.0
 Jan Oblak,7,2,1,60.5,0,Opp Mid 3rd Left,0.0
 Jan Oblak,7,3,1,61.6,0,Opp Mid 3rd Left-Center,0.0
+Jan Oblak,7,4,0,,0,Opp Mid 3rd Center,0.0
 Jan Oblak,7,5,2,60.4,1,Opp Mid 3rd Center,50.0
 Jan Oblak,7,6,2,62.8,1,Opp Mid 3rd Right-Center,50.0
 Jan Oblak,7,7,2,62.1,0,Opp Mid 3rd Right,0.0
 Jan Oblak,7,8,2,66.2,1,Opp Mid 3rd Right,50.0
+Jan Oblak,8,1,0,,0,Opp Mid 3rd Left,0.0
 Jan Oblak,8,2,2,71.4,0,Opp Mid 3rd Left,0.0
 Jan Oblak,8,3,1,65.8,0,Opp Mid 3rd Left-Center,0.0
+Jan Oblak,8,4,0,,0,Opp Mid 3rd Center,0.0
 Jan Oblak,8,5,1,67.5,0,Opp Mid 3rd Center,0.0
+Jan Oblak,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Jan Oblak,8,7,0,,0,Opp Mid 3rd Right,0.0
 Jan Oblak,8,8,1,73.0,1,Opp Mid 3rd Right,100.0
+Jan Oblak,9,1,0,,0,Opp Att 3rd Left,0.0
+Jan Oblak,9,2,0,,0,Opp Att 3rd Left,0.0
+Jan Oblak,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Jan Oblak,9,4,0,,0,Opp Att 3rd Center,0.0
+Jan Oblak,9,5,0,,0,Opp Att 3rd Center,0.0
+Jan Oblak,9,6,0,,0,Opp Att 3rd Right-Center,0.0
 Jan Oblak,9,7,1,78.5,0,Opp Att 3rd Right,0.0
+Jan Oblak,9,8,0,,0,Opp Att 3rd Right,0.0
+Jan Oblak,10,1,0,,0,Opp Att 3rd Left,0.0
+Jan Oblak,10,2,0,,0,Opp Att 3rd Left,0.0
 Jan Oblak,10,3,1,88.5,0,Opp Att 3rd Left-Center,0.0
+Jan Oblak,10,4,0,,0,Opp Att 3rd Center,0.0
+Jan Oblak,10,5,0,,0,Opp Att 3rd Center,0.0
 Jan Oblak,10,6,1,85.2,0,Opp Att 3rd Right-Center,0.0
+Jan Oblak,10,7,0,,0,Opp Att 3rd Right,0.0
+Jan Oblak,10,8,0,,0,Opp Att 3rd Right,0.0
+Jan Oblak,11,1,0,,0,Opp Box Left,0.0
+Jan Oblak,11,2,0,,0,Opp Box Left,0.0
+Jan Oblak,11,3,0,,0,Opp Box Left-Center,0.0
+Jan Oblak,11,4,0,,0,Opp Box Center,0.0
+Jan Oblak,11,5,0,,0,Opp Box Center,0.0
+Jan Oblak,11,6,0,,0,Opp Box Right-Center,0.0
+Jan Oblak,11,7,0,,0,Opp Box Right,0.0
+Jan Oblak,11,8,0,,0,Opp Box Right,0.0
+Jan Oblak,12,1,0,,0,Opp 6yd Left,0.0
+Jan Oblak,12,2,0,,0,Opp 6yd Left,0.0
+Jan Oblak,12,3,0,,0,Opp 6yd Left-Center,0.0
+Jan Oblak,12,4,0,,0,Opp 6yd Center,0.0
+Jan Oblak,12,5,0,,0,Opp 6yd Center,0.0
+Jan Oblak,12,6,0,,0,Opp 6yd Right-Center,0.0
+Jan Oblak,12,7,0,,0,Opp 6yd Right,0.0
+Jan Oblak,12,8,0,,0,Opp 6yd Right,0.0
+Jindřich Staněk,1,1,0,,0,Own 6yd Left,0.0
+Jindřich Staněk,1,2,0,,0,Own 6yd Left,0.0
 Jindřich Staněk,1,3,2,7.8,2,Own 6yd Left-Center,100.0
+Jindřich Staněk,1,4,0,,0,Own 6yd Center,0.0
+Jindřich Staněk,1,5,0,,0,Own 6yd Center,0.0
+Jindřich Staněk,1,6,0,,0,Own 6yd Right-Center,0.0
+Jindřich Staněk,1,7,0,,0,Own 6yd Right,0.0
+Jindřich Staněk,1,8,0,,0,Own 6yd Right,0.0
 Jindřich Staněk,2,1,1,31.6,1,Own Box Left,100.0
+Jindřich Staněk,2,2,0,,0,Own Box Left,0.0
 Jindřich Staněk,2,3,2,18.0,2,Own Box Left-Center,100.0
+Jindřich Staněk,2,4,0,,0,Own Box Center,0.0
+Jindřich Staněk,2,5,0,,0,Own Box Center,0.0
+Jindřich Staněk,2,6,0,,0,Own Box Right-Center,0.0
+Jindřich Staněk,2,7,0,,0,Own Box Right,0.0
+Jindřich Staněk,2,8,0,,0,Own Box Right,0.0
+Jindřich Staněk,3,1,0,,0,Own Def 3rd Left,0.0
+Jindřich Staněk,3,2,0,,0,Own Def 3rd Left,0.0
 Jindřich Staněk,3,3,1,17.1,1,Own Def 3rd Left-Center,100.0
 Jindřich Staněk,3,4,1,19.7,1,Own Def 3rd Center,100.0
+Jindřich Staněk,3,5,0,,0,Own Def 3rd Center,0.0
+Jindřich Staněk,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Jindřich Staněk,3,7,0,,0,Own Def 3rd Right,0.0
+Jindřich Staněk,3,8,0,,0,Own Def 3rd Right,0.0
+Jindřich Staněk,4,1,0,,0,Own Def 3rd Left,0.0
+Jindřich Staněk,4,2,0,,0,Own Def 3rd Left,0.0
+Jindřich Staněk,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Jindřich Staněk,4,4,0,,0,Own Def 3rd Center,0.0
+Jindřich Staněk,4,5,0,,0,Own Def 3rd Center,0.0
+Jindřich Staněk,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Jindřich Staněk,4,7,0,,0,Own Def 3rd Right,0.0
+Jindřich Staněk,4,8,0,,0,Own Def 3rd Right,0.0
+Jindřich Staněk,5,1,0,,0,Own Mid 3rd Left,0.0
+Jindřich Staněk,5,2,0,,0,Own Mid 3rd Left,0.0
+Jindřich Staněk,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Jindřich Staněk,5,4,0,,0,Own Mid 3rd Center,0.0
+Jindřich Staněk,5,5,0,,0,Own Mid 3rd Center,0.0
+Jindřich Staněk,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Jindřich Staněk,5,7,0,,0,Own Mid 3rd Right,0.0
+Jindřich Staněk,5,8,0,,0,Own Mid 3rd Right,0.0
+Jindřich Staněk,6,1,0,,0,Own Mid 3rd Left,0.0
+Jindřich Staněk,6,2,0,,0,Own Mid 3rd Left,0.0
+Jindřich Staněk,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Jindřich Staněk,6,4,0,,0,Own Mid 3rd Center,0.0
+Jindřich Staněk,6,5,0,,0,Own Mid 3rd Center,0.0
+Jindřich Staněk,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Jindřich Staněk,6,7,0,,0,Own Mid 3rd Right,0.0
 Jindřich Staněk,6,8,1,61.2,1,Own Mid 3rd Right,100.0
+Jindřich Staněk,7,1,0,,0,Opp Mid 3rd Left,0.0
+Jindřich Staněk,7,2,0,,0,Opp Mid 3rd Left,0.0
+Jindřich Staněk,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
 Jindřich Staněk,7,4,2,62.5,1,Opp Mid 3rd Center,50.0
+Jindřich Staněk,7,5,0,,0,Opp Mid 3rd Center,0.0
 Jindřich Staněk,7,6,1,67.2,0,Opp Mid 3rd Right-Center,0.0
 Jindřich Staněk,7,7,2,65.4,0,Opp Mid 3rd Right,0.0
 Jindřich Staněk,7,8,1,70.7,1,Opp Mid 3rd Right,100.0
+Jindřich Staněk,8,1,0,,0,Opp Mid 3rd Left,0.0
 Jindřich Staněk,8,2,2,70.6,1,Opp Mid 3rd Left,50.0
 Jindřich Staněk,8,3,1,70.1,0,Opp Mid 3rd Left-Center,0.0
 Jindřich Staněk,8,4,1,70.4,1,Opp Mid 3rd Center,100.0
 Jindřich Staněk,8,5,1,70.7,0,Opp Mid 3rd Center,0.0
+Jindřich Staněk,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Jindřich Staněk,8,7,2,71.1,1,Opp Mid 3rd Right,50.0
 Jindřich Staněk,8,8,2,72.2,1,Opp Mid 3rd Right,50.0
+Jindřich Staněk,9,1,0,,0,Opp Att 3rd Left,0.0
+Jindřich Staněk,9,2,0,,0,Opp Att 3rd Left,0.0
+Jindřich Staněk,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Jindřich Staněk,9,4,0,,0,Opp Att 3rd Center,0.0
+Jindřich Staněk,9,5,0,,0,Opp Att 3rd Center,0.0
+Jindřich Staněk,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Jindřich Staněk,9,7,0,,0,Opp Att 3rd Right,0.0
 Jindřich Staněk,9,8,1,80.5,0,Opp Att 3rd Right,0.0
+Jindřich Staněk,10,1,0,,0,Opp Att 3rd Left,0.0
+Jindřich Staněk,10,2,0,,0,Opp Att 3rd Left,0.0
+Jindřich Staněk,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Jindřich Staněk,10,4,0,,0,Opp Att 3rd Center,0.0
+Jindřich Staněk,10,5,0,,0,Opp Att 3rd Center,0.0
+Jindřich Staněk,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Jindřich Staněk,10,7,0,,0,Opp Att 3rd Right,0.0
+Jindřich Staněk,10,8,0,,0,Opp Att 3rd Right,0.0
+Jindřich Staněk,11,1,0,,0,Opp Box Left,0.0
+Jindřich Staněk,11,2,0,,0,Opp Box Left,0.0
+Jindřich Staněk,11,3,0,,0,Opp Box Left-Center,0.0
+Jindřich Staněk,11,4,0,,0,Opp Box Center,0.0
+Jindřich Staněk,11,5,0,,0,Opp Box Center,0.0
+Jindřich Staněk,11,6,0,,0,Opp Box Right-Center,0.0
+Jindřich Staněk,11,7,0,,0,Opp Box Right,0.0
+Jindřich Staněk,11,8,0,,0,Opp Box Right,0.0
+Jindřich Staněk,12,1,0,,0,Opp 6yd Left,0.0
+Jindřich Staněk,12,2,0,,0,Opp 6yd Left,0.0
+Jindřich Staněk,12,3,0,,0,Opp 6yd Left-Center,0.0
+Jindřich Staněk,12,4,0,,0,Opp 6yd Center,0.0
+Jindřich Staněk,12,5,0,,0,Opp 6yd Center,0.0
+Jindřich Staněk,12,6,0,,0,Opp 6yd Right-Center,0.0
+Jindřich Staněk,12,7,0,,0,Opp 6yd Right,0.0
+Jindřich Staněk,12,8,0,,0,Opp 6yd Right,0.0
+Jordan Pickford,1,1,0,,0,Own 6yd Left,0.0
+Jordan Pickford,1,2,0,,0,Own 6yd Left,0.0
+Jordan Pickford,1,3,0,,0,Own 6yd Left-Center,0.0
+Jordan Pickford,1,4,0,,0,Own 6yd Center,0.0
 Jordan Pickford,1,5,2,13.0,2,Own 6yd Center,100.0
 Jordan Pickford,1,6,4,16.1,4,Own 6yd Right-Center,100.0
 Jordan Pickford,1,7,1,14.9,1,Own 6yd Right,100.0
+Jordan Pickford,1,8,0,,0,Own 6yd Right,0.0
+Jordan Pickford,2,1,0,,0,Own Box Left,0.0
+Jordan Pickford,2,2,0,,0,Own Box Left,0.0
 Jordan Pickford,2,3,2,14.2,2,Own Box Left-Center,100.0
+Jordan Pickford,2,4,0,,0,Own Box Center,0.0
 Jordan Pickford,2,5,1,11.8,1,Own Box Center,100.0
 Jordan Pickford,2,6,1,15.0,1,Own Box Right-Center,100.0
+Jordan Pickford,2,7,0,,0,Own Box Right,0.0
+Jordan Pickford,2,8,0,,0,Own Box Right,0.0
+Jordan Pickford,3,1,0,,0,Own Def 3rd Left,0.0
+Jordan Pickford,3,2,0,,0,Own Def 3rd Left,0.0
 Jordan Pickford,3,3,2,22.2,2,Own Def 3rd Left-Center,100.0
+Jordan Pickford,3,4,0,,0,Own Def 3rd Center,0.0
+Jordan Pickford,3,5,0,,0,Own Def 3rd Center,0.0
+Jordan Pickford,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Jordan Pickford,3,7,0,,0,Own Def 3rd Right,0.0
 Jordan Pickford,3,8,2,38.6,2,Own Def 3rd Right,100.0
+Jordan Pickford,4,1,0,,0,Own Def 3rd Left,0.0
+Jordan Pickford,4,2,0,,0,Own Def 3rd Left,0.0
+Jordan Pickford,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Jordan Pickford,4,4,0,,0,Own Def 3rd Center,0.0
 Jordan Pickford,4,5,1,29.1,1,Own Def 3rd Center,100.0
+Jordan Pickford,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Jordan Pickford,4,7,0,,0,Own Def 3rd Right,0.0
+Jordan Pickford,4,8,0,,0,Own Def 3rd Right,0.0
+Jordan Pickford,5,1,0,,0,Own Mid 3rd Left,0.0
+Jordan Pickford,5,2,0,,0,Own Mid 3rd Left,0.0
+Jordan Pickford,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Jordan Pickford,5,4,0,,0,Own Mid 3rd Center,0.0
+Jordan Pickford,5,5,0,,0,Own Mid 3rd Center,0.0
+Jordan Pickford,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Jordan Pickford,5,7,0,,0,Own Mid 3rd Right,0.0
+Jordan Pickford,5,8,0,,0,Own Mid 3rd Right,0.0
+Jordan Pickford,6,1,0,,0,Own Mid 3rd Left,0.0
+Jordan Pickford,6,2,0,,0,Own Mid 3rd Left,0.0
+Jordan Pickford,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Jordan Pickford,6,4,0,,0,Own Mid 3rd Center,0.0
+Jordan Pickford,6,5,0,,0,Own Mid 3rd Center,0.0
 Jordan Pickford,6,6,1,52.0,0,Own Mid 3rd Right-Center,0.0
 Jordan Pickford,6,7,1,50.7,1,Own Mid 3rd Right,100.0
 Jordan Pickford,6,8,1,55.9,1,Own Mid 3rd Right,100.0
+Jordan Pickford,7,1,0,,0,Opp Mid 3rd Left,0.0
+Jordan Pickford,7,2,0,,0,Opp Mid 3rd Left,0.0
+Jordan Pickford,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Jordan Pickford,7,4,0,,0,Opp Mid 3rd Center,0.0
 Jordan Pickford,7,5,2,61.7,0,Opp Mid 3rd Center,0.0
 Jordan Pickford,7,6,4,63.0,2,Opp Mid 3rd Right-Center,50.0
+Jordan Pickford,7,7,0,,0,Opp Mid 3rd Right,0.0
 Jordan Pickford,7,8,1,67.8,1,Opp Mid 3rd Right,100.0
 Jordan Pickford,8,1,1,73.5,0,Opp Mid 3rd Left,0.0
 Jordan Pickford,8,2,1,66.9,0,Opp Mid 3rd Left,0.0
@@ -249,203 +1406,1380 @@ Jordan Pickford,8,4,1,71.5,1,Opp Mid 3rd Center,100.0
 Jordan Pickford,8,5,3,69.2,2,Opp Mid 3rd Center,66.7
 Jordan Pickford,8,6,5,70.0,3,Opp Mid 3rd Right-Center,60.0
 Jordan Pickford,8,7,2,67.9,2,Opp Mid 3rd Right,100.0
+Jordan Pickford,8,8,0,,0,Opp Mid 3rd Right,0.0
+Jordan Pickford,9,1,0,,0,Opp Att 3rd Left,0.0
+Jordan Pickford,9,2,0,,0,Opp Att 3rd Left,0.0
 Jordan Pickford,9,3,2,78.1,1,Opp Att 3rd Left-Center,50.0
+Jordan Pickford,9,4,0,,0,Opp Att 3rd Center,0.0
+Jordan Pickford,9,5,0,,0,Opp Att 3rd Center,0.0
 Jordan Pickford,9,6,2,76.6,1,Opp Att 3rd Right-Center,50.0
 Jordan Pickford,9,7,1,80.3,0,Opp Att 3rd Right,0.0
 Jordan Pickford,9,8,1,87.5,0,Opp Att 3rd Right,0.0
+Jordan Pickford,10,1,0,,0,Opp Att 3rd Left,0.0
+Jordan Pickford,10,2,0,,0,Opp Att 3rd Left,0.0
+Jordan Pickford,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Jordan Pickford,10,4,0,,0,Opp Att 3rd Center,0.0
+Jordan Pickford,10,5,0,,0,Opp Att 3rd Center,0.0
 Jordan Pickford,10,6,1,85.6,1,Opp Att 3rd Right-Center,100.0
+Jordan Pickford,10,7,0,,0,Opp Att 3rd Right,0.0
+Jordan Pickford,10,8,0,,0,Opp Att 3rd Right,0.0
+Jordan Pickford,11,1,0,,0,Opp Box Left,0.0
+Jordan Pickford,11,2,0,,0,Opp Box Left,0.0
+Jordan Pickford,11,3,0,,0,Opp Box Left-Center,0.0
 Jordan Pickford,11,4,1,103.6,0,Opp Box Center,0.0
+Jordan Pickford,11,5,0,,0,Opp Box Center,0.0
+Jordan Pickford,11,6,0,,0,Opp Box Right-Center,0.0
+Jordan Pickford,11,7,0,,0,Opp Box Right,0.0
+Jordan Pickford,11,8,0,,0,Opp Box Right,0.0
+Jordan Pickford,12,1,0,,0,Opp 6yd Left,0.0
+Jordan Pickford,12,2,0,,0,Opp 6yd Left,0.0
+Jordan Pickford,12,3,0,,0,Opp 6yd Left-Center,0.0
+Jordan Pickford,12,4,0,,0,Opp 6yd Center,0.0
+Jordan Pickford,12,5,0,,0,Opp 6yd Center,0.0
+Jordan Pickford,12,6,0,,0,Opp 6yd Right-Center,0.0
+Jordan Pickford,12,7,0,,0,Opp 6yd Right,0.0
+Jordan Pickford,12,8,0,,0,Opp 6yd Right,0.0
+Kasper Schmeichel,1,1,0,,0,Own 6yd Left,0.0
+Kasper Schmeichel,1,2,0,,0,Own 6yd Left,0.0
+Kasper Schmeichel,1,3,0,,0,Own 6yd Left-Center,0.0
+Kasper Schmeichel,1,4,0,,0,Own 6yd Center,0.0
 Kasper Schmeichel,1,5,1,9.8,1,Own 6yd Center,100.0
 Kasper Schmeichel,1,6,1,17.4,1,Own 6yd Right-Center,100.0
+Kasper Schmeichel,1,7,0,,0,Own 6yd Right,0.0
+Kasper Schmeichel,1,8,0,,0,Own 6yd Right,0.0
+Kasper Schmeichel,2,1,0,,0,Own Box Left,0.0
+Kasper Schmeichel,2,2,0,,0,Own Box Left,0.0
 Kasper Schmeichel,2,3,3,12.6,3,Own Box Left-Center,100.0
+Kasper Schmeichel,2,4,0,,0,Own Box Center,0.0
+Kasper Schmeichel,2,5,0,,0,Own Box Center,0.0
+Kasper Schmeichel,2,6,0,,0,Own Box Right-Center,0.0
+Kasper Schmeichel,2,7,0,,0,Own Box Right,0.0
+Kasper Schmeichel,2,8,0,,0,Own Box Right,0.0
 Kasper Schmeichel,3,1,1,39.8,1,Own Def 3rd Left,100.0
+Kasper Schmeichel,3,2,0,,0,Own Def 3rd Left,0.0
 Kasper Schmeichel,3,3,1,21.7,1,Own Def 3rd Left-Center,100.0
+Kasper Schmeichel,3,4,0,,0,Own Def 3rd Center,0.0
+Kasper Schmeichel,3,5,0,,0,Own Def 3rd Center,0.0
+Kasper Schmeichel,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Kasper Schmeichel,3,7,0,,0,Own Def 3rd Right,0.0
 Kasper Schmeichel,3,8,2,36.8,2,Own Def 3rd Right,100.0
 Kasper Schmeichel,4,1,1,45.6,1,Own Def 3rd Left,100.0
+Kasper Schmeichel,4,2,0,,0,Own Def 3rd Left,0.0
+Kasper Schmeichel,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Kasper Schmeichel,4,4,0,,0,Own Def 3rd Center,0.0
+Kasper Schmeichel,4,5,0,,0,Own Def 3rd Center,0.0
+Kasper Schmeichel,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Kasper Schmeichel,4,7,0,,0,Own Def 3rd Right,0.0
+Kasper Schmeichel,4,8,0,,0,Own Def 3rd Right,0.0
+Kasper Schmeichel,5,1,0,,0,Own Mid 3rd Left,0.0
+Kasper Schmeichel,5,2,0,,0,Own Mid 3rd Left,0.0
+Kasper Schmeichel,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Kasper Schmeichel,5,4,0,,0,Own Mid 3rd Center,0.0
+Kasper Schmeichel,5,5,0,,0,Own Mid 3rd Center,0.0
 Kasper Schmeichel,5,6,1,35.6,1,Own Mid 3rd Right-Center,100.0
+Kasper Schmeichel,5,7,0,,0,Own Mid 3rd Right,0.0
+Kasper Schmeichel,5,8,0,,0,Own Mid 3rd Right,0.0
 Kasper Schmeichel,6,1,1,62.7,1,Own Mid 3rd Left,100.0
+Kasper Schmeichel,6,2,0,,0,Own Mid 3rd Left,0.0
+Kasper Schmeichel,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Kasper Schmeichel,6,4,0,,0,Own Mid 3rd Center,0.0
+Kasper Schmeichel,6,5,0,,0,Own Mid 3rd Center,0.0
+Kasper Schmeichel,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Kasper Schmeichel,6,7,0,,0,Own Mid 3rd Right,0.0
+Kasper Schmeichel,6,8,0,,0,Own Mid 3rd Right,0.0
 Kasper Schmeichel,7,1,1,69.2,1,Opp Mid 3rd Left,100.0
+Kasper Schmeichel,7,2,0,,0,Opp Mid 3rd Left,0.0
+Kasper Schmeichel,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Kasper Schmeichel,7,4,0,,0,Opp Mid 3rd Center,0.0
+Kasper Schmeichel,7,5,0,,0,Opp Mid 3rd Center,0.0
 Kasper Schmeichel,7,6,1,57.0,1,Opp Mid 3rd Right-Center,100.0
+Kasper Schmeichel,7,7,0,,0,Opp Mid 3rd Right,0.0
+Kasper Schmeichel,7,8,0,,0,Opp Mid 3rd Right,0.0
+Kasper Schmeichel,8,1,0,,0,Opp Mid 3rd Left,0.0
 Kasper Schmeichel,8,2,1,79.8,1,Opp Mid 3rd Left,100.0
 Kasper Schmeichel,8,3,1,67.9,0,Opp Mid 3rd Left-Center,0.0
+Kasper Schmeichel,8,4,0,,0,Opp Mid 3rd Center,0.0
 Kasper Schmeichel,8,5,1,70.2,1,Opp Mid 3rd Center,100.0
 Kasper Schmeichel,8,6,1,71.5,1,Opp Mid 3rd Right-Center,100.0
 Kasper Schmeichel,8,7,1,73.3,1,Opp Mid 3rd Right,100.0
 Kasper Schmeichel,8,8,1,72.9,1,Opp Mid 3rd Right,100.0
+Kasper Schmeichel,9,1,0,,0,Opp Att 3rd Left,0.0
+Kasper Schmeichel,9,2,0,,0,Opp Att 3rd Left,0.0
+Kasper Schmeichel,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Kasper Schmeichel,9,4,0,,0,Opp Att 3rd Center,0.0
 Kasper Schmeichel,9,5,1,80.2,0,Opp Att 3rd Center,0.0
+Kasper Schmeichel,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Kasper Schmeichel,9,7,0,,0,Opp Att 3rd Right,0.0
+Kasper Schmeichel,9,8,0,,0,Opp Att 3rd Right,0.0
+Kasper Schmeichel,10,1,0,,0,Opp Att 3rd Left,0.0
+Kasper Schmeichel,10,2,0,,0,Opp Att 3rd Left,0.0
 Kasper Schmeichel,10,3,1,87.9,0,Opp Att 3rd Left-Center,0.0
+Kasper Schmeichel,10,4,0,,0,Opp Att 3rd Center,0.0
+Kasper Schmeichel,10,5,0,,0,Opp Att 3rd Center,0.0
+Kasper Schmeichel,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Kasper Schmeichel,10,7,0,,0,Opp Att 3rd Right,0.0
+Kasper Schmeichel,10,8,0,,0,Opp Att 3rd Right,0.0
+Kasper Schmeichel,11,1,0,,0,Opp Box Left,0.0
+Kasper Schmeichel,11,2,0,,0,Opp Box Left,0.0
+Kasper Schmeichel,11,3,0,,0,Opp Box Left-Center,0.0
+Kasper Schmeichel,11,4,0,,0,Opp Box Center,0.0
 Kasper Schmeichel,11,5,1,98.8,0,Opp Box Center,0.0
+Kasper Schmeichel,11,6,0,,0,Opp Box Right-Center,0.0
+Kasper Schmeichel,11,7,0,,0,Opp Box Right,0.0
+Kasper Schmeichel,11,8,0,,0,Opp Box Right,0.0
+Kasper Schmeichel,12,1,0,,0,Opp 6yd Left,0.0
+Kasper Schmeichel,12,2,0,,0,Opp 6yd Left,0.0
+Kasper Schmeichel,12,3,0,,0,Opp 6yd Left-Center,0.0
+Kasper Schmeichel,12,4,0,,0,Opp 6yd Center,0.0
+Kasper Schmeichel,12,5,0,,0,Opp 6yd Center,0.0
+Kasper Schmeichel,12,6,0,,0,Opp 6yd Right-Center,0.0
+Kasper Schmeichel,12,7,0,,0,Opp 6yd Right,0.0
+Kasper Schmeichel,12,8,0,,0,Opp 6yd Right,0.0
 Koen Casteels,1,1,1,30.0,1,Own 6yd Left,100.0
+Koen Casteels,1,2,0,,0,Own 6yd Left,0.0
 Koen Casteels,1,3,2,14.8,2,Own 6yd Left-Center,100.0
+Koen Casteels,1,4,0,,0,Own 6yd Center,0.0
 Koen Casteels,1,5,3,6.5,3,Own 6yd Center,100.0
 Koen Casteels,1,6,1,17.5,1,Own 6yd Right-Center,100.0
+Koen Casteels,1,7,0,,0,Own 6yd Right,0.0
+Koen Casteels,1,8,0,,0,Own 6yd Right,0.0
+Koen Casteels,2,1,0,,0,Own Box Left,0.0
+Koen Casteels,2,2,0,,0,Own Box Left,0.0
 Koen Casteels,2,3,6,9.8,6,Own Box Left-Center,100.0
+Koen Casteels,2,4,0,,0,Own Box Center,0.0
+Koen Casteels,2,5,0,,0,Own Box Center,0.0
 Koen Casteels,2,6,1,6.8,1,Own Box Right-Center,100.0
+Koen Casteels,2,7,0,,0,Own Box Right,0.0
 Koen Casteels,2,8,2,29.4,2,Own Box Right,100.0
 Koen Casteels,3,1,2,37.8,2,Own Def 3rd Left,100.0
+Koen Casteels,3,2,0,,0,Own Def 3rd Left,0.0
+Koen Casteels,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Koen Casteels,3,4,0,,0,Own Def 3rd Center,0.0
+Koen Casteels,3,5,0,,0,Own Def 3rd Center,0.0
 Koen Casteels,3,6,2,18.0,2,Own Def 3rd Right-Center,100.0
+Koen Casteels,3,7,0,,0,Own Def 3rd Right,0.0
+Koen Casteels,3,8,0,,0,Own Def 3rd Right,0.0
+Koen Casteels,4,1,0,,0,Own Def 3rd Left,0.0
+Koen Casteels,4,2,0,,0,Own Def 3rd Left,0.0
+Koen Casteels,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Koen Casteels,4,4,0,,0,Own Def 3rd Center,0.0
+Koen Casteels,4,5,0,,0,Own Def 3rd Center,0.0
 Koen Casteels,4,6,1,24.7,1,Own Def 3rd Right-Center,100.0
+Koen Casteels,4,7,0,,0,Own Def 3rd Right,0.0
+Koen Casteels,4,8,0,,0,Own Def 3rd Right,0.0
+Koen Casteels,5,1,0,,0,Own Mid 3rd Left,0.0
+Koen Casteels,5,2,0,,0,Own Mid 3rd Left,0.0
+Koen Casteels,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Koen Casteels,5,4,0,,0,Own Mid 3rd Center,0.0
 Koen Casteels,5,5,1,42.4,1,Own Mid 3rd Center,100.0
+Koen Casteels,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Koen Casteels,5,7,0,,0,Own Mid 3rd Right,0.0
 Koen Casteels,5,8,1,47.5,1,Own Mid 3rd Right,100.0
+Koen Casteels,6,1,0,,0,Own Mid 3rd Left,0.0
+Koen Casteels,6,2,0,,0,Own Mid 3rd Left,0.0
+Koen Casteels,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Koen Casteels,6,4,0,,0,Own Mid 3rd Center,0.0
+Koen Casteels,6,5,0,,0,Own Mid 3rd Center,0.0
+Koen Casteels,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Koen Casteels,6,7,0,,0,Own Mid 3rd Right,0.0
+Koen Casteels,6,8,0,,0,Own Mid 3rd Right,0.0
+Koen Casteels,7,1,0,,0,Opp Mid 3rd Left,0.0
+Koen Casteels,7,2,0,,0,Opp Mid 3rd Left,0.0
 Koen Casteels,7,3,1,60.7,0,Opp Mid 3rd Left-Center,0.0
+Koen Casteels,7,4,0,,0,Opp Mid 3rd Center,0.0
+Koen Casteels,7,5,0,,0,Opp Mid 3rd Center,0.0
+Koen Casteels,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Koen Casteels,7,7,0,,0,Opp Mid 3rd Right,0.0
+Koen Casteels,7,8,0,,0,Opp Mid 3rd Right,0.0
+Koen Casteels,8,1,0,,0,Opp Mid 3rd Left,0.0
+Koen Casteels,8,2,0,,0,Opp Mid 3rd Left,0.0
 Koen Casteels,8,3,1,65.0,1,Opp Mid 3rd Left-Center,100.0
 Koen Casteels,8,4,2,70.2,1,Opp Mid 3rd Center,50.0
 Koen Casteels,8,5,3,70.2,2,Opp Mid 3rd Center,66.7
 Koen Casteels,8,6,1,72.8,0,Opp Mid 3rd Right-Center,0.0
 Koen Casteels,8,7,2,72.6,0,Opp Mid 3rd Right,0.0
+Koen Casteels,8,8,0,,0,Opp Mid 3rd Right,0.0
+Koen Casteels,9,1,0,,0,Opp Att 3rd Left,0.0
+Koen Casteels,9,2,0,,0,Opp Att 3rd Left,0.0
+Koen Casteels,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Koen Casteels,9,4,0,,0,Opp Att 3rd Center,0.0
+Koen Casteels,9,5,0,,0,Opp Att 3rd Center,0.0
 Koen Casteels,9,6,2,80.8,0,Opp Att 3rd Right-Center,0.0
+Koen Casteels,9,7,0,,0,Opp Att 3rd Right,0.0
+Koen Casteels,9,8,0,,0,Opp Att 3rd Right,0.0
+Koen Casteels,10,1,0,,0,Opp Att 3rd Left,0.0
+Koen Casteels,10,2,0,,0,Opp Att 3rd Left,0.0
+Koen Casteels,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Koen Casteels,10,4,0,,0,Opp Att 3rd Center,0.0
+Koen Casteels,10,5,0,,0,Opp Att 3rd Center,0.0
+Koen Casteels,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Koen Casteels,10,7,0,,0,Opp Att 3rd Right,0.0
+Koen Casteels,10,8,0,,0,Opp Att 3rd Right,0.0
+Koen Casteels,11,1,0,,0,Opp Box Left,0.0
+Koen Casteels,11,2,0,,0,Opp Box Left,0.0
+Koen Casteels,11,3,0,,0,Opp Box Left-Center,0.0
+Koen Casteels,11,4,0,,0,Opp Box Center,0.0
+Koen Casteels,11,5,0,,0,Opp Box Center,0.0
+Koen Casteels,11,6,0,,0,Opp Box Right-Center,0.0
+Koen Casteels,11,7,0,,0,Opp Box Right,0.0
+Koen Casteels,11,8,0,,0,Opp Box Right,0.0
+Koen Casteels,12,1,0,,0,Opp 6yd Left,0.0
+Koen Casteels,12,2,0,,0,Opp 6yd Left,0.0
+Koen Casteels,12,3,0,,0,Opp 6yd Left-Center,0.0
+Koen Casteels,12,4,0,,0,Opp 6yd Center,0.0
+Koen Casteels,12,5,0,,0,Opp 6yd Center,0.0
+Koen Casteels,12,6,0,,0,Opp 6yd Right-Center,0.0
+Koen Casteels,12,7,0,,0,Opp 6yd Right,0.0
+Koen Casteels,12,8,0,,0,Opp 6yd Right,0.0
+Manuel Neuer,1,1,0,,0,Own 6yd Left,0.0
+Manuel Neuer,1,2,0,,0,Own 6yd Left,0.0
 Manuel Neuer,1,3,2,14.0,2,Own 6yd Left-Center,100.0
 Manuel Neuer,1,4,1,6.6,1,Own 6yd Center,100.0
+Manuel Neuer,1,5,0,,0,Own 6yd Center,0.0
 Manuel Neuer,1,6,1,12.1,1,Own 6yd Right-Center,100.0
+Manuel Neuer,1,7,0,,0,Own 6yd Right,0.0
+Manuel Neuer,1,8,0,,0,Own 6yd Right,0.0
 Manuel Neuer,2,1,1,34.1,1,Own Box Left,100.0
 Manuel Neuer,2,2,1,21.7,1,Own Box Left,100.0
+Manuel Neuer,2,3,0,,0,Own Box Left-Center,0.0
+Manuel Neuer,2,4,0,,0,Own Box Center,0.0
 Manuel Neuer,2,5,1,4.5,1,Own Box Center,100.0
 Manuel Neuer,2,6,2,13.2,2,Own Box Right-Center,100.0
 Manuel Neuer,2,7,1,30.1,1,Own Box Right,100.0
+Manuel Neuer,2,8,0,,0,Own Box Right,0.0
+Manuel Neuer,3,1,0,,0,Own Def 3rd Left,0.0
+Manuel Neuer,3,2,0,,0,Own Def 3rd Left,0.0
 Manuel Neuer,3,3,1,24.0,1,Own Def 3rd Left-Center,100.0
 Manuel Neuer,3,4,1,20.1,1,Own Def 3rd Center,100.0
+Manuel Neuer,3,5,0,,0,Own Def 3rd Center,0.0
+Manuel Neuer,3,6,0,,0,Own Def 3rd Right-Center,0.0
 Manuel Neuer,3,7,1,26.7,1,Own Def 3rd Right,100.0
 Manuel Neuer,3,8,1,39.5,1,Own Def 3rd Right,100.0
+Manuel Neuer,4,1,0,,0,Own Def 3rd Left,0.0
+Manuel Neuer,4,2,0,,0,Own Def 3rd Left,0.0
+Manuel Neuer,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Manuel Neuer,4,4,0,,0,Own Def 3rd Center,0.0
+Manuel Neuer,4,5,0,,0,Own Def 3rd Center,0.0
+Manuel Neuer,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Manuel Neuer,4,7,0,,0,Own Def 3rd Right,0.0
+Manuel Neuer,4,8,0,,0,Own Def 3rd Right,0.0
+Manuel Neuer,5,1,0,,0,Own Mid 3rd Left,0.0
+Manuel Neuer,5,2,0,,0,Own Mid 3rd Left,0.0
+Manuel Neuer,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Manuel Neuer,5,4,0,,0,Own Mid 3rd Center,0.0
+Manuel Neuer,5,5,0,,0,Own Mid 3rd Center,0.0
+Manuel Neuer,5,6,0,,0,Own Mid 3rd Right-Center,0.0
 Manuel Neuer,5,7,1,45.6,0,Own Mid 3rd Right,0.0
+Manuel Neuer,5,8,0,,0,Own Mid 3rd Right,0.0
+Manuel Neuer,6,1,0,,0,Own Mid 3rd Left,0.0
+Manuel Neuer,6,2,0,,0,Own Mid 3rd Left,0.0
+Manuel Neuer,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Manuel Neuer,6,4,0,,0,Own Mid 3rd Center,0.0
+Manuel Neuer,6,5,0,,0,Own Mid 3rd Center,0.0
+Manuel Neuer,6,6,0,,0,Own Mid 3rd Right-Center,0.0
 Manuel Neuer,6,7,1,49.2,0,Own Mid 3rd Right,0.0
+Manuel Neuer,6,8,0,,0,Own Mid 3rd Right,0.0
+Manuel Neuer,7,1,0,,0,Opp Mid 3rd Left,0.0
+Manuel Neuer,7,2,0,,0,Opp Mid 3rd Left,0.0
 Manuel Neuer,7,3,1,58.5,1,Opp Mid 3rd Left-Center,100.0
 Manuel Neuer,7,4,1,58.4,1,Opp Mid 3rd Center,100.0
+Manuel Neuer,7,5,0,,0,Opp Mid 3rd Center,0.0
+Manuel Neuer,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Manuel Neuer,7,7,0,,0,Opp Mid 3rd Right,0.0
+Manuel Neuer,7,8,0,,0,Opp Mid 3rd Right,0.0
+Manuel Neuer,8,1,0,,0,Opp Mid 3rd Left,0.0
+Manuel Neuer,8,2,0,,0,Opp Mid 3rd Left,0.0
+Manuel Neuer,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Manuel Neuer,8,4,0,,0,Opp Mid 3rd Center,0.0
+Manuel Neuer,8,5,0,,0,Opp Mid 3rd Center,0.0
+Manuel Neuer,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Manuel Neuer,8,7,0,,0,Opp Mid 3rd Right,0.0
+Manuel Neuer,8,8,0,,0,Opp Mid 3rd Right,0.0
+Manuel Neuer,9,1,0,,0,Opp Att 3rd Left,0.0
+Manuel Neuer,9,2,0,,0,Opp Att 3rd Left,0.0
+Manuel Neuer,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Manuel Neuer,9,4,0,,0,Opp Att 3rd Center,0.0
+Manuel Neuer,9,5,0,,0,Opp Att 3rd Center,0.0
+Manuel Neuer,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Manuel Neuer,9,7,0,,0,Opp Att 3rd Right,0.0
+Manuel Neuer,9,8,0,,0,Opp Att 3rd Right,0.0
+Manuel Neuer,10,1,0,,0,Opp Att 3rd Left,0.0
+Manuel Neuer,10,2,0,,0,Opp Att 3rd Left,0.0
+Manuel Neuer,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Manuel Neuer,10,4,0,,0,Opp Att 3rd Center,0.0
+Manuel Neuer,10,5,0,,0,Opp Att 3rd Center,0.0
+Manuel Neuer,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Manuel Neuer,10,7,0,,0,Opp Att 3rd Right,0.0
+Manuel Neuer,10,8,0,,0,Opp Att 3rd Right,0.0
+Manuel Neuer,11,1,0,,0,Opp Box Left,0.0
+Manuel Neuer,11,2,0,,0,Opp Box Left,0.0
+Manuel Neuer,11,3,0,,0,Opp Box Left-Center,0.0
+Manuel Neuer,11,4,0,,0,Opp Box Center,0.0
+Manuel Neuer,11,5,0,,0,Opp Box Center,0.0
+Manuel Neuer,11,6,0,,0,Opp Box Right-Center,0.0
+Manuel Neuer,11,7,0,,0,Opp Box Right,0.0
+Manuel Neuer,11,8,0,,0,Opp Box Right,0.0
+Manuel Neuer,12,1,0,,0,Opp 6yd Left,0.0
+Manuel Neuer,12,2,0,,0,Opp 6yd Left,0.0
+Manuel Neuer,12,3,0,,0,Opp 6yd Left-Center,0.0
+Manuel Neuer,12,4,0,,0,Opp 6yd Center,0.0
+Manuel Neuer,12,5,0,,0,Opp 6yd Center,0.0
+Manuel Neuer,12,6,0,,0,Opp 6yd Right-Center,0.0
+Manuel Neuer,12,7,0,,0,Opp 6yd Right,0.0
+Manuel Neuer,12,8,0,,0,Opp 6yd Right,0.0
+Martin Dúbravka,1,1,0,,0,Own 6yd Left,0.0
+Martin Dúbravka,1,2,0,,0,Own 6yd Left,0.0
+Martin Dúbravka,1,3,0,,0,Own 6yd Left-Center,0.0
+Martin Dúbravka,1,4,0,,0,Own 6yd Center,0.0
+Martin Dúbravka,1,5,0,,0,Own 6yd Center,0.0
+Martin Dúbravka,1,6,0,,0,Own 6yd Right-Center,0.0
+Martin Dúbravka,1,7,0,,0,Own 6yd Right,0.0
+Martin Dúbravka,1,8,0,,0,Own 6yd Right,0.0
+Martin Dúbravka,2,1,0,,0,Own Box Left,0.0
+Martin Dúbravka,2,2,0,,0,Own Box Left,0.0
 Martin Dúbravka,2,3,2,18.3,2,Own Box Left-Center,100.0
 Martin Dúbravka,2,4,1,12.6,1,Own Box Center,100.0
+Martin Dúbravka,2,5,0,,0,Own Box Center,0.0
+Martin Dúbravka,2,6,0,,0,Own Box Right-Center,0.0
+Martin Dúbravka,2,7,0,,0,Own Box Right,0.0
+Martin Dúbravka,2,8,0,,0,Own Box Right,0.0
+Martin Dúbravka,3,1,0,,0,Own Def 3rd Left,0.0
 Martin Dúbravka,3,2,1,22.8,1,Own Def 3rd Left,100.0
+Martin Dúbravka,3,3,0,,0,Own Def 3rd Left-Center,0.0
 Martin Dúbravka,3,4,1,22.7,1,Own Def 3rd Center,100.0
+Martin Dúbravka,3,5,0,,0,Own Def 3rd Center,0.0
 Martin Dúbravka,3,6,3,22.4,3,Own Def 3rd Right-Center,100.0
+Martin Dúbravka,3,7,0,,0,Own Def 3rd Right,0.0
+Martin Dúbravka,3,8,0,,0,Own Def 3rd Right,0.0
+Martin Dúbravka,4,1,0,,0,Own Def 3rd Left,0.0
+Martin Dúbravka,4,2,0,,0,Own Def 3rd Left,0.0
+Martin Dúbravka,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Martin Dúbravka,4,4,0,,0,Own Def 3rd Center,0.0
+Martin Dúbravka,4,5,0,,0,Own Def 3rd Center,0.0
+Martin Dúbravka,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Martin Dúbravka,4,7,0,,0,Own Def 3rd Right,0.0
+Martin Dúbravka,4,8,0,,0,Own Def 3rd Right,0.0
+Martin Dúbravka,5,1,0,,0,Own Mid 3rd Left,0.0
+Martin Dúbravka,5,2,0,,0,Own Mid 3rd Left,0.0
+Martin Dúbravka,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Martin Dúbravka,5,4,0,,0,Own Mid 3rd Center,0.0
+Martin Dúbravka,5,5,0,,0,Own Mid 3rd Center,0.0
+Martin Dúbravka,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Martin Dúbravka,5,7,0,,0,Own Mid 3rd Right,0.0
+Martin Dúbravka,5,8,0,,0,Own Mid 3rd Right,0.0
 Martin Dúbravka,6,1,1,55.0,0,Own Mid 3rd Left,0.0
+Martin Dúbravka,6,2,0,,0,Own Mid 3rd Left,0.0
 Martin Dúbravka,6,3,1,51.0,0,Own Mid 3rd Left-Center,0.0
+Martin Dúbravka,6,4,0,,0,Own Mid 3rd Center,0.0
+Martin Dúbravka,6,5,0,,0,Own Mid 3rd Center,0.0
+Martin Dúbravka,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Martin Dúbravka,6,7,0,,0,Own Mid 3rd Right,0.0
+Martin Dúbravka,6,8,0,,0,Own Mid 3rd Right,0.0
 Martin Dúbravka,7,1,2,69.6,1,Opp Mid 3rd Left,50.0
 Martin Dúbravka,7,2,2,66.0,1,Opp Mid 3rd Left,50.0
+Martin Dúbravka,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Martin Dúbravka,7,4,0,,0,Opp Mid 3rd Center,0.0
+Martin Dúbravka,7,5,0,,0,Opp Mid 3rd Center,0.0
+Martin Dúbravka,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Martin Dúbravka,7,7,0,,0,Opp Mid 3rd Right,0.0
 Martin Dúbravka,7,8,1,66.0,1,Opp Mid 3rd Right,100.0
+Martin Dúbravka,8,1,0,,0,Opp Mid 3rd Left,0.0
 Martin Dúbravka,8,2,1,73.2,1,Opp Mid 3rd Left,100.0
+Martin Dúbravka,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Martin Dúbravka,8,4,0,,0,Opp Mid 3rd Center,0.0
+Martin Dúbravka,8,5,0,,0,Opp Mid 3rd Center,0.0
 Martin Dúbravka,8,6,4,72.5,1,Opp Mid 3rd Right-Center,25.0
 Martin Dúbravka,8,7,3,70.8,2,Opp Mid 3rd Right,66.7
+Martin Dúbravka,8,8,0,,0,Opp Mid 3rd Right,0.0
+Martin Dúbravka,9,1,0,,0,Opp Att 3rd Left,0.0
 Martin Dúbravka,9,2,1,79.3,0,Opp Att 3rd Left,0.0
+Martin Dúbravka,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Martin Dúbravka,9,4,0,,0,Opp Att 3rd Center,0.0
+Martin Dúbravka,9,5,0,,0,Opp Att 3rd Center,0.0
 Martin Dúbravka,9,6,2,81.4,0,Opp Att 3rd Right-Center,0.0
+Martin Dúbravka,9,7,0,,0,Opp Att 3rd Right,0.0
+Martin Dúbravka,9,8,0,,0,Opp Att 3rd Right,0.0
 Martin Dúbravka,10,1,1,93.4,0,Opp Att 3rd Left,0.0
+Martin Dúbravka,10,2,0,,0,Opp Att 3rd Left,0.0
+Martin Dúbravka,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Martin Dúbravka,10,4,0,,0,Opp Att 3rd Center,0.0
+Martin Dúbravka,10,5,0,,0,Opp Att 3rd Center,0.0
+Martin Dúbravka,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Martin Dúbravka,10,7,0,,0,Opp Att 3rd Right,0.0
+Martin Dúbravka,10,8,0,,0,Opp Att 3rd Right,0.0
+Martin Dúbravka,11,1,0,,0,Opp Box Left,0.0
+Martin Dúbravka,11,2,0,,0,Opp Box Left,0.0
+Martin Dúbravka,11,3,0,,0,Opp Box Left-Center,0.0
+Martin Dúbravka,11,4,0,,0,Opp Box Center,0.0
+Martin Dúbravka,11,5,0,,0,Opp Box Center,0.0
+Martin Dúbravka,11,6,0,,0,Opp Box Right-Center,0.0
+Martin Dúbravka,11,7,0,,0,Opp Box Right,0.0
+Martin Dúbravka,11,8,0,,0,Opp Box Right,0.0
+Martin Dúbravka,12,1,0,,0,Opp 6yd Left,0.0
+Martin Dúbravka,12,2,0,,0,Opp 6yd Left,0.0
+Martin Dúbravka,12,3,0,,0,Opp 6yd Left-Center,0.0
+Martin Dúbravka,12,4,0,,0,Opp 6yd Center,0.0
+Martin Dúbravka,12,5,0,,0,Opp 6yd Center,0.0
+Martin Dúbravka,12,6,0,,0,Opp 6yd Right-Center,0.0
+Martin Dúbravka,12,7,0,,0,Opp 6yd Right,0.0
+Martin Dúbravka,12,8,0,,0,Opp 6yd Right,0.0
+Matěj Kovář,1,1,0,,0,Own 6yd Left,0.0
+Matěj Kovář,1,2,0,,0,Own 6yd Left,0.0
+Matěj Kovář,1,3,0,,0,Own 6yd Left-Center,0.0
+Matěj Kovář,1,4,0,,0,Own 6yd Center,0.0
+Matěj Kovář,1,5,0,,0,Own 6yd Center,0.0
+Matěj Kovář,1,6,0,,0,Own 6yd Right-Center,0.0
+Matěj Kovář,1,7,0,,0,Own 6yd Right,0.0
+Matěj Kovář,1,8,0,,0,Own 6yd Right,0.0
+Matěj Kovář,2,1,0,,0,Own Box Left,0.0
+Matěj Kovář,2,2,0,,0,Own Box Left,0.0
+Matěj Kovář,2,3,0,,0,Own Box Left-Center,0.0
+Matěj Kovář,2,4,0,,0,Own Box Center,0.0
+Matěj Kovář,2,5,0,,0,Own Box Center,0.0
+Matěj Kovář,2,6,0,,0,Own Box Right-Center,0.0
+Matěj Kovář,2,7,0,,0,Own Box Right,0.0
+Matěj Kovář,2,8,0,,0,Own Box Right,0.0
+Matěj Kovář,3,1,0,,0,Own Def 3rd Left,0.0
+Matěj Kovář,3,2,0,,0,Own Def 3rd Left,0.0
+Matěj Kovář,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Matěj Kovář,3,4,0,,0,Own Def 3rd Center,0.0
+Matěj Kovář,3,5,0,,0,Own Def 3rd Center,0.0
+Matěj Kovář,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Matěj Kovář,3,7,0,,0,Own Def 3rd Right,0.0
 Matěj Kovář,3,8,1,43.2,1,Own Def 3rd Right,100.0
+Matěj Kovář,4,1,0,,0,Own Def 3rd Left,0.0
+Matěj Kovář,4,2,0,,0,Own Def 3rd Left,0.0
+Matěj Kovář,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Matěj Kovář,4,4,0,,0,Own Def 3rd Center,0.0
+Matěj Kovář,4,5,0,,0,Own Def 3rd Center,0.0
+Matěj Kovář,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Matěj Kovář,4,7,0,,0,Own Def 3rd Right,0.0
+Matěj Kovář,4,8,0,,0,Own Def 3rd Right,0.0
+Matěj Kovář,5,1,0,,0,Own Mid 3rd Left,0.0
+Matěj Kovář,5,2,0,,0,Own Mid 3rd Left,0.0
+Matěj Kovář,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Matěj Kovář,5,4,0,,0,Own Mid 3rd Center,0.0
+Matěj Kovář,5,5,0,,0,Own Mid 3rd Center,0.0
+Matěj Kovář,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Matěj Kovář,5,7,0,,0,Own Mid 3rd Right,0.0
+Matěj Kovář,5,8,0,,0,Own Mid 3rd Right,0.0
+Matěj Kovář,6,1,0,,0,Own Mid 3rd Left,0.0
+Matěj Kovář,6,2,0,,0,Own Mid 3rd Left,0.0
+Matěj Kovář,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Matěj Kovář,6,4,0,,0,Own Mid 3rd Center,0.0
+Matěj Kovář,6,5,0,,0,Own Mid 3rd Center,0.0
+Matěj Kovář,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Matěj Kovář,6,7,0,,0,Own Mid 3rd Right,0.0
+Matěj Kovář,6,8,0,,0,Own Mid 3rd Right,0.0
+Matěj Kovář,7,1,0,,0,Opp Mid 3rd Left,0.0
+Matěj Kovář,7,2,0,,0,Opp Mid 3rd Left,0.0
+Matěj Kovář,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Matěj Kovář,7,4,0,,0,Opp Mid 3rd Center,0.0
+Matěj Kovář,7,5,0,,0,Opp Mid 3rd Center,0.0
+Matěj Kovář,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Matěj Kovář,7,7,0,,0,Opp Mid 3rd Right,0.0
+Matěj Kovář,7,8,0,,0,Opp Mid 3rd Right,0.0
+Matěj Kovář,8,1,0,,0,Opp Mid 3rd Left,0.0
+Matěj Kovář,8,2,0,,0,Opp Mid 3rd Left,0.0
 Matěj Kovář,8,3,1,69.4,1,Opp Mid 3rd Left-Center,100.0
+Matěj Kovář,8,4,0,,0,Opp Mid 3rd Center,0.0
+Matěj Kovář,8,5,0,,0,Opp Mid 3rd Center,0.0
+Matěj Kovář,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Matěj Kovář,8,7,0,,0,Opp Mid 3rd Right,0.0
+Matěj Kovář,8,8,0,,0,Opp Mid 3rd Right,0.0
+Matěj Kovář,9,1,0,,0,Opp Att 3rd Left,0.0
+Matěj Kovář,9,2,0,,0,Opp Att 3rd Left,0.0
+Matěj Kovář,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Matěj Kovář,9,4,0,,0,Opp Att 3rd Center,0.0
+Matěj Kovář,9,5,0,,0,Opp Att 3rd Center,0.0
+Matěj Kovář,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Matěj Kovář,9,7,0,,0,Opp Att 3rd Right,0.0
+Matěj Kovář,9,8,0,,0,Opp Att 3rd Right,0.0
+Matěj Kovář,10,1,0,,0,Opp Att 3rd Left,0.0
+Matěj Kovář,10,2,0,,0,Opp Att 3rd Left,0.0
+Matěj Kovář,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Matěj Kovář,10,4,0,,0,Opp Att 3rd Center,0.0
+Matěj Kovář,10,5,0,,0,Opp Att 3rd Center,0.0
+Matěj Kovář,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Matěj Kovář,10,7,0,,0,Opp Att 3rd Right,0.0
+Matěj Kovář,10,8,0,,0,Opp Att 3rd Right,0.0
+Matěj Kovář,11,1,0,,0,Opp Box Left,0.0
+Matěj Kovář,11,2,0,,0,Opp Box Left,0.0
+Matěj Kovář,11,3,0,,0,Opp Box Left-Center,0.0
+Matěj Kovář,11,4,0,,0,Opp Box Center,0.0
+Matěj Kovář,11,5,0,,0,Opp Box Center,0.0
+Matěj Kovář,11,6,0,,0,Opp Box Right-Center,0.0
+Matěj Kovář,11,7,0,,0,Opp Box Right,0.0
+Matěj Kovář,11,8,0,,0,Opp Box Right,0.0
+Matěj Kovář,12,1,0,,0,Opp 6yd Left,0.0
+Matěj Kovář,12,2,0,,0,Opp 6yd Left,0.0
+Matěj Kovář,12,3,0,,0,Opp 6yd Left-Center,0.0
+Matěj Kovář,12,4,0,,0,Opp 6yd Center,0.0
+Matěj Kovář,12,5,0,,0,Opp 6yd Center,0.0
+Matěj Kovář,12,6,0,,0,Opp 6yd Right-Center,0.0
+Matěj Kovář,12,7,0,,0,Opp 6yd Right,0.0
+Matěj Kovář,12,8,0,,0,Opp 6yd Right,0.0
+Mike Maignan,1,1,0,,0,Own 6yd Left,0.0
+Mike Maignan,1,2,0,,0,Own 6yd Left,0.0
 Mike Maignan,1,3,3,16.0,3,Own 6yd Left-Center,100.0
+Mike Maignan,1,4,0,,0,Own 6yd Center,0.0
 Mike Maignan,1,5,1,15.3,1,Own 6yd Center,100.0
 Mike Maignan,1,6,1,12.0,1,Own 6yd Right-Center,100.0
+Mike Maignan,1,7,0,,0,Own 6yd Right,0.0
+Mike Maignan,1,8,0,,0,Own 6yd Right,0.0
+Mike Maignan,2,1,0,,0,Own Box Left,0.0
 Mike Maignan,2,2,1,25.9,1,Own Box Left,100.0
 Mike Maignan,2,3,3,18.2,3,Own Box Left-Center,100.0
+Mike Maignan,2,4,0,,0,Own Box Center,0.0
 Mike Maignan,2,5,1,7.3,1,Own Box Center,100.0
 Mike Maignan,2,6,2,15.8,2,Own Box Right-Center,100.0
+Mike Maignan,2,7,0,,0,Own Box Right,0.0
+Mike Maignan,2,8,0,,0,Own Box Right,0.0
+Mike Maignan,3,1,0,,0,Own Def 3rd Left,0.0
+Mike Maignan,3,2,0,,0,Own Def 3rd Left,0.0
+Mike Maignan,3,3,0,,0,Own Def 3rd Left-Center,0.0
 Mike Maignan,3,4,1,23.4,1,Own Def 3rd Center,100.0
 Mike Maignan,3,5,1,19.7,0,Own Def 3rd Center,0.0
+Mike Maignan,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Mike Maignan,3,7,0,,0,Own Def 3rd Right,0.0
 Mike Maignan,3,8,1,39.7,1,Own Def 3rd Right,100.0
+Mike Maignan,4,1,0,,0,Own Def 3rd Left,0.0
+Mike Maignan,4,2,0,,0,Own Def 3rd Left,0.0
 Mike Maignan,4,3,1,26.4,1,Own Def 3rd Left-Center,100.0
+Mike Maignan,4,4,0,,0,Own Def 3rd Center,0.0
+Mike Maignan,4,5,0,,0,Own Def 3rd Center,0.0
 Mike Maignan,4,6,1,28.9,1,Own Def 3rd Right-Center,100.0
+Mike Maignan,4,7,0,,0,Own Def 3rd Right,0.0
+Mike Maignan,4,8,0,,0,Own Def 3rd Right,0.0
+Mike Maignan,5,1,0,,0,Own Mid 3rd Left,0.0
+Mike Maignan,5,2,0,,0,Own Mid 3rd Left,0.0
 Mike Maignan,5,3,1,40.0,1,Own Mid 3rd Left-Center,100.0
+Mike Maignan,5,4,0,,0,Own Mid 3rd Center,0.0
+Mike Maignan,5,5,0,,0,Own Mid 3rd Center,0.0
+Mike Maignan,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Mike Maignan,5,7,0,,0,Own Mid 3rd Right,0.0
+Mike Maignan,5,8,0,,0,Own Mid 3rd Right,0.0
+Mike Maignan,6,1,0,,0,Own Mid 3rd Left,0.0
+Mike Maignan,6,2,0,,0,Own Mid 3rd Left,0.0
+Mike Maignan,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Mike Maignan,6,4,0,,0,Own Mid 3rd Center,0.0
+Mike Maignan,6,5,0,,0,Own Mid 3rd Center,0.0
+Mike Maignan,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Mike Maignan,6,7,0,,0,Own Mid 3rd Right,0.0
+Mike Maignan,6,8,0,,0,Own Mid 3rd Right,0.0
+Mike Maignan,7,1,0,,0,Opp Mid 3rd Left,0.0
+Mike Maignan,7,2,0,,0,Opp Mid 3rd Left,0.0
+Mike Maignan,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Mike Maignan,7,4,0,,0,Opp Mid 3rd Center,0.0
+Mike Maignan,7,5,0,,0,Opp Mid 3rd Center,0.0
+Mike Maignan,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Mike Maignan,7,7,0,,0,Opp Mid 3rd Right,0.0
 Mike Maignan,7,8,1,67.8,1,Opp Mid 3rd Right,100.0
+Mike Maignan,8,1,0,,0,Opp Mid 3rd Left,0.0
 Mike Maignan,8,2,1,68.7,0,Opp Mid 3rd Left,0.0
+Mike Maignan,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Mike Maignan,8,4,0,,0,Opp Mid 3rd Center,0.0
+Mike Maignan,8,5,0,,0,Opp Mid 3rd Center,0.0
+Mike Maignan,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Mike Maignan,8,7,0,,0,Opp Mid 3rd Right,0.0
+Mike Maignan,8,8,0,,0,Opp Mid 3rd Right,0.0
+Mike Maignan,9,1,0,,0,Opp Att 3rd Left,0.0
+Mike Maignan,9,2,0,,0,Opp Att 3rd Left,0.0
 Mike Maignan,9,3,1,76.8,0,Opp Att 3rd Left-Center,0.0
+Mike Maignan,9,4,0,,0,Opp Att 3rd Center,0.0
 Mike Maignan,9,5,1,81.9,0,Opp Att 3rd Center,0.0
+Mike Maignan,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Mike Maignan,9,7,0,,0,Opp Att 3rd Right,0.0
+Mike Maignan,9,8,0,,0,Opp Att 3rd Right,0.0
+Mike Maignan,10,1,0,,0,Opp Att 3rd Left,0.0
+Mike Maignan,10,2,0,,0,Opp Att 3rd Left,0.0
+Mike Maignan,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Mike Maignan,10,4,0,,0,Opp Att 3rd Center,0.0
+Mike Maignan,10,5,0,,0,Opp Att 3rd Center,0.0
+Mike Maignan,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Mike Maignan,10,7,0,,0,Opp Att 3rd Right,0.0
+Mike Maignan,10,8,0,,0,Opp Att 3rd Right,0.0
+Mike Maignan,11,1,0,,0,Opp Box Left,0.0
+Mike Maignan,11,2,0,,0,Opp Box Left,0.0
+Mike Maignan,11,3,0,,0,Opp Box Left-Center,0.0
+Mike Maignan,11,4,0,,0,Opp Box Center,0.0
+Mike Maignan,11,5,0,,0,Opp Box Center,0.0
+Mike Maignan,11,6,0,,0,Opp Box Right-Center,0.0
+Mike Maignan,11,7,0,,0,Opp Box Right,0.0
+Mike Maignan,11,8,0,,0,Opp Box Right,0.0
+Mike Maignan,12,1,0,,0,Opp 6yd Left,0.0
+Mike Maignan,12,2,0,,0,Opp 6yd Left,0.0
+Mike Maignan,12,3,0,,0,Opp 6yd Left-Center,0.0
+Mike Maignan,12,4,0,,0,Opp 6yd Center,0.0
+Mike Maignan,12,5,0,,0,Opp 6yd Center,0.0
+Mike Maignan,12,6,0,,0,Opp 6yd Right-Center,0.0
+Mike Maignan,12,7,0,,0,Opp 6yd Right,0.0
+Mike Maignan,12,8,0,,0,Opp 6yd Right,0.0
+Patrick Pentz,1,1,0,,0,Own 6yd Left,0.0
+Patrick Pentz,1,2,0,,0,Own 6yd Left,0.0
+Patrick Pentz,1,3,0,,0,Own 6yd Left-Center,0.0
+Patrick Pentz,1,4,0,,0,Own 6yd Center,0.0
 Patrick Pentz,1,5,1,8.6,1,Own 6yd Center,100.0
+Patrick Pentz,1,6,0,,0,Own 6yd Right-Center,0.0
+Patrick Pentz,1,7,0,,0,Own 6yd Right,0.0
+Patrick Pentz,1,8,0,,0,Own 6yd Right,0.0
+Patrick Pentz,2,1,0,,0,Own Box Left,0.0
+Patrick Pentz,2,2,0,,0,Own Box Left,0.0
+Patrick Pentz,2,3,0,,0,Own Box Left-Center,0.0
 Patrick Pentz,2,4,2,8.8,2,Own Box Center,100.0
 Patrick Pentz,2,5,2,14.4,2,Own Box Center,100.0
+Patrick Pentz,2,6,0,,0,Own Box Right-Center,0.0
+Patrick Pentz,2,7,0,,0,Own Box Right,0.0
+Patrick Pentz,2,8,0,,0,Own Box Right,0.0
+Patrick Pentz,3,1,0,,0,Own Def 3rd Left,0.0
 Patrick Pentz,3,2,1,21.6,1,Own Def 3rd Left,100.0
 Patrick Pentz,3,3,1,20.6,1,Own Def 3rd Left-Center,100.0
 Patrick Pentz,3,4,1,20.4,1,Own Def 3rd Center,100.0
+Patrick Pentz,3,5,0,,0,Own Def 3rd Center,0.0
 Patrick Pentz,3,6,1,18.2,1,Own Def 3rd Right-Center,100.0
+Patrick Pentz,3,7,0,,0,Own Def 3rd Right,0.0
+Patrick Pentz,3,8,0,,0,Own Def 3rd Right,0.0
+Patrick Pentz,4,1,0,,0,Own Def 3rd Left,0.0
+Patrick Pentz,4,2,0,,0,Own Def 3rd Left,0.0
+Patrick Pentz,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Patrick Pentz,4,4,0,,0,Own Def 3rd Center,0.0
+Patrick Pentz,4,5,0,,0,Own Def 3rd Center,0.0
+Patrick Pentz,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Patrick Pentz,4,7,0,,0,Own Def 3rd Right,0.0
+Patrick Pentz,4,8,0,,0,Own Def 3rd Right,0.0
+Patrick Pentz,5,1,0,,0,Own Mid 3rd Left,0.0
+Patrick Pentz,5,2,0,,0,Own Mid 3rd Left,0.0
+Patrick Pentz,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Patrick Pentz,5,4,0,,0,Own Mid 3rd Center,0.0
+Patrick Pentz,5,5,0,,0,Own Mid 3rd Center,0.0
+Patrick Pentz,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Patrick Pentz,5,7,0,,0,Own Mid 3rd Right,0.0
+Patrick Pentz,5,8,0,,0,Own Mid 3rd Right,0.0
+Patrick Pentz,6,1,0,,0,Own Mid 3rd Left,0.0
+Patrick Pentz,6,2,0,,0,Own Mid 3rd Left,0.0
+Patrick Pentz,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Patrick Pentz,6,4,0,,0,Own Mid 3rd Center,0.0
+Patrick Pentz,6,5,0,,0,Own Mid 3rd Center,0.0
+Patrick Pentz,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Patrick Pentz,6,7,0,,0,Own Mid 3rd Right,0.0
+Patrick Pentz,6,8,0,,0,Own Mid 3rd Right,0.0
+Patrick Pentz,7,1,0,,0,Opp Mid 3rd Left,0.0
+Patrick Pentz,7,2,0,,0,Opp Mid 3rd Left,0.0
+Patrick Pentz,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
 Patrick Pentz,7,4,2,64.4,0,Opp Mid 3rd Center,0.0
+Patrick Pentz,7,5,0,,0,Opp Mid 3rd Center,0.0
+Patrick Pentz,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Patrick Pentz,7,7,0,,0,Opp Mid 3rd Right,0.0
+Patrick Pentz,7,8,0,,0,Opp Mid 3rd Right,0.0
 Patrick Pentz,8,1,1,78.2,1,Opp Mid 3rd Left,100.0
+Patrick Pentz,8,2,0,,0,Opp Mid 3rd Left,0.0
 Patrick Pentz,8,3,1,70.8,1,Opp Mid 3rd Left-Center,100.0
+Patrick Pentz,8,4,0,,0,Opp Mid 3rd Center,0.0
+Patrick Pentz,8,5,0,,0,Opp Mid 3rd Center,0.0
+Patrick Pentz,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Patrick Pentz,8,7,1,72.0,0,Opp Mid 3rd Right,0.0
+Patrick Pentz,8,8,0,,0,Opp Mid 3rd Right,0.0
+Patrick Pentz,9,1,0,,0,Opp Att 3rd Left,0.0
+Patrick Pentz,9,2,0,,0,Opp Att 3rd Left,0.0
+Patrick Pentz,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Patrick Pentz,9,4,0,,0,Opp Att 3rd Center,0.0
+Patrick Pentz,9,5,0,,0,Opp Att 3rd Center,0.0
+Patrick Pentz,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Patrick Pentz,9,7,0,,0,Opp Att 3rd Right,0.0
+Patrick Pentz,9,8,0,,0,Opp Att 3rd Right,0.0
+Patrick Pentz,10,1,0,,0,Opp Att 3rd Left,0.0
 Patrick Pentz,10,2,1,95.0,0,Opp Att 3rd Left,0.0
+Patrick Pentz,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Patrick Pentz,10,4,0,,0,Opp Att 3rd Center,0.0
+Patrick Pentz,10,5,0,,0,Opp Att 3rd Center,0.0
+Patrick Pentz,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Patrick Pentz,10,7,0,,0,Opp Att 3rd Right,0.0
+Patrick Pentz,10,8,0,,0,Opp Att 3rd Right,0.0
+Patrick Pentz,11,1,0,,0,Opp Box Left,0.0
+Patrick Pentz,11,2,0,,0,Opp Box Left,0.0
+Patrick Pentz,11,3,0,,0,Opp Box Left-Center,0.0
+Patrick Pentz,11,4,0,,0,Opp Box Center,0.0
+Patrick Pentz,11,5,0,,0,Opp Box Center,0.0
+Patrick Pentz,11,6,0,,0,Opp Box Right-Center,0.0
+Patrick Pentz,11,7,0,,0,Opp Box Right,0.0
+Patrick Pentz,11,8,0,,0,Opp Box Right,0.0
+Patrick Pentz,12,1,0,,0,Opp 6yd Left,0.0
+Patrick Pentz,12,2,0,,0,Opp 6yd Left,0.0
+Patrick Pentz,12,3,0,,0,Opp 6yd Left-Center,0.0
+Patrick Pentz,12,4,0,,0,Opp 6yd Center,0.0
+Patrick Pentz,12,5,0,,0,Opp 6yd Center,0.0
+Patrick Pentz,12,6,0,,0,Opp 6yd Right-Center,0.0
+Patrick Pentz,12,7,0,,0,Opp 6yd Right,0.0
+Patrick Pentz,12,8,0,,0,Opp 6yd Right,0.0
+Predrag Rajković,1,1,0,,0,Own 6yd Left,0.0
+Predrag Rajković,1,2,0,,0,Own 6yd Left,0.0
 Predrag Rajković,1,3,1,22.2,1,Own 6yd Left-Center,100.0
+Predrag Rajković,1,4,0,,0,Own 6yd Center,0.0
+Predrag Rajković,1,5,0,,0,Own 6yd Center,0.0
 Predrag Rajković,1,6,1,12.1,1,Own 6yd Right-Center,100.0
 Predrag Rajković,1,7,1,26.2,1,Own 6yd Right,100.0
+Predrag Rajković,1,8,0,,0,Own 6yd Right,0.0
+Predrag Rajković,2,1,0,,0,Own Box Left,0.0
+Predrag Rajković,2,2,0,,0,Own Box Left,0.0
 Predrag Rajković,2,3,3,18.0,3,Own Box Left-Center,100.0
 Predrag Rajković,2,4,2,13.5,2,Own Box Center,100.0
+Predrag Rajković,2,5,0,,0,Own Box Center,0.0
 Predrag Rajković,2,6,1,15.9,1,Own Box Right-Center,100.0
+Predrag Rajković,2,7,0,,0,Own Box Right,0.0
+Predrag Rajković,2,8,0,,0,Own Box Right,0.0
+Predrag Rajković,3,1,0,,0,Own Def 3rd Left,0.0
+Predrag Rajković,3,2,0,,0,Own Def 3rd Left,0.0
+Predrag Rajković,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Predrag Rajković,3,4,0,,0,Own Def 3rd Center,0.0
+Predrag Rajković,3,5,0,,0,Own Def 3rd Center,0.0
+Predrag Rajković,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Predrag Rajković,3,7,0,,0,Own Def 3rd Right,0.0
+Predrag Rajković,3,8,0,,0,Own Def 3rd Right,0.0
 Predrag Rajković,4,1,1,40.3,1,Own Def 3rd Left,100.0
+Predrag Rajković,4,2,0,,0,Own Def 3rd Left,0.0
+Predrag Rajković,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Predrag Rajković,4,4,0,,0,Own Def 3rd Center,0.0
+Predrag Rajković,4,5,0,,0,Own Def 3rd Center,0.0
+Predrag Rajković,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Predrag Rajković,4,7,0,,0,Own Def 3rd Right,0.0
+Predrag Rajković,4,8,0,,0,Own Def 3rd Right,0.0
+Predrag Rajković,5,1,0,,0,Own Mid 3rd Left,0.0
+Predrag Rajković,5,2,0,,0,Own Mid 3rd Left,0.0
 Predrag Rajković,5,3,1,39.1,1,Own Mid 3rd Left-Center,100.0
+Predrag Rajković,5,4,0,,0,Own Mid 3rd Center,0.0
+Predrag Rajković,5,5,0,,0,Own Mid 3rd Center,0.0
+Predrag Rajković,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Predrag Rajković,5,7,0,,0,Own Mid 3rd Right,0.0
+Predrag Rajković,5,8,0,,0,Own Mid 3rd Right,0.0
+Predrag Rajković,6,1,0,,0,Own Mid 3rd Left,0.0
+Predrag Rajković,6,2,0,,0,Own Mid 3rd Left,0.0
+Predrag Rajković,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Predrag Rajković,6,4,0,,0,Own Mid 3rd Center,0.0
+Predrag Rajković,6,5,0,,0,Own Mid 3rd Center,0.0
+Predrag Rajković,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Predrag Rajković,6,7,0,,0,Own Mid 3rd Right,0.0
+Predrag Rajković,6,8,0,,0,Own Mid 3rd Right,0.0
 Predrag Rajković,7,1,1,70.0,1,Opp Mid 3rd Left,100.0
+Predrag Rajković,7,2,0,,0,Opp Mid 3rd Left,0.0
+Predrag Rajković,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Predrag Rajković,7,4,0,,0,Opp Mid 3rd Center,0.0
+Predrag Rajković,7,5,0,,0,Opp Mid 3rd Center,0.0
+Predrag Rajković,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Predrag Rajković,7,7,0,,0,Opp Mid 3rd Right,0.0
+Predrag Rajković,7,8,0,,0,Opp Mid 3rd Right,0.0
 Predrag Rajković,8,1,2,76.3,0,Opp Mid 3rd Left,0.0
+Predrag Rajković,8,2,0,,0,Opp Mid 3rd Left,0.0
 Predrag Rajković,8,3,2,70.9,1,Opp Mid 3rd Left-Center,50.0
+Predrag Rajković,8,4,0,,0,Opp Mid 3rd Center,0.0
+Predrag Rajković,8,5,0,,0,Opp Mid 3rd Center,0.0
+Predrag Rajković,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Predrag Rajković,8,7,0,,0,Opp Mid 3rd Right,0.0
+Predrag Rajković,8,8,0,,0,Opp Mid 3rd Right,0.0
+Predrag Rajković,9,1,0,,0,Opp Att 3rd Left,0.0
+Predrag Rajković,9,2,0,,0,Opp Att 3rd Left,0.0
+Predrag Rajković,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Predrag Rajković,9,4,0,,0,Opp Att 3rd Center,0.0
+Predrag Rajković,9,5,0,,0,Opp Att 3rd Center,0.0
+Predrag Rajković,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Predrag Rajković,9,7,0,,0,Opp Att 3rd Right,0.0
+Predrag Rajković,9,8,0,,0,Opp Att 3rd Right,0.0
+Predrag Rajković,10,1,0,,0,Opp Att 3rd Left,0.0
+Predrag Rajković,10,2,0,,0,Opp Att 3rd Left,0.0
+Predrag Rajković,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Predrag Rajković,10,4,0,,0,Opp Att 3rd Center,0.0
+Predrag Rajković,10,5,0,,0,Opp Att 3rd Center,0.0
+Predrag Rajković,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Predrag Rajković,10,7,0,,0,Opp Att 3rd Right,0.0
+Predrag Rajković,10,8,0,,0,Opp Att 3rd Right,0.0
+Predrag Rajković,11,1,0,,0,Opp Box Left,0.0
+Predrag Rajković,11,2,0,,0,Opp Box Left,0.0
+Predrag Rajković,11,3,0,,0,Opp Box Left-Center,0.0
+Predrag Rajković,11,4,0,,0,Opp Box Center,0.0
 Predrag Rajković,11,5,1,101.5,0,Opp Box Center,0.0
+Predrag Rajković,11,6,0,,0,Opp Box Right-Center,0.0
+Predrag Rajković,11,7,0,,0,Opp Box Right,0.0
+Predrag Rajković,11,8,0,,0,Opp Box Right,0.0
+Predrag Rajković,12,1,0,,0,Opp 6yd Left,0.0
+Predrag Rajković,12,2,0,,0,Opp 6yd Left,0.0
+Predrag Rajković,12,3,0,,0,Opp 6yd Left-Center,0.0
+Predrag Rajković,12,4,0,,0,Opp 6yd Center,0.0
+Predrag Rajković,12,5,0,,0,Opp 6yd Center,0.0
+Predrag Rajković,12,6,0,,0,Opp 6yd Right-Center,0.0
+Predrag Rajković,12,7,0,,0,Opp 6yd Right,0.0
+Predrag Rajković,12,8,0,,0,Opp 6yd Right,0.0
+Péter Gulácsi,1,1,0,,0,Own 6yd Left,0.0
+Péter Gulácsi,1,2,0,,0,Own 6yd Left,0.0
 Péter Gulácsi,1,3,4,15.3,4,Own 6yd Left-Center,100.0
+Péter Gulácsi,1,4,0,,0,Own 6yd Center,0.0
 Péter Gulácsi,1,5,1,8.1,1,Own 6yd Center,100.0
 Péter Gulácsi,1,6,1,17.8,1,Own 6yd Right-Center,100.0
+Péter Gulácsi,1,7,0,,0,Own 6yd Right,0.0
+Péter Gulácsi,1,8,0,,0,Own 6yd Right,0.0
+Péter Gulácsi,2,1,0,,0,Own Box Left,0.0
+Péter Gulácsi,2,2,0,,0,Own Box Left,0.0
+Péter Gulácsi,2,3,0,,0,Own Box Left-Center,0.0
+Péter Gulácsi,2,4,0,,0,Own Box Center,0.0
+Péter Gulácsi,2,5,0,,0,Own Box Center,0.0
+Péter Gulácsi,2,6,0,,0,Own Box Right-Center,0.0
+Péter Gulácsi,2,7,0,,0,Own Box Right,0.0
+Péter Gulácsi,2,8,0,,0,Own Box Right,0.0
+Péter Gulácsi,3,1,0,,0,Own Def 3rd Left,0.0
+Péter Gulácsi,3,2,0,,0,Own Def 3rd Left,0.0
 Péter Gulácsi,3,3,1,21.8,1,Own Def 3rd Left-Center,100.0
+Péter Gulácsi,3,4,0,,0,Own Def 3rd Center,0.0
+Péter Gulácsi,3,5,0,,0,Own Def 3rd Center,0.0
+Péter Gulácsi,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Péter Gulácsi,3,7,0,,0,Own Def 3rd Right,0.0
 Péter Gulácsi,3,8,1,31.9,1,Own Def 3rd Right,100.0
+Péter Gulácsi,4,1,0,,0,Own Def 3rd Left,0.0
+Péter Gulácsi,4,2,0,,0,Own Def 3rd Left,0.0
+Péter Gulácsi,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Péter Gulácsi,4,4,0,,0,Own Def 3rd Center,0.0
+Péter Gulácsi,4,5,0,,0,Own Def 3rd Center,0.0
+Péter Gulácsi,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Péter Gulácsi,4,7,0,,0,Own Def 3rd Right,0.0
 Péter Gulácsi,4,8,1,41.3,1,Own Def 3rd Right,100.0
+Péter Gulácsi,5,1,0,,0,Own Mid 3rd Left,0.0
+Péter Gulácsi,5,2,0,,0,Own Mid 3rd Left,0.0
+Péter Gulácsi,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Péter Gulácsi,5,4,0,,0,Own Mid 3rd Center,0.0
+Péter Gulácsi,5,5,0,,0,Own Mid 3rd Center,0.0
+Péter Gulácsi,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Péter Gulácsi,5,7,0,,0,Own Mid 3rd Right,0.0
+Péter Gulácsi,5,8,0,,0,Own Mid 3rd Right,0.0
+Péter Gulácsi,6,1,0,,0,Own Mid 3rd Left,0.0
+Péter Gulácsi,6,2,0,,0,Own Mid 3rd Left,0.0
+Péter Gulácsi,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Péter Gulácsi,6,4,0,,0,Own Mid 3rd Center,0.0
+Péter Gulácsi,6,5,0,,0,Own Mid 3rd Center,0.0
+Péter Gulácsi,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Péter Gulácsi,6,7,0,,0,Own Mid 3rd Right,0.0
+Péter Gulácsi,6,8,0,,0,Own Mid 3rd Right,0.0
+Péter Gulácsi,7,1,0,,0,Opp Mid 3rd Left,0.0
 Péter Gulácsi,7,2,3,61.2,2,Opp Mid 3rd Left,66.7
+Péter Gulácsi,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Péter Gulácsi,7,4,0,,0,Opp Mid 3rd Center,0.0
+Péter Gulácsi,7,5,0,,0,Opp Mid 3rd Center,0.0
+Péter Gulácsi,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Péter Gulácsi,7,7,0,,0,Opp Mid 3rd Right,0.0
+Péter Gulácsi,7,8,0,,0,Opp Mid 3rd Right,0.0
 Péter Gulácsi,8,1,1,71.9,1,Opp Mid 3rd Left,100.0
 Péter Gulácsi,8,2,1,67.5,0,Opp Mid 3rd Left,0.0
+Péter Gulácsi,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Péter Gulácsi,8,4,0,,0,Opp Mid 3rd Center,0.0
 Péter Gulácsi,8,5,1,67.8,0,Opp Mid 3rd Center,0.0
+Péter Gulácsi,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Péter Gulácsi,8,7,0,,0,Opp Mid 3rd Right,0.0
+Péter Gulácsi,8,8,0,,0,Opp Mid 3rd Right,0.0
+Péter Gulácsi,9,1,0,,0,Opp Att 3rd Left,0.0
+Péter Gulácsi,9,2,0,,0,Opp Att 3rd Left,0.0
+Péter Gulácsi,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Péter Gulácsi,9,4,0,,0,Opp Att 3rd Center,0.0
+Péter Gulácsi,9,5,0,,0,Opp Att 3rd Center,0.0
+Péter Gulácsi,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Péter Gulácsi,9,7,0,,0,Opp Att 3rd Right,0.0
+Péter Gulácsi,9,8,0,,0,Opp Att 3rd Right,0.0
+Péter Gulácsi,10,1,0,,0,Opp Att 3rd Left,0.0
+Péter Gulácsi,10,2,0,,0,Opp Att 3rd Left,0.0
+Péter Gulácsi,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Péter Gulácsi,10,4,0,,0,Opp Att 3rd Center,0.0
+Péter Gulácsi,10,5,0,,0,Opp Att 3rd Center,0.0
+Péter Gulácsi,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Péter Gulácsi,10,7,0,,0,Opp Att 3rd Right,0.0
+Péter Gulácsi,10,8,0,,0,Opp Att 3rd Right,0.0
+Péter Gulácsi,11,1,0,,0,Opp Box Left,0.0
+Péter Gulácsi,11,2,0,,0,Opp Box Left,0.0
+Péter Gulácsi,11,3,0,,0,Opp Box Left-Center,0.0
+Péter Gulácsi,11,4,0,,0,Opp Box Center,0.0
+Péter Gulácsi,11,5,0,,0,Opp Box Center,0.0
+Péter Gulácsi,11,6,0,,0,Opp Box Right-Center,0.0
+Péter Gulácsi,11,7,0,,0,Opp Box Right,0.0
+Péter Gulácsi,11,8,0,,0,Opp Box Right,0.0
+Péter Gulácsi,12,1,0,,0,Opp 6yd Left,0.0
+Péter Gulácsi,12,2,0,,0,Opp 6yd Left,0.0
+Péter Gulácsi,12,3,0,,0,Opp 6yd Left-Center,0.0
+Péter Gulácsi,12,4,0,,0,Opp 6yd Center,0.0
+Péter Gulácsi,12,5,0,,0,Opp 6yd Center,0.0
+Péter Gulácsi,12,6,0,,0,Opp 6yd Right-Center,0.0
+Péter Gulácsi,12,7,0,,0,Opp 6yd Right,0.0
+Péter Gulácsi,12,8,0,,0,Opp 6yd Right,0.0
+Thomas Strakosha,1,1,0,,0,Own 6yd Left,0.0
+Thomas Strakosha,1,2,0,,0,Own 6yd Left,0.0
 Thomas Strakosha,1,3,2,15.2,2,Own 6yd Left-Center,100.0
+Thomas Strakosha,1,4,0,,0,Own 6yd Center,0.0
+Thomas Strakosha,1,5,0,,0,Own 6yd Center,0.0
 Thomas Strakosha,1,6,1,17.3,1,Own 6yd Right-Center,100.0
+Thomas Strakosha,1,7,0,,0,Own 6yd Right,0.0
+Thomas Strakosha,1,8,0,,0,Own 6yd Right,0.0
 Thomas Strakosha,2,1,2,38.3,2,Own Box Left,100.0
+Thomas Strakosha,2,2,0,,0,Own Box Left,0.0
+Thomas Strakosha,2,3,0,,0,Own Box Left-Center,0.0
 Thomas Strakosha,2,4,1,9.0,1,Own Box Center,100.0
+Thomas Strakosha,2,5,0,,0,Own Box Center,0.0
 Thomas Strakosha,2,6,1,14.4,1,Own Box Right-Center,100.0
+Thomas Strakosha,2,7,0,,0,Own Box Right,0.0
+Thomas Strakosha,2,8,0,,0,Own Box Right,0.0
+Thomas Strakosha,3,1,0,,0,Own Def 3rd Left,0.0
+Thomas Strakosha,3,2,0,,0,Own Def 3rd Left,0.0
+Thomas Strakosha,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Thomas Strakosha,3,4,0,,0,Own Def 3rd Center,0.0
+Thomas Strakosha,3,5,0,,0,Own Def 3rd Center,0.0
+Thomas Strakosha,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Thomas Strakosha,3,7,0,,0,Own Def 3rd Right,0.0
+Thomas Strakosha,3,8,0,,0,Own Def 3rd Right,0.0
+Thomas Strakosha,4,1,0,,0,Own Def 3rd Left,0.0
+Thomas Strakosha,4,2,0,,0,Own Def 3rd Left,0.0
+Thomas Strakosha,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Thomas Strakosha,4,4,0,,0,Own Def 3rd Center,0.0
+Thomas Strakosha,4,5,0,,0,Own Def 3rd Center,0.0
+Thomas Strakosha,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Thomas Strakosha,4,7,0,,0,Own Def 3rd Right,0.0
+Thomas Strakosha,4,8,0,,0,Own Def 3rd Right,0.0
+Thomas Strakosha,5,1,0,,0,Own Mid 3rd Left,0.0
+Thomas Strakosha,5,2,0,,0,Own Mid 3rd Left,0.0
+Thomas Strakosha,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Thomas Strakosha,5,4,0,,0,Own Mid 3rd Center,0.0
+Thomas Strakosha,5,5,0,,0,Own Mid 3rd Center,0.0
 Thomas Strakosha,5,6,1,45.5,1,Own Mid 3rd Right-Center,100.0
+Thomas Strakosha,5,7,0,,0,Own Mid 3rd Right,0.0
+Thomas Strakosha,5,8,0,,0,Own Mid 3rd Right,0.0
+Thomas Strakosha,6,1,0,,0,Own Mid 3rd Left,0.0
 Thomas Strakosha,6,2,1,52.6,1,Own Mid 3rd Left,100.0
+Thomas Strakosha,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Thomas Strakosha,6,4,0,,0,Own Mid 3rd Center,0.0
+Thomas Strakosha,6,5,0,,0,Own Mid 3rd Center,0.0
+Thomas Strakosha,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Thomas Strakosha,6,7,0,,0,Own Mid 3rd Right,0.0
+Thomas Strakosha,6,8,0,,0,Own Mid 3rd Right,0.0
+Thomas Strakosha,7,1,0,,0,Opp Mid 3rd Left,0.0
 Thomas Strakosha,7,2,4,67.4,4,Opp Mid 3rd Left,100.0
 Thomas Strakosha,7,3,2,61.9,2,Opp Mid 3rd Left-Center,100.0
 Thomas Strakosha,7,4,1,58.0,0,Opp Mid 3rd Center,0.0
+Thomas Strakosha,7,5,0,,0,Opp Mid 3rd Center,0.0
+Thomas Strakosha,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Thomas Strakosha,7,7,0,,0,Opp Mid 3rd Right,0.0
+Thomas Strakosha,7,8,0,,0,Opp Mid 3rd Right,0.0
+Thomas Strakosha,8,1,0,,0,Opp Mid 3rd Left,0.0
+Thomas Strakosha,8,2,0,,0,Opp Mid 3rd Left,0.0
 Thomas Strakosha,8,3,5,69.2,2,Opp Mid 3rd Left-Center,40.0
 Thomas Strakosha,8,4,2,70.0,0,Opp Mid 3rd Center,0.0
+Thomas Strakosha,8,5,0,,0,Opp Mid 3rd Center,0.0
+Thomas Strakosha,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Thomas Strakosha,8,7,1,67.5,1,Opp Mid 3rd Right,100.0
+Thomas Strakosha,8,8,0,,0,Opp Mid 3rd Right,0.0
+Thomas Strakosha,9,1,0,,0,Opp Att 3rd Left,0.0
+Thomas Strakosha,9,2,0,,0,Opp Att 3rd Left,0.0
+Thomas Strakosha,9,3,0,,0,Opp Att 3rd Left-Center,0.0
 Thomas Strakosha,9,4,1,82.8,0,Opp Att 3rd Center,0.0
 Thomas Strakosha,9,5,1,74.0,1,Opp Att 3rd Center,100.0
+Thomas Strakosha,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Thomas Strakosha,9,7,0,,0,Opp Att 3rd Right,0.0
 Thomas Strakosha,9,8,1,79.1,0,Opp Att 3rd Right,0.0
+Thomas Strakosha,10,1,0,,0,Opp Att 3rd Left,0.0
 Thomas Strakosha,10,2,1,88.8,0,Opp Att 3rd Left,0.0
+Thomas Strakosha,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Thomas Strakosha,10,4,0,,0,Opp Att 3rd Center,0.0
+Thomas Strakosha,10,5,0,,0,Opp Att 3rd Center,0.0
+Thomas Strakosha,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Thomas Strakosha,10,7,0,,0,Opp Att 3rd Right,0.0
+Thomas Strakosha,10,8,0,,0,Opp Att 3rd Right,0.0
+Thomas Strakosha,11,1,0,,0,Opp Box Left,0.0
+Thomas Strakosha,11,2,0,,0,Opp Box Left,0.0
+Thomas Strakosha,11,3,0,,0,Opp Box Left-Center,0.0
+Thomas Strakosha,11,4,0,,0,Opp Box Center,0.0
+Thomas Strakosha,11,5,0,,0,Opp Box Center,0.0
+Thomas Strakosha,11,6,0,,0,Opp Box Right-Center,0.0
+Thomas Strakosha,11,7,0,,0,Opp Box Right,0.0
+Thomas Strakosha,11,8,0,,0,Opp Box Right,0.0
+Thomas Strakosha,12,1,0,,0,Opp 6yd Left,0.0
+Thomas Strakosha,12,2,0,,0,Opp 6yd Left,0.0
+Thomas Strakosha,12,3,0,,0,Opp 6yd Left-Center,0.0
+Thomas Strakosha,12,4,0,,0,Opp 6yd Center,0.0
+Thomas Strakosha,12,5,0,,0,Opp 6yd Center,0.0
+Thomas Strakosha,12,6,0,,0,Opp 6yd Right-Center,0.0
+Thomas Strakosha,12,7,0,,0,Opp 6yd Right,0.0
+Thomas Strakosha,12,8,0,,0,Opp 6yd Right,0.0
+Unai Simón Mendibil,1,1,0,,0,Own 6yd Left,0.0
+Unai Simón Mendibil,1,2,0,,0,Own 6yd Left,0.0
+Unai Simón Mendibil,1,3,0,,0,Own 6yd Left-Center,0.0
 Unai Simón Mendibil,1,4,1,6.0,1,Own 6yd Center,100.0
 Unai Simón Mendibil,1,5,1,6.3,1,Own 6yd Center,100.0
 Unai Simón Mendibil,1,6,3,17.1,3,Own 6yd Right-Center,100.0
+Unai Simón Mendibil,1,7,0,,0,Own 6yd Right,0.0
+Unai Simón Mendibil,1,8,0,,0,Own 6yd Right,0.0
+Unai Simón Mendibil,2,1,0,,0,Own Box Left,0.0
+Unai Simón Mendibil,2,2,0,,0,Own Box Left,0.0
 Unai Simón Mendibil,2,3,4,15.3,4,Own Box Left-Center,100.0
 Unai Simón Mendibil,2,4,1,9.4,1,Own Box Center,100.0
 Unai Simón Mendibil,2,5,1,11.4,1,Own Box Center,100.0
 Unai Simón Mendibil,2,6,3,14.5,3,Own Box Right-Center,100.0
+Unai Simón Mendibil,2,7,0,,0,Own Box Right,0.0
+Unai Simón Mendibil,2,8,0,,0,Own Box Right,0.0
+Unai Simón Mendibil,3,1,0,,0,Own Def 3rd Left,0.0
+Unai Simón Mendibil,3,2,0,,0,Own Def 3rd Left,0.0
 Unai Simón Mendibil,3,3,1,21.3,1,Own Def 3rd Left-Center,100.0
+Unai Simón Mendibil,3,4,0,,0,Own Def 3rd Center,0.0
+Unai Simón Mendibil,3,5,0,,0,Own Def 3rd Center,0.0
+Unai Simón Mendibil,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Unai Simón Mendibil,3,7,0,,0,Own Def 3rd Right,0.0
+Unai Simón Mendibil,3,8,0,,0,Own Def 3rd Right,0.0
+Unai Simón Mendibil,4,1,0,,0,Own Def 3rd Left,0.0
+Unai Simón Mendibil,4,2,0,,0,Own Def 3rd Left,0.0
 Unai Simón Mendibil,4,3,1,31.1,1,Own Def 3rd Left-Center,100.0
+Unai Simón Mendibil,4,4,0,,0,Own Def 3rd Center,0.0
+Unai Simón Mendibil,4,5,0,,0,Own Def 3rd Center,0.0
+Unai Simón Mendibil,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Unai Simón Mendibil,4,7,0,,0,Own Def 3rd Right,0.0
+Unai Simón Mendibil,4,8,0,,0,Own Def 3rd Right,0.0
+Unai Simón Mendibil,5,1,0,,0,Own Mid 3rd Left,0.0
+Unai Simón Mendibil,5,2,0,,0,Own Mid 3rd Left,0.0
+Unai Simón Mendibil,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Unai Simón Mendibil,5,4,0,,0,Own Mid 3rd Center,0.0
+Unai Simón Mendibil,5,5,0,,0,Own Mid 3rd Center,0.0
+Unai Simón Mendibil,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Unai Simón Mendibil,5,7,0,,0,Own Mid 3rd Right,0.0
+Unai Simón Mendibil,5,8,0,,0,Own Mid 3rd Right,0.0
+Unai Simón Mendibil,6,1,0,,0,Own Mid 3rd Left,0.0
+Unai Simón Mendibil,6,2,0,,0,Own Mid 3rd Left,0.0
+Unai Simón Mendibil,6,3,0,,0,Own Mid 3rd Left-Center,0.0
 Unai Simón Mendibil,6,4,1,46.4,1,Own Mid 3rd Center,100.0
+Unai Simón Mendibil,6,5,0,,0,Own Mid 3rd Center,0.0
 Unai Simón Mendibil,6,6,1,47.3,1,Own Mid 3rd Right-Center,100.0
+Unai Simón Mendibil,6,7,0,,0,Own Mid 3rd Right,0.0
+Unai Simón Mendibil,6,8,0,,0,Own Mid 3rd Right,0.0
+Unai Simón Mendibil,7,1,0,,0,Opp Mid 3rd Left,0.0
+Unai Simón Mendibil,7,2,0,,0,Opp Mid 3rd Left,0.0
+Unai Simón Mendibil,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Unai Simón Mendibil,7,4,0,,0,Opp Mid 3rd Center,0.0
+Unai Simón Mendibil,7,5,0,,0,Opp Mid 3rd Center,0.0
 Unai Simón Mendibil,7,6,1,56.4,0,Opp Mid 3rd Right-Center,0.0
+Unai Simón Mendibil,7,7,0,,0,Opp Mid 3rd Right,0.0
+Unai Simón Mendibil,7,8,0,,0,Opp Mid 3rd Right,0.0
 Unai Simón Mendibil,8,1,4,76.6,2,Opp Mid 3rd Left,50.0
 Unai Simón Mendibil,8,2,2,72.6,0,Opp Mid 3rd Left,0.0
+Unai Simón Mendibil,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Unai Simón Mendibil,8,4,0,,0,Opp Mid 3rd Center,0.0
+Unai Simón Mendibil,8,5,0,,0,Opp Mid 3rd Center,0.0
 Unai Simón Mendibil,8,6,2,72.6,0,Opp Mid 3rd Right-Center,0.0
 Unai Simón Mendibil,8,7,3,74.3,1,Opp Mid 3rd Right,33.3
 Unai Simón Mendibil,8,8,2,73.9,0,Opp Mid 3rd Right,0.0
 Unai Simón Mendibil,9,1,1,81.9,1,Opp Att 3rd Left,100.0
+Unai Simón Mendibil,9,2,0,,0,Opp Att 3rd Left,0.0
+Unai Simón Mendibil,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Unai Simón Mendibil,9,4,0,,0,Opp Att 3rd Center,0.0
+Unai Simón Mendibil,9,5,0,,0,Opp Att 3rd Center,0.0
+Unai Simón Mendibil,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Unai Simón Mendibil,9,7,0,,0,Opp Att 3rd Right,0.0
+Unai Simón Mendibil,9,8,0,,0,Opp Att 3rd Right,0.0
 Unai Simón Mendibil,10,1,2,94.2,0,Opp Att 3rd Left,0.0
+Unai Simón Mendibil,10,2,0,,0,Opp Att 3rd Left,0.0
+Unai Simón Mendibil,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Unai Simón Mendibil,10,4,0,,0,Opp Att 3rd Center,0.0
+Unai Simón Mendibil,10,5,0,,0,Opp Att 3rd Center,0.0
+Unai Simón Mendibil,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Unai Simón Mendibil,10,7,0,,0,Opp Att 3rd Right,0.0
+Unai Simón Mendibil,10,8,0,,0,Opp Att 3rd Right,0.0
+Unai Simón Mendibil,11,1,0,,0,Opp Box Left,0.0
+Unai Simón Mendibil,11,2,0,,0,Opp Box Left,0.0
+Unai Simón Mendibil,11,3,0,,0,Opp Box Left-Center,0.0
+Unai Simón Mendibil,11,4,0,,0,Opp Box Center,0.0
+Unai Simón Mendibil,11,5,0,,0,Opp Box Center,0.0
+Unai Simón Mendibil,11,6,0,,0,Opp Box Right-Center,0.0
+Unai Simón Mendibil,11,7,0,,0,Opp Box Right,0.0
+Unai Simón Mendibil,11,8,0,,0,Opp Box Right,0.0
+Unai Simón Mendibil,12,1,0,,0,Opp 6yd Left,0.0
+Unai Simón Mendibil,12,2,0,,0,Opp 6yd Left,0.0
+Unai Simón Mendibil,12,3,0,,0,Opp 6yd Left-Center,0.0
+Unai Simón Mendibil,12,4,0,,0,Opp 6yd Center,0.0
+Unai Simón Mendibil,12,5,0,,0,Opp 6yd Center,0.0
+Unai Simón Mendibil,12,6,0,,0,Opp 6yd Right-Center,0.0
+Unai Simón Mendibil,12,7,0,,0,Opp 6yd Right,0.0
+Unai Simón Mendibil,12,8,0,,0,Opp 6yd Right,0.0
+Wojciech Szczęsny,1,1,0,,0,Own 6yd Left,0.0
+Wojciech Szczęsny,1,2,0,,0,Own 6yd Left,0.0
 Wojciech Szczęsny,1,3,1,9.9,1,Own 6yd Left-Center,100.0
 Wojciech Szczęsny,1,4,1,6.6,1,Own 6yd Center,100.0
+Wojciech Szczęsny,1,5,0,,0,Own 6yd Center,0.0
+Wojciech Szczęsny,1,6,0,,0,Own 6yd Right-Center,0.0
+Wojciech Szczęsny,1,7,0,,0,Own 6yd Right,0.0
+Wojciech Szczęsny,1,8,0,,0,Own 6yd Right,0.0
+Wojciech Szczęsny,2,1,0,,0,Own Box Left,0.0
+Wojciech Szczęsny,2,2,0,,0,Own Box Left,0.0
+Wojciech Szczęsny,2,3,0,,0,Own Box Left-Center,0.0
+Wojciech Szczęsny,2,4,0,,0,Own Box Center,0.0
+Wojciech Szczęsny,2,5,0,,0,Own Box Center,0.0
 Wojciech Szczęsny,2,6,1,20.9,1,Own Box Right-Center,100.0
+Wojciech Szczęsny,2,7,0,,0,Own Box Right,0.0
+Wojciech Szczęsny,2,8,0,,0,Own Box Right,0.0
+Wojciech Szczęsny,3,1,0,,0,Own Def 3rd Left,0.0
+Wojciech Szczęsny,3,2,0,,0,Own Def 3rd Left,0.0
+Wojciech Szczęsny,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Wojciech Szczęsny,3,4,0,,0,Own Def 3rd Center,0.0
+Wojciech Szczęsny,3,5,0,,0,Own Def 3rd Center,0.0
 Wojciech Szczęsny,3,6,1,21.5,1,Own Def 3rd Right-Center,100.0
+Wojciech Szczęsny,3,7,0,,0,Own Def 3rd Right,0.0
 Wojciech Szczęsny,3,8,1,35.0,1,Own Def 3rd Right,100.0
+Wojciech Szczęsny,4,1,0,,0,Own Def 3rd Left,0.0
+Wojciech Szczęsny,4,2,0,,0,Own Def 3rd Left,0.0
+Wojciech Szczęsny,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Wojciech Szczęsny,4,4,0,,0,Own Def 3rd Center,0.0
+Wojciech Szczęsny,4,5,0,,0,Own Def 3rd Center,0.0
+Wojciech Szczęsny,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Wojciech Szczęsny,4,7,0,,0,Own Def 3rd Right,0.0
+Wojciech Szczęsny,4,8,0,,0,Own Def 3rd Right,0.0
+Wojciech Szczęsny,5,1,0,,0,Own Mid 3rd Left,0.0
+Wojciech Szczęsny,5,2,0,,0,Own Mid 3rd Left,0.0
+Wojciech Szczęsny,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Wojciech Szczęsny,5,4,0,,0,Own Mid 3rd Center,0.0
+Wojciech Szczęsny,5,5,0,,0,Own Mid 3rd Center,0.0
+Wojciech Szczęsny,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Wojciech Szczęsny,5,7,0,,0,Own Mid 3rd Right,0.0
 Wojciech Szczęsny,5,8,1,59.8,1,Own Mid 3rd Right,100.0
+Wojciech Szczęsny,6,1,0,,0,Own Mid 3rd Left,0.0
+Wojciech Szczęsny,6,2,0,,0,Own Mid 3rd Left,0.0
+Wojciech Szczęsny,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Wojciech Szczęsny,6,4,0,,0,Own Mid 3rd Center,0.0
+Wojciech Szczęsny,6,5,0,,0,Own Mid 3rd Center,0.0
+Wojciech Szczęsny,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Wojciech Szczęsny,6,7,0,,0,Own Mid 3rd Right,0.0
+Wojciech Szczęsny,6,8,0,,0,Own Mid 3rd Right,0.0
+Wojciech Szczęsny,7,1,0,,0,Opp Mid 3rd Left,0.0
+Wojciech Szczęsny,7,2,0,,0,Opp Mid 3rd Left,0.0
+Wojciech Szczęsny,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Wojciech Szczęsny,7,4,0,,0,Opp Mid 3rd Center,0.0
 Wojciech Szczęsny,7,5,1,64.9,0,Opp Mid 3rd Center,0.0
+Wojciech Szczęsny,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Wojciech Szczęsny,7,7,0,,0,Opp Mid 3rd Right,0.0
+Wojciech Szczęsny,7,8,0,,0,Opp Mid 3rd Right,0.0
+Wojciech Szczęsny,8,1,0,,0,Opp Mid 3rd Left,0.0
+Wojciech Szczęsny,8,2,0,,0,Opp Mid 3rd Left,0.0
 Wojciech Szczęsny,8,3,1,70.4,0,Opp Mid 3rd Left-Center,0.0
+Wojciech Szczęsny,8,4,0,,0,Opp Mid 3rd Center,0.0
+Wojciech Szczęsny,8,5,0,,0,Opp Mid 3rd Center,0.0
 Wojciech Szczęsny,8,6,4,70.4,0,Opp Mid 3rd Right-Center,0.0
+Wojciech Szczęsny,8,7,0,,0,Opp Mid 3rd Right,0.0
+Wojciech Szczęsny,8,8,0,,0,Opp Mid 3rd Right,0.0
+Wojciech Szczęsny,9,1,0,,0,Opp Att 3rd Left,0.0
+Wojciech Szczęsny,9,2,0,,0,Opp Att 3rd Left,0.0
+Wojciech Szczęsny,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Wojciech Szczęsny,9,4,0,,0,Opp Att 3rd Center,0.0
+Wojciech Szczęsny,9,5,0,,0,Opp Att 3rd Center,0.0
+Wojciech Szczęsny,9,6,0,,0,Opp Att 3rd Right-Center,0.0
+Wojciech Szczęsny,9,7,0,,0,Opp Att 3rd Right,0.0
+Wojciech Szczęsny,9,8,0,,0,Opp Att 3rd Right,0.0
+Wojciech Szczęsny,10,1,0,,0,Opp Att 3rd Left,0.0
+Wojciech Szczęsny,10,2,0,,0,Opp Att 3rd Left,0.0
+Wojciech Szczęsny,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Wojciech Szczęsny,10,4,0,,0,Opp Att 3rd Center,0.0
+Wojciech Szczęsny,10,5,0,,0,Opp Att 3rd Center,0.0
+Wojciech Szczęsny,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Wojciech Szczęsny,10,7,0,,0,Opp Att 3rd Right,0.0
+Wojciech Szczęsny,10,8,0,,0,Opp Att 3rd Right,0.0
+Wojciech Szczęsny,11,1,0,,0,Opp Box Left,0.0
+Wojciech Szczęsny,11,2,0,,0,Opp Box Left,0.0
+Wojciech Szczęsny,11,3,0,,0,Opp Box Left-Center,0.0
+Wojciech Szczęsny,11,4,0,,0,Opp Box Center,0.0
+Wojciech Szczęsny,11,5,0,,0,Opp Box Center,0.0
+Wojciech Szczęsny,11,6,0,,0,Opp Box Right-Center,0.0
+Wojciech Szczęsny,11,7,0,,0,Opp Box Right,0.0
+Wojciech Szczęsny,11,8,0,,0,Opp Box Right,0.0
+Wojciech Szczęsny,12,1,0,,0,Opp 6yd Left,0.0
+Wojciech Szczęsny,12,2,0,,0,Opp 6yd Left,0.0
+Wojciech Szczęsny,12,3,0,,0,Opp 6yd Left-Center,0.0
+Wojciech Szczęsny,12,4,0,,0,Opp 6yd Center,0.0
+Wojciech Szczęsny,12,5,0,,0,Opp 6yd Center,0.0
+Wojciech Szczęsny,12,6,0,,0,Opp 6yd Right-Center,0.0
+Wojciech Szczęsny,12,7,0,,0,Opp 6yd Right,0.0
+Wojciech Szczęsny,12,8,0,,0,Opp 6yd Right,0.0
+Yann Sommer,1,1,0,,0,Own 6yd Left,0.0
+Yann Sommer,1,2,0,,0,Own 6yd Left,0.0
+Yann Sommer,1,3,0,,0,Own 6yd Left-Center,0.0
 Yann Sommer,1,4,2,8.6,2,Own 6yd Center,100.0
+Yann Sommer,1,5,0,,0,Own 6yd Center,0.0
+Yann Sommer,1,6,0,,0,Own 6yd Right-Center,0.0
+Yann Sommer,1,7,0,,0,Own 6yd Right,0.0
+Yann Sommer,1,8,0,,0,Own 6yd Right,0.0
+Yann Sommer,2,1,0,,0,Own Box Left,0.0
 Yann Sommer,2,2,1,22.3,1,Own Box Left,100.0
+Yann Sommer,2,3,0,,0,Own Box Left-Center,0.0
 Yann Sommer,2,4,1,14.1,1,Own Box Center,100.0
+Yann Sommer,2,5,0,,0,Own Box Center,0.0
+Yann Sommer,2,6,0,,0,Own Box Right-Center,0.0
 Yann Sommer,2,7,1,26.3,1,Own Box Right,100.0
 Yann Sommer,2,8,1,29.2,1,Own Box Right,100.0
 Yann Sommer,3,1,1,36.5,1,Own Def 3rd Left,100.0
+Yann Sommer,3,2,0,,0,Own Def 3rd Left,0.0
+Yann Sommer,3,3,0,,0,Own Def 3rd Left-Center,0.0
+Yann Sommer,3,4,0,,0,Own Def 3rd Center,0.0
+Yann Sommer,3,5,0,,0,Own Def 3rd Center,0.0
+Yann Sommer,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Yann Sommer,3,7,0,,0,Own Def 3rd Right,0.0
+Yann Sommer,3,8,0,,0,Own Def 3rd Right,0.0
+Yann Sommer,4,1,0,,0,Own Def 3rd Left,0.0
+Yann Sommer,4,2,0,,0,Own Def 3rd Left,0.0
+Yann Sommer,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Yann Sommer,4,4,0,,0,Own Def 3rd Center,0.0
+Yann Sommer,4,5,0,,0,Own Def 3rd Center,0.0
+Yann Sommer,4,6,0,,0,Own Def 3rd Right-Center,0.0
 Yann Sommer,4,7,1,38.0,1,Own Def 3rd Right,100.0
+Yann Sommer,4,8,0,,0,Own Def 3rd Right,0.0
+Yann Sommer,5,1,0,,0,Own Mid 3rd Left,0.0
+Yann Sommer,5,2,0,,0,Own Mid 3rd Left,0.0
+Yann Sommer,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Yann Sommer,5,4,0,,0,Own Mid 3rd Center,0.0
+Yann Sommer,5,5,0,,0,Own Mid 3rd Center,0.0
+Yann Sommer,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Yann Sommer,5,7,0,,0,Own Mid 3rd Right,0.0
+Yann Sommer,5,8,0,,0,Own Mid 3rd Right,0.0
+Yann Sommer,6,1,0,,0,Own Mid 3rd Left,0.0
+Yann Sommer,6,2,0,,0,Own Mid 3rd Left,0.0
+Yann Sommer,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Yann Sommer,6,4,0,,0,Own Mid 3rd Center,0.0
 Yann Sommer,6,5,1,49.7,0,Own Mid 3rd Center,0.0
+Yann Sommer,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Yann Sommer,6,7,0,,0,Own Mid 3rd Right,0.0
+Yann Sommer,6,8,0,,0,Own Mid 3rd Right,0.0
+Yann Sommer,7,1,0,,0,Opp Mid 3rd Left,0.0
+Yann Sommer,7,2,0,,0,Opp Mid 3rd Left,0.0
 Yann Sommer,7,3,1,57.8,0,Opp Mid 3rd Left-Center,0.0
+Yann Sommer,7,4,0,,0,Opp Mid 3rd Center,0.0
+Yann Sommer,7,5,0,,0,Opp Mid 3rd Center,0.0
+Yann Sommer,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Yann Sommer,7,7,1,63.8,0,Opp Mid 3rd Right,0.0
 Yann Sommer,7,8,2,66.4,1,Opp Mid 3rd Right,50.0
+Yann Sommer,8,1,0,,0,Opp Mid 3rd Left,0.0
+Yann Sommer,8,2,0,,0,Opp Mid 3rd Left,0.0
+Yann Sommer,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Yann Sommer,8,4,0,,0,Opp Mid 3rd Center,0.0
+Yann Sommer,8,5,0,,0,Opp Mid 3rd Center,0.0
+Yann Sommer,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Yann Sommer,8,7,2,73.2,0,Opp Mid 3rd Right,0.0
 Yann Sommer,8,8,1,77.1,0,Opp Mid 3rd Right,0.0
+Yann Sommer,9,1,0,,0,Opp Att 3rd Left,0.0
+Yann Sommer,9,2,0,,0,Opp Att 3rd Left,0.0
+Yann Sommer,9,3,0,,0,Opp Att 3rd Left-Center,0.0
+Yann Sommer,9,4,0,,0,Opp Att 3rd Center,0.0
+Yann Sommer,9,5,0,,0,Opp Att 3rd Center,0.0
 Yann Sommer,9,6,1,82.6,0,Opp Att 3rd Right-Center,0.0
 Yann Sommer,9,7,1,77.1,0,Opp Att 3rd Right,0.0
+Yann Sommer,9,8,0,,0,Opp Att 3rd Right,0.0
+Yann Sommer,10,1,0,,0,Opp Att 3rd Left,0.0
+Yann Sommer,10,2,0,,0,Opp Att 3rd Left,0.0
+Yann Sommer,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Yann Sommer,10,4,0,,0,Opp Att 3rd Center,0.0
+Yann Sommer,10,5,0,,0,Opp Att 3rd Center,0.0
+Yann Sommer,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Yann Sommer,10,7,0,,0,Opp Att 3rd Right,0.0
+Yann Sommer,10,8,0,,0,Opp Att 3rd Right,0.0
+Yann Sommer,11,1,0,,0,Opp Box Left,0.0
+Yann Sommer,11,2,0,,0,Opp Box Left,0.0
+Yann Sommer,11,3,0,,0,Opp Box Left-Center,0.0
+Yann Sommer,11,4,0,,0,Opp Box Center,0.0
+Yann Sommer,11,5,0,,0,Opp Box Center,0.0
+Yann Sommer,11,6,0,,0,Opp Box Right-Center,0.0
+Yann Sommer,11,7,0,,0,Opp Box Right,0.0
+Yann Sommer,11,8,0,,0,Opp Box Right,0.0
+Yann Sommer,12,1,0,,0,Opp 6yd Left,0.0
+Yann Sommer,12,2,0,,0,Opp 6yd Left,0.0
+Yann Sommer,12,3,0,,0,Opp 6yd Left-Center,0.0
+Yann Sommer,12,4,0,,0,Opp 6yd Center,0.0
+Yann Sommer,12,5,0,,0,Opp 6yd Center,0.0
+Yann Sommer,12,6,0,,0,Opp 6yd Right-Center,0.0
+Yann Sommer,12,7,0,,0,Opp 6yd Right,0.0
+Yann Sommer,12,8,0,,0,Opp 6yd Right,0.0
+Łukasz Skorupski,1,1,0,,0,Own 6yd Left,0.0
+Łukasz Skorupski,1,2,0,,0,Own 6yd Left,0.0
 Łukasz Skorupski,1,3,1,8.3,1,Own 6yd Left-Center,100.0
 Łukasz Skorupski,1,4,1,5.0,1,Own 6yd Center,100.0
 Łukasz Skorupski,1,5,1,12.0,1,Own 6yd Center,100.0
+Łukasz Skorupski,1,6,0,,0,Own 6yd Right-Center,0.0
+Łukasz Skorupski,1,7,0,,0,Own 6yd Right,0.0
+Łukasz Skorupski,1,8,0,,0,Own 6yd Right,0.0
+Łukasz Skorupski,2,1,0,,0,Own Box Left,0.0
+Łukasz Skorupski,2,2,0,,0,Own Box Left,0.0
 Łukasz Skorupski,2,3,2,15.2,2,Own Box Left-Center,100.0
 Łukasz Skorupski,2,4,2,7.2,2,Own Box Center,100.0
+Łukasz Skorupski,2,5,0,,0,Own Box Center,0.0
+Łukasz Skorupski,2,6,0,,0,Own Box Right-Center,0.0
+Łukasz Skorupski,2,7,0,,0,Own Box Right,0.0
+Łukasz Skorupski,2,8,0,,0,Own Box Right,0.0
+Łukasz Skorupski,3,1,0,,0,Own Def 3rd Left,0.0
+Łukasz Skorupski,3,2,0,,0,Own Def 3rd Left,0.0
+Łukasz Skorupski,3,3,0,,0,Own Def 3rd Left-Center,0.0
 Łukasz Skorupski,3,4,1,19.5,1,Own Def 3rd Center,100.0
+Łukasz Skorupski,3,5,0,,0,Own Def 3rd Center,0.0
+Łukasz Skorupski,3,6,0,,0,Own Def 3rd Right-Center,0.0
+Łukasz Skorupski,3,7,0,,0,Own Def 3rd Right,0.0
+Łukasz Skorupski,3,8,0,,0,Own Def 3rd Right,0.0
+Łukasz Skorupski,4,1,0,,0,Own Def 3rd Left,0.0
+Łukasz Skorupski,4,2,0,,0,Own Def 3rd Left,0.0
+Łukasz Skorupski,4,3,0,,0,Own Def 3rd Left-Center,0.0
+Łukasz Skorupski,4,4,0,,0,Own Def 3rd Center,0.0
+Łukasz Skorupski,4,5,0,,0,Own Def 3rd Center,0.0
+Łukasz Skorupski,4,6,0,,0,Own Def 3rd Right-Center,0.0
+Łukasz Skorupski,4,7,0,,0,Own Def 3rd Right,0.0
+Łukasz Skorupski,4,8,0,,0,Own Def 3rd Right,0.0
+Łukasz Skorupski,5,1,0,,0,Own Mid 3rd Left,0.0
+Łukasz Skorupski,5,2,0,,0,Own Mid 3rd Left,0.0
+Łukasz Skorupski,5,3,0,,0,Own Mid 3rd Left-Center,0.0
+Łukasz Skorupski,5,4,0,,0,Own Mid 3rd Center,0.0
+Łukasz Skorupski,5,5,0,,0,Own Mid 3rd Center,0.0
+Łukasz Skorupski,5,6,0,,0,Own Mid 3rd Right-Center,0.0
+Łukasz Skorupski,5,7,0,,0,Own Mid 3rd Right,0.0
+Łukasz Skorupski,5,8,0,,0,Own Mid 3rd Right,0.0
+Łukasz Skorupski,6,1,0,,0,Own Mid 3rd Left,0.0
+Łukasz Skorupski,6,2,0,,0,Own Mid 3rd Left,0.0
+Łukasz Skorupski,6,3,0,,0,Own Mid 3rd Left-Center,0.0
+Łukasz Skorupski,6,4,0,,0,Own Mid 3rd Center,0.0
+Łukasz Skorupski,6,5,0,,0,Own Mid 3rd Center,0.0
+Łukasz Skorupski,6,6,0,,0,Own Mid 3rd Right-Center,0.0
+Łukasz Skorupski,6,7,0,,0,Own Mid 3rd Right,0.0
+Łukasz Skorupski,6,8,0,,0,Own Mid 3rd Right,0.0
+Łukasz Skorupski,7,1,0,,0,Opp Mid 3rd Left,0.0
+Łukasz Skorupski,7,2,0,,0,Opp Mid 3rd Left,0.0
+Łukasz Skorupski,7,3,0,,0,Opp Mid 3rd Left-Center,0.0
 Łukasz Skorupski,7,4,1,58.9,1,Opp Mid 3rd Center,100.0
+Łukasz Skorupski,7,5,0,,0,Opp Mid 3rd Center,0.0
+Łukasz Skorupski,7,6,0,,0,Opp Mid 3rd Right-Center,0.0
+Łukasz Skorupski,7,7,0,,0,Opp Mid 3rd Right,0.0
+Łukasz Skorupski,7,8,0,,0,Opp Mid 3rd Right,0.0
+Łukasz Skorupski,8,1,0,,0,Opp Mid 3rd Left,0.0
+Łukasz Skorupski,8,2,0,,0,Opp Mid 3rd Left,0.0
+Łukasz Skorupski,8,3,0,,0,Opp Mid 3rd Left-Center,0.0
+Łukasz Skorupski,8,4,0,,0,Opp Mid 3rd Center,0.0
+Łukasz Skorupski,8,5,0,,0,Opp Mid 3rd Center,0.0
+Łukasz Skorupski,8,6,0,,0,Opp Mid 3rd Right-Center,0.0
 Łukasz Skorupski,8,7,1,78.0,0,Opp Mid 3rd Right,0.0
+Łukasz Skorupski,8,8,0,,0,Opp Mid 3rd Right,0.0
+Łukasz Skorupski,9,1,0,,0,Opp Att 3rd Left,0.0
+Łukasz Skorupski,9,2,0,,0,Opp Att 3rd Left,0.0
+Łukasz Skorupski,9,3,0,,0,Opp Att 3rd Left-Center,0.0
 Łukasz Skorupski,9,4,2,78.4,0,Opp Att 3rd Center,0.0
+Łukasz Skorupski,9,5,0,,0,Opp Att 3rd Center,0.0
 Łukasz Skorupski,9,6,1,80.9,1,Opp Att 3rd Right-Center,100.0
+Łukasz Skorupski,9,7,0,,0,Opp Att 3rd Right,0.0
+Łukasz Skorupski,9,8,0,,0,Opp Att 3rd Right,0.0
+Łukasz Skorupski,10,1,0,,0,Opp Att 3rd Left,0.0
+Łukasz Skorupski,10,2,0,,0,Opp Att 3rd Left,0.0
+Łukasz Skorupski,10,3,0,,0,Opp Att 3rd Left-Center,0.0
+Łukasz Skorupski,10,4,0,,0,Opp Att 3rd Center,0.0
+Łukasz Skorupski,10,5,0,,0,Opp Att 3rd Center,0.0
+Łukasz Skorupski,10,6,0,,0,Opp Att 3rd Right-Center,0.0
+Łukasz Skorupski,10,7,0,,0,Opp Att 3rd Right,0.0
+Łukasz Skorupski,10,8,0,,0,Opp Att 3rd Right,0.0
+Łukasz Skorupski,11,1,0,,0,Opp Box Left,0.0
+Łukasz Skorupski,11,2,0,,0,Opp Box Left,0.0
+Łukasz Skorupski,11,3,0,,0,Opp Box Left-Center,0.0
+Łukasz Skorupski,11,4,0,,0,Opp Box Center,0.0
+Łukasz Skorupski,11,5,0,,0,Opp Box Center,0.0
+Łukasz Skorupski,11,6,0,,0,Opp Box Right-Center,0.0
+Łukasz Skorupski,11,7,0,,0,Opp Box Right,0.0
+Łukasz Skorupski,11,8,0,,0,Opp Box Right,0.0
+Łukasz Skorupski,12,1,0,,0,Opp 6yd Left,0.0
+Łukasz Skorupski,12,2,0,,0,Opp 6yd Left,0.0
+Łukasz Skorupski,12,3,0,,0,Opp 6yd Left-Center,0.0
+Łukasz Skorupski,12,4,0,,0,Opp 6yd Center,0.0
+Łukasz Skorupski,12,5,0,,0,Opp 6yd Center,0.0
+Łukasz Skorupski,12,6,0,,0,Opp 6yd Right-Center,0.0
+Łukasz Skorupski,12,7,0,,0,Opp 6yd Right,0.0
+Łukasz Skorupski,12,8,0,,0,Opp 6yd Right,0.0

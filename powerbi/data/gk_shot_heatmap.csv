@@ -1,296 +1,901 @@
 gk_name,zone_x,zone_y,shot_count,total_xg,avg_xg,goals,saves,zone_label
+Altay Bayındır,1,1,0,0.0,,0,0,Long Range
+Altay Bayındır,1,2,0,0.0,,0,0,Long Range
+Altay Bayındır,1,3,0,0.0,,0,0,Long Range
+Altay Bayındır,1,4,0,0.0,,0,0,Long Range
+Altay Bayındır,1,5,0,0.0,,0,0,Long Range
+Altay Bayındır,2,1,0,0.0,,0,0,Edge of Box
+Altay Bayındır,2,2,0,0.0,,0,0,Edge of Box
+Altay Bayındır,2,3,0,0.0,,0,0,Edge of Box
+Altay Bayındır,2,4,0,0.0,,0,0,Edge of Box
+Altay Bayındır,2,5,0,0.0,,0,0,Edge of Box
+Altay Bayındır,3,1,0,0.0,,0,0,Penalty Area
+Altay Bayındır,3,2,0,0.0,,0,0,Penalty Area
+Altay Bayındır,3,3,0,0.0,,0,0,Penalty Area
+Altay Bayındır,3,4,0,0.0,,0,0,Penalty Area
+Altay Bayındır,3,5,0,0.0,,0,0,Penalty Area
+Altay Bayındır,4,1,0,0.0,,0,0,Central Box
+Altay Bayındır,4,2,0,0.0,,0,0,Central Box
 Altay Bayındır,4,3,1,0.041,0.041,0,0,Central Box
 Altay Bayındır,4,4,1,0.025,0.025,0,0,Central Box
+Altay Bayındır,4,5,0,0.0,,0,0,Central Box
+Altay Bayındır,5,1,0,0.0,,0,0,Close Range
 Altay Bayındır,5,2,2,0.094,0.047,0,0,Close Range
 Altay Bayındır,5,3,3,0.526,0.175,1,0,Close Range
 Altay Bayındır,5,4,2,0.103,0.051,0,1,Close Range
+Altay Bayındır,5,5,0,0.0,,0,0,Close Range
+Altay Bayındır,6,1,0,0.0,,0,0,6-Yard Box
+Altay Bayındır,6,2,0,0.0,,0,0,6-Yard Box
 Altay Bayındır,6,3,3,1.113,0.371,1,0,6-Yard Box
+Altay Bayındır,6,4,0,0.0,,0,0,6-Yard Box
+Altay Bayındır,6,5,0,0.0,,0,0,6-Yard Box
+Anatolii Trubin,1,1,0,0.0,,0,0,Long Range
+Anatolii Trubin,1,2,0,0.0,,0,0,Long Range
+Anatolii Trubin,1,3,0,0.0,,0,0,Long Range
+Anatolii Trubin,1,4,0,0.0,,0,0,Long Range
+Anatolii Trubin,1,5,0,0.0,,0,0,Long Range
+Anatolii Trubin,2,1,0,0.0,,0,0,Edge of Box
+Anatolii Trubin,2,2,0,0.0,,0,0,Edge of Box
+Anatolii Trubin,2,3,0,0.0,,0,0,Edge of Box
+Anatolii Trubin,2,4,0,0.0,,0,0,Edge of Box
+Anatolii Trubin,2,5,0,0.0,,0,0,Edge of Box
+Anatolii Trubin,3,1,0,0.0,,0,0,Penalty Area
+Anatolii Trubin,3,2,0,0.0,,0,0,Penalty Area
 Anatolii Trubin,3,3,1,0.018,0.018,0,0,Penalty Area
+Anatolii Trubin,3,4,0,0.0,,0,0,Penalty Area
 Anatolii Trubin,3,5,1,0.006,0.006,0,0,Penalty Area
+Anatolii Trubin,4,1,0,0.0,,0,0,Central Box
 Anatolii Trubin,4,2,4,0.063,0.016,0,0,Central Box
 Anatolii Trubin,4,3,1,0.034,0.034,0,0,Central Box
 Anatolii Trubin,4,4,3,0.112,0.037,0,1,Central Box
+Anatolii Trubin,4,5,0,0.0,,0,0,Central Box
+Anatolii Trubin,5,1,0,0.0,,0,0,Close Range
 Anatolii Trubin,5,2,4,0.151,0.038,0,3,Close Range
 Anatolii Trubin,5,3,6,0.311,0.052,0,1,Close Range
 Anatolii Trubin,5,4,2,0.096,0.048,0,1,Close Range
+Anatolii Trubin,5,5,0,0.0,,0,0,Close Range
+Anatolii Trubin,6,1,0,0.0,,0,0,6-Yard Box
 Anatolii Trubin,6,2,2,0.316,0.158,0,1,6-Yard Box
 Anatolii Trubin,6,3,2,0.273,0.137,1,1,6-Yard Box
+Anatolii Trubin,6,4,0,0.0,,0,0,6-Yard Box
+Anatolii Trubin,6,5,0,0.0,,0,0,6-Yard Box
+Andriy Lunin,1,1,0,0.0,,0,0,Long Range
+Andriy Lunin,1,2,0,0.0,,0,0,Long Range
+Andriy Lunin,1,3,0,0.0,,0,0,Long Range
+Andriy Lunin,1,4,0,0.0,,0,0,Long Range
+Andriy Lunin,1,5,0,0.0,,0,0,Long Range
+Andriy Lunin,2,1,0,0.0,,0,0,Edge of Box
+Andriy Lunin,2,2,0,0.0,,0,0,Edge of Box
+Andriy Lunin,2,3,0,0.0,,0,0,Edge of Box
+Andriy Lunin,2,4,0,0.0,,0,0,Edge of Box
+Andriy Lunin,2,5,0,0.0,,0,0,Edge of Box
+Andriy Lunin,3,1,0,0.0,,0,0,Penalty Area
+Andriy Lunin,3,2,0,0.0,,0,0,Penalty Area
 Andriy Lunin,3,3,1,0.025,0.025,0,1,Penalty Area
+Andriy Lunin,3,4,0,0.0,,0,0,Penalty Area
+Andriy Lunin,3,5,0,0.0,,0,0,Penalty Area
+Andriy Lunin,4,1,0,0.0,,0,0,Central Box
+Andriy Lunin,4,2,0,0.0,,0,0,Central Box
 Andriy Lunin,4,3,2,0.117,0.059,1,0,Central Box
 Andriy Lunin,4,4,1,0.02,0.02,1,0,Central Box
+Andriy Lunin,4,5,0,0.0,,0,0,Central Box
+Andriy Lunin,5,1,0,0.0,,0,0,Close Range
 Andriy Lunin,5,2,1,0.033,0.033,0,0,Close Range
+Andriy Lunin,5,3,0,0.0,,0,0,Close Range
 Andriy Lunin,5,4,1,0.022,0.022,0,0,Close Range
+Andriy Lunin,5,5,0,0.0,,0,0,Close Range
 Andriy Lunin,6,1,1,0.007,0.007,0,0,6-Yard Box
+Andriy Lunin,6,2,0,0.0,,0,0,6-Yard Box
 Andriy Lunin,6,3,1,0.883,0.883,1,0,6-Yard Box
 Andriy Lunin,6,4,1,0.013,0.013,0,1,6-Yard Box
+Andriy Lunin,6,5,0,0.0,,0,0,6-Yard Box
+Angus Gunn,1,1,0,0.0,,0,0,Long Range
+Angus Gunn,1,2,0,0.0,,0,0,Long Range
+Angus Gunn,1,3,0,0.0,,0,0,Long Range
+Angus Gunn,1,4,0,0.0,,0,0,Long Range
+Angus Gunn,1,5,0,0.0,,0,0,Long Range
+Angus Gunn,2,1,0,0.0,,0,0,Edge of Box
+Angus Gunn,2,2,0,0.0,,0,0,Edge of Box
+Angus Gunn,2,3,0,0.0,,0,0,Edge of Box
+Angus Gunn,2,4,0,0.0,,0,0,Edge of Box
+Angus Gunn,2,5,0,0.0,,0,0,Edge of Box
+Angus Gunn,3,1,0,0.0,,0,0,Penalty Area
+Angus Gunn,3,2,0,0.0,,0,0,Penalty Area
 Angus Gunn,3,3,3,0.052,0.017,0,1,Penalty Area
 Angus Gunn,3,4,1,0.016,0.016,0,1,Penalty Area
+Angus Gunn,3,5,0,0.0,,0,0,Penalty Area
+Angus Gunn,4,1,0,0.0,,0,0,Central Box
 Angus Gunn,4,2,3,0.083,0.028,0,0,Central Box
-Angus Gunn,4,3,5,0.239,0.048,2,0,Central Box
+Angus Gunn,4,3,4,0.189,0.047,1,0,Central Box
 Angus Gunn,4,4,3,0.061,0.02,0,1,Central Box
+Angus Gunn,4,5,0,0.0,,0,0,Central Box
+Angus Gunn,5,1,0,0.0,,0,0,Close Range
 Angus Gunn,5,2,8,0.291,0.036,0,3,Close Range
 Angus Gunn,5,3,9,1.784,0.198,5,2,Close Range
 Angus Gunn,5,4,3,0.152,0.051,0,2,Close Range
+Angus Gunn,5,5,0,0.0,,0,0,Close Range
+Angus Gunn,6,1,0,0.0,,0,0,6-Yard Box
 Angus Gunn,6,2,1,0.222,0.222,0,1,6-Yard Box
 Angus Gunn,6,3,6,0.575,0.096,0,1,6-Yard Box
 Angus Gunn,6,4,3,0.361,0.12,0,1,6-Yard Box
+Angus Gunn,6,5,0,0.0,,0,0,6-Yard Box
+Angus Gunn ,1,1,0,0.0,,0,0,Long Range
+Angus Gunn ,1,2,0,0.0,,0,0,Long Range
+Angus Gunn ,1,3,0,0.0,,0,0,Long Range
+Angus Gunn ,1,4,0,0.0,,0,0,Long Range
+Angus Gunn ,1,5,0,0.0,,0,0,Long Range
+Angus Gunn ,2,1,0,0.0,,0,0,Edge of Box
+Angus Gunn ,2,2,0,0.0,,0,0,Edge of Box
+Angus Gunn ,2,3,0,0.0,,0,0,Edge of Box
+Angus Gunn ,2,4,0,0.0,,0,0,Edge of Box
+Angus Gunn ,2,5,0,0.0,,0,0,Edge of Box
+Angus Gunn ,3,1,0,0.0,,0,0,Penalty Area
+Angus Gunn ,3,2,0,0.0,,0,0,Penalty Area
+Angus Gunn ,3,3,0,0.0,,0,0,Penalty Area
+Angus Gunn ,3,4,0,0.0,,0,0,Penalty Area
+Angus Gunn ,3,5,0,0.0,,0,0,Penalty Area
+Angus Gunn ,4,1,0,0.0,,0,0,Central Box
+Angus Gunn ,4,2,0,0.0,,0,0,Central Box
+Angus Gunn ,4,3,1,0.05,0.05,1,0,Central Box
+Angus Gunn ,4,4,0,0.0,,0,0,Central Box
+Angus Gunn ,4,5,0,0.0,,0,0,Central Box
+Angus Gunn ,5,1,0,0.0,,0,0,Close Range
+Angus Gunn ,5,2,0,0.0,,0,0,Close Range
+Angus Gunn ,5,3,0,0.0,,0,0,Close Range
+Angus Gunn ,5,4,0,0.0,,0,0,Close Range
+Angus Gunn ,5,5,0,0.0,,0,0,Close Range
+Angus Gunn ,6,1,0,0.0,,0,0,6-Yard Box
+Angus Gunn ,6,2,0,0.0,,0,0,6-Yard Box
+Angus Gunn ,6,3,0,0.0,,0,0,6-Yard Box
+Angus Gunn ,6,4,0,0.0,,0,0,6-Yard Box
+Angus Gunn ,6,5,0,0.0,,0,0,6-Yard Box
+Bart Verbruggen,1,1,0,0.0,,0,0,Long Range
+Bart Verbruggen,1,2,0,0.0,,0,0,Long Range
+Bart Verbruggen,1,3,0,0.0,,0,0,Long Range
+Bart Verbruggen,1,4,0,0.0,,0,0,Long Range
+Bart Verbruggen,1,5,0,0.0,,0,0,Long Range
+Bart Verbruggen,2,1,0,0.0,,0,0,Edge of Box
+Bart Verbruggen,2,2,0,0.0,,0,0,Edge of Box
+Bart Verbruggen,2,3,0,0.0,,0,0,Edge of Box
+Bart Verbruggen,2,4,0,0.0,,0,0,Edge of Box
+Bart Verbruggen,2,5,0,0.0,,0,0,Edge of Box
+Bart Verbruggen,3,1,0,0.0,,0,0,Penalty Area
+Bart Verbruggen,3,2,0,0.0,,0,0,Penalty Area
 Bart Verbruggen,3,3,2,0.049,0.025,0,2,Penalty Area
+Bart Verbruggen,3,4,0,0.0,,0,0,Penalty Area
+Bart Verbruggen,3,5,0,0.0,,0,0,Penalty Area
+Bart Verbruggen,4,1,0,0.0,,0,0,Central Box
 Bart Verbruggen,4,2,6,0.08,0.013,0,4,Central Box
 Bart Verbruggen,4,3,8,0.375,0.047,0,3,Central Box
 Bart Verbruggen,4,4,8,0.241,0.03,0,1,Central Box
 Bart Verbruggen,4,5,1,0.006,0.006,0,0,Central Box
+Bart Verbruggen,5,1,0,0.0,,0,0,Close Range
 Bart Verbruggen,5,2,4,0.104,0.026,0,1,Close Range
 Bart Verbruggen,5,3,10,1.522,0.152,1,1,Close Range
 Bart Verbruggen,5,4,6,0.342,0.057,0,1,Close Range
+Bart Verbruggen,5,5,0,0.0,,0,0,Close Range
+Bart Verbruggen,6,1,0,0.0,,0,0,6-Yard Box
 Bart Verbruggen,6,2,4,0.329,0.082,1,0,6-Yard Box
 Bart Verbruggen,6,3,13,2.542,0.196,3,5,6-Yard Box
 Bart Verbruggen,6,4,2,0.278,0.139,1,0,6-Yard Box
+Bart Verbruggen,6,5,0,0.0,,0,0,6-Yard Box
+David Raya Martin,1,1,0,0.0,,0,0,Long Range
+David Raya Martin,1,2,0,0.0,,0,0,Long Range
+David Raya Martin,1,3,0,0.0,,0,0,Long Range
+David Raya Martin,1,4,0,0.0,,0,0,Long Range
+David Raya Martin,1,5,0,0.0,,0,0,Long Range
+David Raya Martin,2,1,0,0.0,,0,0,Edge of Box
+David Raya Martin,2,2,0,0.0,,0,0,Edge of Box
+David Raya Martin,2,3,0,0.0,,0,0,Edge of Box
+David Raya Martin,2,4,0,0.0,,0,0,Edge of Box
+David Raya Martin,2,5,0,0.0,,0,0,Edge of Box
+David Raya Martin,3,1,0,0.0,,0,0,Penalty Area
+David Raya Martin,3,2,0,0.0,,0,0,Penalty Area
+David Raya Martin,3,3,0,0.0,,0,0,Penalty Area
+David Raya Martin,3,4,0,0.0,,0,0,Penalty Area
+David Raya Martin,3,5,0,0.0,,0,0,Penalty Area
+David Raya Martin,4,1,0,0.0,,0,0,Central Box
 David Raya Martin,4,2,2,0.057,0.028,0,0,Central Box
 David Raya Martin,4,3,3,0.105,0.035,0,1,Central Box
 David Raya Martin,4,4,1,0.009,0.009,0,1,Central Box
+David Raya Martin,4,5,0,0.0,,0,0,Central Box
+David Raya Martin,5,1,0,0.0,,0,0,Close Range
+David Raya Martin,5,2,0,0.0,,0,0,Close Range
 David Raya Martin,5,3,2,0.158,0.079,0,1,Close Range
 David Raya Martin,5,4,1,0.117,0.117,0,1,Close Range
+David Raya Martin,5,5,0,0.0,,0,0,Close Range
+David Raya Martin,6,1,0,0.0,,0,0,6-Yard Box
 David Raya Martin,6,2,1,0.058,0.058,0,0,6-Yard Box
+David Raya Martin,6,3,0,0.0,,0,0,6-Yard Box
+David Raya Martin,6,4,0,0.0,,0,0,6-Yard Box
+David Raya Martin,6,5,0,0.0,,0,0,6-Yard Box
+Diogo Meireles Costa,1,1,0,0.0,,0,0,Long Range
 Diogo Meireles Costa,1,2,1,0.004,0.004,0,0,Long Range
+Diogo Meireles Costa,1,3,0,0.0,,0,0,Long Range
+Diogo Meireles Costa,1,4,0,0.0,,0,0,Long Range
+Diogo Meireles Costa,1,5,0,0.0,,0,0,Long Range
+Diogo Meireles Costa,2,1,0,0.0,,0,0,Edge of Box
+Diogo Meireles Costa,2,2,0,0.0,,0,0,Edge of Box
+Diogo Meireles Costa,2,3,0,0.0,,0,0,Edge of Box
+Diogo Meireles Costa,2,4,0,0.0,,0,0,Edge of Box
+Diogo Meireles Costa,2,5,0,0.0,,0,0,Edge of Box
+Diogo Meireles Costa,3,1,0,0.0,,0,0,Penalty Area
 Diogo Meireles Costa,3,2,2,0.051,0.026,0,1,Penalty Area
+Diogo Meireles Costa,3,3,0,0.0,,0,0,Penalty Area
 Diogo Meireles Costa,3,4,1,0.006,0.006,0,1,Penalty Area
+Diogo Meireles Costa,3,5,0,0.0,,0,0,Penalty Area
+Diogo Meireles Costa,4,1,0,0.0,,0,0,Central Box
 Diogo Meireles Costa,4,2,9,0.21,0.023,0,2,Central Box
 Diogo Meireles Costa,4,3,7,0.423,0.06,0,5,Central Box
 Diogo Meireles Costa,4,4,5,0.094,0.019,1,0,Central Box
+Diogo Meireles Costa,4,5,0,0.0,,0,0,Central Box
+Diogo Meireles Costa,5,1,0,0.0,,0,0,Close Range
 Diogo Meireles Costa,5,2,2,0.26,0.13,0,0,Close Range
 Diogo Meireles Costa,5,3,19,7.968,0.419,6,4,Close Range
 Diogo Meireles Costa,5,4,5,0.31,0.062,0,0,Close Range
+Diogo Meireles Costa,5,5,0,0.0,,0,0,Close Range
+Diogo Meireles Costa,6,1,0,0.0,,0,0,6-Yard Box
 Diogo Meireles Costa,6,2,6,0.452,0.075,1,1,6-Yard Box
 Diogo Meireles Costa,6,3,1,0.45,0.45,0,0,6-Yard Box
 Diogo Meireles Costa,6,4,3,0.261,0.087,0,0,6-Yard Box
+Diogo Meireles Costa,6,5,0,0.0,,0,0,6-Yard Box
+Dominik Livaković,1,1,0,0.0,,0,0,Long Range
+Dominik Livaković,1,2,0,0.0,,0,0,Long Range
+Dominik Livaković,1,3,0,0.0,,0,0,Long Range
+Dominik Livaković,1,4,0,0.0,,0,0,Long Range
+Dominik Livaković,1,5,0,0.0,,0,0,Long Range
+Dominik Livaković,2,1,0,0.0,,0,0,Edge of Box
+Dominik Livaković,2,2,0,0.0,,0,0,Edge of Box
+Dominik Livaković,2,3,0,0.0,,0,0,Edge of Box
+Dominik Livaković,2,4,0,0.0,,0,0,Edge of Box
+Dominik Livaković,2,5,0,0.0,,0,0,Edge of Box
+Dominik Livaković,3,1,0,0.0,,0,0,Penalty Area
 Dominik Livaković,3,2,1,0.014,0.014,0,0,Penalty Area
+Dominik Livaković,3,3,0,0.0,,0,0,Penalty Area
+Dominik Livaković,3,4,0,0.0,,0,0,Penalty Area
+Dominik Livaković,3,5,0,0.0,,0,0,Penalty Area
+Dominik Livaković,4,1,0,0.0,,0,0,Central Box
+Dominik Livaković,4,2,0,0.0,,0,0,Central Box
 Dominik Livaković,4,3,9,0.394,0.044,0,4,Central Box
 Dominik Livaković,4,4,1,0.013,0.013,0,0,Central Box
+Dominik Livaković,4,5,0,0.0,,0,0,Central Box
+Dominik Livaković,5,1,0,0.0,,0,0,Close Range
 Dominik Livaković,5,2,5,0.275,0.055,1,1,Close Range
 Dominik Livaković,5,3,7,1.244,0.178,3,2,Close Range
 Dominik Livaković,5,4,4,0.41,0.102,0,1,Close Range
+Dominik Livaković,5,5,0,0.0,,0,0,Close Range
+Dominik Livaković,6,1,0,0.0,,0,0,6-Yard Box
 Dominik Livaković,6,2,2,0.08,0.04,0,0,6-Yard Box
 Dominik Livaković,6,3,9,1.448,0.161,2,1,6-Yard Box
+Dominik Livaković,6,4,0,0.0,,0,0,6-Yard Box
+Dominik Livaković,6,5,0,0.0,,0,0,6-Yard Box
+Fehmi Mert Günok,1,1,0,0.0,,0,0,Long Range
+Fehmi Mert Günok,1,2,0,0.0,,0,0,Long Range
+Fehmi Mert Günok,1,3,0,0.0,,0,0,Long Range
+Fehmi Mert Günok,1,4,0,0.0,,0,0,Long Range
+Fehmi Mert Günok,1,5,0,0.0,,0,0,Long Range
+Fehmi Mert Günok,2,1,0,0.0,,0,0,Edge of Box
+Fehmi Mert Günok,2,2,0,0.0,,0,0,Edge of Box
+Fehmi Mert Günok,2,3,0,0.0,,0,0,Edge of Box
+Fehmi Mert Günok,2,4,0,0.0,,0,0,Edge of Box
+Fehmi Mert Günok,2,5,0,0.0,,0,0,Edge of Box
+Fehmi Mert Günok,3,1,0,0.0,,0,0,Penalty Area
 Fehmi Mert Günok,3,2,1,0.007,0.007,0,1,Penalty Area
 Fehmi Mert Günok,3,3,1,0.043,0.043,0,0,Penalty Area
+Fehmi Mert Günok,3,4,0,0.0,,0,0,Penalty Area
+Fehmi Mert Günok,3,5,0,0.0,,0,0,Penalty Area
+Fehmi Mert Günok,4,1,0,0.0,,0,0,Central Box
 Fehmi Mert Günok,4,2,5,0.12,0.024,0,2,Central Box
 Fehmi Mert Günok,4,3,5,0.166,0.033,0,1,Central Box
 Fehmi Mert Günok,4,4,4,0.113,0.028,0,2,Central Box
+Fehmi Mert Günok,4,5,0,0.0,,0,0,Central Box
+Fehmi Mert Günok,5,1,0,0.0,,0,0,Close Range
 Fehmi Mert Günok,5,2,5,0.278,0.056,0,2,Close Range
 Fehmi Mert Günok,5,3,9,1.113,0.124,0,1,Close Range
 Fehmi Mert Günok,5,4,2,0.109,0.054,0,0,Close Range
+Fehmi Mert Günok,5,5,0,0.0,,0,0,Close Range
+Fehmi Mert Günok,6,1,0,0.0,,0,0,6-Yard Box
 Fehmi Mert Günok,6,2,2,0.084,0.042,0,2,6-Yard Box
 Fehmi Mert Günok,6,3,22,3.914,0.178,3,3,6-Yard Box
 Fehmi Mert Günok,6,4,2,0.25,0.125,1,1,6-Yard Box
+Fehmi Mert Günok,6,5,0,0.0,,0,0,6-Yard Box
+Florin Constantin Niţă,1,1,0,0.0,,0,0,Long Range
+Florin Constantin Niţă,1,2,0,0.0,,0,0,Long Range
+Florin Constantin Niţă,1,3,0,0.0,,0,0,Long Range
+Florin Constantin Niţă,1,4,0,0.0,,0,0,Long Range
+Florin Constantin Niţă,1,5,0,0.0,,0,0,Long Range
+Florin Constantin Niţă,2,1,0,0.0,,0,0,Edge of Box
+Florin Constantin Niţă,2,2,0,0.0,,0,0,Edge of Box
+Florin Constantin Niţă,2,3,0,0.0,,0,0,Edge of Box
+Florin Constantin Niţă,2,4,0,0.0,,0,0,Edge of Box
+Florin Constantin Niţă,2,5,0,0.0,,0,0,Edge of Box
+Florin Constantin Niţă,3,1,0,0.0,,0,0,Penalty Area
 Florin Constantin Niţă,3,2,1,0.008,0.008,0,1,Penalty Area
 Florin Constantin Niţă,3,3,1,0.016,0.016,0,0,Penalty Area
 Florin Constantin Niţă,3,4,1,0.007,0.007,0,0,Penalty Area
+Florin Constantin Niţă,3,5,0,0.0,,0,0,Penalty Area
+Florin Constantin Niţă,4,1,0,0.0,,0,0,Central Box
 Florin Constantin Niţă,4,2,5,0.108,0.022,0,1,Central Box
 Florin Constantin Niţă,4,3,10,0.421,0.042,0,2,Central Box
 Florin Constantin Niţă,4,4,1,0.019,0.019,0,0,Central Box
+Florin Constantin Niţă,4,5,0,0.0,,0,0,Central Box
+Florin Constantin Niţă,5,1,0,0.0,,0,0,Close Range
 Florin Constantin Niţă,5,2,5,0.169,0.034,1,0,Close Range
 Florin Constantin Niţă,5,3,19,2.069,0.109,3,5,Close Range
 Florin Constantin Niţă,5,4,5,0.297,0.059,0,1,Close Range
+Florin Constantin Niţă,5,5,0,0.0,,0,0,Close Range
+Florin Constantin Niţă,6,1,0,0.0,,0,0,6-Yard Box
 Florin Constantin Niţă,6,2,8,0.572,0.071,0,3,6-Yard Box
 Florin Constantin Niţă,6,3,10,1.616,0.162,2,1,6-Yard Box
 Florin Constantin Niţă,6,4,3,0.359,0.12,0,1,6-Yard Box
 Florin Constantin Niţă,6,5,1,0.0,0.0,0,0,6-Yard Box
+Gianluigi Donnarumma,1,1,0,0.0,,0,0,Long Range
+Gianluigi Donnarumma,1,2,0,0.0,,0,0,Long Range
+Gianluigi Donnarumma,1,3,0,0.0,,0,0,Long Range
+Gianluigi Donnarumma,1,4,0,0.0,,0,0,Long Range
+Gianluigi Donnarumma,1,5,0,0.0,,0,0,Long Range
+Gianluigi Donnarumma,2,1,0,0.0,,0,0,Edge of Box
+Gianluigi Donnarumma,2,2,0,0.0,,0,0,Edge of Box
+Gianluigi Donnarumma,2,3,0,0.0,,0,0,Edge of Box
+Gianluigi Donnarumma,2,4,0,0.0,,0,0,Edge of Box
+Gianluigi Donnarumma,2,5,0,0.0,,0,0,Edge of Box
+Gianluigi Donnarumma,3,1,0,0.0,,0,0,Penalty Area
+Gianluigi Donnarumma,3,2,0,0.0,,0,0,Penalty Area
 Gianluigi Donnarumma,3,3,2,0.027,0.014,0,1,Penalty Area
+Gianluigi Donnarumma,3,4,0,0.0,,0,0,Penalty Area
+Gianluigi Donnarumma,3,5,0,0.0,,0,0,Penalty Area
+Gianluigi Donnarumma,4,1,0,0.0,,0,0,Central Box
 Gianluigi Donnarumma,4,2,3,0.046,0.015,0,0,Central Box
 Gianluigi Donnarumma,4,3,9,0.338,0.038,0,3,Central Box
 Gianluigi Donnarumma,4,4,5,0.114,0.023,0,1,Central Box
 Gianluigi Donnarumma,4,5,1,0.008,0.008,0,0,Central Box
+Gianluigi Donnarumma,5,1,0,0.0,,0,0,Close Range
 Gianluigi Donnarumma,5,2,9,0.69,0.077,1,2,Close Range
 Gianluigi Donnarumma,5,3,2,0.842,0.421,0,1,Close Range
 Gianluigi Donnarumma,5,4,5,0.155,0.031,0,0,Close Range
+Gianluigi Donnarumma,5,5,0,0.0,,0,0,Close Range
+Gianluigi Donnarumma,6,1,0,0.0,,0,0,6-Yard Box
 Gianluigi Donnarumma,6,2,3,0.118,0.039,0,1,6-Yard Box
 Gianluigi Donnarumma,6,3,8,1.537,0.192,2,2,6-Yard Box
 Gianluigi Donnarumma,6,4,3,0.279,0.093,1,2,6-Yard Box
+Gianluigi Donnarumma,6,5,0,0.0,,0,0,6-Yard Box
+Giorgi Mamardashvili,1,1,0,0.0,,0,0,Long Range
+Giorgi Mamardashvili,1,2,0,0.0,,0,0,Long Range
+Giorgi Mamardashvili,1,3,0,0.0,,0,0,Long Range
+Giorgi Mamardashvili,1,4,0,0.0,,0,0,Long Range
+Giorgi Mamardashvili,1,5,0,0.0,,0,0,Long Range
+Giorgi Mamardashvili,2,1,0,0.0,,0,0,Edge of Box
+Giorgi Mamardashvili,2,2,0,0.0,,0,0,Edge of Box
 Giorgi Mamardashvili,2,3,1,0.005,0.005,0,0,Edge of Box
+Giorgi Mamardashvili,2,4,0,0.0,,0,0,Edge of Box
+Giorgi Mamardashvili,2,5,0,0.0,,0,0,Edge of Box
+Giorgi Mamardashvili,3,1,0,0.0,,0,0,Penalty Area
 Giorgi Mamardashvili,3,2,3,0.029,0.01,0,0,Penalty Area
 Giorgi Mamardashvili,3,3,2,0.042,0.021,0,1,Penalty Area
+Giorgi Mamardashvili,3,4,0,0.0,,0,0,Penalty Area
+Giorgi Mamardashvili,3,5,0,0.0,,0,0,Penalty Area
+Giorgi Mamardashvili,4,1,0,0.0,,0,0,Central Box
 Giorgi Mamardashvili,4,2,6,0.168,0.028,0,3,Central Box
 Giorgi Mamardashvili,4,3,14,0.563,0.04,0,4,Central Box
 Giorgi Mamardashvili,4,4,10,0.671,0.067,2,1,Central Box
+Giorgi Mamardashvili,4,5,0,0.0,,0,0,Central Box
+Giorgi Mamardashvili,5,1,0,0.0,,0,0,Close Range
 Giorgi Mamardashvili,5,2,7,0.286,0.041,0,2,Close Range
 Giorgi Mamardashvili,5,3,21,1.871,0.089,2,5,Close Range
 Giorgi Mamardashvili,5,4,9,0.508,0.056,1,1,Close Range
+Giorgi Mamardashvili,5,5,0,0.0,,0,0,Close Range
+Giorgi Mamardashvili,6,1,0,0.0,,0,0,6-Yard Box
 Giorgi Mamardashvili,6,2,6,0.491,0.082,1,4,6-Yard Box
 Giorgi Mamardashvili,6,3,24,5.669,0.236,2,7,6-Yard Box
 Giorgi Mamardashvili,6,4,2,0.084,0.042,0,0,6-Yard Box
+Giorgi Mamardashvili,6,5,0,0.0,,0,0,6-Yard Box
+Jan Oblak,1,1,0,0.0,,0,0,Long Range
+Jan Oblak,1,2,0,0.0,,0,0,Long Range
+Jan Oblak,1,3,0,0.0,,0,0,Long Range
+Jan Oblak,1,4,0,0.0,,0,0,Long Range
+Jan Oblak,1,5,0,0.0,,0,0,Long Range
+Jan Oblak,2,1,0,0.0,,0,0,Edge of Box
+Jan Oblak,2,2,0,0.0,,0,0,Edge of Box
+Jan Oblak,2,3,0,0.0,,0,0,Edge of Box
+Jan Oblak,2,4,0,0.0,,0,0,Edge of Box
+Jan Oblak,2,5,0,0.0,,0,0,Edge of Box
+Jan Oblak,3,1,0,0.0,,0,0,Penalty Area
 Jan Oblak,3,2,1,0.005,0.005,0,0,Penalty Area
 Jan Oblak,3,3,4,0.083,0.021,0,0,Penalty Area
 Jan Oblak,3,4,2,0.044,0.022,0,1,Penalty Area
+Jan Oblak,3,5,0,0.0,,0,0,Penalty Area
+Jan Oblak,4,1,0,0.0,,0,0,Central Box
 Jan Oblak,4,2,5,0.113,0.023,0,1,Central Box
 Jan Oblak,4,3,6,0.334,0.056,0,2,Central Box
+Jan Oblak,4,4,0,0.0,,0,0,Central Box
+Jan Oblak,4,5,0,0.0,,0,0,Central Box
 Jan Oblak,5,1,1,0.007,0.007,0,0,Close Range
 Jan Oblak,5,2,4,0.278,0.069,0,1,Close Range
 Jan Oblak,5,3,17,3.957,0.233,4,1,Close Range
 Jan Oblak,5,4,4,0.224,0.056,0,1,Close Range
+Jan Oblak,5,5,0,0.0,,0,0,Close Range
+Jan Oblak,6,1,0,0.0,,0,0,6-Yard Box
 Jan Oblak,6,2,2,0.045,0.023,0,1,6-Yard Box
 Jan Oblak,6,3,17,2.389,0.141,1,5,6-Yard Box
 Jan Oblak,6,4,3,0.322,0.107,0,1,6-Yard Box
+Jan Oblak,6,5,0,0.0,,0,0,6-Yard Box
+Jindřich Staněk,1,1,0,0.0,,0,0,Long Range
+Jindřich Staněk,1,2,0,0.0,,0,0,Long Range
+Jindřich Staněk,1,3,0,0.0,,0,0,Long Range
+Jindřich Staněk,1,4,0,0.0,,0,0,Long Range
+Jindřich Staněk,1,5,0,0.0,,0,0,Long Range
+Jindřich Staněk,2,1,0,0.0,,0,0,Edge of Box
+Jindřich Staněk,2,2,0,0.0,,0,0,Edge of Box
+Jindřich Staněk,2,3,0,0.0,,0,0,Edge of Box
+Jindřich Staněk,2,4,0,0.0,,0,0,Edge of Box
+Jindřich Staněk,2,5,0,0.0,,0,0,Edge of Box
+Jindřich Staněk,3,1,0,0.0,,0,0,Penalty Area
 Jindřich Staněk,3,2,1,0.007,0.007,0,0,Penalty Area
+Jindřich Staněk,3,3,0,0.0,,0,0,Penalty Area
+Jindřich Staněk,3,4,0,0.0,,0,0,Penalty Area
+Jindřich Staněk,3,5,0,0.0,,0,0,Penalty Area
+Jindřich Staněk,4,1,0,0.0,,0,0,Central Box
 Jindřich Staněk,4,2,1,0.006,0.006,0,0,Central Box
 Jindřich Staněk,4,3,4,0.145,0.036,0,3,Central Box
 Jindřich Staněk,4,4,2,0.055,0.027,0,0,Central Box
+Jindřich Staněk,4,5,0,0.0,,0,0,Central Box
+Jindřich Staněk,5,1,0,0.0,,0,0,Close Range
 Jindřich Staněk,5,2,4,0.112,0.028,0,1,Close Range
 Jindřich Staněk,5,3,5,1.536,0.307,1,1,Close Range
 Jindřich Staněk,5,4,4,0.431,0.108,0,1,Close Range
+Jindřich Staněk,5,5,0,0.0,,0,0,Close Range
+Jindřich Staněk,6,1,0,0.0,,0,0,6-Yard Box
 Jindřich Staněk,6,2,1,0.045,0.045,0,1,6-Yard Box
 Jindřich Staněk,6,3,2,0.681,0.341,1,0,6-Yard Box
+Jindřich Staněk,6,4,0,0.0,,0,0,6-Yard Box
+Jindřich Staněk,6,5,0,0.0,,0,0,6-Yard Box
+Jordan Pickford,1,1,0,0.0,,0,0,Long Range
 Jordan Pickford,1,2,1,0.029,0.029,0,0,Long Range
+Jordan Pickford,1,3,0,0.0,,0,0,Long Range
+Jordan Pickford,1,4,0,0.0,,0,0,Long Range
+Jordan Pickford,1,5,0,0.0,,0,0,Long Range
+Jordan Pickford,2,1,0,0.0,,0,0,Edge of Box
+Jordan Pickford,2,2,0,0.0,,0,0,Edge of Box
+Jordan Pickford,2,3,0,0.0,,0,0,Edge of Box
+Jordan Pickford,2,4,0,0.0,,0,0,Edge of Box
+Jordan Pickford,2,5,0,0.0,,0,0,Edge of Box
+Jordan Pickford,3,1,0,0.0,,0,0,Penalty Area
 Jordan Pickford,3,2,1,0.015,0.015,0,0,Penalty Area
 Jordan Pickford,3,3,5,0.103,0.021,1,3,Penalty Area
+Jordan Pickford,3,4,0,0.0,,0,0,Penalty Area
+Jordan Pickford,3,5,0,0.0,,0,0,Penalty Area
+Jordan Pickford,4,1,0,0.0,,0,0,Central Box
 Jordan Pickford,4,2,4,0.093,0.023,0,2,Central Box
 Jordan Pickford,4,3,9,0.318,0.035,0,1,Central Box
 Jordan Pickford,4,4,5,0.15,0.03,1,1,Central Box
+Jordan Pickford,4,5,0,0.0,,0,0,Central Box
+Jordan Pickford,5,1,0,0.0,,0,0,Close Range
 Jordan Pickford,5,2,4,0.225,0.056,1,1,Close Range
 Jordan Pickford,5,3,16,4.104,0.257,3,5,Close Range
 Jordan Pickford,5,4,8,0.528,0.066,0,3,Close Range
+Jordan Pickford,5,5,0,0.0,,0,0,Close Range
+Jordan Pickford,6,1,0,0.0,,0,0,6-Yard Box
 Jordan Pickford,6,2,6,0.297,0.05,0,2,6-Yard Box
 Jordan Pickford,6,3,15,3.112,0.207,3,1,6-Yard Box
 Jordan Pickford,6,4,3,0.26,0.087,0,0,6-Yard Box
 Jordan Pickford,6,5,1,0.0,0.0,0,0,6-Yard Box
+Kasper Schmeichel,1,1,0,0.0,,0,0,Long Range
+Kasper Schmeichel,1,2,0,0.0,,0,0,Long Range
+Kasper Schmeichel,1,3,0,0.0,,0,0,Long Range
+Kasper Schmeichel,1,4,0,0.0,,0,0,Long Range
+Kasper Schmeichel,1,5,0,0.0,,0,0,Long Range
+Kasper Schmeichel,2,1,0,0.0,,0,0,Edge of Box
+Kasper Schmeichel,2,2,0,0.0,,0,0,Edge of Box
+Kasper Schmeichel,2,3,0,0.0,,0,0,Edge of Box
+Kasper Schmeichel,2,4,0,0.0,,0,0,Edge of Box
+Kasper Schmeichel,2,5,0,0.0,,0,0,Edge of Box
+Kasper Schmeichel,3,1,0,0.0,,0,0,Penalty Area
+Kasper Schmeichel,3,2,0,0.0,,0,0,Penalty Area
 Kasper Schmeichel,3,3,1,0.023,0.023,0,0,Penalty Area
+Kasper Schmeichel,3,4,0,0.0,,0,0,Penalty Area
+Kasper Schmeichel,3,5,0,0.0,,0,0,Penalty Area
+Kasper Schmeichel,4,1,0,0.0,,0,0,Central Box
 Kasper Schmeichel,4,2,4,0.078,0.019,1,2,Central Box
 Kasper Schmeichel,4,3,6,0.209,0.035,0,0,Central Box
 Kasper Schmeichel,4,4,4,0.088,0.022,0,1,Central Box
+Kasper Schmeichel,4,5,0,0.0,,0,0,Central Box
+Kasper Schmeichel,5,1,0,0.0,,0,0,Close Range
 Kasper Schmeichel,5,2,4,0.721,0.18,0,2,Close Range
 Kasper Schmeichel,5,3,4,1.06,0.265,1,2,Close Range
 Kasper Schmeichel,5,4,2,0.142,0.071,0,0,Close Range
+Kasper Schmeichel,5,5,0,0.0,,0,0,Close Range
+Kasper Schmeichel,6,1,0,0.0,,0,0,6-Yard Box
 Kasper Schmeichel,6,2,3,0.326,0.109,1,1,6-Yard Box
 Kasper Schmeichel,6,3,9,1.594,0.177,1,2,6-Yard Box
 Kasper Schmeichel,6,4,5,0.448,0.09,0,2,6-Yard Box
+Kasper Schmeichel,6,5,0,0.0,,0,0,6-Yard Box
+Koen Casteels,1,1,0,0.0,,0,0,Long Range
+Koen Casteels,1,2,0,0.0,,0,0,Long Range
+Koen Casteels,1,3,0,0.0,,0,0,Long Range
+Koen Casteels,1,4,0,0.0,,0,0,Long Range
+Koen Casteels,1,5,0,0.0,,0,0,Long Range
+Koen Casteels,2,1,0,0.0,,0,0,Edge of Box
+Koen Casteels,2,2,0,0.0,,0,0,Edge of Box
 Koen Casteels,2,3,1,0.006,0.006,0,0,Edge of Box
+Koen Casteels,2,4,0,0.0,,0,0,Edge of Box
+Koen Casteels,2,5,0,0.0,,0,0,Edge of Box
+Koen Casteels,3,1,0,0.0,,0,0,Penalty Area
 Koen Casteels,3,2,2,0.013,0.007,0,1,Penalty Area
 Koen Casteels,3,3,2,0.044,0.022,0,0,Penalty Area
+Koen Casteels,3,4,0,0.0,,0,0,Penalty Area
+Koen Casteels,3,5,0,0.0,,0,0,Penalty Area
+Koen Casteels,4,1,0,0.0,,0,0,Central Box
 Koen Casteels,4,2,3,0.098,0.033,0,0,Central Box
 Koen Casteels,4,3,11,0.437,0.04,0,4,Central Box
 Koen Casteels,4,4,5,0.123,0.025,0,1,Central Box
+Koen Casteels,4,5,0,0.0,,0,0,Central Box
+Koen Casteels,5,1,0,0.0,,0,0,Close Range
 Koen Casteels,5,2,4,0.272,0.068,0,1,Close Range
 Koen Casteels,5,3,8,1.422,0.178,0,4,Close Range
 Koen Casteels,5,4,6,0.34,0.057,0,1,Close Range
+Koen Casteels,5,5,0,0.0,,0,0,Close Range
+Koen Casteels,6,1,0,0.0,,0,0,6-Yard Box
 Koen Casteels,6,2,4,0.169,0.042,1,0,6-Yard Box
 Koen Casteels,6,3,8,0.91,0.114,0,1,6-Yard Box
 Koen Casteels,6,4,2,0.093,0.047,0,0,6-Yard Box
 Koen Casteels,6,5,1,0.0,0.0,0,1,6-Yard Box
+Manuel Neuer,1,1,0,0.0,,0,0,Long Range
+Manuel Neuer,1,2,0,0.0,,0,0,Long Range
+Manuel Neuer,1,3,0,0.0,,0,0,Long Range
+Manuel Neuer,1,4,0,0.0,,0,0,Long Range
+Manuel Neuer,1,5,0,0.0,,0,0,Long Range
+Manuel Neuer,2,1,0,0.0,,0,0,Edge of Box
+Manuel Neuer,2,2,0,0.0,,0,0,Edge of Box
+Manuel Neuer,2,3,0,0.0,,0,0,Edge of Box
+Manuel Neuer,2,4,0,0.0,,0,0,Edge of Box
+Manuel Neuer,2,5,0,0.0,,0,0,Edge of Box
+Manuel Neuer,3,1,0,0.0,,0,0,Penalty Area
+Manuel Neuer,3,2,0,0.0,,0,0,Penalty Area
+Manuel Neuer,3,3,0,0.0,,0,0,Penalty Area
 Manuel Neuer,3,4,1,0.027,0.027,0,1,Penalty Area
+Manuel Neuer,3,5,0,0.0,,0,0,Penalty Area
+Manuel Neuer,4,1,0,0.0,,0,0,Central Box
 Manuel Neuer,4,2,3,0.054,0.018,0,2,Central Box
 Manuel Neuer,4,3,7,0.281,0.04,0,2,Central Box
 Manuel Neuer,4,4,4,0.158,0.039,0,1,Central Box
+Manuel Neuer,4,5,0,0.0,,0,0,Central Box
+Manuel Neuer,5,1,0,0.0,,0,0,Close Range
 Manuel Neuer,5,2,6,0.209,0.035,0,1,Close Range
 Manuel Neuer,5,3,9,1.234,0.137,1,2,Close Range
 Manuel Neuer,5,4,4,0.244,0.061,0,0,Close Range
+Manuel Neuer,5,5,0,0.0,,0,0,Close Range
+Manuel Neuer,6,1,0,0.0,,0,0,6-Yard Box
 Manuel Neuer,6,2,1,0.092,0.092,0,0,6-Yard Box
 Manuel Neuer,6,3,8,1.523,0.19,2,1,6-Yard Box
 Manuel Neuer,6,4,2,0.355,0.177,0,0,6-Yard Box
+Manuel Neuer,6,5,0,0.0,,0,0,6-Yard Box
+Martin Dúbravka,1,1,0,0.0,,0,0,Long Range
+Martin Dúbravka,1,2,0,0.0,,0,0,Long Range
+Martin Dúbravka,1,3,0,0.0,,0,0,Long Range
+Martin Dúbravka,1,4,0,0.0,,0,0,Long Range
+Martin Dúbravka,1,5,0,0.0,,0,0,Long Range
+Martin Dúbravka,2,1,0,0.0,,0,0,Edge of Box
+Martin Dúbravka,2,2,0,0.0,,0,0,Edge of Box
+Martin Dúbravka,2,3,0,0.0,,0,0,Edge of Box
+Martin Dúbravka,2,4,0,0.0,,0,0,Edge of Box
+Martin Dúbravka,2,5,0,0.0,,0,0,Edge of Box
+Martin Dúbravka,3,1,0,0.0,,0,0,Penalty Area
 Martin Dúbravka,3,2,1,0.008,0.008,0,0,Penalty Area
+Martin Dúbravka,3,3,0,0.0,,0,0,Penalty Area
+Martin Dúbravka,3,4,0,0.0,,0,0,Penalty Area
+Martin Dúbravka,3,5,0,0.0,,0,0,Penalty Area
+Martin Dúbravka,4,1,0,0.0,,0,0,Central Box
 Martin Dúbravka,4,2,5,0.171,0.034,0,1,Central Box
 Martin Dúbravka,4,3,11,0.519,0.047,0,3,Central Box
 Martin Dúbravka,4,4,1,0.034,0.034,0,0,Central Box
+Martin Dúbravka,4,5,0,0.0,,0,0,Central Box
+Martin Dúbravka,5,1,0,0.0,,0,0,Close Range
 Martin Dúbravka,5,2,5,0.306,0.061,0,1,Close Range
 Martin Dúbravka,5,3,9,1.703,0.189,2,0,Close Range
 Martin Dúbravka,5,4,4,0.246,0.061,0,2,Close Range
 Martin Dúbravka,5,5,1,0.008,0.008,0,1,Close Range
+Martin Dúbravka,6,1,0,0.0,,0,0,6-Yard Box
 Martin Dúbravka,6,2,2,0.139,0.069,0,1,6-Yard Box
 Martin Dúbravka,6,3,12,2.49,0.207,2,2,6-Yard Box
 Martin Dúbravka,6,4,3,0.568,0.189,1,1,6-Yard Box
+Martin Dúbravka,6,5,0,0.0,,0,0,6-Yard Box
+Matěj Kovář,1,1,0,0.0,,0,0,Long Range
+Matěj Kovář,1,2,0,0.0,,0,0,Long Range
+Matěj Kovář,1,3,0,0.0,,0,0,Long Range
+Matěj Kovář,1,4,0,0.0,,0,0,Long Range
+Matěj Kovář,1,5,0,0.0,,0,0,Long Range
+Matěj Kovář,2,1,0,0.0,,0,0,Edge of Box
+Matěj Kovář,2,2,0,0.0,,0,0,Edge of Box
+Matěj Kovář,2,3,0,0.0,,0,0,Edge of Box
+Matěj Kovář,2,4,0,0.0,,0,0,Edge of Box
+Matěj Kovář,2,5,0,0.0,,0,0,Edge of Box
+Matěj Kovář,3,1,0,0.0,,0,0,Penalty Area
+Matěj Kovář,3,2,0,0.0,,0,0,Penalty Area
+Matěj Kovář,3,3,0,0.0,,0,0,Penalty Area
+Matěj Kovář,3,4,0,0.0,,0,0,Penalty Area
+Matěj Kovář,3,5,0,0.0,,0,0,Penalty Area
+Matěj Kovář,4,1,0,0.0,,0,0,Central Box
 Matěj Kovář,4,2,1,0.04,0.04,0,0,Central Box
 Matěj Kovář,4,3,4,0.217,0.054,0,1,Central Box
 Matěj Kovář,4,4,2,0.05,0.025,0,0,Central Box
+Matěj Kovář,4,5,0,0.0,,0,0,Central Box
+Matěj Kovář,5,1,0,0.0,,0,0,Close Range
 Matěj Kovář,5,2,1,0.071,0.071,1,0,Close Range
 Matěj Kovář,5,3,3,0.318,0.106,1,1,Close Range
+Matěj Kovář,5,4,0,0.0,,0,0,Close Range
+Matěj Kovář,5,5,0,0.0,,0,0,Close Range
+Matěj Kovář,6,1,0,0.0,,0,0,6-Yard Box
 Matěj Kovář,6,2,2,0.043,0.021,0,0,6-Yard Box
 Matěj Kovář,6,3,3,0.419,0.14,0,0,6-Yard Box
 Matěj Kovář,6,4,2,0.06,0.03,0,1,6-Yard Box
+Matěj Kovář,6,5,0,0.0,,0,0,6-Yard Box
+Mike Maignan,1,1,0,0.0,,0,0,Long Range
+Mike Maignan,1,2,0,0.0,,0,0,Long Range
+Mike Maignan,1,3,0,0.0,,0,0,Long Range
+Mike Maignan,1,4,0,0.0,,0,0,Long Range
+Mike Maignan,1,5,0,0.0,,0,0,Long Range
+Mike Maignan,2,1,0,0.0,,0,0,Edge of Box
+Mike Maignan,2,2,0,0.0,,0,0,Edge of Box
+Mike Maignan,2,3,0,0.0,,0,0,Edge of Box
+Mike Maignan,2,4,0,0.0,,0,0,Edge of Box
+Mike Maignan,2,5,0,0.0,,0,0,Edge of Box
+Mike Maignan,3,1,0,0.0,,0,0,Penalty Area
 Mike Maignan,3,2,3,0.029,0.01,0,0,Penalty Area
 Mike Maignan,3,3,1,0.017,0.017,0,0,Penalty Area
+Mike Maignan,3,4,0,0.0,,0,0,Penalty Area
+Mike Maignan,3,5,0,0.0,,0,0,Penalty Area
+Mike Maignan,4,1,0,0.0,,0,0,Central Box
 Mike Maignan,4,2,5,0.171,0.034,0,2,Central Box
 Mike Maignan,4,3,6,0.207,0.034,1,1,Central Box
 Mike Maignan,4,4,3,0.057,0.019,0,0,Central Box
+Mike Maignan,4,5,0,0.0,,0,0,Central Box
+Mike Maignan,5,1,0,0.0,,0,0,Close Range
 Mike Maignan,5,2,4,0.257,0.064,0,2,Close Range
 Mike Maignan,5,3,13,4.608,0.354,4,2,Close Range
 Mike Maignan,5,4,7,0.484,0.069,0,2,Close Range
+Mike Maignan,5,5,0,0.0,,0,0,Close Range
+Mike Maignan,6,1,0,0.0,,0,0,6-Yard Box
 Mike Maignan,6,2,1,0.083,0.083,0,0,6-Yard Box
 Mike Maignan,6,3,7,1.658,0.237,0,4,6-Yard Box
 Mike Maignan,6,4,4,0.423,0.106,1,2,6-Yard Box
+Mike Maignan,6,5,0,0.0,,0,0,6-Yard Box
+Patrick Pentz,1,1,0,0.0,,0,0,Long Range
+Patrick Pentz,1,2,0,0.0,,0,0,Long Range
+Patrick Pentz,1,3,0,0.0,,0,0,Long Range
+Patrick Pentz,1,4,0,0.0,,0,0,Long Range
+Patrick Pentz,1,5,0,0.0,,0,0,Long Range
+Patrick Pentz,2,1,0,0.0,,0,0,Edge of Box
+Patrick Pentz,2,2,0,0.0,,0,0,Edge of Box
 Patrick Pentz,2,3,1,0.02,0.02,0,0,Edge of Box
+Patrick Pentz,2,4,0,0.0,,0,0,Edge of Box
+Patrick Pentz,2,5,0,0.0,,0,0,Edge of Box
+Patrick Pentz,3,1,0,0.0,,0,0,Penalty Area
+Patrick Pentz,3,2,0,0.0,,0,0,Penalty Area
+Patrick Pentz,3,3,0,0.0,,0,0,Penalty Area
+Patrick Pentz,3,4,0,0.0,,0,0,Penalty Area
+Patrick Pentz,3,5,0,0.0,,0,0,Penalty Area
+Patrick Pentz,4,1,0,0.0,,0,0,Central Box
 Patrick Pentz,4,2,1,0.04,0.04,0,0,Central Box
 Patrick Pentz,4,3,6,0.313,0.052,0,2,Central Box
 Patrick Pentz,4,4,1,0.014,0.014,0,0,Central Box
+Patrick Pentz,4,5,0,0.0,,0,0,Central Box
+Patrick Pentz,5,1,0,0.0,,0,0,Close Range
 Patrick Pentz,5,2,7,0.488,0.07,1,1,Close Range
 Patrick Pentz,5,3,10,1.742,0.174,1,2,Close Range
 Patrick Pentz,5,4,4,0.213,0.053,0,0,Close Range
+Patrick Pentz,5,5,0,0.0,,0,0,Close Range
+Patrick Pentz,6,1,0,0.0,,0,0,6-Yard Box
 Patrick Pentz,6,2,2,0.056,0.028,0,0,6-Yard Box
 Patrick Pentz,6,3,12,2.762,0.23,3,0,6-Yard Box
 Patrick Pentz,6,4,1,0.079,0.079,0,1,6-Yard Box
+Patrick Pentz,6,5,0,0.0,,0,0,6-Yard Box
+Predrag Rajković,1,1,0,0.0,,0,0,Long Range
+Predrag Rajković,1,2,0,0.0,,0,0,Long Range
+Predrag Rajković,1,3,0,0.0,,0,0,Long Range
+Predrag Rajković,1,4,0,0.0,,0,0,Long Range
+Predrag Rajković,1,5,0,0.0,,0,0,Long Range
+Predrag Rajković,2,1,0,0.0,,0,0,Edge of Box
+Predrag Rajković,2,2,0,0.0,,0,0,Edge of Box
+Predrag Rajković,2,3,0,0.0,,0,0,Edge of Box
+Predrag Rajković,2,4,0,0.0,,0,0,Edge of Box
+Predrag Rajković,2,5,0,0.0,,0,0,Edge of Box
+Predrag Rajković,3,1,0,0.0,,0,0,Penalty Area
 Predrag Rajković,3,2,1,0.019,0.019,0,0,Penalty Area
+Predrag Rajković,3,3,0,0.0,,0,0,Penalty Area
+Predrag Rajković,3,4,0,0.0,,0,0,Penalty Area
+Predrag Rajković,3,5,0,0.0,,0,0,Penalty Area
+Predrag Rajković,4,1,0,0.0,,0,0,Central Box
 Predrag Rajković,4,2,1,0.022,0.022,0,1,Central Box
 Predrag Rajković,4,3,4,0.151,0.038,0,1,Central Box
 Predrag Rajković,4,4,6,0.145,0.024,0,2,Central Box
+Predrag Rajković,4,5,0,0.0,,0,0,Central Box
+Predrag Rajković,5,1,0,0.0,,0,0,Close Range
 Predrag Rajković,5,2,2,0.033,0.016,0,0,Close Range
 Predrag Rajković,5,3,3,0.417,0.139,0,0,Close Range
 Predrag Rajković,5,4,4,0.392,0.098,0,2,Close Range
+Predrag Rajković,5,5,0,0.0,,0,0,Close Range
+Predrag Rajković,6,1,0,0.0,,0,0,6-Yard Box
+Predrag Rajković,6,2,0,0.0,,0,0,6-Yard Box
 Predrag Rajković,6,3,6,1.483,0.247,2,1,6-Yard Box
+Predrag Rajković,6,4,0,0.0,,0,0,6-Yard Box
+Predrag Rajković,6,5,0,0.0,,0,0,6-Yard Box
+Péter Gulácsi,1,1,0,0.0,,0,0,Long Range
+Péter Gulácsi,1,2,0,0.0,,0,0,Long Range
+Péter Gulácsi,1,3,0,0.0,,0,0,Long Range
+Péter Gulácsi,1,4,0,0.0,,0,0,Long Range
+Péter Gulácsi,1,5,0,0.0,,0,0,Long Range
+Péter Gulácsi,2,1,0,0.0,,0,0,Edge of Box
+Péter Gulácsi,2,2,0,0.0,,0,0,Edge of Box
+Péter Gulácsi,2,3,0,0.0,,0,0,Edge of Box
+Péter Gulácsi,2,4,0,0.0,,0,0,Edge of Box
+Péter Gulácsi,2,5,0,0.0,,0,0,Edge of Box
+Péter Gulácsi,3,1,0,0.0,,0,0,Penalty Area
+Péter Gulácsi,3,2,0,0.0,,0,0,Penalty Area
 Péter Gulácsi,3,3,1,0.029,0.029,0,0,Penalty Area
+Péter Gulácsi,3,4,0,0.0,,0,0,Penalty Area
+Péter Gulácsi,3,5,0,0.0,,0,0,Penalty Area
+Péter Gulácsi,4,1,0,0.0,,0,0,Central Box
 Péter Gulácsi,4,2,2,0.041,0.021,0,0,Central Box
 Péter Gulácsi,4,3,6,0.223,0.037,1,2,Central Box
 Péter Gulácsi,4,4,4,0.065,0.016,0,0,Central Box
+Péter Gulácsi,4,5,0,0.0,,0,0,Central Box
+Péter Gulácsi,5,1,0,0.0,,0,0,Close Range
 Péter Gulácsi,5,2,4,0.342,0.086,0,2,Close Range
 Péter Gulácsi,5,3,5,1.579,0.316,3,1,Close Range
 Péter Gulácsi,5,4,7,0.556,0.079,0,2,Close Range
+Péter Gulácsi,5,5,0,0.0,,0,0,Close Range
+Péter Gulácsi,6,1,0,0.0,,0,0,6-Yard Box
 Péter Gulácsi,6,2,1,0.027,0.027,0,0,6-Yard Box
 Péter Gulácsi,6,3,4,0.606,0.151,1,0,6-Yard Box
 Péter Gulácsi,6,4,4,0.297,0.074,0,2,6-Yard Box
+Péter Gulácsi,6,5,0,0.0,,0,0,6-Yard Box
+Thomas Strakosha,1,1,0,0.0,,0,0,Long Range
+Thomas Strakosha,1,2,0,0.0,,0,0,Long Range
 Thomas Strakosha,1,3,1,0.006,0.006,0,0,Long Range
+Thomas Strakosha,1,4,0,0.0,,0,0,Long Range
+Thomas Strakosha,1,5,0,0.0,,0,0,Long Range
+Thomas Strakosha,2,1,0,0.0,,0,0,Edge of Box
+Thomas Strakosha,2,2,0,0.0,,0,0,Edge of Box
+Thomas Strakosha,2,3,0,0.0,,0,0,Edge of Box
+Thomas Strakosha,2,4,0,0.0,,0,0,Edge of Box
+Thomas Strakosha,2,5,0,0.0,,0,0,Edge of Box
+Thomas Strakosha,3,1,0,0.0,,0,0,Penalty Area
 Thomas Strakosha,3,2,1,0.012,0.012,0,1,Penalty Area
+Thomas Strakosha,3,3,0,0.0,,0,0,Penalty Area
+Thomas Strakosha,3,4,0,0.0,,0,0,Penalty Area
+Thomas Strakosha,3,5,0,0.0,,0,0,Penalty Area
+Thomas Strakosha,4,1,0,0.0,,0,0,Central Box
 Thomas Strakosha,4,2,3,0.064,0.021,0,3,Central Box
 Thomas Strakosha,4,3,4,0.135,0.034,0,0,Central Box
 Thomas Strakosha,4,4,4,0.076,0.019,0,0,Central Box
+Thomas Strakosha,4,5,0,0.0,,0,0,Central Box
+Thomas Strakosha,5,1,0,0.0,,0,0,Close Range
 Thomas Strakosha,5,2,4,0.176,0.044,0,1,Close Range
 Thomas Strakosha,5,3,11,1.173,0.107,2,3,Close Range
 Thomas Strakosha,5,4,6,0.317,0.053,1,1,Close Range
+Thomas Strakosha,5,5,0,0.0,,0,0,Close Range
+Thomas Strakosha,6,1,0,0.0,,0,0,6-Yard Box
 Thomas Strakosha,6,2,3,0.145,0.048,0,1,6-Yard Box
 Thomas Strakosha,6,3,14,1.835,0.131,1,0,6-Yard Box
 Thomas Strakosha,6,4,3,0.321,0.107,0,1,6-Yard Box
+Thomas Strakosha,6,5,0,0.0,,0,0,6-Yard Box
+Unai Simón Mendibil,1,1,0,0.0,,0,0,Long Range
+Unai Simón Mendibil,1,2,0,0.0,,0,0,Long Range
+Unai Simón Mendibil,1,3,0,0.0,,0,0,Long Range
+Unai Simón Mendibil,1,4,0,0.0,,0,0,Long Range
+Unai Simón Mendibil,1,5,0,0.0,,0,0,Long Range
+Unai Simón Mendibil,2,1,0,0.0,,0,0,Edge of Box
+Unai Simón Mendibil,2,2,0,0.0,,0,0,Edge of Box
+Unai Simón Mendibil,2,3,0,0.0,,0,0,Edge of Box
+Unai Simón Mendibil,2,4,0,0.0,,0,0,Edge of Box
+Unai Simón Mendibil,2,5,0,0.0,,0,0,Edge of Box
+Unai Simón Mendibil,3,1,0,0.0,,0,0,Penalty Area
 Unai Simón Mendibil,3,2,1,0.007,0.007,0,1,Penalty Area
 Unai Simón Mendibil,3,3,2,0.043,0.022,0,0,Penalty Area
+Unai Simón Mendibil,3,4,0,0.0,,0,0,Penalty Area
+Unai Simón Mendibil,3,5,0,0.0,,0,0,Penalty Area
+Unai Simón Mendibil,4,1,0,0.0,,0,0,Central Box
 Unai Simón Mendibil,4,2,3,0.098,0.033,0,0,Central Box
 Unai Simón Mendibil,4,3,9,0.454,0.05,0,1,Central Box
 Unai Simón Mendibil,4,4,2,0.058,0.029,1,0,Central Box
+Unai Simón Mendibil,4,5,0,0.0,,0,0,Central Box
+Unai Simón Mendibil,5,1,0,0.0,,0,0,Close Range
 Unai Simón Mendibil,5,2,8,0.38,0.048,0,0,Close Range
 Unai Simón Mendibil,5,3,15,1.804,0.12,0,6,Close Range
 Unai Simón Mendibil,5,4,2,0.056,0.028,0,0,Close Range
+Unai Simón Mendibil,5,5,0,0.0,,0,0,Close Range
+Unai Simón Mendibil,6,1,0,0.0,,0,0,6-Yard Box
 Unai Simón Mendibil,6,2,5,0.373,0.075,0,3,6-Yard Box
 Unai Simón Mendibil,6,3,15,2.554,0.17,2,3,6-Yard Box
 Unai Simón Mendibil,6,4,1,0.106,0.106,0,0,6-Yard Box
+Unai Simón Mendibil,6,5,0,0.0,,0,0,6-Yard Box
+Wojciech Szczęsny,1,1,0,0.0,,0,0,Long Range
+Wojciech Szczęsny,1,2,0,0.0,,0,0,Long Range
+Wojciech Szczęsny,1,3,0,0.0,,0,0,Long Range
+Wojciech Szczęsny,1,4,0,0.0,,0,0,Long Range
+Wojciech Szczęsny,1,5,0,0.0,,0,0,Long Range
+Wojciech Szczęsny,2,1,0,0.0,,0,0,Edge of Box
+Wojciech Szczęsny,2,2,0,0.0,,0,0,Edge of Box
+Wojciech Szczęsny,2,3,0,0.0,,0,0,Edge of Box
+Wojciech Szczęsny,2,4,0,0.0,,0,0,Edge of Box
+Wojciech Szczęsny,2,5,0,0.0,,0,0,Edge of Box
+Wojciech Szczęsny,3,1,0,0.0,,0,0,Penalty Area
+Wojciech Szczęsny,3,2,0,0.0,,0,0,Penalty Area
 Wojciech Szczęsny,3,3,2,0.017,0.008,0,1,Penalty Area
+Wojciech Szczęsny,3,4,0,0.0,,0,0,Penalty Area
+Wojciech Szczęsny,3,5,0,0.0,,0,0,Penalty Area
+Wojciech Szczęsny,4,1,0,0.0,,0,0,Central Box
 Wojciech Szczęsny,4,2,1,0.016,0.016,0,0,Central Box
 Wojciech Szczęsny,4,3,4,0.13,0.033,1,1,Central Box
 Wojciech Szczęsny,4,4,4,0.109,0.027,0,1,Central Box
+Wojciech Szczęsny,4,5,0,0.0,,0,0,Central Box
+Wojciech Szczęsny,5,1,0,0.0,,0,0,Close Range
 Wojciech Szczęsny,5,2,3,0.184,0.061,0,0,Close Range
 Wojciech Szczęsny,5,3,8,1.428,0.178,2,3,Close Range
 Wojciech Szczęsny,5,4,3,0.238,0.079,0,0,Close Range
+Wojciech Szczęsny,5,5,0,0.0,,0,0,Close Range
+Wojciech Szczęsny,6,1,0,0.0,,0,0,6-Yard Box
 Wojciech Szczęsny,6,2,2,0.174,0.087,0,1,6-Yard Box
 Wojciech Szczęsny,6,3,8,0.759,0.095,2,1,6-Yard Box
 Wojciech Szczęsny,6,4,1,0.082,0.082,0,0,6-Yard Box
+Wojciech Szczęsny,6,5,0,0.0,,0,0,6-Yard Box
+Yann Sommer,1,1,0,0.0,,0,0,Long Range
+Yann Sommer,1,2,0,0.0,,0,0,Long Range
+Yann Sommer,1,3,0,0.0,,0,0,Long Range
+Yann Sommer,1,4,0,0.0,,0,0,Long Range
+Yann Sommer,1,5,0,0.0,,0,0,Long Range
+Yann Sommer,2,1,0,0.0,,0,0,Edge of Box
+Yann Sommer,2,2,0,0.0,,0,0,Edge of Box
+Yann Sommer,2,3,0,0.0,,0,0,Edge of Box
+Yann Sommer,2,4,0,0.0,,0,0,Edge of Box
+Yann Sommer,2,5,0,0.0,,0,0,Edge of Box
+Yann Sommer,3,1,0,0.0,,0,0,Penalty Area
+Yann Sommer,3,2,0,0.0,,0,0,Penalty Area
 Yann Sommer,3,3,4,0.086,0.022,0,1,Penalty Area
+Yann Sommer,3,4,0,0.0,,0,0,Penalty Area
+Yann Sommer,3,5,0,0.0,,0,0,Penalty Area
+Yann Sommer,4,1,0,0.0,,0,0,Central Box
 Yann Sommer,4,2,4,0.097,0.024,0,0,Central Box
 Yann Sommer,4,3,10,0.381,0.038,0,1,Central Box
 Yann Sommer,4,4,2,0.034,0.017,0,1,Central Box
+Yann Sommer,4,5,0,0.0,,0,0,Central Box
+Yann Sommer,5,1,0,0.0,,0,0,Close Range
 Yann Sommer,5,2,2,0.072,0.036,0,0,Close Range
 Yann Sommer,5,3,20,4.933,0.247,6,1,Close Range
 Yann Sommer,5,4,5,0.252,0.05,1,1,Close Range
+Yann Sommer,5,5,0,0.0,,0,0,Close Range
+Yann Sommer,6,1,0,0.0,,0,0,6-Yard Box
 Yann Sommer,6,2,1,0.096,0.096,0,0,6-Yard Box
 Yann Sommer,6,3,14,2.448,0.175,2,3,6-Yard Box
 Yann Sommer,6,4,3,0.196,0.065,0,0,6-Yard Box
+Yann Sommer,6,5,0,0.0,,0,0,6-Yard Box
+Łukasz Skorupski,1,1,0,0.0,,0,0,Long Range
+Łukasz Skorupski,1,2,0,0.0,,0,0,Long Range
+Łukasz Skorupski,1,3,0,0.0,,0,0,Long Range
+Łukasz Skorupski,1,4,0,0.0,,0,0,Long Range
+Łukasz Skorupski,1,5,0,0.0,,0,0,Long Range
+Łukasz Skorupski,2,1,0,0.0,,0,0,Edge of Box
+Łukasz Skorupski,2,2,0,0.0,,0,0,Edge of Box
+Łukasz Skorupski,2,3,0,0.0,,0,0,Edge of Box
+Łukasz Skorupski,2,4,0,0.0,,0,0,Edge of Box
+Łukasz Skorupski,2,5,0,0.0,,0,0,Edge of Box
+Łukasz Skorupski,3,1,0,0.0,,0,0,Penalty Area
 Łukasz Skorupski,3,2,1,0.014,0.014,0,0,Penalty Area
+Łukasz Skorupski,3,3,0,0.0,,0,0,Penalty Area
+Łukasz Skorupski,3,4,0,0.0,,0,0,Penalty Area
+Łukasz Skorupski,3,5,0,0.0,,0,0,Penalty Area
+Łukasz Skorupski,4,1,0,0.0,,0,0,Central Box
 Łukasz Skorupski,4,2,2,0.053,0.027,0,0,Central Box
 Łukasz Skorupski,4,3,2,0.095,0.047,0,0,Central Box
+Łukasz Skorupski,4,4,0,0.0,,0,0,Central Box
+Łukasz Skorupski,4,5,0,0.0,,0,0,Central Box
+Łukasz Skorupski,5,1,0,0.0,,0,0,Close Range
 Łukasz Skorupski,5,2,2,0.078,0.039,0,2,Close Range
 Łukasz Skorupski,5,3,4,0.998,0.25,1,0,Close Range
 Łukasz Skorupski,5,4,1,0.007,0.007,0,0,Close Range
+Łukasz Skorupski,5,5,0,0.0,,0,0,Close Range
+Łukasz Skorupski,6,1,0,0.0,,0,0,6-Yard Box
 Łukasz Skorupski,6,2,4,0.255,0.064,0,4,6-Yard Box
 Łukasz Skorupski,6,3,2,0.147,0.073,0,0,6-Yard Box
 Łukasz Skorupski,6,4,1,0.245,0.245,0,1,6-Yard Box
+Łukasz Skorupski,6,5,0,0.0,,0,0,6-Yard Box
