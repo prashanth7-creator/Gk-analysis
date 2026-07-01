@@ -2,10 +2,13 @@
 Fetch Euro 2024 GK data from StatsBomb, clean it, and save CSVs.
 Reads: StatsBomb API → Writes: data/raw/ and data/processed/
 """
+import sys
 import pandas as pd
 import numpy as np
 from statsbombpy import sb
 from pathlib import Path
+
+sys.stdout.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data" / "raw"
@@ -167,7 +170,7 @@ def build_gk_table(shots, gk_ev, goal_kicks):
 
     gk_actions = gk_ev.groupby("player_name").agg(
         sweeper_actions=("gk_action", lambda x: (x == "Keeper Sweeper").sum()),
-        claims=("gk_action", lambda x: (x == "Claim").sum()),
+        claims=("gk_action", lambda x: (x == "Collected").sum()),
         punches=("gk_action", lambda x: (x == "Punch").sum()),
         total_gk_events=("gk_action", "count"),
     ).reset_index().rename(columns={"player_name": "gk_name"})

@@ -39,7 +39,7 @@ plt.rcParams.update({
 
 def load_data():
     gk = pd.read_csv(PROC_DIR / "goalkeepers_clean.csv")
-    shots = pd.read_csv(PROC_DIR / "shots_faced.csv")
+    shots = pd.read_csv(PROC_DIR / "shots_faced.csv", low_memory=False)
     return gk, shots
 
 

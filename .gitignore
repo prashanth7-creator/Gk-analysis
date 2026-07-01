@@ -1,7 +1,28 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python
 venv/
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
 .ipynb_checkpoints/
 *.pkl
+
+# Power BI
 *.pbix
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
 .env

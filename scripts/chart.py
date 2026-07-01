@@ -2,6 +2,8 @@
 Generate all tournament-level charts.
 Reads: data/processed/ + data/final/ → Writes: reports/charts/
 """
+import sys
+sys.stdout.reconfigure(encoding="utf-8")
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -41,10 +43,6 @@ def plot_save_pct(gk):
     colors = [GREEN if v >= med else RED for v in top["save_pct"]]
     bars = ax.barh(top["gk_name"], top["save_pct"], color=colors, edgecolor="none", height=0.65)
 
-    for bar, val in zip(bars, top["save_pct"]):
-        ax.text(val + 0.4, bar.get_y() + bar.get_height() / 2,
-                f"{val:.1f}%", va="center", ha="left", fontsize=9.5, fontweight="bold", color=TEXT)
-
     ax.axvline(med, color=YELLOW, ls="--", lw=1.5, alpha=0.8, label=f"Median: {med:.1f}%")
     ax.set_xlabel("Save Percentage (%)", fontsize=11)
     ax.set_title("Euro 2024 — Goalkeeper Save Percentage", fontsize=14, fontweight="bold", pad=14)
@@ -68,11 +66,6 @@ def plot_xg_scatter(gk):
 
     lim = max(gk["xg_faced"].max(), gk["goals_conceded"].max()) + 0.5
     ax.plot([0, lim], [0, lim], color="#8b949e", ls="--", lw=1.3, alpha=0.6, label="Expected (xG = GA)")
-
-    for _, row in gk.iterrows():
-        ax.annotate(row["gk_name"].split()[-1],
-                    (row["xg_faced"], row["goals_conceded"]),
-                    xytext=(5, 4), textcoords="offset points", fontsize=7.5, color=TEXT, alpha=0.88)
 
     cbar = plt.colorbar(sc, ax=ax, pad=0.01)
     cbar.set_label("Goals Prevented (xG - GA)", color=TEXT, fontsize=10)
@@ -128,16 +121,13 @@ def plot_ranking(gk_rank):
     fig, ax = plt.subplots(figsize=(12, 7))
     bars = ax.barh(top["gk_name"][::-1], top["composite_score"][::-1], color=pal, edgecolor="none", height=0.65)
 
-    for bar, row in zip(bars, top.iloc[::-1].itertuples()):
-        ax.text(bar.get_width() + 0.003, bar.get_y() + bar.get_height() / 2,
-                f"{row.composite_score:.3f}  |  Prev {row.goals_prevented:+.1f}  |  Sv% {row.save_pct:.0f}%",
-                va="center", ha="left", fontsize=8.5, color=TEXT)
-
     ax.set_xlabel("Composite Performance Score", fontsize=11)
     ax.set_title(f"Euro 2024 — Goalkeeper Rankings (Top {top_n})\n"
                  "Score = Goals Prev. 35% · Save% 30% · Sweeper 15% · Claims 10% · GA 10%",
                  fontsize=13, fontweight="bold", pad=14)
-    ax.set_xlim(0, top["composite_score"].max() * 1.4)
+    min_score = top["composite_score"].min()
+    ax.set_xlim(min(min_score - 0.15, -0.05), top["composite_score"].max() * 1.4)
+    ax.axvline(0, color="#cccccc", lw=0.8, ls="--", alpha=0.7)
     ax.spines[["top", "right"]].set_visible(False)
     plt.tight_layout()
     plt.savefig(CHARTS_DIR / "rank.png", dpi=150, bbox_inches="tight")
@@ -199,31 +189,45 @@ def plot_radar(gk_rank):
 
 
 def plot_distribution(gk):
-    gk_top = gk.nlargest(min(12, len(gk)), "goal_kicks_per_match")
+    gk_sorted = gk.sort_values("goal_kicks_per_match", ascending=True)
 
-    fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+    fig, axes = plt.subplots(1, 2, figsize=(16, 8))
 
-    axes[0].barh(gk_top["gk_name"][::-1], gk_top["goal_kicks_per_match"][::-1],
-                 color=BLUE, edgecolor="none", height=0.65)
+    # ── Left: Goal Kicks per Match bar chart ────────────────────────────────
+    med_gk = gk_sorted["goal_kicks_per_match"].median()
+    colors = [GREEN if v >= med_gk else BLUE for v in gk_sorted["goal_kicks_per_match"]]
+    bars = axes[0].barh(gk_sorted["gk_name"], gk_sorted["goal_kicks_per_match"],
+                        color=colors, edgecolor="none", height=0.65)
+    for bar, val in zip(bars, gk_sorted["goal_kicks_per_match"]):
+        axes[0].text(val + 0.1, bar.get_y() + bar.get_height() / 2,
+                     f"{val:.1f}", va="center", ha="left", fontsize=9, fontweight="bold", color=TEXT)
+    axes[0].axvline(med_gk, color=YELLOW, ls="--", lw=1.5, alpha=0.8, label=f"Median: {med_gk:.1f}")
     axes[0].set_xlabel("Goal Kicks per Match", fontsize=11)
-    axes[0].set_title("Goal Kicks per Match", fontsize=12, fontweight="bold")
+    axes[0].set_title("Goal Kicks per Match", fontsize=13, fontweight="bold", pad=12)
+    axes[0].legend(framealpha=0.25, fontsize=9)
+    axes[0].set_xlim(0, gk_sorted["goal_kicks_per_match"].max() * 1.25)
     axes[0].spines[["top", "right"]].set_visible(False)
+    axes[0].grid(axis="x", alpha=0.3)
 
-    sc = axes[1].scatter(gk["avg_gk_length"], gk["gp_per_match"],
-                         c=gk["save_pct"], cmap="YlGn", s=80, edgecolors="#333333", lw=0.5)
-    for _, row in gk.iterrows():
-        axes[1].annotate(row["gk_name"].split()[-1],
-                         (row["avg_gk_length"], row["gp_per_match"]),
-                         xytext=(3, 3), textcoords="offset points", fontsize=7, color=TEXT, alpha=0.8)
-    cbar = plt.colorbar(sc, ax=axes[1])
-    cbar.set_label("Save %", color=TEXT)
+    # ── Right: Avg GK Length vs Goals Prevented/match scatter ───────────────
+    sc = axes[1].scatter(
+        gk["avg_gk_length"], gk["gp_per_match"],
+        c=gk["save_pct"], cmap="YlGn",
+        s=gk["matches_played"] * 40 + 80,
+        edgecolors="#333333", lw=0.8, alpha=0.9, zorder=5,
+    )
+    axes[1].axhline(0, color="#cccccc", lw=0.8, ls="--", alpha=0.7)
+    cbar = plt.colorbar(sc, ax=axes[1], pad=0.02)
+    cbar.set_label("Save %", color=TEXT, fontsize=10)
     plt.setp(cbar.ax.yaxis.get_ticklabels(), color=TEXT)
     axes[1].set_xlabel("Avg Goal Kick Length (m)", fontsize=11)
     axes[1].set_ylabel("Goals Prevented per Match", fontsize=11)
-    axes[1].set_title("GK Length vs Goals Prevented/match", fontsize=12, fontweight="bold")
+    axes[1].set_title("Kick Length vs Goals Prevented/Match\n(bubble size = matches played · colour = save %)",
+                      fontsize=12, fontweight="bold", pad=12)
     axes[1].spines[["top", "right"]].set_visible(False)
+    axes[1].grid(alpha=0.25)
 
-    plt.suptitle("Euro 2024 — Goal Kick Distribution Analysis", fontsize=14, fontweight="bold", y=1.02)
+    plt.suptitle("Euro 2024 — Goal Kick Distribution Analysis", fontsize=15, fontweight="bold", y=1.01)
     plt.tight_layout()
     plt.savefig(CHARTS_DIR / "distribution.png", dpi=150, bbox_inches="tight")
     plt.close()

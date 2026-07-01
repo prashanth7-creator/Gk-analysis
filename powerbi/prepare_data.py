@@ -1,18 +1,5 @@
-"""
-Prepare Power BI-ready data files from processed CSVs.
-Reads: data/processed/ + data/final/ → Writes: powerbi/data/
+#Prepare Power BI-ready data files from processed CSVs.
 
-Tables generated:
-  1. gk_performance.csv      — Main GK stats & rankings
-  2. zscore_metrics.csv       — Unpivoted z-scores (for matrix heatmap)
-  3. shots_detail.csv         — Shot-level data (for shot maps)
-  4. scoring_weights.csv      — Composite score weights
-  5. gk_passes_detail.csv     — Every GK pass with long/short flag + coords
-  6. gk_actions_detail.csv    — Every GK action (save/punch/claim/sweeper) with coords
-  7. long_short_kings.csv     — Per-GK long & short ball summary
-  8. gk_pass_heatmap.csv      — Binned pass destination zones per GK
-  9. gk_shot_heatmap.csv      — Binned shot origin zones per GK
-"""
 import pandas as pd
 import numpy as np
 from pathlib import Path
@@ -370,8 +357,8 @@ def build_pass_heatmap(gk_passes_df):
 # ─────────────────────────────────────────────────────────────
 def build_shot_heatmap():
     shots = pd.read_csv(PROC_DIR / "shots_faced.csv", low_memory=False)
-    shots["shot_x"] = pd.to_numeric(shots.get("shot_x"), errors="coerce")
-    shots["shot_y"] = pd.to_numeric(shots.get("shot_y"), errors="coerce")
+    shots["shot_x"] = pd.to_numeric(shots["shot_x"], errors="coerce")
+    shots["shot_y"] = pd.to_numeric(shots["shot_y"], errors="coerce")
     shots = shots.dropna(subset=["shot_x", "shot_y", "gk_name"]).copy()
 
     shots["zone_x"] = pd.cut(shots["shot_x"], bins=np.linspace(60, 120, 7), labels=range(1, 7), include_lowest=True)
